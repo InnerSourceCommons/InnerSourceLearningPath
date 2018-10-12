@@ -84,7 +84,8 @@ apt and important.
 ## Keeping Things Running Smoothly
 
 - reviewing contributions
-- communicating guidelines
+- communicating guidelines for contributions and for communicating in pull
+  requests
 - documenting yet undocumented (discovered) requirements 
 - define the right process for the community
 - adapt existing processes, if necessary
@@ -163,7 +164,13 @@ apt and important.
   initiative focuses more on permissionless innovation or on shared development
   of reusable components.
 - In any case, there can be times when the company interests are at odds with
-  those of the community and this is where the TC plays a vital role.
+  those of the community. And while companies are more concerned with the
+  bottom line and thus the products produced by an InnerSource community,
+  InnerSource communities, on the other hand understand that a healthy
+  community is a precondition for healthy code. This is why the Apache Software
+  Foundation, after which many InnerSource initiative were modeled, has the
+  motto "Community over Code".
+- It is this potential area of conflict, where the TC plays a vital role.
 - One example I remember is when I developed a system for remotely controlling
   HVAC systems in my InnerSource community. We successfully met the deadline to
   present the system on a trade fair, where it was an overall success. But we
@@ -212,7 +219,14 @@ apt and important.
 - emotional maturity to deal with stressful social situations
 - sufficient standing in the organization to effectively advocate the
   communities and the products needs
+- willingness to spend less time on coding and instead also take on potentially
+  time consuming community oriented tasks.
 
 ## Conclusion
 
+## This to mention as well
 
+- there can be multiple TCs per community, depending on the level of risk
+  and the size of the community.
+- PayPals idea to rotate TCs (TC on duty)
+- Recognize TC role by HR
