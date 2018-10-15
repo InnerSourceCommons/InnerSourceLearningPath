@@ -7,20 +7,22 @@
 ## Introducing The Trusted Committer Role
 
 The Trusted Committer (TC) role is one of the key roles in an InnerSource
-community. It is both a challenging and a rewarding role to fulfill and it is
-instrumental for the success of any InnerSource community. 
+community. It is both a challenging and a rewarding role to fulfill, it goes
+far beyond being an opinionated gatekeeper. It iss instrumental for the 
+success of any InnerSource community. 
 
 Generally speaking, the TC role is defined by its responsibilities, rather than
 by its privileges. On a very high level, a TC represents the interests of both
-their InnerSource community and the products the community is building. So as
-a TC, you'll have both tech oriented and community oriented responsibilities
-and we'll explore both of these dimensions in the following sections.
+their InnerSource community and the products the community is building. She is
+concerned with the health of the community and the product.  So as a TC, you'll
+have both tech oriented and community oriented responsibilities and we'll
+explore both of these dimensions in the following sections. 
 
 Before we go into the details of what a TC actually does, let's spend some time
 contrasting the TC role to other roles in IS and why we think the name is both
 apt and important.
 
-- Contributor
+- Contributor (very briefly)
     - makes contributions
     - sometimes part of the community
     - sometimes send by another part of the organization to develop a feature
@@ -34,11 +36,14 @@ apt and important.
     - In this analogy, he is both resonsible for building the house and setting
       the house rules to make sure his guests are comfortable.
     - In comparison to the Contributor, a TC has rights to push code closer to
-      production
+      production and is generally allowed to perform tasks that have a higher
+      level of risk associated with them.
 - Product Owner
     - Responsible for defining and prioritizing requirements and stories for
       the community to implement.
-    - Also interacts directly and frequently with the trusted committers
+    - Also interacts directly and frequently with the trusted committers. E. g.
+      a TC will want to collaborate with the PO to make sure donated features
+      actually belong into the product.
     - Distinction between the guest and host PO - have to negotiate
       requirements, if necessary.
     - Depending on the type of InnerSource community, there might not be a PO
@@ -47,6 +52,8 @@ apt and important.
       of an InnerSource communities products becomes relevant.
 
     ? In the Guest/Host analogy, what would be the analogon of a PO?
+
+- Link to other learning path video which explains these roles in more detail
 
 ## Why role names matter
 
@@ -60,8 +67,10 @@ apt and important.
 - Similar to how naming is important in writing software, it is, too, for the
   roles in an InnerSource project so that everyone has the same notion of 
   the role.
-- The "Trusted" in TC conveys that she is trusted by both her community and
-  empowered by her management to do the job.
+- The "Trusted" in TC conveys that she is trusted (and thus empowered) by both
+  her management and her community to do the job. Finally, by promoting 
+  openness and transparency, the TC builds trust in the process and the product
+  being built.
 
 ## Ensuring Product Quality
 
@@ -69,6 +78,10 @@ apt and important.
 - set contribution guidelines 
 - enact/communicate these guidelines 
 - own tech related decisions 
+    - doesn't mean the TC does all the work or mandates what others are doing
+    - TC just needs to be sure the work is done in the end
+    - even if decisions are not made by her, needs to advocate them outside
+      the community.
 - act as stakeholder of the SW/Architecture towards rest of org
 - set an example
 - make sure community has what it needs to produce quality sw
@@ -80,10 +93,15 @@ apt and important.
 - ensure that decisions regarding quality are followed through
 - review and accept contributions
 - document yet undocumented requirements
+    - When an undocumented requirement, process or limitation is discovered, TC
+      is responsible for making sure it is documented accurately and in a way
+      that it is understandable for contributors and POs alike.
 
 ## Keeping Things Running Smoothly
 
 - reviewing contributions
+    - make sure the contribution process uncovers problems, rather than be the
+      cause of them.
 - communicating guidelines for contributions and for communicating in pull
   requests
 - documenting yet undocumented (discovered) requirements 
@@ -93,6 +111,9 @@ apt and important.
 
 ## Keeping The Community Healthy
 
+- Health also means that there is a critical mass of contributors.
+- Virtuous cycle: Good mentoring in PRs -> higher level of trust from
+  contributors -> more people being willing to contribute -> more Pull Requests
 - be aware of the communities needs
 - advocate the communities interests
 - defining/enacting a code of conduct
@@ -104,7 +125,7 @@ apt and important.
       responsibility to either try and change, contain or remove those people
     - Communicate the purpose of the community and try to make everyone on
       board with the purpose.
-    - Laude excellent or first contributions
+    - Laude excellent and first contributions
     - Make sure community members have a chance to level up by suggesting 
       challenging tasks.
     - Commmunicate technical and community risks to responsible managers
@@ -140,6 +161,7 @@ apt and important.
         - What are the process steps that govern contributions?
         - Is there a code of conduct or other guidelines to how the community
           operates?
+    - Make it easy to run and test the SW locally
 - As a TC, I have to make sure there is someone in the community who is
   available to answer questions of users and potential contributors.
 - Actively publishing a list of "Newbie Tasks" to actively solicit contributions,
@@ -163,13 +185,17 @@ apt and important.
 - There are varying degrees of freedom, depending on whether your InnerSource
   initiative focuses more on permissionless innovation or on shared development
   of reusable components.
-- In any case, there can be times when the company interests are at odds with
-  those of the community. And while companies are more concerned with the
+- In any case, there can be times when a business units interests are at odds
+  with those of the community. And while companies are more concerned with the
   bottom line and thus the products produced by an InnerSource community,
   InnerSource communities, on the other hand understand that a healthy
   community is a precondition for healthy code. This is why the Apache Software
   Foundation, after which many InnerSource initiative were modeled, has the
-  motto "Community over Code".
+  motto "Community over Code". Vice versa, the effectiveness of the TC is 
+  strongly related to code health, as well. With the latter absent, the TC will
+  have to spend all their time validating and documenting workarounds for bugs
+  or a fragile architecture rather and will not have enough time to spend on
+  onboarding and mentoring contributors.
 - It is this potential area of conflict, where the TC plays a vital role.
 - One example I remember is when I developed a system for remotely controlling
   HVAC systems in my InnerSource community. We successfully met the deadline to
@@ -219,8 +245,9 @@ apt and important.
 - emotional maturity to deal with stressful social situations
 - sufficient standing in the organization to effectively advocate the
   communities and the products needs
-- willingness to spend less time on coding and instead also take on potentially
-  time consuming community oriented tasks.
+- willingness to use their skills and spend intentional time to uplevel
+  contributors so that they can make more contributions that they could have on
+  their own (force multiplier)
 
 ## Conclusion
 
