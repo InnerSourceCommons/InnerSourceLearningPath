@@ -25,7 +25,7 @@ apt and important.
 - Contributor (very briefly)
     - makes contributions
     - sometimes part of the community
-    - sometimes send by another part of the organization to develop a feature
+    - sometimes sent by another part of the organization to develop a feature
       for it. This is why contributors are sometimes referred to as Guests. 
     - responsible for "fitting in"/conforming to the host team and it's 
       expectations and processes
