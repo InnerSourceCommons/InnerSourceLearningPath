@@ -7,14 +7,14 @@
 ## Introducing The Trusted Committer Role
 
 The Trusted Committer (TC) role is one of the key roles in an InnerSource
-community. It is both a challenging and a rewarding role to fulfill, it goes
-far beyond being an opinionated gatekeeper. It iss instrumental for the 
+community. It is both a challenging and a rewarding role to fulfill. It goes
+far beyond being an opinionated gatekeeper and it is instrumental for the 
 success of any InnerSource community. 
 
 Generally speaking, the TC role is defined by its responsibilities, rather than
 by its privileges. On a very high level, a TC represents the interests of both
 their InnerSource community and the products the community is building. She is
-concerned with the health of the community and the product.  So as a TC, you'll
+concerned with the health of the community and the product. So as a TC, you'll
 have both tech oriented and community oriented responsibilities and we'll
 explore both of these dimensions in the following sections. 
 
@@ -66,83 +66,89 @@ apt and important.
   community oriented responsibilities goes beyond that.
 - Similar to how naming is important in writing software, it is, too, for the
   roles in an InnerSource project so that everyone has the same notion of 
-  the role.
+  the role and is aware what can be expected from s. o. with that role.
 - The "Trusted" in TC conveys that she is trusted (and thus empowered) by both
-  her management and her community to do the job. Finally, by promoting 
-  openness and transparency, the TC builds trust in the process and the product
-  being built.
+  her management and her community to do the job. By fostering openness and
+  transparency, the TC builds trust in the process and the product being built.
 
 ## Ensuring Product Quality
 
-- define quality goals 
-- set contribution guidelines 
-- enact/communicate these guidelines 
+- define quality goals
+    - many facets: conceptual integrity, cleanliness of the code, test coverage
+      and other goals
+- ensure that decisions regarding quality are followed through
 - own tech related decisions 
     - doesn't mean the TC does all the work or mandates what others are doing
     - TC just needs to be sure the work is done in the end
-    - even if decisions are not made by her, needs to advocate them outside
-      the community.
+    - even if decisions are not made by her, needs to advocate and, if
+      necessary defend them them outside the community.
 - act as stakeholder of the SW/Architecture towards rest of org
 - set an example
 - make sure community has what it needs to produce quality sw
     - communicated quality goals/standards
-    - empowerment by management
-    - right tools
+    - empowerment by management (e. g. for necessary refactorings)
+    - the right tools
     - prioritize quality and release dates
 - ensure quality at strategic level (longevity of the SW)
-- ensure that decisions regarding quality are followed through
 - review and accept contributions
-- document yet undocumented requirements
-    - When an undocumented requirement, process or limitation is discovered, TC
-      is responsible for making sure it is documented accurately and in a way
-      that it is understandable for contributors and POs alike.
 
 ## Keeping Things Running Smoothly
 
+- set, enact and communicate contribution guidelines 
+- set guidelines for how to communicate in PRs
 - reviewing contributions
     - make sure the contribution process uncovers problems, rather than be the
       cause of them.
-- communicating guidelines for contributions and for communicating in pull
-  requests
-- documenting yet undocumented (discovered) requirements 
+- documenting discovered and yet undocumented requirements 
+    - When an undocumented requirement, process or limitation is discovered, TC
+      is responsible for making sure it is documented accurately and in a way
+      that it is understandable for contributors and POs alike.
 - define the right process for the community
 - adapt existing processes, if necessary
 - gather support for necessary change in how the community operates
 
 ## Keeping The Community Healthy
 
-- Health also means that there is a critical mass of contributors.
-- Virtuous cycle: Good mentoring in PRs -> higher level of trust from
-  contributors -> more people being willing to contribute -> more Pull Requests
-- be aware of the communities needs
-- advocate the communities interests
 - defining/enacting a code of conduct
+- set an example for community members in terms of conduct and especially
+  communication
+- Health also means that there is a critical mass of contributors.
+    - Virtuous cycle: Good mentoring in PRs -> higher level of trust from
+      contributors -> more people being willing to contribute -> more Pull
+      Requests
+- be aware of the communities needs
+    - keep in touch with the community
+- advocate the communities interests
 - Examples:
     - I always prioritized onboarding and mentoring over reaching communicated
       release dates, unless there was a really good reason to meet the date.
-    - It is important to both give and take in the community
-    - If there are people toxic to the communities health, it is the TCs
-      responsibility to either try and change, contain or remove those people
-    - Communicate the purpose of the community and try to make everyone on
-      board with the purpose.
     - Laude excellent and first contributions
     - Make sure community members have a chance to level up by suggesting 
-      challenging tasks.
+      challenging tasks. That includes recognizing people who have the 
+      potential to grow.
+    - If there are people toxic to the communities health, it is the TCs
+      responsibility to either try and change, contain or remove those people
+    - Communicate the purpose of the community and try to get everyone on
+      board with it 
     - Commmunicate technical and community risks to responsible managers
     - Help potential community members with them beeing empowered to make
       contributions by talking to their managers
     - Ensure there are users and potential contributors by promoting and
       advertising the community and its goals
-    - Make sure people get a together regularly
+    - Make sure there are opportunities for people to get a together regularly
+    - It is important to both give and take in the community
       
 ## Reducing Barriers To Entry
 
 - Soliciting contributions is one of the things that is more challenging with
-  InnerSource compared to Open Source. There are two main reasons for that 
+  InnerSource compared to Open Source. There are a number of reasons for that 
     - The sheer number of potential contributors is lower in InnerSource
     - Contributors will want to contribute during their work time. That means
       they are more time constrained compared to doing Open Source after office
-      hours.
+      hours. Time spent on InnerSource might be time lost on reaching their
+      original goals.
+    - Work in InnerSource might not necessarily be part of the official 
+      performance goals of contributors.
 - It is therefore super important to make the process for making contributions
   and for onboarding contributors as frictionless as possible to avoid wasting
   a contributors time. 
@@ -155,7 +161,8 @@ apt and important.
         - Who do I contact in case of questions and how to reach her?
         - How do I submit a bug report or feature request?
         - What is the definition of done for a contribution; code, tests, docs?
-        - What are conventions for code style, branching or committ messages, e. g.?
+        - What are conventions for code style, branching or committ messages,
+          e. g.?
         - What is expected of me in terms of supporting contributed code after
           the contribution was accepted?
         - What are the process steps that govern contributions?
@@ -164,16 +171,20 @@ apt and important.
     - Make it easy to run and test the SW locally
 - As a TC, I have to make sure there is someone in the community who is
   available to answer questions of users and potential contributors.
-- Actively publishing a list of "Newbie Tasks" to actively solicit contributions,
-  rather than waiting for them to happen.
 - Also make it clear that non-code contributions are welcome, such as writing
   documentation, organizing events or creating artwork.
+- In addition to these "passive" means to facilitate contributions, a TC also
+  actively helps with that
+    - Publishing a list of "Newbie Tasks" and actively solicit contributions
+      rather than waiting for them to happen.
+    - TCs are expected to actively help new contributors to finish their PRs
+      if they would not be able to do so, otherwise.
 - Gig-Marketplace as a good example of how to do this.
 
 ## Uplevelling Community Members
 
 - identifying talent
-- encouraging growth
+- encouraging growth, e. g. by assigning challenging tasks to contributors
 - mentoring community members (e. g. during PRs)
 
 ## Advocating The Communities Needs
@@ -190,9 +201,9 @@ apt and important.
   bottom line and thus the products produced by an InnerSource community,
   InnerSource communities, on the other hand understand that a healthy
   community is a precondition for healthy code. This is why the Apache Software
-  Foundation, after which many InnerSource initiative were modeled, has the
+  Foundation, after which many InnerSource initiatives were modeled, has the
   motto "Community over Code". Vice versa, the effectiveness of the TC is 
-  strongly related to code health, as well. With the latter absent, the TC will
+  strongly related to code health, as well. Absent the latter, the TC will
   have to spend all their time validating and documenting workarounds for bugs
   or a fragile architecture rather and will not have enough time to spend on
   onboarding and mentoring contributors.
@@ -201,7 +212,7 @@ apt and important.
   HVAC systems in my InnerSource community. We successfully met the deadline to
   present the system on a trade fair, where it was an overall success. But we
   knew that we still had to iron out a couple of wrinkles, before we could
-  launch the system into the market.  When the planned time for market
+  launch the system into the market. When the planned time for market
   introduction came closer and we were reasonably sure that we would not be
   ready in time, it was my responsibility as a TC to engage with management,
   explain the risks of launching before we were ready and to convince them to
@@ -210,12 +221,13 @@ apt and important.
   backlash we would have gotten, if our system would have performed
   suboptimally in the market. Because a successful market introduction really
   was the goal we were all striving towards and taking that away would have
-  been a huge blow to the communities motivation.
+  been a huge blow to the communities motivation. So as a TC, I had to advocate
+  the communities need for a successful market introduction to management.
 - Another common example is when contributors are not given time or permission
-  to make a contribution, especially when the community is working on a 
-  product which is not part of the contributors departments domain. In this case,
-  the TC should engage in discussion with the contributors manager and lobby for
-  an alternative decision.
+  to make a contribution, especially when the community is working on a product
+  which is not part of the contributors departments domain. In this case, the
+  TC should engage in discussion with the contributors manager and lobby for an
+  alternative decision.
 - Other examples 
     - Advocating the need for required hardware/software 
     - Making sure the community gets public credit for their work
@@ -256,4 +268,11 @@ apt and important.
 - there can be multiple TCs per community, depending on the level of risk
   and the size of the community.
 - PayPals idea to rotate TCs (TC on duty)
-- Recognize TC role by HR
+- Recognize TC role by HR (similar to how architects and agile roles are 
+  officially recognized)
+- PR is probably the most powerful tool the TC has to fulfill his role. It is
+  probably the channel he will spend most time communicating in. It is 
+  instrumental in communicating and reaching software quality, it presents an
+  opportunity to set an example, both in terms of software quality and how to
+  conduct oneself in communications. And finally, a PR is where mentoring and
+  upleveling contributors happens, in my experience.
