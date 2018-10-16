@@ -120,6 +120,7 @@ apt and important.
     - keep in touch with the community
 - advocate the communities interests
 - Examples:
+    - Treat any contribution as a gift or as a donation. 
     - I always prioritized onboarding and mentoring over reaching communicated
       release dates, unless there was a really good reason to meet the date.
     - Laude excellent and first contributions
