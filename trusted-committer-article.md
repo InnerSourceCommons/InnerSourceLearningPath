@@ -7,16 +7,18 @@
 ## Introducing The Trusted Committer Role
 
 The Trusted Committer (TC) role is one of the key roles in an InnerSource
-community. It is both a challenging and a rewarding role to fulfill. It goes
-far beyond being an opinionated gatekeeper and it is instrumental for the 
-success of any InnerSource community. 
+community. Think of TCs as a person in a community that you trust with
+important technical decisions that will also mentor contributors to get their
+contribution over the finish line. It is both a demanding and a rewarding
+role to fulfill. It goes far beyond being an opinionated gatekeeper and it is
+instrumental for the success of any InnerSource community. 
 
 Generally speaking, the TC role is defined by its responsibilities, rather than
-by its privileges. On a very high level, a TC represents the interests of both
-their InnerSource community and the products the community is building. She is
-concerned with the health of the community and the product. So as a TC, you'll
-have both tech oriented and community oriented responsibilities and we'll
-explore both of these dimensions in the following sections. 
+by its privileges. On a very high level, TCs represents the interests of both
+their InnerSource community and the products the community is building. They
+are concerned with the health of the community and the product. So as a TC,
+you'll have both tech oriented and community oriented responsibilities and
+we'll explore both of these dimensions in the following sections. 
 
 Before we go into the details of what a TC actually does, let's spend some time
 contrasting the TC role to other roles in IS and why we think the name is both
@@ -26,24 +28,27 @@ apt and important.
     - makes contributions
     - sometimes part of the community
     - sometimes sent by another part of the organization to develop a feature
-      for it. This is why contributors are sometimes referred to as Guests. 
+      for it. This is why contributors are sometimes referred to as being part
+      of the _Guest Team_. 
     - responsible for "fitting in"/conforming to the host team and it's 
       expectations and processes
     - similar to an Apache Developer or committer
 
 - Trusted Committer
-    - Sometimes referred to as a host.
-    - In this analogy, he is both resonsible for building the house and setting
-      the house rules to make sure his guests are comfortable.
-    - In comparison to the Contributor, a TC has rights to push code closer to
-      production and is generally allowed to perform tasks that have a higher
-      level of risk associated with them.
+    - In the analogy above, a member of the _Host Team_.
+    - In this analogy, they are both responsible for building the house and
+      setting the house rules to make sure their guests are comfortable.
+    - In comparison to the Contributor, a TC has earned the responsibility to
+      push code closer to production and is generally allowed to perform tasks
+      that have a higher level of risk associated with them.
 - Product Owner
     - Responsible for defining and prioritizing requirements and stories for
       the community to implement.
     - Also interacts directly and frequently with the trusted committers. E. g.
       a TC will want to collaborate with the PO to make sure donated features
-      actually belong into the product.
+      actually belong into the product. 
+    - Generally speaking, the TCs role is not to accept all contributions but
+      only those which meet the criteria in terms of scope and quality.
     - Distinction between the guest and host PO - have to negotiate
       requirements, if necessary.
     - Depending on the type of InnerSource community, there might not be a PO
@@ -67,7 +72,7 @@ apt and important.
 - Similar to how naming is important in writing software, it is, too, for the
   roles in an InnerSource project so that everyone has the same notion of 
   the role and is aware what can be expected from s. o. with that role.
-- The "Trusted" in TC conveys that she is trusted (and thus empowered) by both
+- The "Trusted" in TC conveys that they are trusted (and thus empowered) by both
   her management and her community to do the job. By fostering openness and
   transparency, the TC builds trust in the process and the product being built.
 
@@ -109,6 +114,8 @@ apt and important.
 
 ## Keeping The Community Healthy
 
+- TCs must strike a healthy balance between effort spent on ensuring product
+  quality and growing a healthy community. 
 - defining/enacting a code of conduct
 - set an example for community members in terms of conduct and especially
   communication
@@ -182,22 +189,29 @@ apt and important.
       if they would not be able to do so, otherwise.
 - Gig-Marketplace as a good example of how to do this.
 
-## Uplevelling Community Members
+## Uplevelling The Community 
 
-- identifying talent
-- encouraging growth, e. g. by assigning challenging tasks to contributors
-- mentoring community members (e. g. during PRs)
+- There is a continuum of participation: Unaware, Newcomer, Consumer, 
+  Contributor and Maintainer.
+- TCs are responsible for moving individuals along this continuum and to 
+  uplevel their ability to make contributions.
+- This includes
+    - marketing the community, its purpose and its goals
+    - identify and communicate opportunities for making contributions
+    - explore how to align the contributors and the communities goals and
+      interests
+        - example from own experience: what always worked best was if
+          contributors were able to work on something in the community that
+          contributed to their day job.
+    - identifying talent and encouraging growth, e. g. by assigning challenging
+      tasks to contributors
+    - mentoring and coaching community members (e. g. during PRs)
 
 ## Advocating The Communities Needs
 
-- One major difference of InnerSource compared to Open Source software
-  development is the degree of freedom communities have. 
-- Naturally, an InnerSource community is more constrained because it has to fit
-  in the corporate context.
-- There are varying degrees of freedom, depending on whether your InnerSource
-  initiative focuses more on permissionless innovation or on shared development
-  of reusable components.
-- In any case, there can be times when a business units interests are at odds
+- InnerSource communities exist in a corporate context and are thus more 
+  constrained than Open Source Communities.
+- There can be times when a business units interests are at odds
   with those of the community. And while companies are more concerned with the
   bottom line and thus the products produced by an InnerSource community,
   InnerSource communities, on the other hand understand that a healthy
@@ -229,6 +243,8 @@ apt and important.
   which is not part of the contributors departments domain. In this case, the
   TC should engage in discussion with the contributors manager and lobby for an
   alternative decision.
+- In summary, as a TC, you need to be strategic and work within the degrees of
+  freedom afforded by your company when advocating for the communities needs.
 - Other examples 
     - Advocating the need for required hardware/software 
     - Making sure the community gets public credit for their work
@@ -253,14 +269,15 @@ apt and important.
 
 ## Is the Trusted Committer a role for you?
 
-- demonstrated technical competence to maintain rank in the meritocracy
+- needs to be earned
+- demonstrated deep technical competence to maintain rank in the meritocracy
 - ability to communicate with peers, with product owners and with management
 - emotional maturity to deal with stressful social situations
 - sufficient standing in the organization to effectively advocate the
   communities and the products needs
-- willingness to use their skills and spend intentional time to uplevel
-  contributors so that they can make more contributions that they could have on
-  their own (force multiplier)
+- willingness and patientce to use their skills and spend intentional time to
+  uplevel contributors so that they can make more contributions that they could
+  have on their own (force multiplier)
 
 ## Conclusion
 
