@@ -11,9 +11,11 @@
 ## Introducing The Trusted Committer Role
 
 D: The Trusted Committer (TC) role is one of the key roles in an InnerSource
-community. It is both a challenging and a rewarding role to fulfill. It goes
-far beyond being an opinionated gatekeeper and it is instrumental for the 
-success of any InnerSource community.  
+community. Think of TCs as a person in a community that you trust with
+important technical decisions that will also mentor contributors to get their
+contribution over the finish line. It is both a challenging and a rewarding
+role to fulfill. It goes far beyond being an opinionated gatekeeper and it is
+instrumental for the success of any InnerSource community.  
 
 G: Generally speaking, the TC role is defined by its responsibilities, rather
 than by its privileges. On a very high level, a TC represents the interests of

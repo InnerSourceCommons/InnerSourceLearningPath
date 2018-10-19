@@ -8,10 +8,10 @@
 
 The Trusted Committer (TC) role is one of the key roles in an InnerSource
 community. Think of TCs as a person in a community that you trust with
-important technical decisions that will also mentor contributors to get their
-contribution over the finish line. It is both a demanding and a rewarding
-role to fulfill. It goes far beyond being an opinionated gatekeeper and it is
-instrumental for the success of any InnerSource community. 
+important technical decisions and with mentoring contributors to get their
+contribution over the finish line. The TC role is both a demanding and a
+rewarding role to fulfill. It goes far beyond being an opinionated gatekeeper
+and it is instrumental for the success of any InnerSource community. 
 
 Generally speaking, the TC role is defined by its responsibilities, rather than
 by its privileges. On a very high level, TCs represents the interests of both
@@ -24,57 +24,54 @@ Before we go into the details of what a TC actually does, let's spend some time
 contrasting the TC role to other roles in IS and why we think the name is both
 apt and important.
 
-- Contributor (very briefly)
-    - makes contributions
-    - sometimes part of the community
-    - sometimes sent by another part of the organization to develop a feature
-      for it. This is why contributors are sometimes referred to as being part
-      of the _Guest Team_. 
-    - responsible for "fitting in"/conforming to the host team and it's 
-      expectations and processes
-    - similar to an Apache Developer or committer
+Let's start with the _Contributor_ role. A _Contributor_ - as the name implies,
+makes contributions to an InnerSource community; code but also bug-reports,
+feature-requests or documentation. The contributor might or might not be part
+of the community. He might be sent by another team to develop a feature they
+might need. This is why we sometimes also refer to Contributors as _Guests_ or
+being part of a _Guest Team_. The _Contributor_ is responsible for "fitting in"
+and for conforming to the communities expectations and processes.
 
-- Trusted Committer
-    - In the analogy above, a member of the _Host Team_.
-    - In this analogy, they are both responsible for building the house and
-      setting the house rules to make sure their guests are comfortable.
-    - In comparison to the Contributor, a TC has earned the responsibility to
-      push code closer to production and is generally allowed to perform tasks
-      that have a higher level of risk associated with them.
-- Product Owner
-    - Responsible for defining and prioritizing requirements and stories for
-      the community to implement.
-    - Also interacts directly and frequently with the trusted committers. E. g.
-      a TC will want to collaborate with the PO to make sure donated features
-      actually belong into the product. 
-    - Generally speaking, the TCs role is not to accept all contributions but
-      only those which meet the criteria in terms of scope and quality.
-    - Distinction between the guest and host PO - have to negotiate
-      requirements, if necessary.
-    - Depending on the type of InnerSource community, there might not be a PO
-      from the outset. Especially true in case of innovation oriented and
-      bottom-up driven communities. POs come into play when a productization
-      of an InnerSource communities products becomes relevant.
+The Trusted Committer is always a member of the InnerSource community, also
+sometimes referred to as the _Host Team_. In this analogy, the TC is
+responsible for both building the house and setting the house rules, to make
+sure their guests are comfortable and can work together effectively. Compared
+to the _Contributor_, a TCs have earned the responsibility to push code closer
+to production and are generally allowed to perform tasks that have a higher
+level of risk associated with them.
 
-    ? In the Guest/Host analogy, what would be the analogon of a PO?
+The Product Owner is the third role in InnerSource. Whether or not there is one
+depends on the type of InnerSource community and the products they build. 
+Similar to agile processes, the PO is responsible for defining and prioritizing
+requirements and stories for the community to implement. The PO therefore often
+interacts with the TC, e. g. in making sure that a requested or contributed
+feature actually belongs to the product. In the Host/Guest analogy, the PO
+would be the one of determines what Host and Guest work on in the communities
+House. Please check out our Product Owner Learning Path video for more detailed
+information.
 
-- Link to other learning path video which explains these roles in more detail
+---(not added in text, yet)
+- Product Owner: Distinction between the guest and host PO - have to negotiate
+  requirements, if necessary.
+---
 
 ## Why role names matter
 
-- The role of the TC is present in every successful InnerSource community but
-  not every community uses that name.
-- True for myself - I used the term Maintainer. It turns out that conficts with
-  the technical role "Maintainer" defined by GitHub, for instance. 
-- Apache e. g. also uses the term Committer, but attaches fewer and mostly
-  tech oriented responsibilities to that role. The TC role with its additional
-  community oriented responsibilities goes beyond that.
-- Similar to how naming is important in writing software, it is, too, for the
-  roles in an InnerSource project so that everyone has the same notion of 
-  the role and is aware what can be expected from s. o. with that role.
-- The "Trusted" in TC conveys that they are trusted (and thus empowered) by both
-  her management and her community to do the job. By fostering openness and
-  transparency, the TC builds trust in the process and the product being built.
+Let's spend a few moments and discuss why the naming - "Trusted Committer" - is
+really important. The role of the TC is present in every successful InnerSource
+community but not every community uses that name. That was actually true for
+myself in my InnerSource career - I used the terms Maintainer.  But it turns
+out that conficts with the technical role "Maintainer" defined by GitHub, for
+instance.  Apache, e. g., uses the term _Committer_, too, but they attaches
+fewer and mostly tech oriented responsibilities to that role. The TC role with
+its additional community oriented responsibilities goes beyond that. The
+"Trusted" in TC conveys that they are trusted and thus empowered by both their
+management and their community to do their job. By fostering openness and
+transparency, TCs builds trust in the process and also the product being built.
+
+So similar to how naming is important in writing software, it is, too, for the
+roles in an InnerSource project so that everyone has the same notion of the
+role and is aware what can be expected from s. o. with that role.
 
 ## Ensuring Product Quality
 
@@ -96,6 +93,8 @@ apt and important.
     - prioritize quality and release dates
 - ensure quality at strategic level (longevity of the SW)
 - review and accept contributions
+    - Generally speaking, the TCs role is not to accept all contributions but
+      only those which meet the criteria in terms of scope and quality.
 
 ## Keeping Things Running Smoothly
 
