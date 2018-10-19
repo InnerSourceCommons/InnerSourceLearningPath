@@ -73,28 +73,61 @@ So similar to how naming is important in writing software, it is, too, for the
 roles in an InnerSource project so that everyone has the same notion of the
 role and is aware what can be expected from s. o. with that role.
 
+## Responsibilities of a Trusted Committer
+
+Let's now dive into the responsibilities that Trusted Committers have. We will
+cover of them in the following segments, including:
+
+- ensuring product quality,
+- keeping things running smoothly in the InnerSource community,
+- reducing the barrier to making contributions,
+- uplevelling the community,
+- keeping the community healthy and
+- advocating the communities needs.
+
 ## Ensuring Product Quality
 
-- define quality goals
-    - many facets: conceptual integrity, cleanliness of the code, test coverage
-      and other goals
-- ensure that decisions regarding quality are followed through
-- own tech related decisions 
-    - doesn't mean the TC does all the work or mandates what others are doing
-    - TC just needs to be sure the work is done in the end
-    - even if decisions are not made by her, needs to advocate and, if
-      necessary defend them them outside the community.
-- act as stakeholder of the SW/Architecture towards rest of org
-- set an example
-- make sure community has what it needs to produce quality sw
-    - communicated quality goals/standards
-    - empowerment by management (e. g. for necessary refactorings)
-    - the right tools
-    - prioritize quality and release dates
-- ensure quality at strategic level (longevity of the SW)
-- review and accept contributions
-    - Generally speaking, the TCs role is not to accept all contributions but
-      only those which meet the criteria in terms of scope and quality.
+Let's start with the responsibility most often associated with the TC role: 
+ensuring product quality. 
+
+In an InnerSource community, the TCs _own_ all tech related decisions,
+especially those related to product quality. Ownership implies that the TCs
+don't necessarily make all the tech related decisions themselves or do all the
+work implementing them, but that they are the ones who make sure the decisions
+in place are followed through, who advocate and - if necessary - defend these
+decisions, inside and outside of the community. 
+
+So what does a TC do in practice, to reach these goals? What are the means that
+TCs have at their disposal to ensure quality? Let's start with some passive
+means. It is the TCs job to communicate and motivate quality standards in their
+community and to formulate them in a way that is understandable and actionable
+by their contributors. I have personally always made it a point in my community
+that one of the ways we distinguist ourselves from non InnerSource SW
+development projects is not only the way we develop software, but also the
+quality of the SW itself. Quality became part of our Ethos. The TCs also make
+sure that developers have the infrastructure and tools they need to produce
+quality software. The most important and most powerful passive tool TCs have 
+to ensure quality is setting an example for quality themselves.
+
+The tool that TCs will use most frequently for ensuring quality is peer review
+performed in Pull Requests. While usually everybody can partake in a Pull
+Request and help point out necessary improvements, it is usually only the TCs
+who can finally accept or reject a contribution. That is what I meant when I
+said "TCs can push code closer to production" earlier. TCs should also help
+contributors during a PR to get their contribution over the finish line. That
+said, it is ultimately the contributors job to make that happen. The job of a
+TC is not to accept all contributions by default, but to only accept those who
+meet the defined criteria in terms of quality and scope.
+
+The TCs purview with respect to quality goes beyond PRs, though. TCs need to
+think about quality on a strategic level and ensure the longevity of the SW
+being built. That entails code oriented responsibilities from ensuring 
+cleanliness of the code to maintaining conceptual integrity of the overall
+software. It also entails more management oriented tasks such as making sure 
+that the community is given sufficient time to refactor the software or move
+a release date in favor of quality improvement tasks.
+
+(- act as stakeholder of the SW/Architecture towards rest of org)
 
 ## Keeping Things Running Smoothly
 
