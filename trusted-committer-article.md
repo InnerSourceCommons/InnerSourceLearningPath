@@ -40,15 +40,16 @@ to the _Contributor_, a TCs have earned the responsibility to push code closer
 to production and are generally allowed to perform tasks that have a higher
 level of risk associated with them.
 
-The Product Owner is the third role in InnerSource. Whether or not there is one
-depends on the type of InnerSource community and the products they build. 
-Similar to agile processes, the PO is responsible for defining and prioritizing
-requirements and stories for the community to implement. The PO therefore often
-interacts with the TC, e. g. in making sure that a requested or contributed
-feature actually belongs to the product. In the Host/Guest analogy, the PO
-would be the one of determines what Host and Guest work on in the communities
-House. Please check out our Product Owner Learning Path video for more detailed
-information.
+The Product Owner is the third role in InnerSource. Whether or not there is a
+dedicated PO depends on the type of InnerSource community and the products they
+build. Especially in grass-roots type InnerSource communities like the one I
+work in, the TC also acts as a PO.  Similar to agile processes, the PO is
+responsible for defining and prioritizing requirements and stories for the
+community to implement. The PO therefore often interacts with the TC, e. g. in
+making sure that a requested or contributed feature actually belongs to the
+product. In the Host/Guest analogy, the PO would be the one of determines what
+Host and Guest work on in the communities House. Please check out our Product
+Owner Learning Path video for more detailed information.
 
 ---(not added in text, yet)
 - Product Owner: Distinction between the guest and host PO - have to negotiate
@@ -301,15 +302,19 @@ a release date in favor of quality improvement tasks.
 
 ## Is the Trusted Committer a role for you?
 
+### Core
 - needs to be earned
 - demonstrated deep technical competence to maintain rank in the meritocracy
 - ability to communicate with peers, with product owners and with management
 - emotional maturity to deal with stressful social situations
-- sufficient standing in the organization to effectively advocate the
-  communities and the products needs
 - willingness and patientce to use their skills and spend intentional time to
   uplevel contributors so that they can make more contributions that they could
   have on their own (force multiplier)
+
+### Additional
+
+- sufficient standing in the organization to effectively advocate the
+  communities and the products needs
 
 ## Conclusion
 
