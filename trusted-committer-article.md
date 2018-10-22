@@ -103,12 +103,12 @@ TCs have at their disposal to ensure quality? Let's start with some passive
 means. It is the TCs job to communicate and motivate quality standards in their
 community and to formulate them in a way that is understandable and actionable
 by their contributors. I have personally always made it a point in my community
-that one of the ways we distinguist ourselves from non InnerSource SW
+that one of the ways we distinguish ourselves from non InnerSource SW
 development projects is not only the way we develop software, but also the
 quality of the SW itself. Quality became part of our Ethos. The TCs also make
 sure that developers have the infrastructure and tools they need to produce
 quality software. The most important and most powerful passive tool TCs have 
-to ensure quality is setting an example for quality themselves.
+to ensure quality is to set an example for quality themselves.
 
 The tool that TCs will use most frequently for ensuring quality is peer review
 performed in Pull Requests. While usually everybody can partake in a Pull
@@ -118,7 +118,11 @@ said "TCs can push code closer to production" earlier. TCs should also help
 contributors during a PR to get their contribution over the finish line. That
 said, it is ultimately the contributors job to make that happen. The job of a
 TC is not to accept all contributions by default, but to only accept those who
-meet the defined criteria in terms of quality and scope.
+meet the defined criteria in terms of quality and scope. Related to scope: 
+sometimes requirements or limitations for the software being developed are
+not elicited up front but rather discovered during development. TCs are also
+responsible for making sure these are captured and documented for both the POs
+and the contributors.
 
 The TCs purview with respect to quality goes beyond PRs, though. TCs need to
 think about quality on a strategic level and ensure the longevity of the SW
@@ -126,61 +130,86 @@ being built. That entails code oriented responsibilities from ensuring
 cleanliness of the code to maintaining conceptual integrity of the overall
 software. It also entails more management oriented tasks such as making sure 
 that the community is given sufficient time to refactor the software or move
-a release date in favor of quality improvement tasks.
+a release date in favor of quality improvement tasks, if the community deems
+that necessary.
 
 (- act as stakeholder of the SW/Architecture towards rest of org)
 
-## Keeping Things Running Smoothly
-
-- set, enact and communicate contribution guidelines 
-- set guidelines for how to communicate in PRs
-- reviewing contributions
-    - make sure the contribution process uncovers problems, rather than be the
-      cause of them.
-- documenting discovered and yet undocumented requirements 
-    - When an undocumented requirement, process or limitation is discovered, TC
-      is responsible for making sure it is documented accurately and in a way
-      that it is understandable for contributors and POs alike.
-- define the right process for the community
-- adapt existing processes, if necessary
-- gather support for necessary change in how the community operates
-
 ## Keeping The Community Healthy
 
-- TCs must strike a healthy balance between effort spent on ensuring product
-  quality and growing a healthy community. 
-- defining/enacting a code of conduct
-- set an example for community members in terms of conduct and especially
-  communication
-- Health also means that there is a critical mass of contributors.
-    - Virtuous cycle: Good mentoring in PRs -> higher level of trust from
-      contributors -> more people being willing to contribute -> more Pull
-      Requests
-- be aware of the communities needs
-    - keep in touch with the community
-- advocate the communities interests
-- Examples:
-    - Treat any contribution as a gift or as a donation. 
-    - I always prioritized onboarding and mentoring over reaching communicated
-      release dates, unless there was a really good reason to meet the date.
-    - Laude excellent and first contributions
-    - Make sure community members have a chance to level up by suggesting 
-      challenging tasks. That includes recognizing people who have the 
-      potential to grow.
-    - If there are people toxic to the communities health, it is the TCs
-      responsibility to either try and change, contain or remove those people
-    - Communicate the purpose of the community and try to get everyone on
-      board with it 
-    - Commmunicate technical and community risks to responsible managers
-    - Help potential community members with them beeing empowered to make
-      contributions by talking to their managers
-    - Ensure there are users and potential contributors by promoting and
-      advertising the community and its goals
-    - Make sure there are opportunities for people to get a together regularly
-    - It is important to both give and take in the community
-      
+We said in the beginning that TCs have both tech oriented and community
+oriented responsibilities. It is not sufficient to focus on quality only. To
+ensure success in the long run, the TCs should also strive for keeping the
+community which is building the SW healthy. Because of that, they must strike a
+healthy balance between effort spent on ensuring product quality and growing a
+healthy community. 
+
+What does a healthy community look like? In a healthy community, contributors
+tend to stick around and can spend most of their time on developing software
+and a healthy community is growing. 
+
+Why do contributors join and stick around in a community? Some do because they
+subscribe to the purpose or the mission of the community. It is the TCs job to
+clearly articulate and promote this purpose. In my experience, the importance
+of this is often not recognized. If I could go back in time, the one thing I
+would personally do differently as a TC is to spend more time on marketing the
+community inside my company. 
+
+Another, more obvious reason for people to stick around is that they enjoy
+working with other members of the community, including the TCs. In my
+experience, what this comes down to is that community members treat each other
+and communicate with utmost respect. They treat every contribution like a gift
+or a donation, rather than something that detracts from their own work and they
+laude excellent and especially first contributions. The TCs job in all this is
+primarily to set an example for others, similarly how he sets an example for
+the level of software quality that is expected. TCs should create opportunities
+for people to get together regularly and get to know each other personally. If
+necessary, the TCs are the ones who should create and enact a code of conduct 
+for the community. Should there be community members who behavior is
+detrimental or even toxic to the communities health, it is the TCs
+responsibility to either try and change or contain this or, in the worst case, 
+to remove people from the community.
+
+Another reason for people to stick around that I heard a lot during my time as
+a TC is that their work in an InnerSource community was an excellent
+opportunity to acquire new skills and to grow personally. This is again where
+the role of the TC is really important. TCs often become mentors for junior
+developers and they explicitly spend time during Pull Requests not only to
+point out areas for improvement but also explain in detail why something needs
+to be improved, including the theory or experience behind it and offer
+suggestions on how it is best done. I have personally always tried to
+prioritize onboarding and mentoring during Pull Requests over reaching
+communicated release dates, unless there was a very good reason not to. TCs do
+this because they understand the virtuous cycle: Good mentoring in PRs leads to
+a higher level of trust and engagement on part of the contributors which in
+turn leads to more people willing to make contributions and thus more
+contributions. We'll talk more about this in the segment on "Upleveling the
+Community".
+
+Finally, some people stick around in InnerSource communities, because they get
+to focus on developing software and to spend as little time as possible on 
+activities which are considered overhead or wast, common especially in large companies.
+The TCs job in this context is to ensure that contributors can actually do that
+and generally to keep things running smoothly. This includes e. g. 
+communicating and enacting helpful contribution guidelines. One important 
+aspect of those is to explain what I call _signaling_ in Pull Requests: what
+should a comment look like? What does it mean if I _like_ or _+1_ a comment?
+How is @mentioning s.o. with a /CC prefix different from doing so with a /FYI
+prefix? Generally speaking, TCs need to make sure that the contribution process
+uncovers problems, rather than be the cause of them. Ultimately, TCs should
+empower their community to point out process related problems and to adapt and
+improve them as a community as much as possible.
+
+For TCs to be able to fulfill all these responsibilities, it is important that
+they communicate regularly with community members and _keep an ear to the 
+ground_ so to speak so that they are aware of the communities needs. We'll
+go into more detail in the section on "Advocating the Communities Needs".
+
+(- benefit from the SW being developed as reason to join?)
+
 ## Reducing Barriers To Entry
 
+- Allow for both shared repo and fork and join
 - Soliciting contributions is one of the things that is more challenging with
   InnerSource compared to Open Source. There are a number of reasons for that 
     - The sheer number of potential contributors is lower in InnerSource
@@ -224,6 +253,14 @@ a release date in favor of quality improvement tasks.
 
 ## Uplevelling The Community 
 
+- community members feel welcome and enjoy working in the community and 
+    - Make sure community members have a chance to level up by suggesting 
+      challenging tasks. That includes recognizing people who have the 
+      potential to grow.
+
+
+- As mentioned above: upleveling and personal growth is a reason why people
+  join and stick around.
 - There is a continuum of participation: Unaware, Newcomer, Consumer, 
   Contributor and Maintainer.
 - TCs are responsible for moving individuals along this continuum and to 
@@ -241,6 +278,9 @@ a release date in favor of quality improvement tasks.
     - mentoring and coaching community members (e. g. during PRs)
 
 ## Advocating The Communities Needs
+
+
+- Commmunicate technical and community risks to responsible managers
 
 - InnerSource communities exist in a corporate context and are thus more 
   constrained than Open Source Communities.
