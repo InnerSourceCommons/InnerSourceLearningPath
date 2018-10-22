@@ -279,29 +279,40 @@ marketplace for open tasks, that contributors can use.
 
 ## Uplevelling The Community 
 
-- community members feel welcome and enjoy working in the community and 
-    - Make sure community members have a chance to level up by suggesting 
-      challenging tasks. That includes recognizing people who have the 
-      potential to grow.
+Let's talk about participation. There is a continuum of participation in an
+InnerSource community. There are people not even aware of the community,
+_newbies_ which are aware of the community but have not yet used or contributed
+to the software, _consumers_ which already use the software, _contributors_ who
+have made at least one contribution and _TCs_, who take responsibility for both
+the software and the community. As a TC, you are responsible for moving
+individuals along this continuum and to uplevel their ability to make
+contributions. 
 
+(Idea: Slide with levels and for each level, what a TC can do to move
+individuals from one level to the next)
 
-- As mentioned above: upleveling and personal growth is a reason why people
-  join and stick around.
-- There is a continuum of participation: Unaware, Newcomer, Consumer, 
-  Contributor and Maintainer.
-- TCs are responsible for moving individuals along this continuum and to 
-  uplevel their ability to make contributions.
-- This includes
-    - marketing the community, its purpose and its goals
-    - identify and communicate opportunities for making contributions
-    - explore how to align the contributors and the communities goals and
-      interests
+As indicated earlier, TCs should engage in marketing their product and their
+community, in order to increase the number of newbies and consumers. They
+should communicate opportunities for making contributions to consumers and try
+to elicit and align the interests of potential contributors with that of the
+community. And finally, they need to identify contributors with the potential
+to grow and encourage growthe. g. by suggesting challenging tasks to 
+contributors and by mentoring or coaching them.
+
+As mentioned in the previous segment, learning and personal growth is a reason
+why people join and stick around. Upleveling their contributors is also one of
+the most powerful tools TCs have at their disposal to increase the speed,
+output and longevity of their community. It is also one of the key arguments
+with which to convince management to allow their employees to participate in an
+InnerSource community, as they will make them more valuable to the company,
+overall.
+
+(- possibly move the segment on how to become a TC here)
+
+(- This includes
         - example from own experience: what always worked best was if
           contributors were able to work on something in the community that
-          contributed to their day job.
-    - identifying talent and encouraging growth, e. g. by assigning challenging
-      tasks to contributors
-    - mentoring and coaching community members (e. g. during PRs)
+          contributed to their day job. )
 
 ## Advocating The Communities Needs
 
