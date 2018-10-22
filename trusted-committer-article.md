@@ -131,7 +131,10 @@ cleanliness of the code to maintaining conceptual integrity of the overall
 software. It also entails more management oriented tasks such as making sure 
 that the community is given sufficient time to refactor the software or move
 a release date in favor of quality improvement tasks, if the community deems
-that necessary.
+that necessary. The effectiveness of the TC is strongly related to code health.
+Absent the latter, the TC will have to spend all their time validating and
+documenting workarounds for bugs or a fragile architecture rather and will not
+have enough time to spend on onboarding and mentoring contributors.
 
 (- act as stakeholder of the SW/Architecture towards rest of org)
 
@@ -302,49 +305,54 @@ marketplace for open tasks, that contributors can use.
 
 ## Advocating The Communities Needs
 
+InnerSource communities exist in a corporate context and are thus more
+constrained than Open Source Communities, especially when the SW developed in
+the InnerSource community is embedded in or used in the products sold by the
+company. There can be times when a business units interests are at odds
+with those of the community. Companies are more concerned with the bottom line
+and thus with the products produced by an InnerSource community. They are also
+often more concerned with the short and medium term results of the community.
+InnerSource communities, on the other hand understand that a healthy community
+is a precondition for healthy code and are naturally more concerned with the
+longevity of both the product and the community. This is why the Apache
+Software Foundation, after which many InnerSource initiatives were modeled, has
+the motto "Community over Code". 
 
-- Commmunicate technical and community risks to responsible managers
+It is this potential area of conflict, where the TC plays a vital role. It is
+the TCs responsibility to act as an advocate for the interests of the community
+and the long term health of the software in the company. They are responsible
+for communicating technical as well community related risks to management.
+At the same time, TCs need to be strategic and work within the degrees of
+freedom afforded by their companies.
 
-- InnerSource communities exist in a corporate context and are thus more 
-  constrained than Open Source Communities.
-- There can be times when a business units interests are at odds
-  with those of the community. And while companies are more concerned with the
-  bottom line and thus the products produced by an InnerSource community,
-  InnerSource communities, on the other hand understand that a healthy
-  community is a precondition for healthy code. This is why the Apache Software
-  Foundation, after which many InnerSource initiatives were modeled, has the
-  motto "Community over Code". Vice versa, the effectiveness of the TC is 
-  strongly related to code health, as well. Absent the latter, the TC will
-  have to spend all their time validating and documenting workarounds for bugs
-  or a fragile architecture rather and will not have enough time to spend on
-  onboarding and mentoring contributors.
-- It is this potential area of conflict, where the TC plays a vital role.
-- One example I remember is when I developed a system for remotely controlling
-  HVAC systems in my InnerSource community. We successfully met the deadline to
-  present the system on a trade fair, where it was an overall success. But we
-  knew that we still had to iron out a couple of wrinkles, before we could
-  launch the system into the market. When the planned time for market
-  introduction came closer and we were reasonably sure that we would not be
-  ready in time, it was my responsibility as a TC to engage with management,
-  explain the risks of launching before we were ready and to convince them to
-  delay the introduction for a couple of days. These were difficult
-  conversations but they were necessary to protect the community from the
-  backlash we would have gotten, if our system would have performed
-  suboptimally in the market. Because a successful market introduction really
-  was the goal we were all striving towards and taking that away would have
-  been a huge blow to the communities motivation. So as a TC, I had to advocate
-  the communities need for a successful market introduction to management.
-- Another common example is when contributors are not given time or permission
-  to make a contribution, especially when the community is working on a product
-  which is not part of the contributors departments domain. In this case, the
-  TC should engage in discussion with the contributors manager and lobby for an
-  alternative decision.
-- In summary, as a TC, you need to be strategic and work within the degrees of
-  freedom afforded by your company when advocating for the communities needs.
-- Other examples 
+One example I remember is when I developed a system for remotely controlling
+HVAC systems in my InnerSource community. We successfully met the deadline to
+present the system on a trade fair, where it was an overall success. But we
+knew that we still had to iron out a couple of wrinkles, before we could
+launch the system into the market. When the planned time for market
+introduction came closer and we were reasonably sure that we would not be ready
+in time, it was my responsibility as a TC to engage with management,
+explain the risks of launching before we were ready and to convince them to
+delay the introduction for a couple of days. These were difficult conversations
+but they were necessary to protect the community from the backlash we would
+have gotten, if our system would have performed suboptimally in the market. 
+Because a successful market introduction really was the goal we were all
+striving towards and taking that away would have been a huge blow to the
+communities motivation. So as a TC, I had to advocate the communities need for
+a successful market introduction to management.
+
+Another common example is when contributors are not given time or permission to
+make a contribution, especially when the community is working on a product
+which is not part of the contributors departments domain and was thus not
+relevant for the respective managers goals. In this case, the TC should engage
+in discussion with the contributors manager and lobby for an alternative
+decision.
+
+
+(- Other examples 
     - Advocating the need for required hardware/software 
     - Making sure the community gets public credit for their work
-    - ...
+    - ...)
 
 ## Becoming a Trusted Committer
 
