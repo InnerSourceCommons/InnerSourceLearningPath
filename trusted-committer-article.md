@@ -209,47 +209,70 @@ go into more detail in the section on "Advocating the Communities Needs".
 
 ## Reducing Barriers To Entry
 
-- Allow for both shared repo and fork and join
-- Soliciting contributions is one of the things that is more challenging with
-  InnerSource compared to Open Source. There are a number of reasons for that 
-    - The sheer number of potential contributors is lower in InnerSource
-    - Contributors will want to contribute during their work time. That means
-      they are more time constrained compared to doing Open Source after office
-      hours. Time spent on InnerSource might be time lost on reaching their
-      original goals.
-    - Work in InnerSource might not necessarily be part of the official 
-      performance goals of contributors.
-- It is therefore super important to make the process for making contributions
-  and for onboarding contributors as frictionless as possible to avoid wasting
-  a contributors time. 
-- There are a number of things a TC can do to achieve that state
-    - have a good readme.md, providing detailed instructions on how to get,
-      build, test and use the SW developed by the InnerSource community.
-    - have a good contribute.md which outlines what is expected of the
-      contributor to make a contribution. It should answer common questions
-      like
-        - Who do I contact in case of questions and how to reach her?
-        - How do I submit a bug report or feature request?
-        - What is the definition of done for a contribution; code, tests, docs?
-        - What are conventions for code style, branching or committ messages,
-          e. g.?
-        - What is expected of me in terms of supporting contributed code after
-          the contribution was accepted?
-        - What are the process steps that govern contributions?
-        - Is there a code of conduct or other guidelines to how the community
-          operates?
-    - Make it easy to run and test the SW locally
-- As a TC, I have to make sure there is someone in the community who is
-  available to answer questions of users and potential contributors.
-- Also make it clear that non-code contributions are welcome, such as writing
-  documentation, organizing events or creating artwork.
-- In addition to these "passive" means to facilitate contributions, a TC also
-  actively helps with that
-    - Publishing a list of "Newbie Tasks" and actively solicit contributions
-      rather than waiting for them to happen.
-    - TCs are expected to actively help new contributors to finish their PRs
-      if they would not be able to do so, otherwise.
-- Gig-Marketplace as a good example of how to do this.
+Soliciting contributions is one of the things that is more challenging with
+InnerSource compared to Open Source. There are a number of reasons for that 
+
+- The sheer number of potential contributors is lower in InnerSource
+- Contributors will want to contribute during their work time. That means
+  they are more time constrained compared to doing Open Source after office
+  hours. Time spent on InnerSource might be time lost on reaching their
+  original goals.
+- Work in InnerSource might not necessarily be part of the official 
+  performance goals of contributors.
+
+It is therefore super important to make the process for making contributions
+and for onboarding contributors as frictionless as possible to avoid wasting a
+contributors time. This falls squarely into the responsibilities of TCs. There
+are a number of things a TC can do to achieve that state:
+
+- have a good readme.md in each code repository. A good readme.md explains
+  what's in the repository and what it can be used for. In addition, it should
+  provide detailed instructions on how to get, build, test and use the SW in
+  the repository, including the license.
+- have a good contributing.md which outlines what is expected of the
+  contributor with respect to making a contribution. It should answer common
+  questions like
+
+    - Who do I contact in case of questions and how do I reach them?
+    - How do I submit a bug report or feature request?
+    - What is the definition of done for a contribution?
+    - What are conventions for code style, branching or commit messages, e. g.?
+    - What are the process steps that govern contributions?
+    - What is expected of me in terms of supporting contributed code after
+      the contribution was accepted?
+    - What is the code of conduct and what are the guidelines to how the
+      community operates?
+
+If you have an internal license attached to the software, which in some
+companies is a precondition to share SW across legal entities, include a copy
+of that license **and** an explanation of the rights and obligations of that
+license in layman's terms.
+  
+In addition to these documentary tasks and similar to Open Source software 
+development, it should be easy and straightforward to run and test the SW
+being developed locally by potential contributors, so that they can start
+implementing and validating their contribution with as little effort as
+possible.
+
+There are two common models for making contributions, today: 
+_shared repository_ and _fork and join_. Both have advantages and as a TC, 
+you'll want to support both models to accomodate the different needs of your
+potential and current contributors.
+
+Oftentimes, potential contributors will have questions they would like to
+have answered before they make a contribution. Those could be tech oriented
+questions, questions regarding contributions or quite simply questions aimed at
+figuring out if there's somebody to talk to in the community. It is therefore 
+important for any InnerSource community to have one or more contact persons
+that are available for answering such questions. It is the TCs responsibility
+to make sure there is a community member "on call". Most commonly, the TCs
+themselves will fullfill that role, since onboarding new community members is
+one of their jobs. As such, it is also important to help potential contributors
+to determine what contributions are welcome or needed. These can be code
+contributions but also non-code contributions, such as writing documentation,
+creating artwork or organizing events. One common way to do this is to tag
+"newbie tasks" in the issue tracker used by the community or implement a
+marketplace for open tasks, that contributors can use.
 
 ## Uplevelling The Community 
 
@@ -349,7 +372,7 @@ go into more detail in the section on "Advocating the Communities Needs".
 - emotional maturity to deal with stressful social situations
 - willingness and patientce to use their skills and spend intentional time to
   uplevel contributors so that they can make more contributions that they could
-  have on their own (force multiplier)
+  have on their own (force multiplier). Mention TC rotation at PayPal
 
 ### Additional
 
