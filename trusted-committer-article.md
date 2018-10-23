@@ -80,11 +80,12 @@ Let's now dive into the responsibilities that Trusted Committers have. We will
 cover of them in the following segments, including:
 
 - ensuring product quality,
-- keeping things running smoothly in the InnerSource community,
+- keeping the community healthy,
 - reducing the barrier to making contributions,
 - uplevelling the community,
-- keeping the community healthy and
 - advocating the communities needs.
+
+We will also explore the path of becoming a TC in the end of this article.
 
 ## Ensuring Product Quality
 
@@ -364,13 +365,12 @@ decision.
     - Making sure the community gets public credit for their work
     - ...)
 
-## Becoming a Trusted Committer
+## Becoming a Trusted Committer and the different levels of participation
 
 As we said in the beginning, the TC role is a very demanding but at the same
-time very fulfilling role to have. For me personally, I can say that my years
-as TC have been the best years of my professional life, so far. If we have
-interested you in the role of a TC, you might ask yourself: how do I actually
-jbecome a TC? How does that work in practice?
+time very fulfilling role to have. If we have interested you in the role of a
+TC, you might ask yourself: how do I actually become a TC? How does that work
+in practice?
 
 InnerSource communities follow the same principles that Open Source communities
 do, one of which is meritocracy. In a Meritocracy, power is vested in
@@ -427,15 +427,24 @@ place already, who can take over and ensure continuity in the community.
 
 ## Conclusion
 
+In the past segments, we have learned about the responsibilities of TCs,
+ensuring product quality, keeping their community healthy, reducing the barrier
+to making contributions as well as upleveling the community and advocating the
+communities needs in their organization. We also talked about how to become a
+TC and what it takes to fill that role. For me personally, I can say that my
+years working as TC have been the best years of my professional life, so far.
+It's been a great experience, overall.
+
+We hope that this article inspired you to set of on a path towards becoming a
+TC as well. And we also hope that it might help your organization understand
+the importance of having capable TCs for the success of any InnerSource 
+initiative.
+
+We'd like to invite you to learn more about InnerSource by exploring the other
+articles and videos in the InnerSource Learning Path.
+
 ## This to mention as well
 
-- there can be multiple TCs per community, depending on the level of risk
-  and the size of the community.
-- Recognize TC role by HR (similar to how architects and agile roles are 
-  officially recognized)
-- PR is probably the most powerful tool the TC has to fulfill his role. It is
-  probably the channel he will spend most time communicating in. It is 
-  instrumental in communicating and reaching software quality, it presents an
-  opportunity to set an example, both in terms of software quality and how to
-  conduct oneself in communications. And finally, a PR is where mentoring and
-  upleveling contributors happens, in my experience.
+(- Recognize TC role by HR (similar to how architects and agile roles are 
+  officially recognized))
+
