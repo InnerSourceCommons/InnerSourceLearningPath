@@ -51,11 +51,6 @@ product. In the Host/Guest analogy, the PO would be the one of determines what
 Host and Guest work on in the communities House. Please check out our Product
 Owner Learning Path video for more detailed information.
 
----(not added in text, yet)
-- Product Owner: Distinction between the guest and host PO - have to negotiate
-  requirements, if necessary.
----
-
 ## Why role names matter
 
 Let's spend a few moments and discuss why the naming - "Trusted Committer" - is
@@ -72,7 +67,7 @@ transparency, TCs builds trust in the process and also the product being built.
 
 So similar to how naming is important in writing software, it is, too, for the
 roles in an InnerSource project so that everyone has the same notion of the
-role and is aware what can be expected from s. o. with that role.
+role and is aware what can be expected from someone with that role.
 
 ## Responsibilities of a Trusted Committer
 
@@ -295,8 +290,10 @@ As indicated earlier, TCs should engage in marketing their product and their
 community, in order to increase the number of newbies and consumers. They
 should communicate opportunities for making contributions to consumers and try
 to elicit and align the interests of potential contributors with that of the
-community. And finally, they need to identify contributors with the potential
-to grow and encourage growthe. g. by suggesting challenging tasks to 
+community. What has often worked well in my personal experience is if
+contributors were able to work on something that made their day job easier,
+such as tools, e. g.  Finally, TCs need to identify contributors with the
+potential to grow and encourage growthe. g. by suggesting challenging tasks to
 contributors and by mentoring or coaching them.
 
 As mentioned in the previous segment, learning and personal growth is a reason
@@ -306,13 +303,6 @@ output and longevity of their community. It is also one of the key arguments
 with which to convince management to allow their employees to participate in an
 InnerSource community, as they will make them more valuable to the company,
 overall.
-
-(- possibly move the segment on how to become a TC here)
-
-(- This includes
-        - example from own experience: what always worked best was if
-          contributors were able to work on something in the community that
-          contributed to their day job. )
 
 ## Advocating The Community's Needs
 
@@ -359,10 +349,16 @@ relevant for the respective managers goals. In this case, the TC should engage
 in discussion with the contributors manager and lobby for an alternative
 decision.
 
-(- Other examples 
-    - Advocating the need for required hardware/software 
-    - Making sure the community gets public credit for their work
-    - ...)
+Sometimes, the TCs need to advocate the need of contributors for specialized
+hardware or software and make sure they get what they need to be productive. 
+And finally, TCs need to make sure that the community get public credit for
+their work, to make sure everyone is aware of the value contribution made -
+especially if contributors made their contributions voluntary. Neglecting to
+give credit can occur in companies which are not yet accustomed to the
+InnerSource working model and when the software being developed by the
+InnerSource community runs _behind the scenes_. In my experience, failure to
+give credit is almost never done in bad faith, though, and TCs should be able
+to easily correct that. 
 
 ## Becoming a Trusted Committer and the different levels of participation
 
@@ -390,16 +386,16 @@ principle of voluntarism.
 What are the criteria to apply in nominating contributors for a TC role? What
 does it take to successfully fill the role of a TC? First off, potential TCs
 need to have demonstrated a deep, technical competence during their work in the
-community. In addition to that, they must have proven their ability so
-effectively communicate with peers in the community an ideally also with
+community. In addition to that, they must have proven their ability to
+effectively communicate with peers in the community and ideally also with
 product owners and with management, as that's a key part of the TC role, as
 well. In the same vein, the must have shown the willingness and patience to use
-their skills and spend intential time to uplevel contributors so that they can
-make more contributions then they could have on their own. Finally, fulfilling
-the TC role requires a certain emotional maturity in order to be able to deal
-with stressful social situations, which are bound to come up from time to time.
-Contributors who satisfy these criteria will be good potential TCs, in our 
-opinion.
+their skills and spend intentional time to uplevel contributors so that they
+can make more contributions then they could have on their own. Finally,
+fulfilling the TC role requires a certain emotional maturity in order to be
+able to deal with stressful social situations, which are bound to come up from
+time to time.  Contributors who satisfy these criteria will be good potential
+TCs, in our opinion.
 
 In my community, we had multiple TCs, and in our case it was the group of TCs
 who nominated contributors to become TCs, as well. We were blessed with many
