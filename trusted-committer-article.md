@@ -286,7 +286,7 @@ to the software, _consumers_ which already use the software, _contributors_ who
 have made at least one contribution and _TCs_, who take responsibility for both
 the software and the community. As a TC, you are responsible for moving
 individuals along this continuum and to uplevel their ability to make
-contributions. 
+contributions. In that sense, TCs act as force multipliers in their community. 
 
 (Idea: Slide with levels and for each level, what a TC can do to move
 individuals from one level to the next)
@@ -359,7 +359,6 @@ relevant for the respective managers goals. In this case, the TC should engage
 in discussion with the contributors manager and lobby for an alternative
 decision.
 
-
 (- Other examples 
     - Advocating the need for required hardware/software 
     - Making sure the community gets public credit for their work
@@ -367,36 +366,64 @@ decision.
 
 ## Becoming a Trusted Committer
 
-- Open source principles of transparency and meritocracy guide the process by
-  which contributors can become TCs.
-- I have made it a point to only then nominate contributors as TCs when they
-  have proven their technical merit AND the social merit. In other words, they
-  must have made sort of social contributions, such as e. g. 
-    - helping onboarding new contributors
-    - organizing community events
-    - support community members in forums or mailing lists
-    - representing the community on events
-- In my community, the current TCs made the decision to officially ask a 
-  Contributor to assume the TC role, which is of course, voluntary.
-- There might well be multiple TCs in one project
-- TCs might step down, when they no longer have the time to perform the duties
-  of a TC.
+As we said in the beginning, the TC role is a very demanding but at the same
+time very fulfilling role to have. For me personally, I can say that my years
+as TC have been the best years of my professional life, so far. If we have
+interested you in the role of a TC, you might ask yourself: how do I actually
+jbecome a TC? How does that work in practice?
 
-## Is the Trusted Committer a role for you?
+InnerSource communities follow the same principles that Open Source communities
+do, one of which is meritocracy. In a Meritocracy, power is vested in
+individuals based on their talent, effort and achievement. In other words,
+the responsibility and privileges that come with the TC role need to be earned.
+Transparency, another Open Source value, also plays a vital role in that it
+makes the talent, effort and achievements visible to the whole community.
 
-### Core
-- needs to be earned
-- demonstrated deep technical competence to maintain rank in the meritocracy
-- ability to communicate with peers, with product owners and with management
-- emotional maturity to deal with stressful social situations
-- willingness and patientce to use their skills and spend intentional time to
-  uplevel contributors so that they can make more contributions that they could
-  have on their own (force multiplier). Mention TC rotation at PayPal
+The process of officially becoming a TC differs from company to company,
+depends on where you are in your InnerSource journey and might evolve over
+time. In grass-roots type communities, the founders often automatically assume
+the role of the TC, as well. As a community grows, the community or the
+existing TCs might nominate a contributor to become TC, which might or might
+not be subject to a community vote. Ideally, nominated contributors should take
+on the TC role because they want to, in adherence with the Open Source
+principle of voluntarism.
 
-### Additional
+What are the criteria to apply in nominating contributors for a TC role? What
+does it take to successfully fill the role of a TC? First off, potential TCs
+need to have demonstrated a deep, technical competence during their work in the
+community. In addition to that, they must have proven their ability so
+effectively communicate with peers in the community an ideally also with
+product owners and with management, as that's a key part of the TC role, as
+well. In the same vein, the must have shown the willingness and patience to use
+their skills and spend intential time to uplevel contributors so that they can
+make more contributions then they could have on their own. Finally, fulfilling
+the TC role requires a certain emotional maturity in order to be able to deal
+with stressful social situations, which are bound to come up from time to time.
+Contributors who satisfy these criteria will be good potential TCs, in our 
+opinion.
 
-- sufficient standing in the organization to effectively advocate the
-  communities and the products needs
+In my community, we had multiple TCs, and in our case it was the group of TCs
+who nominated contributors to become TCs, as well. We were blessed with many
+contributors with deep technical expertise but we have made it a point to only
+then nominate contributors for the TC role, when they have made _social_
+contributions to the community on their own initiative, such as helping with
+onboarding new contributors, supporting community members in forums and mailing
+lists or representing and marketing the community on company events. 
+
+Whether or not you have only one or multiple TCs depends on the size and the
+risk associated with the software developed in the InnerSource community.  The
+TC role is time consuming and not everyone is willing or able to spend 100 % of
+their time as TC. Some companies have therefore enacted a _TC rotation_ where
+multiple TC share the workload of the TC role and the TCs who are not _on duty_
+could exclusively focus on tech oriented work. Another reason to have multiple
+TCs is to prepare for the inevitable case that some TCs can no longer take on
+their responsibilities, e. g. because they are changing to another position in
+or leaving the company, or simply because they are no longer interested in
+filling that role. In that case, it is important that there are other TCs in
+place already, who can take over and ensure continuity in the community.
+
+(- sufficient standing in the organization to effectively advocate the
+  communities and the products needs)
 
 ## Conclusion
 
@@ -404,7 +431,6 @@ decision.
 
 - there can be multiple TCs per community, depending on the level of risk
   and the size of the community.
-- PayPals idea to rotate TCs (TC on duty)
 - Recognize TC role by HR (similar to how architects and agile roles are 
   officially recognized)
 - PR is probably the most powerful tool the TC has to fulfill his role. It is
