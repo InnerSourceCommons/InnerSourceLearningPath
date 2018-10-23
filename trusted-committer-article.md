@@ -191,23 +191,23 @@ contributions. We'll talk more about this in the segment on "Upleveling the
 Community".
 
 Finally, some people stick around in InnerSource communities, because they get
-to focus on developing software and to spend as little time as possible on 
-activities which are considered overhead or wast, common especially in large companies.
-The TCs job in this context is to ensure that contributors can actually do that
-and generally to keep things running smoothly. This includes e. g. 
-communicating and enacting helpful contribution guidelines. One important 
-aspect of those is to explain what I call _signaling_ in Pull Requests: what
-should a comment look like? What does it mean if I _like_ or _+1_ a comment?
-How is @mentioning s.o. with a /CC prefix different from doing so with a /FYI
-prefix? Generally speaking, TCs need to make sure that the contribution process
-uncovers problems, rather than be the cause of them. Ultimately, TCs should
-empower their community to point out process related problems and to adapt and
-improve them as a community as much as possible.
+to focus on developing software and to spend as little time as possible on
+activities which are considered overhead or waste, common especially in large
+companies.  The TCs job in this context is to ensure that contributors can
+actually do that and generally to keep things running smoothly. This includes
+e. g.  communicating and enacting helpful contribution guidelines. One
+important aspect of those is to explain what I call _signaling_ in Pull
+Requests: what should a comment look like? What does it mean if I _like_ or
+_+1_ a comment?  How is @mentioning s.o. with a /CC prefix different from doing
+so with a /FYI prefix? Generally speaking, TCs need to make sure that the
+contribution process uncovers problems, rather than be the cause of them.
+Ultimately, TCs should empower their community to point out process related
+problems and to adapt and improve them as a community as much as possible.
 
 For TCs to be able to fulfill all these responsibilities, it is important that
 they communicate regularly with community members and _keep an ear to the 
 ground_ so to speak so that they are aware of the communities needs. We'll
-go into more detail in the section on "Advocating the Communities Needs".
+go into more detail in the section on "Advocating the Community's Needs".
 
 (- benefit from the SW being developed as reason to join?)
 
@@ -215,7 +215,6 @@ go into more detail in the section on "Advocating the Communities Needs".
 
 Soliciting contributions is one of the things that is more challenging with
 InnerSource compared to Open Source. There are a number of reasons for that 
-
 - The sheer number of potential contributors is lower in InnerSource
 - Contributors will want to contribute during their work time. That means
   they are more time constrained compared to doing Open Source after office
@@ -315,7 +314,7 @@ overall.
           contributors were able to work on something in the community that
           contributed to their day job. )
 
-## Advocating The Communities Needs
+## Advocating The Community's Needs
 
 InnerSource communities exist in a corporate context and are thus more
 constrained than Open Source Communities, especially when the SW developed in
