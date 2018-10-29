@@ -242,13 +242,13 @@ the software and the community. As a TC, you are responsible for moving
 individuals along this continuum and to uplevel their ability to make
 contributions. In that sense, TCs act as force multipliers in their community. 
 
-As indicated earlier, it is helpful for TCs to engage in marketing their product and their
-community, in order to increase the number of newbies and consumers. They
-should communicate opportunities for making contributions to consumers and try
-to elicit and align the interests of potential contributors with that of the
-community. What has often worked well in my personal experience is if
-contributors were able to work on something that made their day job easier,
-such as tools, e. g. 
+As indicated earlier, it is helpful for TCs to engage in marketing their
+product and their community, in order to increase the number of newbies and
+consumers. They should communicate opportunities for making contributions to
+consumers and try to elicit and align the interests of potential contributors
+with that of the community. What has often worked well in my personal
+experience is if contributors were able to work on something that made their
+day job easier, such as tools, e. g. 
 
 Finally, it is the TCs responsibility to identify contributors with the
 potential to grow, to foster and to nurture that growth e. g. by getting
@@ -340,11 +340,12 @@ creating artwork or organizing events. One common way to do this is to tag
 marketplace for open tasks, that contributors can use.
 
 Wrapping up. It is super important for InnerSource communities in a corporate
-environemnt to keep the barriers to contributing as low as possible to get as
+environment to keep the barriers to contributing as low as possible to get as
 many contributors as possible. TCs therefore make sure that users and
 contributors have both access to helpful documentation and people in the
-community to answer any questions they might have and who make the onboarding
-experience a great one.
+community to answer any questions they might have and that they can get up
+and running in no time. Generally speaking, TCs should make sure that the
+the onboarding experience is a great one.
  
 ## Advocating The Community's Needs
 
@@ -405,7 +406,7 @@ and lobby for an alternative decision.
 
 In summary, there are many situations in which TCs need to advocate the
 interests of individual contributors and their community as a whole to the
-organization.  They do this because they understand that the value that the
+organization. They do this because they understand that the value that the
 community can provide to the organization depends on the health and longevity
 of the community and ultimately on a trustworthy relationship between both.
 
