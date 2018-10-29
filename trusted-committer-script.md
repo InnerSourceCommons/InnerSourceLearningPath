@@ -2,7 +2,7 @@
 
 ## Introduction
 
-D:
+D: Welcome ...
 
 G: My name is Georg Grütter. I am an InnerSource evangelist at Robert Bosch
 in Germany and I am a Trusted Committer on a number of projects in my company.
@@ -25,33 +25,62 @@ we'll explore both of these dimensions in the following sections.
 
 Before we go into the details of what a TC actually does, let's spend some time
 contrasting the TC role to other roles in IS on a high level of abstraction and
-explain why we think the name is both apt and important.  (show slide) Let's
-start with the _Contributor_ role. A _Contributor_ - as the name implies -
-makes contributions to an InnerSource community; code but also non-code
+explain why we think the name is both apt and important.  
+
+-> Show roles-1.png
+
+Let's start with the _Contributor_ role. A _Contributor_ - as the name implies -
+makes 
+
+-> Show roles-2.png
+
+contributions to an InnerSource community; code but also non-code
 artefacts, such as bug-reports, feature-requests or documentation.
-Contributors might or might not be part of the community. They might be sent by
+
+
+Contributors might or might 
+
+-> Show roles-3.png
+
+not be part of the community. They might be sent by
 another team to develop a feature that team might need. This is why we
 sometimes also refer to Contributors as _Guests_ or being part of a _Guest
 Team_. The _Contributor_ is expected to "fitting in" and for conforming to the
 communities expectations and processes.
 
-(new slide)
+-> Show roles-4.png
 
 The _Trusted Committer_ is always a member of the InnerSource community, which
 also sometimes referred to as the _Host Team_. In this analogy, the TC is
 responsible for both building the house and setting the house rules, to make
-sure their guests are comfortable and can work together effectively. Compared
-to _Contributors_, TCs have earned the responsibility to push code closer to
-production and are generally allowed to perform tasks that have a higher level
-of risk associated with them.
+sure their guests are comfortable and that 
+
+-> Show roles-5.png
+
+they can work together effectively.
+Compared to _Contributors_, TCs have earned the responsibility to push code
+closer to production and are generally allowed to perform tasks that have a
+higher level of risk associated with them.
+
+-> Show roles-6.png
 
 The _Product Owner_ is the third role in InnerSource.  Similar to agile
 processes, the PO is responsible for defining and prioritizing requirements and
-stories for the community to implement. The PO often interacts a lot with the
+stories for the community to implement. The PO 
+
+-> Show roles-7.png
+
+regularly interacts a lot with the
 TC, e. g. in making sure that a requested or contributed feature actually
 belongs to the product. Especially in smaller, grass-roots type InnerSource
-communities like the one I work in, the TC usually also acts as a PO. Please
-check out our Product Owner Learning Path video for more detailed information.
+communities like the one I work in, the TC usually also acts as a PO. 
+
+-> Show roles-8.png
+
+Please check out our Product Owner Learning Path video for more detailed 
+information.
+
+-> Hide slides
 
 ## Why role names matter
 
@@ -92,7 +121,8 @@ of this article.
 
 In this segment, you will learn about the responsibility most often associated
 with the TC role: ensuring software quality. We will talk about why this is so
-important and how TCs make sure the quality of their products is high.
+important and how TCs make sure their communities products meet the set
+quality goals.
 
 In an InnerSource community, the TCs _own_ all tech related decisions,
 especially those related to product quality. Ownership implies, that TCs need
@@ -124,7 +154,11 @@ of Pull Requests. While everybody can usually start and participate in Pull
 Requests by pointing out necessary improvements, it is usually only the TCs who
 can ultimately accept and merge or reject a contribution. That is what I meant
 when I said "TCs can push code closer to production" earlier.  TCs should also
-help contributors during a PR to get their contribution over the finish line.
+help contributors during a PR to get their contribution over the finish line,
+by a timely review, a short pairing session, maybe a refactoring of the
+existing code to accomodate a new feature or help with setting up or
+documenting manual testing steps.
+
 That said, it is ultimately the contributors job to make that happen. The job
 of a TC is not to accept all contributions by default, but to only accept those
 who meet the defined criteria in terms of quality and scope.  And TCs should
@@ -152,12 +186,31 @@ validating and documenting workarounds for bugs or a fragile architecture
 and will not have enough time to spend on onboarding and mentoring 
 Contributors.
 
-Summing up. Ensuring product quality is a key responsibility of TCs. They set
-quality standards and lead by example, they participate in pull request and 
-help contributors with their contributions to meet the quality standards and
-they take responsibility for the long term health of the software.
+Summing up. 
 
-(hide slide)
+-> Show quality-1.png
+
+Ensuring product quality is a key responsibility of TCs. They 
+
+-> Show quality-2.png
+
+set quality standards and 
+
+-> Show quality-3.png
+
+lead by example, they 
+
+-> Show quality-4.png
+
+participate in pull request and 
+help contributors with their contributions to meet the quality standards and
+they 
+
+-> Show quality-5.png
+
+take responsibility for the long term health of the software.
+
+-> Hide slides
 
 ## Keeping The Community Healthy
 
@@ -165,12 +218,23 @@ In this segment, we'll talk about another key responsibility of TCs: keeping
 their community healthy. We'll explore why that is important and what TCs can
 do to foster a healthy community around the software they develop.
 
-We said in the beginning that TCs have both tech oriented and community
-oriented responsibilities. It is not sufficient to focus on code and code
-health only. To ensure success in the long run, TCs should strive for keeping
-the community which is building the SW healthy, as well. Because of that, they
-must strike a good balance between effort spent on ensuring product quality and
-growing a healthy community. 
+-> Show tech-and-community-focus-1.png
+
+We said in the beginning that TCs have both 
+
+-> Show tech-and-community-focus-2.png
+
+tech oriented and 
+
+-> Show tech-and-community-focus-3.png
+
+community oriented responsibilities. It is not sufficient to focus on code and
+code health only. To ensure success in the long run, TCs should strive for
+keeping the community which is building the SW healthy, as well. Because of
+that, they must strike a good balance between effort spent on ensuring product
+quality and growing a healthy community. 
+
+-> Hide slides
 
 What does a healthy community look like? Quite simply, in a healthy community,
 contributors tend to stick around, can spend most of their time on developing
@@ -185,8 +249,8 @@ would personally do differently as a TC is to spend more time on marketing the
 community and its purpose inside my company. 
 
 Another, more obvious reason for people to stick around is that they enjoy
-working with other members of the community, including the TCs. In my
-experience, what this comes down to is that community members treat and
+working with other members of the community, including the TCs. 
+What this comes down to is that community members treat and
 communicate with each other with utmost respect. Contributions are treated as
 like a gift or a donation, rather than something that detracts from their own
 work and they laude excellent and especially first contributions. The TCs job
@@ -211,11 +275,31 @@ feedback from community members that the speed of learning in the community was
 much higher compared to their regular job. I have personally always tried to
 prioritize onboarding and mentoring during Pull Requests over reaching
 communicated release dates, unless there was a very good reason not to. TCs do
-this because they understand the virtuous cycle: Good mentoring in PRs leads to
+this because they understand the virtuous cycle: 
+
+-> Show virtuous-cycle-1.png
+
+Good mentoring in PRs leads to
+
+-> Show virtuous-cycle-2.png
+
 a higher level of trust and engagement on part of the contributors which in
-turn leads to more people willing to make contributions and thus more
-contributions. We'll talk more about this in the segment on "Upleveling the
-Community".
+turn leads to 
+
+-> Show virtuous-cycle-3.png
+
+more people willing to make contributions and thus more
+
+-> Show virtuous-cycle-4.png
+
+contributions and thus opportunity for 
+
+-> Show virtuous-cycle-5
+
+more mentoring. We'll talk more about this in
+the segment on "Upleveling the Community".
+
+-> Hide slides
 
 Finally, some people stick around in InnerSource communities, because they get
 to focus on developing software and to spend as little time as possible on
@@ -238,10 +322,10 @@ ground_ so to speak so that they are aware of the communities needs. We'll
 go into more detail about this in the section on "Advocating the Community's
 Needs".
 
-In summary, TCs should strive to create a welcoming and appreciative
-environment for their contributors that allows them to concentrate on writing
-software and to grow personally by creating opportunities to learn from other
-community members.
+In summary, TCs should strive to create an intersting, welcoming and
+appreciative environment for their contributors that allows them to concentrate
+on writing software and to grow personally by creating opportunities to learn
+from other community members. 
 
 ## Uplevelling The Community 
 
@@ -250,28 +334,72 @@ upleveling their capability do develop software. This segment briefly explores
 the TCs role in making that happen.
 
 Let's talk about participation. There is a continuum of participation in an
-InnerSource community. There are people not even aware of the community,
+InnerSource community. 
+
+-> Show participation-1.png
+
+There are people not even aware of the community,
+
+-> Show participation-2.png
+
 _newbies_ which are aware of the community but have not yet used or contributed
-to the software, _consumers_ which already use the software, _contributors_ who
-have made at least one contribution and _TCs_, who take responsibility for both
-the software and the community. As a TC, you are responsible for moving
-individuals along this continuum and to uplevel their ability to make
-contributions. In that sense, TCs act as force multipliers in their community. 
+to the software, 
 
-As indicated earlier, it is helpful for TCs to engage in marketing their
-product and their community, in order to increase the number of newbies and
-consumers. They should communicate opportunities for making contributions to
-consumers and try to elicit and align the interests of potential contributors
-with that of the community. What has often worked well in my personal
-experience is if contributors were able to work on something that made their
-day job easier, such as tools, e. g. 
+-> Show participation-3.png
 
-Finally, it is the TCs responsibility to identify contributors with the
-potential to grow, to foster and to nurture that growth e. g. by getting
-contributors excited for tackling challenging tasks and to mentor or coach them
-while they are performing them. This is, in my opinion, the noblest
-responsibility a TC has. It is rewarding for both the contributor and the
-TC alike. For me personally, mentoring and seeing people level up their
+_consumers_ which already use the software, 
+
+-> Show participation-4.png
+
+_contributors_ who have made at least one contribution and 
+
+-> Show participation-5.png
+
+_TCs_, who take responsibility for both the software and the community. As a
+TC, you are responsible for 
+
+-> Show participation-6.png
+
+moving individuals along this continuum and to
+uplevel their ability to make contributions. In that sense, TCs act as force
+multipliers in their community. 
+
+As indicated earlier, it is helpful for TCs to engage in 
+
+-> Show participation-7.png
+
+marketing their product and their community, in order to increase the number of
+newbies and consumers. They should communicate 
+
+-> Show participation-8.png
+
+opportunities for making
+contributions to consumers and try to elicit and align the interests of
+potential contributors with that of the community. What has often worked well
+in my personal experience is if contributors were able to work on something
+that made their day job easier. 
+
+-> Hide slides
+
+One of my best contributors made the case to
+his superior that if we invested 10 % of his time in building a tool in the
+InnerSource community, he would save about 20 % of his time by automating an
+otherwise manual task and not just for him, but for many other of his
+colleagues, as well.
+
+Finally, it is the TCs responsibility to 
+
+-> Show participation-9.png
+
+identify contributors with the potential to grow, to foster and to nurture that
+growth e. g. by getting contributors excited for tackling challenging tasks and
+to mentor or coach them while they are performing them. 
+
+-> Hide slides
+
+This is, in my opinion,
+the noblest responsibility a TC has. It is rewarding for both the contributor
+and the TC alike. For me personally, mentoring and seeing people level up their
 abilities more than makes up for the fact that I have less time to actually
 spend writing software. 
 
@@ -310,10 +438,15 @@ and for onboarding contributors as frictionless as possible to avoid wasting a
 contributors time. This falls squarely into the responsibilities of TCs. There
 are a number of things TCs can do in this department.
 
+-> Show barriers-2.png
+
 - Have a good readme.md in each code repository. A good readme.md explains
   what's in the repository and what it can be used for. In addition, it should
   provide detailed instructions on how to get, build, test and use the SW in
   the repository, including information about the license.
+
+-> Show barriers-3.png
+
 - Have a good contributing.md which outlines what is expected of the
   contributor with respect to making a contribution. It should answer common
   questions, such as:
@@ -328,16 +461,22 @@ are a number of things TCs can do in this department.
     - What is the code of conduct and what are the guidelines to how the
       community operates?
 
+-> Show barriers-4.png
+
 If you have an internal license attached to the software, which in some
 companies is a precondition to share SW across legal entities, include a copy
 of that license **and** an explanation of the rights and obligations of that
 license in layman's terms.
-  
+
+-> Show barriers-5.png
+
 In addition to these documentary tasks and similar to Open Source software 
 development, it should be easy and straightforward to run and test the SW
 being developed locally by potential contributors, so that they can start
 implementing and validating their contribution with as little effort as
-possible.
+possible. 
+
+-> Hide slides
 
 There are two common models for making contributions, today: 
 _shared repository_ and _fork and join_. Both have advantages and as a TC, 
@@ -348,11 +487,19 @@ Oftentimes, potential contributors will have questions they would like to
 have answered before they make a contribution. Those could be tech oriented
 questions, questions regarding contributions or quite simply questions aimed at
 figuring out if there's somebody to talk to in the community. It is therefore 
-important for any InnerSource community to have one or more contact persons
+important for any InnerSource community to have 
+
+-> Show barriers-6.png
+
+one or more contact persons
 that are available for answering such questions. It is the TCs responsibility
 to make sure there is a community member "on call". Most commonly, the TCs
 themselves will fullfill that role, since onboarding new community members is
-one of their jobs. As such, it is also important to help potential contributors
+one of their jobs. 
+
+-> Hide slides
+
+As such, it is also important to help potential contributors
 to determine what contributions are welcome or needed. These can be code
 contributions but also non-code contributions, such as writing documentation,
 creating artwork or organizing events. One common way to do this is to tag
@@ -384,12 +531,20 @@ are naturally more concerned with the longevity of both the product and the
 community. This is why many InnerSource initiatives were modeled after the
 Apache Way, which has the motto "Community over Code". 
 
+-> Show community-over-code.png
+
 It is this potential area of conflict, where the TC plays a vital role. TCs
+
+-> Show advocacy-1.png (after one 1 s)
+-> Show advocacy-2.png
+
 build trust with the organization and, building on that trust, act as an
 advocate for the interests of the community and the long term health of the
 software in the company. They are responsible for communicating technical as
 well community related risks to management. At the same time, TCs need to be
 strategic and work within the degrees of freedom afforded by their companies.
+
+-> Hide slides
 
 One example I remember is when I developed a system for remotely controlling
 HVAC systems in my InnerSource community. We successfully met the deadline to
@@ -518,7 +673,7 @@ contribution to the community and accelerate your own growth.
 In the past sections, we have learned about the responsibilities of TCs;
 ensuring product quality, keeping their community healthy, reducing the barrier
 to making contributions as well as upleveling the community and advocating the
-communities needs in their organization. We also talked about how to become a
+communitmes needs in their organization. We also talked about how to become a
 TC and what it takes to fill that role. For me personally, I can say that my
 years working as TC have been the best years of my professional life, so far.
 It's been a great experience, overall. In that sense, I hope this this video
