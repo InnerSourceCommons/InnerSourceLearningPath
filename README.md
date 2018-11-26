@@ -1,6 +1,6 @@
 # InnerSourceLearningPath
 
-The Inner Source Learning Path, sponsored by PayPal, is a series of short videos and articles explaining and teaching various aspects of inner source.
+The Inner Source Learning Path is a series of short videos and articles explaining and teaching various aspects of inner source. Their production was kindly sponsored by PayPal.
 You can find finished portions of learning path hosted in the O'Reilly Safari platform at http://bit.ly/inner-source-learning-path.
 The content will also be made available on the [InnerSource Commons] website.
 This repository holds the backing and planning material for the videos and articles hosted there.
