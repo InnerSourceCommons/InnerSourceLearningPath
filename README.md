@@ -41,7 +41,7 @@ For this reason we've found that it's helpful to have at least one dedicated rev
 
 ## Repository Setup
 
-This repository should hold the backing/planning material for the videos and articles (roughly) as follows:
+This repository holds the backing/planning material for the videos and articles as follows:
 
 ```
 section-name/assignments.md  // Contains the community assignments for authors and reviewers in this section.
