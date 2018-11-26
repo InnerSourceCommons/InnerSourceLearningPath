@@ -7,7 +7,7 @@ This repository holds the backing and planning material for the videos and artic
 
 ## Content Organization
 
-There are (roughly) four sections to the learning path:
+For now, there are four sections to the learning path each covering a specific topic:
 
   1. Introduction
   1. Product Owner
