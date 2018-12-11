@@ -55,8 +55,9 @@ section-name/article-n.md
 ## How to Get Involved
 
 Join the [InnerSource Commons] _Slack_ via the signup link in the left bar of the website and ask to join the [#learning-path] _Slack_ channel.
-Once there you'll see the conversations we're having about producing this content and can join the work.
+Once there you'll see the conversations we're having about producing this content and can join the work. Please remember that this group works under the [Chatham House Rule] that allows all of us to work in a safe environment for industrial cooperation and fostering external contributions.
 See you there!
 
 [InnerSource Commons]: http://www.innersourcecommons.org/
 [#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
+[Chatham House Rule]: https://www.chathamhouse.org/chatham-house-rule
