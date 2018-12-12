@@ -362,6 +362,7 @@ software in the company. They are responsible for communicating technical as
 well community related risks to management. At the same time, TCs need to be
 strategic and work within the degrees of freedom afforded by their companies.
 
+> Personal example (remove or convert to non 1st person perspective?)
 One example I remember is when I developed a system for remotely controlling
 HVAC systems in my InnerSource community. We successfully met the deadline to
 present the system on a trade fair, where it was an overall success. But we
@@ -454,6 +455,7 @@ explaining to contributors how the software works, more often than not leads to
 new insights on part of the TC and will help him identify opportunities to
 improve the software.
 
+> Personal example (remove or convert to non 1st person perspective?)
 In my community, we had multiple TCs, and it was the group of TCs who nominated
 contributors to become TCs. We were blessed with many contributors with deep
 technical expertise but we have made it a point to only then nominate
