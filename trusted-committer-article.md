@@ -11,7 +11,7 @@ and it is instrumental for the success of any InnerSource community.
 
 Generally speaking, the TC role is defined by its responsibilities, rather than
 by its privileges. On a very high level, TCs represent the interests of both
-their InnerSource community and the products the community is building.  They
+their InnerSource community and the products the community is building. They
 are concerned with the health of both the community and the product. So as a
 TC, you'll have both tech oriented and community oriented responsibilities and
 we'll explore both of these dimensions in the following sections. 
@@ -28,8 +28,6 @@ sometimes also refer to Contributors as _Guests_ or being part of a _Guest
 Team_. The _Contributor_ is expected to "fitting in" and for conforming to the
 communities expectations and processes.
 
-(new slide)
-
 The _Trusted Committer_ is always a member of the InnerSource community, which
 also sometimes referred to as the _Host Team_. In this analogy, the TC is
 responsible for both building the house and setting the house rules, to make
@@ -43,19 +41,19 @@ processes, the PO is responsible for defining and prioritizing requirements and
 stories for the community to implement. The PO often interacts a lot with the
 TC, e. g. in making sure that a requested or contributed feature actually
 belongs to the product. Especially in smaller, grass-roots type InnerSource
-communities, the TC usually also acts as a PO. Please
-check out our Product Owner Learning Path video for more detailed information.
+communities, the TC usually also acts as a PO. Please check out our Product
+Owner Learning Path video for more detailed information.
 
 ## Why role names matter
 
 The role of the TC is present in every successful InnerSource community but not
 every community uses that name. Some communities use the term Maintainer, but
 it turns out that conflicts with the technical role "Maintainer" defined by
-GitHub, for instance.  Apache, e. g., uses the term _Committer_, too, but they
-attach fewer and mostly tech oriented responsibilities to that role. The TC
-role with its additional community oriented responsibilities goes beyond that.
-The "Trusted" in TC conveys that they are trusted and thus empowered by both
-their management and their community to do their job. By fostering openness and
+GitHub, for instance.  Apache uses the term _Committer_, too, but they attach
+fewer and mostly tech oriented responsibilities to that role. The TC role with
+its additional community oriented responsibilities goes beyond that.  The
+"Trusted" in TC conveys that they are trusted and thus empowered by both their
+management and their community to do their job. By fostering openness and
 transparency, TCs build trust in the process and also in the product being
 built.
 
@@ -191,8 +189,9 @@ important. TCs often become mentors for junior developers and they explicitly
 spend time during Pull Requests not only to point out areas for improvement but
 also explain in detail why something needs to be improved, including the theory
 or experience behind it and offer suggestions on how it is best done. By doing
-so, the TCs will often be able to increase the speed of learning in their communities 
-far beyond what is common in traditional software development projects. 
+so, the TCs will often be able to increase the speed of learning in their
+communities far beyond what is common in traditional software development
+projects. 
 
 We believe that TCs should prioritize onboarding and mentoring during Pull
 Requests over reaching communicated release dates, unless there are  a very
@@ -232,7 +231,7 @@ community members.
 
 Let's talk about participation. There is a continuum of participation in an
 InnerSource community. There are people not even aware of the community,
-_newbies_ which are aware of the community but have not yet used or contributed
+_Newcomers_ which are aware of the community but have not yet used or contributed
 to the software, _consumers_ which already use the software, _contributors_ who
 have made at least one contribution and _TCs_, who take responsibility for both
 the software and the community. As a TC, you are responsible for moving
@@ -240,7 +239,7 @@ individuals along this continuum and to uplevel their ability to make
 contributions. In that sense, TCs act as force multipliers in their community. 
 
 As indicated earlier, it is helpful for TCs to engage in marketing their
-product and their community, in order to increase the number of newbies and
+product and their community, in order to increase the number of newcomers and
 consumers. They should communicate opportunities for making contributions to
 consumers and try to elicit and align the interests of potential contributors
 with that of the community. What often works well is if contributors were able
@@ -275,8 +274,8 @@ InnerSource compared to Open Source. There are a number of reasons for this.
 
 - The sheer number of potential contributors is lower in InnerSource
 - Contributors will want to contribute during their work time. That means
-  they are more time constrained compared to doing Open Source after office
-  hours.
+  they are more time constrained compared to doing Open Source, which also
+  happens after office hours.
 - Work in InnerSource might not necessarily be part of the official 
   performance goals of contributors so time spent working on InnerSource might
   detract from reaching these goals.
@@ -332,7 +331,7 @@ one of their jobs. As such, it is also important to help potential contributors
 to determine what contributions are welcome or needed. These can be code
 contributions but also non-code contributions, such as writing documentation,
 creating artwork or organizing events. One common way to do this is to tag
-"newbie tasks" in the issue tracker used by the community or implement a
+"newcomer tasks" in the issue tracker used by the community or implement a
 marketplace for open tasks, that contributors can use.
 
 Wrapping up. It is super important for InnerSource communities in a corporate
