@@ -362,22 +362,6 @@ software in the company. They are responsible for communicating technical as
 well community related risks to management. At the same time, TCs need to be
 strategic and work within the degrees of freedom afforded by their companies.
 
-> Personal example (remove or convert to non 1st person perspective?)
-One example I remember is when I developed a system for remotely controlling
-HVAC systems in my InnerSource community. We successfully met the deadline to
-present the system on a trade fair, where it was an overall success. But we
-knew that we still had to iron out a couple of wrinkles, before we could
-launch the system into the market. When the planned time for market
-introduction came closer and we were reasonably sure that we would not be ready
-in time, it was my responsibility as a TC to engage with management,
-explain the risks of launching before we were ready and to convince them to
-delay the introduction for a couple of days. These were difficult conversations
-but they were necessary to protect the community from the backlash we would
-have gotten, if our system would have performed suboptimally in the market. 
-Because a successful market introduction really was the goal we were all
-striving towards and taking that away would have been a huge blow to the
-communities motivation. 
-
 Related to this, TCs need to make sure that the community and individual
 contributors get public credit for their work, to make sure everyone is aware
 of the value contribution made. Public credit is kind of the currency in which
@@ -454,15 +438,6 @@ tell you, explaining something to someone else, in the TCs case
 explaining to contributors how the software works, more often than not leads to
 new insights on part of the TC and will help him identify opportunities to
 improve the software.
-
-> Personal example (remove or convert to non 1st person perspective?)
-In my community, we had multiple TCs, and it was the group of TCs who nominated
-contributors to become TCs. We were blessed with many contributors with deep
-technical expertise but we have made it a point to only then nominate
-contributors for the TC role, when they have made _social_ contributions to the
-community on their own initiative, such as helping with onboarding new
-contributors, supporting community members in forums and mailing lists or
-representing and marketing the community on company events. 
 
 Whether or not you have only one or multiple TCs depends on the size and the
 risk associated with the software developed in the InnerSource community. The
