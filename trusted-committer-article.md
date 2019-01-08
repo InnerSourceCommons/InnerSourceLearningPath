@@ -3,7 +3,7 @@
 ## Introducing The Trusted Committer Role
 
 The Trusted Committer (TC) role is one of the key roles in an InnerSource
-community. Think of TCs as the persons in a community that you trust with
+community. Think of TCs as the people in a community that you trust with
 important technical decisions and with mentoring contributors in order to get
 their contribution over the finish line. The TC role is both a demanding and a
 rewarding role to fulfill. It goes far beyond being an opinionated gatekeeper
@@ -13,36 +13,36 @@ Generally speaking, the TC role is defined by its responsibilities, rather than
 by its privileges. On a very high level, TCs represent the interests of both
 their InnerSource community and the products the community is building. They
 are concerned with the health of both the community and the product. So as a
-TC, you'll have both tech oriented and community oriented responsibilities and
-we'll explore both of these dimensions in the following sections. 
+TC, you'll have both tech oriented and community oriented responsibilities.  We'll
+explore both of these dimensions in the following sections. 
 
 Before we go into the details of what a TC actually does, let's spend some time
-contrasting the TC role to other roles in IS on a high level of abstraction and
-explain why we think the name is both apt and important.  (show slide) Let's
+contrasting the TC role to other roles in InnerSource on a high level of abstraction and
+explain why we think the name is both apt and important.  Let's
 start with the _Contributor_ role. A _Contributor_ - as the name implies -
-makes contributions to an InnerSource community; code but also non-code
-artefacts, such as bug-reports, feature-requests or documentation.
-Contributors might or might not be part of the community. They might be sent by
+makes contributions to an InnerSource community.  These contributions could be code or non-code
+artifacts, such as bug-reports, feature-requests or documentation.
+_Contributors_ might or might not be part of the community. They might be sent by
 another team to develop a feature that team might need. This is why we
-sometimes also refer to Contributors as _Guests_ or being part of a _Guest
-Team_. The _Contributor_ is expected to "fitting in" and for conforming to the
-communities expectations and processes.
+sometimes also refer to _Contributors_ as _Guests_ or being part of a _Guest
+Team_. The _Contributor_ is responsible for "fitting in" and for conforming to the
+community's expectations and processes.
 
 The _Trusted Committer_ is always a member of the InnerSource community, which
 also sometimes referred to as the _Host Team_. In this analogy, the TC is
 responsible for both building the house and setting the house rules, to make
 sure their guests are comfortable and can work together effectively. Compared
-to _Contributors_, TCs have earned the responsibility to push code closer to
+to contributors, TCs have earned the responsibility to push code closer to
 production and are generally allowed to perform tasks that have a higher level
 of risk associated with them.
 
-The _Product Owner_ is the third role in InnerSource.  Similar to agile
+The _Product Owner_ (PO) is the third role in InnerSource.  Similar to agile
 processes, the PO is responsible for defining and prioritizing requirements and
-stories for the community to implement. The PO often interacts a lot with the
-TC, e. g. in making sure that a requested or contributed feature actually
+stories for the community to implement. The PO interacts often with the
+TC, e.g. in making sure that a requested or contributed feature actually
 belongs to the product. Especially in smaller, grass-roots type InnerSource
 communities, the TC usually also acts as a PO. Please check out our Product
-Owner Learning Path video for more detailed information.
+Owner Learning Path segment for more detailed information.
 
 ## Why role names matter
 
@@ -59,7 +59,8 @@ built.
 
 So similar to how naming is important in writing software, it is for the
 roles in an InnerSource project as well. Choosing the right names and doing so
-consistently ensures that everyone has the same notion of the role and.
+consistently ensures that everyone has the same notion of the role and how it
+serves the community.
 
 Now you should hav a basic understanding of the role, why using the term
 trusted committer is appropriate, and understand how a trusted committer might
@@ -85,9 +86,9 @@ Let's start with the responsibility most often associated with the TC role:
 ensuring product quality. 
 
 In an InnerSource community, the TCs _own_ all tech related decisions,
-especially those related to product quality. Ownership implies, that TCs need
-to make sure the decisions in place are followed through which includes
-communicating and - if necessary - advocate these decisions, inside and outside
+especially those related to product quality. Ownership implies that TCs need
+to make sure the decisions in place are followed through.  This includes
+communicating and - if necessary - advocating these decisions, inside and outside
 of the community. TCs don't necessarily make all the tech related decisions
 themselves or do all the work to implement them.
 
@@ -101,7 +102,7 @@ most effective way for TCs to communicate this is to set an example for the
 expected quality standard themselves. We think it can be a worthwhile goal for
 an InnerSource community to try and distinguish itself from traditional
 software development projects not just in the way they organize development but
-also in the quality of the SW they produce, as well. A high software quality is
+also in the quality of the software they produce, as well. A high software quality is
 essential for building trust in an InnerSource community on part of their users
 and their management and we all know how one bad release can shatter this trust
 in an instant.
@@ -109,8 +110,8 @@ in an instant.
 The TCs also make sure that the community has the infrastructure and the tools
 they need to produce quality software. The tool that TCs will use most
 frequently for ensuring quality is the peer review, usually performed as part
-of Pull Requests. While everybody can usually start and participate in Pull
-Requests by pointing out necessary improvements, it is usually only the TCs who
+of pull requests. While everybody can usually start and participate in pull
+requests by pointing out necessary improvements, it is usually only the TCs who
 can ultimately accept and merge or reject a contribution. That is what we meant
 when we said "TCs can push code closer to production" earlier.  TCs should also
 help contributors during a PR to get their contribution over the finish line.
@@ -119,34 +120,32 @@ of a TC is not to accept all contributions by default, but to only accept those
 who meet the defined criteria in terms of quality and scope.  And TCs should
 avoid rewriting a contributors code to make it “fit” as much as possible, even
 if it means spend way more time supporting the contributors in a PR compared
-Doing it themselves.  TCs take a long term perspective and understand that
+to doing it themselves.  TCs take a long term perspective and understand that
 this kind of support is an investment both in the longevity of the community
-and the speed, at which it will move forward. 
+and the speed at which it will move forward. 
 
-Coming back to the projects scope: sometimes requirements or limitations for
+Coming back to project scope: sometimes requirements or limitations for
 the software being developed are not elicited up front but rather discovered
-during Development. TCs are also responsible for making sure these are captured
-and documented for both the POs and the contributors.
+during development. TCs are also responsible for making sure these findings are
+captured and documented for both the POs and the contributors.
 
-The TCs purview with respect to quality goes beyond PRs, though. TCs think
-about quality on a strategic level and ensure the longevity of the SW
+The TCs purview with respect to quality goes beyond pull requests, though. TCs think
+about quality on a strategic level and ensure the longevity of the software
 being built. That entails code oriented responsibilities from ensuring 
 cleanliness of the code to maintaining conceptual integrity of the overall
 software. It also entails more management oriented tasks such as making sure 
 that the community is given sufficient time to refactor their software or move
 a release date in favor of quality improvements, if the community deems that
 necessary. The effectiveness of the TC is strongly related to code health.
-Absent the latter, the TC will have to spend much their valuable time
+Absent the latter, the TC will have to spend much of their valuable time
 validating and documenting workarounds for bugs or a fragile architecture
 and will not have enough time to spend on onboarding and mentoring 
-Contributors.
+contributors.
 
-Summing up. Ensuring product quality is a key responsibility of TCs. They set
-quality standards and lead by example, they participate in pull request and 
-help contributors with their contributions to meet the quality standards and
-they take responsibility for the long term health of the software.
-
-(hide slide)
+In conclusion, ensuring product quality is a key responsibility of TCs. They set
+quality standards and lead by example.  They participate in pull requests and 
+help contributors with their contributions to meet the quality standards.  They
+also take responsibility for the long term health of the software.
 
 ## Keeping The Community Healthy
 
