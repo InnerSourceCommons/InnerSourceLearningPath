@@ -232,7 +232,7 @@ community members.
 
 Let's talk about participation. There is a continuum of participation in an
 InnerSource community. There are people not even aware of the community,
-_Newcomers_ which are aware of the community but have not yet used or contributed
+_newcomers_ which are aware of the community but have not yet used or contributed
 to the software, _consumers_ which already use the software, _contributors_ who
 have made at least one contribution and _TCs_, who take responsibility for both
 the software and the community. As a TC, you are responsible for moving
@@ -244,10 +244,10 @@ product and their community, in order to increase the number of newcomers and
 consumers. They should communicate opportunities for making contributions to
 consumers and try to elicit and align the interests of potential contributors
 with that of the community. What often works well is if contributors were able
-to work on something that made their day job easier, such as tools, e. g. 
+to work on something that made their day job easier, e.g. development tools and automation.
 
 Finally, it is the TCs responsibility to identify contributors with the
-potential to grow, to foster and to nurture that growth e. g. by getting
+potential to grow.  They should foster and nurture that growth by getting
 contributors excited for tackling challenging tasks and to mentor or coach them
 while they are performing them. This is, in our opinion, the noblest
 responsibility a TC has. It is rewarding for both the contributor and the
@@ -264,7 +264,7 @@ participate in an InnerSource community, as that will make their employees more
 valuable to them, to the company overall and it will help retain top talent.
 
 In summary, TCs need to attract new contributors and level up their ability to
-make contributions to ultimately level up the communities ability to create
+make contributions.  This activity ultimately levels up the community's ability to create
 better software faster. They do so by communicating opportunities to make 
 contributions and by helping and mentoring contributors to grow.
 
