@@ -283,12 +283,12 @@ InnerSource compared to Open Source. There are a number of reasons for this.
 
 It is therefore super important to make the process for making contributions
 and for onboarding contributors as frictionless as possible to avoid wasting a
-contributors time. This falls squarely into the responsibilities of TCs. There
+contributor's time. This falls squarely into the responsibilities of TCs. There
 are a number of things TCs can do in this department.
 
 - Have a good readme.md in each code repository. A good readme.md explains
   what's in the repository and what it can be used for. In addition, it should
-  provide detailed instructions on how to get, build, test and use the SW in
+  provide detailed instructions on how to get, build, test and use the software in
   the repository, including information about the license.
 - Have a good contributing.md which outlines what is expected of the
   contributor with respect to making a contribution. It should answer common
@@ -296,7 +296,7 @@ are a number of things TCs can do in this department.
 
     - How do I submit a bug report or feature request?
     - Who do I contact in case of questions and how can I reach them?
-    - What are conventions for code style, branching or commit messages, e. g.?
+    - What are conventions for code style, branching or commit messages?
     - What is the definition of done for a contribution?
     - What are the process steps that govern contributions?
     - What is expected of me in terms of supporting contributed code after
@@ -305,12 +305,12 @@ are a number of things TCs can do in this department.
       community operates?
 
 If you have an internal license attached to the software, which in some
-companies is a precondition to share SW across legal entities, include a copy
+companies is a precondition to share software across legal entities, include a copy
 of that license **and** an explanation of the rights and obligations of that
 license in layman's terms.
   
 In addition to these documentary tasks and similar to Open Source software 
-development, it should be easy and straightforward to run and test the SW
+development, it should be easy and straightforward to run and test the software
 being developed locally by potential contributors, so that they can start
 implementing and validating their contribution with as little effort as
 possible.
@@ -328,14 +328,16 @@ important for any InnerSource community to have one or more contact persons
 that are available for answering such questions. It is the TCs responsibility
 to make sure there is a community member "on call". Most commonly, the TCs
 themselves will fullfill that role, since onboarding new community members is
-one of their jobs. As such, it is also important to help potential contributors
+one of their jobs.
+
+It is also important to help potential contributors
 to determine what contributions are welcome or needed. These can be code
 contributions but also non-code contributions, such as writing documentation,
 creating artwork or organizing events. One common way to do this is to tag
 "newcomer tasks" in the issue tracker used by the community or implement a
 marketplace for open tasks, that contributors can use.
 
-Wrapping up. It is super important for InnerSource communities in a corporate
+In summary, it is super important for InnerSource communities in a corporate
 environment to keep the barriers to contributing as low as possible to get as
 many contributors as possible. TCs therefore make sure that users and
 contributors have both access to helpful documentation and people in the
