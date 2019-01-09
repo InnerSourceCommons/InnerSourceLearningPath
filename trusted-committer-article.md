@@ -471,10 +471,8 @@ TC and what it takes to fill that role. Working as a TC will be demanding but
 it will also be very fulfilling and will help you amplify your value contribution
 in your company.
 
-In that sense, we hope that this video inspired you to set off on a path
-towards becoming a TC as well. And if you're doubt, why not just try it out?
-
-We also hope that this video will help your organization understand the
+In that sense, we hope that this section inspired you to set off on a path
+towards becoming a TC.  We also hope that this section helped your organization understand the
 importance of having capable TCs for the success of any InnerSource initiative
 and the level of empowerment that this role requires.
 
