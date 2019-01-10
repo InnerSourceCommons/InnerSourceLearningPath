@@ -34,14 +34,17 @@ We can divide up the work and collaborate on each section via folks from the com
 | Post-Production           | 10 hr            | Responsible for post-production effects and editing for spoken videos. |
 | Post-Production Reviewer  | 1 hr             |                                                                        |
 
+### Task Management
+We track our tasks and discuss their status openly using our Github projects [Kanban board]. A card's label indicates which learning path section it belongs to (introduction, product owner, ...). Clicking on a label allows you to filter the cards by learning path section.
+
+Typically, a card bundles tasks about one artifact (e.g. written articles accompanying one learning path section) or small milestones (e.g. finishing the post production of one section). 
+Each card involves at least one person actively creating the content and a dedicated reviewer. 
+You can infer whether a task is currently actively developed or under review based on the card's column in the [Kanban board].
+
 A dedicated reviewer for each part of the production process does not mean that no one else can review.
 We expect that everyone will be invited to review all aspects of the work and that pull requests and video rehearsals will be posted in the [#learning-path] _Slack_ channel regularly.
 Schedules being what they are, occasionally it may be difficult for people to find the spare minutes to give timely review.
 For this reason we've found that it's helpful to have at least one dedicated reviewer for each part of learning path production who has volunteered and guaranteed to give timely review to all new content.
-
-## Task Management
-
-We track our tasks and discuss their status openly using our Github projects [Kanban board]. Each card is a task. The card's label indicates which learning path section the task belongs to (introduction, product owner, ...). Allowing you to filter easily ba task. 
 
 ## Repository Setup
 
