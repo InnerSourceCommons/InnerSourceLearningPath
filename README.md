@@ -34,6 +34,8 @@ We can divide up the work and collaborate on each section via folks from the com
 | Post-Production           | 10 hr            | Responsible for post-production effects and editing for spoken videos. |
 | Post-Production Reviewer  | 1 hr             |                                                                        |
 
+This list is not an exhaustive a description of all currently open or possible tasks. There are many additional ways to help the learning path effort (please see *How to Get Involved* section...)
+
 ### Task Management
 We track our tasks and discuss their status openly using our Github projects [Kanban board]. A card's label indicates which learning path section it belongs to (introduction, product owner, ...). Clicking on a label allows you to filter the cards by learning path section.
 
