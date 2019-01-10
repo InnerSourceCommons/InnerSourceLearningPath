@@ -193,6 +193,7 @@ Summing up.
 Ensuring product quality is a key responsibility of TCs. They 
 
 -> Show quality-2.png
+-> Show quality-2-2.png
 
 set quality standards and 
 
