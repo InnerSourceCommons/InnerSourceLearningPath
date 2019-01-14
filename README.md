@@ -23,7 +23,7 @@ The idea is that some people will prefer to learn the content via watching/liste
 ## Community Collaboration
 
 We'll work on this learning path via the [InnerSource Commons] community and coordinate our work in the [#learning-path] _Slack_ channel.
-We can divide up the work and collaborate on each section via folks from the community volunteering to fill one of these roles for the section.
+We can divide up the work and collaborate on each section via folks from the community volunteering to fill one of these roles for the section:
 
 | Role                      | Approximate Time | Notes                                                                  |
 | ------------------------- | ---------------- | ---------------------------------------------------------------------- |
@@ -33,6 +33,15 @@ We can divide up the work and collaborate on each section via folks from the com
 | Speaker Reviewer          | 2 hr             |                                                                        |
 | Post-Production           | 10 hr            | Responsible for post-production effects and editing for spoken videos. |
 | Post-Production Reviewer  | 1 hr             |                                                                        |
+
+This list is not an exhaustive a description of all currently open or possible tasks. There are many additional ways to help the learning path effort (please see *How to Get Involved* section...)
+
+### Task Management
+We track our tasks and discuss their status openly using our Github projects [Kanban board]. A card's label indicates which learning path section it belongs to (introduction, product owner, ...). Clicking on a label allows you to filter the cards by learning path section.
+
+Typically, a card bundles tasks about one artifact (e.g. written articles accompanying one learning path section) or small milestones (e.g. finishing the post production of one section). 
+Each card involves at least one person actively creating the content and a dedicated reviewer. 
+You can infer whether a task is currently actively developed or under review based on the card's column in the [Kanban board].
 
 A dedicated reviewer for each part of the production process does not mean that no one else can review.
 We expect that everyone will be invited to review all aspects of the work and that pull requests and video rehearsals will be posted in the [#learning-path] _Slack_ channel regularly.
@@ -58,6 +67,7 @@ Join the [InnerSource Commons] _Slack_ via the signup link in the left bar of th
 Once there you'll see the conversations we're having about producing this content and can join the work. Please remember that this group works under the [Chatham House Rule] that allows all of us to work in a safe environment for industrial cooperation and fostering external contributions.
 See you there!
 
+[Kanban board]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/projects/1
 [InnerSource Commons]: http://www.innersourcecommons.org/
 [#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
 [Chatham House Rule]: https://www.chathamhouse.org/chatham-house-rule
