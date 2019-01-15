@@ -4,8 +4,9 @@ This accompanying text will appear as a part of the learning path (like [this ex
 # Introduction
 
 This Learning Path gives an introduction to inner source.
-Inner source is the strategy of applying open source practices and principles to internal software development.
-This strategy results in producing the highest quality software that is responsive and nimble to the changing needs of its many internal consumers.
+Inner source is the application of open source practices and principles to internal software development.
+This strategy enables wide and effective collaboration, producing software that is responsive and nimble to the changing needs of its many internal consumers.
+
 
 This Learning Path teaches how to recognize situations that are good candidates for inner source.
 We'll outline at a high level how inner source can help in those situations.
