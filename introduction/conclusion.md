@@ -13,6 +13,4 @@ They key principles upon-which effective inner source works are **voluntary code
 While this training contains a high-level overview of inner source, there are many more details useful in making inner source actually work for your team.
 If you want to stay connected to the ongoing conversation around inner source and its best practices, then join [the InnerSource Commons](http://innersourcecommons.org).
 The commons sponsors a Slack channel, an inner source patterns working group, and multiple in-person summits each year.
-We're also planning to introduce more segments in this learning path outlining detail around the product owner, trusted committer, and contributor roles.
-Announcements on the availabilty of future learning path segments will be made in the commons.
 Participation in the commons is a great way to stay connected with the latest in inner source.
