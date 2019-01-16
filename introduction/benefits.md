@@ -24,7 +24,10 @@ A host team can do its best requirements gathering on the work it produces, but 
 While it may be only one single guest team submitting the change, that team is likely representative of many other consumers.
 
 In addition to this alignment, there is also a general training and education of contributors as they work with and learn from trusted committers.
-Having made a code contribution, they feel a stake in the host team project.
+This interaction helps contributors to learn and grow in their career, resulting in **higher job satisfaction**. 
+Project documentation improves to enable these contributions at-scale.
+Contributors feel a stake in the host team project.
 It's something that they recommend to their colleagues or new teams that they join.
-They understand the project better and are able to answer questions about it to others, relieving the host team of some of some of that burden.
+They understand the project better and are able to answer questions about it to others, relieving the host team of some of that burden.
+More people contributing to a project naturally cross-pollinates ideas from all over the company.
 This learning and cross-team alignment over time serves to **break down traditional company silos**.
