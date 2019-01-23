@@ -3,9 +3,8 @@ This accompanying text will appear as a part of the learning path (like [this ex
 
 # What Problems Does InnerSource Solve?
 
-Inner source encourages and rewards collaboration from anyone, regardless of their location in company organizational structure.
-This approach differs from the results seen in traditional organizations, where ideas and work tend to stay trapped within the boundaries of internal corporate hierarchy and the work and planning processes that align themselves to that hierarchy.
-Inner source provides a way for these ideas and work to break free of those traditional bounds to the benefit of all involved.
+Inner source encourages and rewards collaboration and code reuse with anyone, regardless of their position in a company's organizational structure.
+This approach differs from what is seen in traditional organizations where ideas and work product tend to stay trapped within the boundaries of the internal corporate hierarchy and its silos.
 Let's explore one situation that gives an example of this idea. 
 
 Imagine two teams at the same company deliver separate pieces of software with one team's software depending on that of the other.
