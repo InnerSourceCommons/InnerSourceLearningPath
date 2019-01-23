@@ -5,7 +5,7 @@ This accompanying text will appear as a part of the learning path (like [this ex
 
 This Learning Path gives an introduction to inner source.
 Inner source is the application of open source practices and principles to software development within the enterprise.
-Inner source software remains proprietary to the company, but within it is open for anyone to use and contribute.
+Inner source software remains proprietary to the company, but within it is open for anyone to use it and contribute to it.
 This strategy enables wide and effective collaboration, producing software that is responsive and nimble to the changing needs of its many internal stakeholders.
 
 
