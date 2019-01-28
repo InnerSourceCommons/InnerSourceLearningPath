@@ -3,10 +3,13 @@ This accompanying text will appear as a part of the learning path (like [this ex
 
 # What is InnerSource?
 
-The basic idea of InnerSource is this: If a consuming team can't get what it needs by submitting a feature request then it may submit a pull request instead.
-The producing team partners to review and accept the pull request and the functionality it implements.
-In this context of a code submission, we call the submitting team the **Guest** team and the receiving team the **Host** team.
+Let's say that team A uses software produced by team B.
+Team A submits a feature request to team B, but team B isn't able to implement that feature in time for team A.
+In an InnerSource setting, if team A can't get this feature request then it submits a pull request instead.
+That is to say team A implements the feature directly in team B's software and submits a pull request with the code changes.
+Team B partners to review and accept the submitted code.
 
+In this example, we call team A the **Guest** team and team B the **Host** team.
 The terms **Guest** and **Host** suggest a situation analogous to receiving a visitor in the home.
 In that situation, most people want to be a good host.
 They ensure that things are kept neat and tidy in anticipation of their guests' arrival.
