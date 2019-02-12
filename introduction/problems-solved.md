@@ -38,5 +38,5 @@ Inner source applies to the same type of situation where a consuming team is una
 Inner source provides a way for the teams to gain the benefits of _wait it out_, _workaround_, and _escalate_ without the associated drawbacks.
 
 Inner source also provides a general improvement to engineering culture as engineers have the chance to work with a wider variety of new technologies and people.
-Developers mentor and learn from one other as they share ideas and solutions across organizational silos.
+Developers mentor and learn from one another as they share ideas and solutions across organizational silos.
 Engineers and teams can reuse internal solutions to commodity problems, allowing them to focus on higher value streams of work for the organization.
