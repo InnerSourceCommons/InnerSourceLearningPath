@@ -28,13 +28,14 @@
    - Understand that you have to ‘sell’ your idea - communicate early and often -before- investing a lot of time in coding an idea (fail fast)
    - ‘Selling’ your participation to your management team
    - Understand the general purpose of the project enough to know what your contribution makes sense as an overall part of the project instead of just your personal snowflake
+   - If your contribution is large, be sure to start queuing it up early enough so that it's "in" by the time that you need it.
 
 ## Technical Concerns
    - Read the CONTRIBUTING.md and follow it.
    - Update any documentation that goes along with your code.
    - Take feedback as data that helps you refine your idea/code
    - Even after merge, if the Host team has any questions or additional help needed from  you for them to understand and maintain what you contributed, be timely and responsive.
-   - How to behave in pull requests.
+   - Behave politely in pull request.
    - Comments - contributions should be documented.
    - Fixes for typos and builds are great contributions.
    - Style of code should be similar to what code is already present.
