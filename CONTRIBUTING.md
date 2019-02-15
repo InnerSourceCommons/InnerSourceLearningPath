@@ -4,7 +4,7 @@ Thanks for contributing.  A few tips:
 * Write each new sentence on a new line.
 GitHub allows leaving comments on a line-by-line basis.
 Review and comment on the content of submitted text is much easier if there are multiple lines on-which to leave comments.
-Sentences on consecutive lines will be collapsed into a single paragraph (like this one) in the  final rendring of the content.
+Sentences on consecutive lines will be collapsed into a single paragraph (like this one) in the final rendering of the content.
 * When reviewing a pull request, make suggestions via regular comment.
 If you have a specific text to suggest, use the [the _GitHub_ "suggestion" feature][suggestion feature].
 
