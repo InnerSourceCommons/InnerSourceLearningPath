@@ -18,6 +18,7 @@ Without inner source, this situation easily leads to a stressed, overworked team
 However, if the host team operates via inner source, the engineering resources required to build those features will appear in-proportion to their importance in the form of guest contributors.
 **Inner source becomes a force multiplier** that allows a host team to temporarily act larger than its actual size during times of high demand.
 When the demand has ended, the team throughput scales back to normal levels, all without any micromanagement of team headcount or work items.
+Inner source allows engineering time to organically flow where the organization needs it at a given time.
 
 Beyond the raw work that the host team is able to accomplish in its system, regular inner source contributions give the host team **better requirements and prioritization alignment with all of its consumers**.
 A host team can do its best requirements gathering on the work it produces, but when the consumer itself is the one submitting the work the chances are much higher that the resulting change is aligned to just what the consumer needs.
