@@ -26,6 +26,7 @@ To aid in this explanation, we'll name a few key individuals on the guest and ho
 First, the **Product Owner** determines what functionality the host team is willing to accept as a contribution.
 The **Contributor** is the individual on the guest team that submits the code contribution for review by the host team.
 The **Trusted Committer** represents the host team in providing any timely support and mentorship that the contributor needs to successfully submit the pull request.
+On small, grass roots efforts a single person often fills _both_ the product owner and trusted committer roles.
 
 With those definitions, here is the basic outline of an inner source contribution.
 
