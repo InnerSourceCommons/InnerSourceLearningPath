@@ -31,7 +31,7 @@ On small, grass roots efforts a single person often fills _both_ the product own
 With those definitions, here is the basic outline of an inner source contribution.
 
 * Guest team or contributor requests a feature from the host team.
-* Product owner ensures that user stories representing the feature request are created.
+* Product owner ensures that user stories representing the feature request are created, either by members of the guest team or host team.
 These stories should describe the requested feature in terms agreeable to the guest team.
 They also list any details from the host team on how the feature should be delivered in order for the work to be accepted.
 Examples of such details include architecture constraints, coding conventions, dependency usages, data contracts, etc.
