@@ -1,7 +1,7 @@
 This file holds the text to accompany the [What is InnerSource?](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321608) video.
 This accompanying text will appear as a part of the learning path (like [this example](https://www.safaribooksonline.com/learning-paths/learning-path-lean/9781491999738/9781491946527-/part01ch01.html)).
 
-# What is InnerSource?
+# How does InnerSource work?
 
 Let's say that team A uses software produced by team B.
 Team A submits a feature request to team B, but team B isn't able to implement that feature in time for team A.
