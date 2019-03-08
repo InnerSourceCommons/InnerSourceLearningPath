@@ -24,8 +24,10 @@
    - Have a contributing mindset - think outside your project and look for places to contribute instead of reinventing the wheel.
       - A contributing mindset starts with a shared use mindset.  You’ll likely have to be comfortable using other folks’ stuff before it is realistic to contribute to it.
          - Think about contributing.  Every time you’re working on something in a project that is not related to the purpose or domain of that project, look for the proper home for that code.
+         - If you're going to spend the time on it anyway, you might as well do it in a place where you're throwing in your lot with others who are also working in the area.
    - Use the Guest in a home analogy.
    - Nothing too small to contribute!!!!!!
+   - It's better for the company overall to put your time into something that can be reused and shared rather than just your own thing.  Play as part of the larger team!
    - Understand that you have to ‘sell’ your idea - communicate early and often -before- investing a lot of time in coding an idea (fail fast)
    - ‘Selling’ your participation to your management team - let them know of the benefits we've already discussed.
    - Understand the general purpose of the project enough to know what your contribution makes sense as an overall part of the project instead of just your personal snowflake
