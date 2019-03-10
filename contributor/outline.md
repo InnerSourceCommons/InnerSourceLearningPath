@@ -26,19 +26,23 @@
          - Think about contributing.  Every time you’re working on something in a project that is not related to the purpose or domain of that project, look for the proper home for that code.
          - If you're going to spend the time on it anyway, you might as well do it in a place where you're throwing in your lot with others who are also working in the area.
    - Use the Guest in a home analogy.
+    - Can a contributor coach a *host* team on contributing? -> You may suggest something in a humble way, but after all it's their house. (You shouldn't put with overly shitty hosts/home-owners though)
    - Nothing too small to contribute!!!!!!
    - It's better for the company overall to put your time into something that can be reused and shared rather than just your own thing.  Play as part of the larger team!
    - Understand that you have to ‘sell’ your idea - communicate early and often -before- investing a lot of time in coding an idea (fail fast)
-   - ‘Selling’ your participation to your management team - let them know of the benefits we've already discussed.
+   - ‘Selling’ your participation to your management team - let them know of the benefits we've already discussed. (Term: "Inner Source marketing")
    - Understand the general purpose of the project enough to know what your contribution makes sense as an overall part of the project instead of just your personal snowflake
-   - If your contribution is large, be sure to start queuing it up early enough so that it's "in" by the time that you need it.
+   - If your contribution is large, be sure to start queuing it up early enough so that it's "in" by the time that you need it
+   - Remember that everyone is working together to do their best, leave any sense of entitlement or privilege behind when interacting with the host team.
 
 ## Technical Concerns
    - Read the CONTRIBUTING.md and follow it.
+    - Keep in mind larger timezone differences when managing your expectations for reaction times.
    - If you are contributing the fix to an issue, be sure to follow all guidance and instruction documented in the issue.
    - Update any documentation that goes along with your code.
    - Take feedback as data that helps you refine your idea/code
    - Even after merge, if the Host team has any questions or additional help needed from  you for them to understand and maintain what you contributed, be timely and responsive.
+    - the '30 days warranty' pattern appears to be relevant here. Otherwise given the change of teams in person a "fear of maintenance" and the matching "fear to consume iss artifacts" can ensue.
    - If you are stuck while working on a contribution, then check the project documentation for ways to get support.
    Don't spin or give up on your valuable addition.
    - Behave politely in pull request.
@@ -46,8 +50,14 @@
    - Fixes for typos and builds are great contributions.
    - Style of code should be similar to what code is already present.
 
+   - How acceptable / feasible / desired are upstream connected forks that work in a stable/experimental alternative setup? 
+    - The OSS environment has such forks where the experimental fork accepts more than the stable fork but there is exchange/upstreaming of proven experimental forks. (e.g. Psi/Psi+ or possibly mainline/LTS Linux)
+    - In an Inner Source environment this might be less feasible due to a smaller amount of resources, however might make a pure research / r&d / maintenance transfer easier
+
+
 ## Wrap-up/Final Thoughts
    - Treat contribution as a means to help enhance your knowledge (and career)
    - Remember you don’t necessarily have all of the answers
    - Release early, release often (‘Perfect is the enemy of good enough’)
    - Have fun!
+
