@@ -48,9 +48,11 @@ In the process of doing so, they come to better understand the host team system 
 They can use it more effectively and help other consumers to do so as well.
 
 It's critical that this mentorship for contributors is _Prioritized_ by the host team.
-The team strives to make trusted committer time available to mentor guest team contributors _at the time that they need it_ as opposed to when it is convenient.
+The host team should strive to make time to mentor guest team contributors _at the time that the contributor needs it_ as opposed to when it's convenient to the host team.
 At times at may be a culture change for engineers on the host team to spend time helping others to code rather than just coding themselves.
-This mentorship is valuable to the individuals involved and the company in general and is worth doing well.
+This mentorship is valuable to both the individual contributor and the host, and it is worth doing well.
+It proves to be mutually beneficial in the long run, by improving the code, the contributor model and forging or
+improving relationships within an organization that may not have existed otherwise.
 Open source readily recognizes this point and considers it as an honor to achieve trusted committership on a project.
 
 ## Voluntary Code Contribution
