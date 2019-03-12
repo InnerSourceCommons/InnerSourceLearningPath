@@ -30,6 +30,7 @@
    - Nothing too small to contribute!!!!!!
    - It's better for the company overall to put your time into something that can be reused and shared rather than just your own thing.  Play as part of the larger team!
    - Understand that you have to ‘sell’ your idea - communicate early and often -before- investing a lot of time in coding an idea (fail fast)
+    - What best practices might be shared so that the reader/contributor knows how to "sell" their idea? Give a framework or protocol to follow so that the contributor is helpful to the owner rather then needy/burdensome.
    - ‘Selling’ your participation to your management team - let them know of the benefits we've already discussed. (Term: "Inner Source marketing")
    - Understand the general purpose of the project enough to know what your contribution makes sense as an overall part of the project instead of just your personal snowflake
    - If your contribution is large, be sure to start queuing it up early enough so that it's "in" by the time that you need it
