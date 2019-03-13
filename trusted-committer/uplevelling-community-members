@@ -1,0 +1,164 @@
+## Uplevelling Community Members 
+
+Let's talk about participation. There is a continuum of participation in an
+InnerSource community. There are people not even aware of the community,
+_newcomers_ which are aware of the community but have not yet used or contributed
+to the software, _consumers_ which already use the software, _contributors_ who
+have made at least one contribution and _TCs_, who take responsibility for both
+the software and the community. As a TC, you are responsible for moving
+individuals along this continuum and to uplevel their ability to make
+contributions. In that sense, TCs act as force multipliers in their community. 
+
+As indicated earlier, it is helpful for TCs to engage in marketing their
+product and their community, in order to increase the number of newcomers and
+consumers. They should communicate opportunities for making contributions to
+consumers and try to elicit and align the interests of potential contributors
+with that of the community. What often works well is if contributors were able
+to work on something that made their day job easier, e.g. development tools and automation.
+
+Finally, it is the TCs responsibility to identify contributors with the
+potential to grow.  They should foster and nurture that growth by getting
+contributors excited for tackling challenging tasks and to mentor or coach them
+while they are performing them. This is, in our opinion, the noblest
+responsibility a TC has. It is rewarding for both the contributor and the
+TC alike. We have heard from TCs that mentoring and seeing people level up
+their abilities more than makes up for the fact that they have less time to
+actually spend writing software. 
+
+As mentioned in the previous section, learning and personal growth are reasons
+why people join and stick around in an InnerSource community. Upleveling their
+contributors is one of the most powerful tools TCs have at their disposal to
+increase the speed, output and longevity of their community. It is also one of
+the key arguments with which to convince management to allow their employees to
+participate in an InnerSource community, as that will make their employees more 
+valuable to them, to the company overall and it will help retain top talent.
+
+In summary, TCs need to attract new contributors and level up their ability to
+make contributions.  This activity ultimately levels up the community's ability to create
+better software faster. They do so by communicating opportunities to make 
+contributions and by helping and mentoring contributors to grow.
+
+## Reducing Barriers To Entry
+
+Soliciting contributions is one of the things that is more challenging in
+InnerSource compared to Open Source. There are a number of reasons for this.
+
+- The sheer number of potential contributors is lower in InnerSource
+- Contributors will want to contribute during their work time. That means
+  they are more time constrained compared to doing Open Source, which also
+  happens after office hours.
+- Work in InnerSource might not necessarily be part of the official 
+  performance goals of contributors so time spent working on InnerSource might
+  detract from reaching these goals.
+
+It is therefore super important to make the process for making contributions
+and for onboarding contributors as frictionless as possible to avoid wasting a
+contributor's time. This falls squarely into the responsibilities of TCs. There
+are a number of things TCs can do in this department.
+
+- Have a good readme.md in each code repository. A good readme.md explains
+  what's in the repository and what it can be used for. In addition, it should
+  provide detailed instructions on how to get, build, test and use the software in
+  the repository, including information about the license.
+- Have a good contributing.md which outlines what is expected of the
+  contributor with respect to making a contribution. It should answer common
+  questions, such as:
+
+    - How do I submit a bug report or feature request?
+    - Who do I contact in case of questions and how can I reach them?
+    - What are conventions for code style, branching or commit messages?
+    - What is the definition of done for a contribution?
+    - What are the process steps that govern contributions?
+    - What is expected of me in terms of supporting contributed code after
+      the contribution was accepted?
+    - What is the code of conduct and what are the guidelines to how the
+      community operates?
+
+If you have an internal license attached to the software, which in some
+companies is a precondition to share software across legal entities, include a copy
+of that license **and** an explanation of the rights and obligations of that
+license in layman's terms.
+  
+In addition to these documentary tasks and similar to Open Source software 
+development, it should be easy and straightforward to run and test the software
+being developed locally by potential contributors, so that they can start
+implementing and validating their contribution with as little effort as
+possible.
+
+There are two common models for making contributions, today: 
+_shared repository_ and _fork and join_. Both have advantages and as a TC, 
+you'll want to support both models to accommodate the different needs of your
+potential and current contributors.
+
+Oftentimes, potential contributors will have questions they would like to
+have answered before they make a contribution. Those could be tech oriented
+questions, questions regarding contributions or quite simply questions aimed at
+figuring out if there's somebody to talk to in the community. It is therefore 
+important for any InnerSource community to have one or more contact persons
+that are available for answering such questions. It is the TCs responsibility
+to make sure there is a community member "on call". Most commonly, the TCs
+themselves will fullfill that role, since onboarding new community members is
+one of their jobs.
+
+It is also important to help potential contributors
+to determine what contributions are welcome or needed. These can be code
+contributions but also non-code contributions, such as writing documentation,
+creating artwork or organizing events. One common way to do this is to tag
+"newcomer tasks" in the issue tracker used by the community or implement a
+marketplace for open tasks, that contributors can use.
+
+In summary, it is super important for InnerSource communities in a corporate
+environment to keep the barriers to contributing as low as possible to get as
+many contributors as possible. TCs therefore make sure that users and
+contributors have both access to helpful documentation and people in the
+community to answer any questions they might have and that they can get up
+and running in no time. Generally speaking, TCs should make sure that the
+the onboarding experience is a great one.
+ 
+## Advocating The Community's Needs
+
+InnerSource communities exist in a corporate context and are thus more
+constrained than Open Source Communities. There can be times when a business
+unit's interests are at odds with those of the community. Companies are more
+concerned with the bottom line and thus with the products produced by an
+InnerSource community. They are also often more concerned with the short and
+medium term results of the community.  InnerSource communities, on the other
+hand understand that a healthy community is a precondition for healthy code and
+are naturally more concerned with the longevity of both the product and the
+community. This is why many InnerSource initiatives were modeled after the
+Apache Way, which has the motto "Community over Code". 
+
+It is in this potential area of conflict where the TC plays a vital role. TCs
+build trust with the organization and, building on that trust, act as an
+advocate for the interests of the community and the long term health of the
+software in the company. They are responsible for communicating technical as
+well community related risks to management. At the same time, TCs need to be
+strategic and work within the degrees of freedom afforded by their companies.
+
+Related to this, TCs need to make sure that the community and individual
+contributors get public credit for their work, to make sure everyone is aware
+of the valuable contribution made. Public credit is kind of the currency in which
+contributors are being paid, especially those who contribute voluntarily. It is
+good practice to commend valuable contributors publicly and making sure their
+managers are CC'd as well. Neglecting to give credit, on the other hand, can be
+hugely frustrating for individual contributors and very detrimental for the
+health of the community overall. Neglecting to give credit can occur in
+companies which are not yet accustomed to the InnerSource working model or when
+the software being developed by the InnerSource community runs _behind the
+scenes_ and managers were simply not aware of the community's contribution. A
+good TC will engage with management and advocate the need for
+public credit in this case. Failure to give credit is almost never done in bad
+faith, though, and TCs should be able to easily correct that. 
+
+Another common example where the TC's advocacy is needed is when contributors
+are not given time or permission to make a contribution.  This situation can can happen if
+the community is not working on a product that belongs to the domain of the contributor's
+department and thus not relevant for the respective manager's goals.
+In this case, the TC should engage in discussion with the contributor's manager
+and lobby for an alternative decision.
+
+In summary, there are many situations in which TCs need to advocate the
+interests of individual contributors and their community as a whole to the
+organization. They do this because they understand that the value that the
+community can provide to the organization depends on the health and longevity
+of the community and ultimately on a trustworthy relationship between both.
