@@ -1,25 +1,40 @@
 # InnerSource Contributor Content Outline
 
-## The Contributor in InnerSource (Introduction)
+## The Contributor in InnerSource
 
-   - Quick Overview of Roles
-      - Explain how contributor role relates to other roles
-   - Point to the other roles in the Learning Path.
+  - Introduce the speaker.
+  - Quick overview of the _Contributor_ role.
+  - Summary of the roles of InnerSource and how each relates to _Contributor_.
+  - Summary of the upcoming segments and what each covers.
+
+Outline for this section inspired by the [Trusted Committer introduction video].
 
 ## The Contribution Ethos
 
-   - Have a contributing mindset - think outside your project and look for places to contribute instead of reinventing the wheel.
-      - A contributing mindset starts with a shared use mindset.  You’ll likely have to be comfortable using other folks’ stuff before it is realistic to contribute to it.
-         - Think about contributing.  Every time you’re working on something in a project that is not related to the purpose or domain of that project, look for the proper home for that code.
-         - If you're going to spend the time on it anyway, you might as well do it in a place where you're throwing in your lot with others who are also working in the area.
-   - Use the Guest in a home analogy.
-      - Nothing too small to contribute!!!!!!
-   - Fixes for typos and builds are great contributions.
-   - Have fun!
+Is there a pithy statement that can sum up the contribution mindset?
 
-   
+  - A contributing mindset starts with a shared use mindset.
+    - When you have technical needs that are outside of the domain of your project,
+    look around to see if there is a shared solution that you can use.
+    - Share anecdote or hypothetical situation of a time where a team was able to reuse what others had done rather than reinventing the wheel.
+    Briefly enumerate the benefits of using shared solutions.
+  - Using shared solutions puts you in a position to become a _Contributor_.
+    - There will be times when you wish that the shared solution has some new feature.
+    - Don't _Wait it Out_ or _Work Around_, spend your time and energy making the change directly in the shared project.
+    - Briefly enumerate the benefits of contributing.
+    This should be taken from the **Benefits** segment.
+  - Contributing applies to all levels of project managements, not just code.
+    - Opening issues.
+    - Improving documention.
+    - Fixing builds.
+    - Nothing too small to contribute (e.g. documentation typo).
+      - [Here is one](https://github.com/tensorflow/models/pull/4784) that I made to `tensorflow/models`.
+      A simple label change in a graph.
+     
 ## How to Contribute
 - How to get your contribution accepted.
+
+- Use the Guest in a home analogy.
 
    - A lot of times I want to make a contribution but it’s hard to be OK with them saying “no” or that their goals are different then mine as a contributor.  How do you walk away from that feeling good.
       - Adjust and have realistic expectations
@@ -60,6 +75,7 @@
       - Reduce single points of failure (team or personal)
       
    - Contribution Rationale
+         - If you're going to spend the time on it anyway, you might as well do it in a place where you're throwing in your lot with others who are also working in the area.
       - Prevent/reduce duplication of efforts through many teams
       - Increasing personal reputation
       - Things that you gain as a contributor.
@@ -71,15 +87,14 @@
 
    - It's better for the company overall to put your time into something that can be reused and shared rather than just your own thing.  Play as part of the larger team!
    - Treat contribution as a means to help enhance your knowledge (and career)
+            - If you're going to spend the time on it anyway, you might as well do it in a place where you're throwing in your lot with others who are also working in the area.
+
+      - Have fun!
+
 
 ## Conclusion
 
 - Review what we've learned/taught together.
    - Have fun!
 
-## Unassigned
-   - How acceptable / feasible / desired are upstream connected forks that work in a stable/experimental alternative setup? 
-    - The OSS environment has such forks where the experimental fork accepts more than the stable fork but there is exchange/upstreaming of proven experimental forks. (e.g. Psi/Psi+ or possibly mainline/LTS Linux)
-    - In an Inner Source environment this might be less feasible due to a smaller amount of resources, however might make a pure research / r&d / maintenance transfer easier
-
-
+[Trusted Committer introduction video]: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
