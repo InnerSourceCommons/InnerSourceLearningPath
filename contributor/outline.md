@@ -11,8 +11,6 @@ Outline for this section inspired by the [Trusted Committer introduction video].
 
 ## The Contribution Ethos
 
-Is there a pithy statement that can sum up the contribution mindset?
-
   - A contributing mindset starts with a shared use mindset.
     - When you have technical needs that are outside of the domain of your project,
     look around to see if there is a shared solution that you can use.
@@ -23,6 +21,7 @@ Is there a pithy statement that can sum up the contribution mindset?
     - Don't _Wait it Out_ or _Work Around_, spend your time and energy making the change directly in the shared project.
     - Briefly enumerate the benefits of contributing.
     This should be taken from the **Benefits** segment.
+    - An InnerSource _Contributor_ knows that it doesn't matter where the code goes as long as the team can get the functionality that theyneed.
   - Contributing applies to all levels of project managements, not just code.
     - Opening issues.
     - Improving documention.
@@ -30,11 +29,30 @@ Is there a pithy statement that can sum up the contribution mindset?
     - Nothing too small to contribute (e.g. documentation typo).
       - [Here is one](https://github.com/tensorflow/models/pull/4784) that I made to `tensorflow/models`.
       A simple label change in a graph.
-     
-## How to Contribute
-- How to get your contribution accepted.
 
-- Use the Guest in a home analogy.
+## How to Contribute
+
+  - Introduce the guest in a home analogy.
+  A good guest:
+    - Knocks at the door.
+    - Anticipates and follows house rules.
+    - Understands they are not the home owner and acts accordingly.
+  Let's talk about how each of these ideas applies in InnerSource.
+  - Getting in
+    - In the real world their are several ways that guests are invited in.
+      - Knock on the door unexpected.
+      - Knock on the door after invited.
+      - An "open" sign lets them know they can walk right in without knocking
+    - With InnerSource projects there are several ways that code gets in.
+      - Sometimes you just open a pull request.
+      - At times you may need to get a feature request accepted before opening the pull request that fulfills it.
+      - You may need to talk to the host team before interacting with the project digitally.
+    - Many InnerSource projects outline how they like to be approached by potential _Contributors_ in their `README.md` or `CONTRIBUTING.md` files.
+  - Following the rules
+  
+
+
+- How to get your contribution accepted.
 
    - A lot of times I want to make a contribution but it’s hard to be OK with them saying “no” or that their goals are different then mine as a contributor.  How do you walk away from that feeling good.
       - Adjust and have realistic expectations
