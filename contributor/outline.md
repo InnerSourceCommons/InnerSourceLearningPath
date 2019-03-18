@@ -91,7 +91,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     - Match the existing coding style, indentation, etc, even if it's not what you would normally do.
     A guest contribution for a feature is not the time to introduce a new way of structuring or formatting project code.
   - Submitting the pull request
-    - Test out your contribution before opening pull request.
+    - Test out your contribution before opening the pull request.
       - Ideally you can create a modified build of the shared project with your changes and try it out in your own project that consumes it.
     - Ensure that your pull request includes any documentation updates that are relevant to your changes.
     - Be sure that your pull request includes just the relevant changes for the issue you're completing.
@@ -124,9 +124,9 @@ Outline for this section inspired by the [Trusted Committer introduction video].
 
 ## Conclusion
 
-- Review what we've learned/taught together.
+Review what we've learned/taught together.
   - Quick overview of the _Contributor_ role.
-  - Summary of the segments and what each covered.
+  - Summary of these _Contributor_ segments and what each covered.
   - Summary of the other sections in the learning path with invitation to watch.
   - Summary of the InnerSource Commons and invitation to join.
   
