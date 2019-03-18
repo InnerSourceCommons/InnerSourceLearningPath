@@ -99,37 +99,39 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     Making PRs too broad and large makes them more difficult to review and longer before they're accepted.
   
 ## Benefits of Contribution
-- Personally
-- Team
-- Company
 
-   - Discuss the value of contribution
-      - ‘With many eyes, all bugs are shallow’
-      - Improve cross-company collaboration
-      - Reduce single points of failure (team or personal)
-      
-   - Contribution Rationale
-         - If you're going to spend the time on it anyway, you might as well do it in a place where you're throwing in your lot with others who are also working in the area.
-      - Prevent/reduce duplication of efforts through many teams
-      - Increasing personal reputation
-      - Things that you gain as a contributor.
-         - Help from others on the project in implementing your feature.
-         - Help from the broader community in maintaining what is written.  You are not stuck with the long-term burden of maintenance.
-         - Heavy influence into the final product.
-         - Assurance that the final product will be useful for you.
-         - Other features built into the final product will be more likely to complement the work that you have done.
-
-   - It's better for the company overall to put your time into something that can be reused and shared rather than just your own thing.  Play as part of the larger team!
-   - Treat contribution as a means to help enhance your knowledge (and career)
-            - If you're going to spend the time on it anyway, you might as well do it in a place where you're throwing in your lot with others who are also working in the area.
-
-      - Have fun!
-
+  - Personally
+    - Puts your time into a place where others are also working.
+    It's not just up to you to maintain this area.
+    - Help and support from the host team in implementing your changes.
+    - Your reputation and impact expands to outside your team.
+    - Learn from engineers on the host team and their coding and working styles.
+    Extra learning comes as part of your day job.
+    No stretch or overtime assignment needed.
+    - Varied, fun and personally fulfilling.
+  - Team
+    - You can get improvements you need in other projects on a timeline that you control.
+    - High influence into the development, progression, and ecosystem of projects that you depend on.
+    - Relieved of the long-term burden of maintenance of your contributions.
+    The host team maintains them as part of maintaining the overall project.
+    - Key knowledge spread across multiple people and teams.
+    Improves the [bus factor].
+    - Do the right thing for the company by putting your work into shared projects that others can use instead of your own one-offs.
+  - Company
+    - Improved cross-company collaboration.
+    - Better overall project quality.
+    "With many eyes, all bugs are shallow"
+    - Reduced duplication of projects.
+    - Better alignment of shared projects to the needs of their internal consumers.
 
 ## Conclusion
 
 - Review what we've learned/taught together.
    - Have fun!
+  - Quick overview of the _Contributor_ role.
+  - Summary of the roles of InnerSource and how each relates to _Contributor_.
+  - Summary of the upcoming segments and what each covers.
 
 [Trusted Committer introduction video]: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
 [30-day warranty]: https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md
+[bus factor]: https://en.wikipedia.org/wiki/Bus_factor
