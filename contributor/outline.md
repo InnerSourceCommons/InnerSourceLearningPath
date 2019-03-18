@@ -127,11 +127,14 @@ Outline for this section inspired by the [Trusted Committer introduction video].
 ## Conclusion
 
 - Review what we've learned/taught together.
-   - Have fun!
   - Quick overview of the _Contributor_ role.
-  - Summary of the roles of InnerSource and how each relates to _Contributor_.
-  - Summary of the upcoming segments and what each covers.
+  - Summary of the segments and what each covered.
+  - Summary of the other sections in the learning path with invitation to watch.
+  - Summary of the InnerSource Commons and invitation to join.
+  
+Outline for this section inspired by the [Trusted Committer conclusion].
 
+[Trusted Committer conclusion]: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323932
 [Trusted Committer introduction video]: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
 [30-day warranty]: https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md
 [bus factor]: https://en.wikipedia.org/wiki/Bus_factor
