@@ -91,6 +91,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     - Match the existing coding style, indentation, etc, even if it's not what you would normally do.
     A guest contribution for a feature is not the time to introduce a new way of structuring or formatting project code.
   - Submitting the pull request
+    - Run the project build and automated validation before opening a pull request.
     - Test out your contribution before opening the pull request.
       - Ideally you can create a modified build of the shared project with your changes and try it out in your own project that consumes it.
     - Ensure that your pull request includes any documentation updates that are relevant to your changes.
@@ -121,6 +122,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     "With many eyes, all bugs are shallow"
     - Reduced duplication of projects.
     - Better alignment of shared projects to the needs of their internal consumers.
+    - Improved and streamlined work environment retains more employees.
 
 ## Conclusion
 
