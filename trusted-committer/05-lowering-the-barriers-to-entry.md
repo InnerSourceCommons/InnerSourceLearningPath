@@ -1,0 +1,76 @@
+# Lowering the Barriers To Entry
+
+Soliciting contributions is one of the things that is more challenging in
+InnerSource compared to Open Source. There are a number of reasons for this.
+
+- The sheer number of potential contributors is lower in InnerSource
+- Contributors will want to contribute during their work time. That means
+  they are more time constrained compared to doing Open Source, which also
+  happens after office hours.
+- Work in InnerSource might not necessarily be part of the official 
+  performance goals of contributors so time spent working on InnerSource might
+  detract from reaching these goals.
+
+It is therefore super important to make the process for making contributions
+and for onboarding contributors as frictionless as possible to avoid wasting a
+contributor's time. This falls squarely into the responsibilities of TCs. There
+are a number of things TCs can do in this department.
+
+- Have a good readme.md in each code repository. A good readme.md explains
+  what's in the repository and what it can be used for. In addition, it should
+  provide detailed instructions on how to get, build, test and use the software in
+  the repository, including information about the license.
+- Have a good contributing.md which outlines what is expected of the
+  contributor with respect to making a contribution. It should answer common
+  questions, such as:
+
+    - How do I submit a bug report or feature request?
+    - Who do I contact in case of questions and how can I reach them?
+    - What are conventions for code style, branching or commit messages?
+    - What is the definition of done for a contribution?
+    - What are the process steps that govern contributions?
+    - What is expected of me in terms of supporting contributed code after
+      the contribution was accepted?
+    - What is the code of conduct and what are the guidelines to how the
+      community operates?
+
+If you have an internal license attached to the software, which in some
+companies is a precondition to share software across legal entities, include a copy
+of that license **and** an explanation of the rights and obligations of that
+license in layman's terms.
+  
+In addition to these documentary tasks and similar to Open Source software 
+development, it should be easy and straightforward to run and test the software
+being developed locally by potential contributors, so that they can start
+implementing and validating their contribution with as little effort as
+possible.
+
+There are two common models for making contributions, today: 
+_shared repository_ and _fork and join_. Both have advantages and as a TC, 
+you'll want to support both models to accommodate the different needs of your
+potential and current contributors.
+
+Oftentimes, potential contributors will have questions they would like to
+have answered before they make a contribution. Those could be tech oriented
+questions, questions regarding contributions or quite simply questions aimed at
+figuring out if there's somebody to talk to in the community. It is therefore 
+important for any InnerSource community to have one or more contact persons
+that are available for answering such questions. It is the TCs responsibility
+to make sure there is a community member "on call". Most commonly, the TCs
+themselves will fullfill that role, since onboarding new community members is
+one of their jobs.
+
+It is also important to help potential contributors
+to determine what contributions are welcome or needed. These can be code
+contributions but also non-code contributions, such as writing documentation,
+creating artwork or organizing events. One common way to do this is to tag
+"newcomer tasks" in the issue tracker used by the community or implement a
+marketplace for open tasks, that contributors can use.
+
+In summary, it is super important for InnerSource communities in a corporate
+environment to keep the barriers to contributing as low as possible to get as
+many contributors as possible. TCs therefore make sure that users and
+contributors have both access to helpful documentation and people in the
+community to answer any questions they might have and that they can get up
+and running in no time. Generally speaking, TCs should make sure that the
+the onboarding experience is a great one.
