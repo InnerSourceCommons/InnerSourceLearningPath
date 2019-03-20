@@ -120,7 +120,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
   - Company
     - Improved cross-company collaboration.
     - Better overall project quality.
-    "With many eyes, all bugs are shallow"
+    [Linus' Law](https://en.wikipedia.org/wiki/Linus%27s_Law): "With many eyes, all bugs are shallow"
     - Reduced duplication of projects.
     - Better alignment of shared projects to the needs of their internal consumers.
     - Improved and streamlined work environment retains more employees.
