@@ -51,7 +51,8 @@ Outline for this section inspired by the [Trusted Committer introduction video].
       - In all of these interactions, be prepared to "sell" your contribution to the host team.
         - Articulate the value that the contribution will bring to their ecosystem.
         - Remind them that they are getting free engineering help with their project.
-        - Offer to fulfill a [30-day warranty] on your submission.
+        - Offer to fulfill a [30-day warranty] on your submission. 
+          - This can alleviate the host teams' fear of the contributors not being available for support with fixing bugs after the time on contribution.
     - Many InnerSource projects outline how they like to be approached by potential _Contributors_ in their `README.md` or `CONTRIBUTING.md` files.
   - Following the rules
     - The `README.md` or `CONTRIBUTING.md` often not only contains information about how to approach the host team,
