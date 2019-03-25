@@ -9,8 +9,8 @@ Russ
 This e-mail, like all written and spoken communications within the InnerSource Commons,
 is subject to the Chatham House Rule which states that information may be freely used so long as there is no attribution.      
 
-Note: We've been interpreting the Chatham House Rule to say that we can safely share these detailed notes within the InnerSource Commons (innersource-commons@googlegroups.com);
-so this distribution list for the notes is only to members of the InnerSource Commons.
+Note: We've been interpreting the Chatham House Rule to say that we can safely share these detailed notes within the InnerSource Commons (innersource-commons@googlegroups.com)
+This distribution list for the notes is only to members of the InnerSource Commons.
 Accordingly, **please do not distribute these notes beyond the members of the InnerSource Commons**.      
     
 ## Chatham House Rule      
