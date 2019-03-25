@@ -11,21 +11,22 @@ Outline for this section inspired by the [Trusted Committer introduction video].
 
 ## Becoming an InnerSource Contributor
 
-  - A contributing mindset starts with a shared use mindset.
-    - When you have technical needs that are outside of the domain of your project,
+  - A contributing mindset starts with a sharing mindset.
+    - When you have technical needs that are orthoganal of the domain of your project,
     look around to see if there is a shared solution that you can use.
     - Briefly enumerate the benefits of using shared solutions.
   - Using shared solutions puts you in a position to become a _Contributor_.
     - There will be times when you wish that the shared solution has some new feature.
-    - Don't _Wait it Out_ or _Work Around_, spend your time and energy making the change directly in the shared project.
+    - Don't _Wait it Out_ or _Work Around_; spend your time and energy making the change directly in the shared project.
     - Briefly enumerate the benefits of contributing.
     This should be taken from the **Benefits** segment.
-    - You may need to spend a bit of time explaining these benefits to your management hierarchy in order to have their support to spend your time contributing.
-    - An InnerSource _Contributor_ knows that it doesn't matter where the code goes as long as they get the needed functionality.
-  - Contributing applies to all levels of project managements, not just code.
+    - You may need to spend a time explaining these benefits to your management hierarchy in order for their support for the time you spend contributing.
+    - An InnerSource _Contributor_ knows that it doesn't matter where the code goes as it's in a well-run project that gives them the functionality they need.
+  - The scope of contributions goes beyond "just code".
     - Opening issues.
     - Improving documention.
     - Fixing builds.
+    - A test case that shows a bug in the existing code base.
     - Nothing too small to contribute (e.g. documentation typo).
       - [Here is one](https://github.com/tensorflow/models/pull/4784) that I made to `tensorflow/models`.
       A simple label change in a graph.
@@ -67,12 +68,13 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     - Feedback from the host team is not any kind of personal criticism to you.
     Treat and value it as data to help your contribution become all the better.
     - If the host team decides not to accept a contribution, don't take it personally.
+    Work with them to understand their reasoning.
     Remember and respect that the host team has ultimate decision over the project.
     They're the ones that are signing up to maintain it, after all!
     Try to collaborate on an aspect of the contribution that you all agree on,
     and look for another way to fill the rest of your needs.
   
-## Mechanics of Contributing
+## Contribution Gotchas
 
   - This section contains practical advice and gotchas to remember when making an InnerSource contribution.
   - Preparing to work.
@@ -84,12 +86,12 @@ Outline for this section inspired by the [Trusted Committer introduction video].
   This type of high-level, up-front agreeemment early will save time in rework or rejection of your pull request down the road.
     - Understand how the host team would like you to reach out for help and questions while you're working.
   - Development
-    - If you get stuck, try to unblock yourself by reading the project documentation or looking at other parts of the code in the project.
+    - If you get stuck, first try to unblock yourself by reading the project documentation or looking at other parts of the code in the project.
     - After trying the above if you're still stuck then reach out to the host team for help.
     It doesn't do either side any good for you to spin forever on a problem that could be resolved in a few-minute conversation with someone more knowledgable about the project.
     It's OK to ask for help.
     You aren't expected to be as knowledgable and proficient as you might be on the full-time projects that your team owns.
-    - Match the existing coding style, indentation, etc, even if it's not what you would normally do.
+    - Match the existing coding style, indentation, etc, even if it's not what you would normally do and even if it is not specified in the `CONTRIBUTING.md`.
     A guest contribution for a feature is not the time to introduce a new way of structuring or formatting project code.
   - Submitting the pull request
     - Run the project build and automated validation before opening a pull request.
@@ -106,20 +108,21 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     It's not just up to you to maintain this area.
     - Get help and support from the host team in implementing your changes.
     - Your reputation and impact expands to outside your team.
-    - Learn from engineers on the host team and their coding and working styles.
+    - Accelerate your personal growth by learning from engineers on the host team and their coding and working styles.
     This extra learning comes as part of your day job - no stretch or overtime assignment needed.
     - Varied, fun, and personally fulfilling.
   - Team
-    - You can get improvements you need in other projects on a timeline that you control.
-    - High influence into the development, progression, and ecosystem of projects that you depend on.
-    - Relieved of the long-term burden of maintenance of your contributions.
+    - You can get improvements you need in other projects on a timeline that you can influence.
+    - Opportunity to influence the development, progression, and ecosystem of projects that you depend on.
+    - Reduced long-term burden of maintenance of your contributions.
     The host team maintains them as part of maintaining the overall project.
     - Key knowledge spread across multiple people and teams.
     Improves the [bus factor].
     - Do the right thing for the company by putting your work into shared projects that others can use instead of your own one-offs.
   - Company
     - Improved cross-company collaboration.
-    - Better overall project quality.
+    - More learning and knowledge sharing and thus more valuable employees.
+    - Better overall product quality.
     [Linus' Law](https://en.wikipedia.org/wiki/Linus%27s_Law): "With many eyes, all bugs are shallow"
     - Reduced duplication of projects.
     - Better alignment of shared projects to the needs of their internal consumers.
