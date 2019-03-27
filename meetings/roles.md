@@ -45,7 +45,8 @@ The _Crier_ reminds people in _Slack_ of the upcoming meeting.
 * Ensure that the announcement has enough information for people to join the meeting _even if they don't have the calendar invite_.
 That means at a minimum the announcement has the meeting day, time, and call info.
 * Try to make the announcement engaging so that even people that have not participated before may be interested in joining.
-* Here is an [example announcement][#learning-path announcement] in the #learning-path channel and [its share][#innersourcecommons share] in the #innersourcecommons channel.
+A good way to do that is to copy the agenda text from the invite into the announcement.
+* Here is an [example announcement][#learning-path announcement] in the [#learning-path] channel and [its share][#innersourcecommons share] in the [#innersourcecommons] channel.
 
 <a name="facilitator"></a>
 ## Facilitator
