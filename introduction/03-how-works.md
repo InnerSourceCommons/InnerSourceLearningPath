@@ -46,4 +46,4 @@ More engineering time stays focused on producing code that solves company proble
 
 ## Additional Resources
 
-* The [Trusted Committer](https://github.com/paypal/InnerSourcePatterns/blob/master/project-roles/trusted-committer.md) pattern.
+* The [Trusted Committer](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.md) pattern.
