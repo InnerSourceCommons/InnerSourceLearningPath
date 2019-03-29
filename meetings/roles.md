@@ -14,7 +14,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 
 **Within 24 Hours of Previous Meeting**
 * [ ] Create an agenda document for the next meeting by copying this [template][template] into the [learning path folder].
-* [ ] Open the document and follow the steps in the "_Do these things to set up this document_" section.
+* [ ] Open the document and follow the steps in the **Do these things to set up this document** section.
 * [ ] Send the calendar invite for the next meeting.
 This invite must include:
 
@@ -103,12 +103,15 @@ This time should be scheduled as close as possible after the end of the meeting.
 * [ ] Distill your copious notes into just what is needed to document the salient points and assignments of the meeting.
 Be sure to include the time of next meeting.
 * [ ] Put these polished notes into the **Notes** section of the agenda document.
+* [ ] Announce in the [#learning-path] channel that the notes are in the agenda document.
+In your announcement include a sharing link to the document itself.
 * [ ] Email the notes to everyone on the meeting invite.
 This email should include (in order):
 
   * Link to the agenda document where the notes are located.
   * Chatham House Rule disclaimer.
   * Copy/pasted notes from the agenda document.
+  
 
 ### Tips
 
@@ -116,6 +119,7 @@ This email should include (in order):
 * Make the notes clear and to the point.
 Part of your service as _Scribe_ is to summarize the key points of what was said
 so that recipients don't need to wade through all of the conversation in order to understand its essentials.
+* Here is a [sample notes announcement].
 * Here is a [sample email].
 * An easy way to send the notes to everyone on the meeting invite is to "Reply all" to the invite.
  
@@ -131,3 +135,4 @@ so that recipients don't need to wade through all of the conversation in order t
 [#learning-path announcement]: https://paypalflow.slack.com/archives/CARTU4XV2/p1553011676104100
 [#innersourcecommons share]: https://paypalflow.slack.com/archives/C0FJ7D2QH/p1553011694061300
 [sample email]: ./examples/notes-email.md
+[sample notes announcement]: https://paypalflow.slack.com/archives/CARTU4XV2/p1553120120110300
