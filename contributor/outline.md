@@ -20,7 +20,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     - Don't _Wait it Out_ or _Work Around_; spend your time and energy making the change directly in the shared project.
     - Briefly enumerate the benefits of contributing.
     This should be taken from the **Benefits** segment.
-    - You may need to spend a time explaining these benefits to your management hierarchy in order for their support for the time you spend contributing.
+    - You may need to spend some time explaining these benefits to your management hierarchy in order for their support for the time you spend contributing.
     - An InnerSource _Contributor_ knows that it doesn't matter where the code goes as it's in a well-run project that gives them the functionality they need.
   - The scope of contributions goes beyond "just code".
     - Opening issues.
