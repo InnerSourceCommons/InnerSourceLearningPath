@@ -12,7 +12,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
 ## Becoming an InnerSource Contributor
 
   - A contributing mindset starts with a sharing mindset.
-    - When you have technical needs that are orthoganal of the domain of your project,
+    - When you have technical needs that are orthogonal to the domain of your project,
     look around to see if there is a shared solution that you can use.
     - Briefly enumerate the benefits of using shared solutions.
   - Using shared solutions puts you in a position to become a _Contributor_.
