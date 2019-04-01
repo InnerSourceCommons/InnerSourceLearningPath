@@ -26,7 +26,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     - Opening issues.
     - Improving documention.
     - Fixing builds.
-    - A test case that shows a bug in the existing code base.
+    - Creating or fixing test cases that show a bug in the existing code base.
     - Nothing too small to contribute (e.g. documentation typo).
       - [Here is one](https://github.com/tensorflow/models/pull/4784) that I made to `tensorflow/models`.
       A simple label change in a graph.
