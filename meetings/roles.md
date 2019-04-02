@@ -25,7 +25,7 @@ This invite must include:
 
 * The _Scribe_ should have included the time of the meeting in the notes from the previous meeting. 
 * Include everyone from the previous meeting on the invite for the next meeting.
-An easy way to do this using _Outlook_ is to reply by meeting to the notes email from the previous meeting.
+An easy way to do this is to use the _Reply with meeting_ function to the notes email from the previous meeting.
 * The title of the meeting should be "Inner Source Learning Path Working Session".
 * You can use your favorite corporate conference call system or create a Google Hangout.
 * Check out this [writeup][gdoc sharing] if you need help creating a comment-enabled link to the agenda document.
