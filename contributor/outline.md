@@ -74,7 +74,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     Try to collaborate on an aspect of the contribution that you all agree on,
     and look for another way to fill the rest of your needs.
   
-## Contribution Gotchas
+## Mechanics of Contributing
 
   - This section contains practical advice and gotchas to remember when making an InnerSource contribution.
   - Preparing to work.
