@@ -13,7 +13,10 @@ The roles are:
 The _Scheduler_ sends the calendar invite for the meeting.
 
 **Within 24 Hours of Previous Meeting**
-* [ ] Create an agenda document for the next meeting by copying this [template][template] into the [learning path folder].
+* [ ] Visit the [learning path folder].
+* [ ] Right-click on `Meeting - 2019 - MM - DD`.
+* [ ] Select `Make a copy`.
+* [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 * [ ] Open the document and follow the steps in the **Do these things to set up this document** section.
 * [ ] Send the calendar invite for the next meeting.
 This invite must include:
