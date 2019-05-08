@@ -50,7 +50,7 @@ This section teaches the mindset, the habits, technical approaches and other det
 ### Audience level
 _Describe the level of difficulty for the material, so that we can segment the intended audience_
 
-* _We should discuss this. PO had "familiar with the Agile or Lean process" here, I'm not sure if this part needs that._  
+* Familiar with Git pull request workflow.
 
 ### Author Bio
 _Please provide the bio._
