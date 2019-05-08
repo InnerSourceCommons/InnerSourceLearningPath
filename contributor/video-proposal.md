@@ -24,7 +24,7 @@ This section teaches the mindset, the habits, technical approaches and other det
 
 ### What you’ll learn—and how you can apply it
 
-* Introduction: How to contribute to an InnerSource project in a good and what it means to be an InnerSource Contributor  
+* Introduction: What is an InnerSource Contributor and why is it important.
 * Becoming an InnerSource Contributor: Mindsets and habits of successful contributors
 * The Contributor Ethos: Getting more specific on execution of the mindset and habits   
 * Mechanics of Contributing: More technical aspects of contribution to ensure success
