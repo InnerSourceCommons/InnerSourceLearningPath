@@ -68,6 +68,7 @@ The _Facilitator_ conducts the meeting so that all of the agenda items are finis
 
 * Have the agenda open and share your screen with the people on the call.
 * Guide the group through reviewing each agenda item from top to bottom.
+* Before discussing each item, briefly remind people of what it is so that they're up to speed and can contribute to the conversation).
 * The purpose of reviewing each agenda item is to generate actionable, assigned next steps.  Accordingly:
 
   * Guide the conversation towards understanding what is blocking the item's progression and what can be done to advance it.
