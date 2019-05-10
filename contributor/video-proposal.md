@@ -19,7 +19,7 @@ This file represents the text intended for the video proposal (as-described in [
 
 ### What is this video about, and why is it important?
 The Contributor role is one the most central roles in InnerSource - without Contributors, there would not be anything to receive or discuss. 
-There's far more to it than just dumping some stuff in a branch or issue.
+There's far more to it than just dumping some content in a branch or issue.
 This section teaches the mindset, the habits, technical approaches and other details around this role.  It enables you to successfully contribute to the host teams work, foster good relationships and be a happy InnerSource contributor.
 
 ### What you’ll learn—and how you can apply it
