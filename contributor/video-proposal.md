@@ -40,7 +40,7 @@ This section teaches the mindset, the habits, technical approaches and other det
 ### Prerequisites
  
 * Please watch the [Intro to InnerSource Video](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504)
-* Basic Understanding of the Trusted Committer role
+* Also watch the [Introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925) to the Trusted Committer role.
 
 
 ### Materials or downloads needed in advance
