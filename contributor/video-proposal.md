@@ -26,7 +26,7 @@ This section teaches the mindset, the habits, technical approaches and other det
 
 * Introduction: What is an InnerSource Contributor and why is it important.
 * Becoming an InnerSource Contributor: Mindsets and habits that lead to becoming a contributor
-* The Contributor Ethos: Getting more specific on execution of the mindset and habits   
+* The Contributor Ethos: Mindset to keep while acting as an InnerSource Contributor.   
 * Mechanics of Contributing: More technical aspects of contribution to ensure success
 * Benefits of Contribution: What's in it for me (the guest), the receiving team (the host) and our company?
 * Conclusion: Recap of this section and pointers to more content
