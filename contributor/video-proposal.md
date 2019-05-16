@@ -41,7 +41,7 @@ This section teaches the mindset, the habits, technical approaches and other det
  
 * Please watch the [Intro to InnerSource Video](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504)
 * Also watch the [Introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925) to the Trusted Committer role.
-
+* The [lowering the barriers to entry](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929) video of the Trusted Committer role can be a good addition to understand more of why the Trusted Committer might ask for different things.
 
 ### Materials or downloads needed in advance
  
