@@ -12,9 +12,10 @@ Outline for this section inspired by the [Trusted Committer introduction video].
 ## Becoming an InnerSource Contributor
 
   - A contributing mindset starts with a sharing mindset.
-    - When you start adding new functionality to your project, ask yourself if this is new functionality (at least partially) 
-    reflects a general issue that needs a solution, or if this new functionality has technical needs that are orthogonal to the domain of your project. 
-    If you can answer the question with yes, look around to see if there is a shared solution that you can use or improve to fit your needs.
+    - When you start adding new functionality to your project, ask yourself:
+      - Does the new functionality (at least partially) reflect a general issue that needs a solution?
+      - Does this new functionality have technical needs that are orthogonal to the domain of your project?
+    If you can answer either question with "Yes", then look around to see if there is a shared solution that you can use or improve to fit your needs.
     - Briefly enumerate the benefits of using shared solutions.
   - Using shared solutions puts you in a position to become a _Contributor_.
     - There will be times when you wish that the shared solution has some new feature.
@@ -127,7 +128,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     - Better overall product quality.
     [Linus' Law](https://en.wikipedia.org/wiki/Linus%27s_Law): "With many eyes, all bugs are shallow"
     - Engineering efficiency.
-    Code tends to get more modular and focusses on particular problem solutions. 
+    Code tends to get more modular and focuses on particular problem solutions. 
     This typically makes the code more reusable, replaceable and secure.
     - Better alignment of shared projects to the needs of their internal consumers.
     - Improved and streamlined work environment retains more employees.
