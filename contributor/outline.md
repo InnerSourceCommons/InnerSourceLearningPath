@@ -12,7 +12,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
 ## Becoming an InnerSource Contributor
 
   - A contributing mindset starts with a sharing mindset.
-    - When you start adding new functionality to your project, ask yourself if this is new functionality (at least partially) 
+    - When you start adding new functionality to your project, ask yourself if this is new functionality (at least partially), 
     reflects a general issue that needs a solution, or if this new functionality has technical needs that are orthogonal to the domain of your project. 
     If you can answer the question with yes, look around to see if there is a shared solution that you can use or improve to fit your needs.
     - Briefly enumerate the benefits of using shared solutions.
