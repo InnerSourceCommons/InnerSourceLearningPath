@@ -18,7 +18,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 * [ ] Open the document and follow the steps in the **Do these things to set up this document** section.
-* [ ] Send the calendar invite for the next meeting.
+* [ ] Update the calendar invite for the next meeting.
 This invite must include:
 
   * Conference call info.
@@ -26,10 +26,6 @@ This invite must include:
 
 ### Tips
 
-* The _Scribe_ should have included the time of the meeting in the notes from the previous meeting. 
-* Include everyone from the previous meeting on the invite for the next meeting.
-An easy way to do this is to use the _Reply with meeting_ function to the notes email from the previous meeting.
-* The title of the meeting should be "Inner Source Learning Path Working Session".
 * You can use your favorite corporate conference call system or create a Google Hangout.
 * Check out this [writeup][gdoc sharing] if you need help creating a write-enabled link to the agenda document.
 
