@@ -38,18 +38,18 @@ This means that guest teams should be able to have an understanding of:
 * Progress on feature requirements
 * Decision making of the host team
 
-When possible, the above should be communicated in such a way that does lend itself to tribal knowledge.
+When possible, the above should be communicated clearly and in details, from teams internal definitions of items to special case scenarios specific to the project, in a manner that can be easily understood to those that are not part of the core team.
 
 ## Prioritized Mentorship
 
 _Mentorship_ from host team to guest team via trusted committers is a key aspect of inner source.
 Contributors on guest teams are upleveled so that they understand enough about the host team system to change it successfully.
-In the process of doing so, they come to better understand the host team system as a general consumer.
+In the process of doing so, they come to better understand the host team's software system as a general consumer.
 They can use it more effectively and help other consumers to do so as well.
 
 It's critical that this mentorship for contributors is _Prioritized_ by the host team.
 The host team should strive to make time to mentor guest team contributors _at the time that the contributor needs it_ as opposed to when it's convenient to the host team.
-At times at may be a culture change for engineers on the host team to spend time helping others to code rather than just coding themselves.
+At times it may be a culture change for engineers on the host team to spend time helping others to code rather than just coding themselves.
 This mentorship is valuable to both the individual contributor and the host, and it is worth doing well.
 It proves to be mutually beneficial in the long run, by improving the code, the contributor model and forging or
 improving relationships within an organization that may not have existed otherwise.
