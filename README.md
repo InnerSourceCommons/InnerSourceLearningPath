@@ -65,9 +65,17 @@ section-name/article-n.md
 
 Join the [InnerSource Commons] _Slack_ via the signup link in the left bar of the website and ask to join the [#learning-path] _Slack_ channel.
 Once there you'll see the conversations we're having about producing this content and can join the work. Please remember that this group works under the [Chatham House Rule] that allows all of us to work in a safe environment for industrial cooperation and fostering external contributions.
+
+If you want to hit the ground running then please:
+
+* Take a **look at the the finished videos** (linked at https://innersourcecommons.org/learningpath/).
+* Review the **finished articles** for the [Trusted Committer] and [Introduction] sections.
+
 See you there!
 
 [Kanban board]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/projects/1
 [InnerSource Commons]: http://www.innersourcecommons.org/
 [#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
 [Chatham House Rule]: https://www.chathamhouse.org/chatham-house-rule
+[Trusted Committer]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer
+[Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/introduction
