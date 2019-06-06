@@ -96,13 +96,13 @@ This time should be scheduled as close as possible after the end of the meeting.
 **During Meeting**
 
 * [ ] Note the first names of each meeting attendee.
-* [ ] At the beginning, encourage everyone to type in salient points and assignments directly into the document.
-* [ ] Watch closely what is being typed to ensure that all salient points and assignments make it in.
+* [ ] At the beginning, encourage everyone to type in key points and assignments directly into the document.
+* [ ] Watch closely what is being typed to ensure that all key points and assignments make it in.
 Make note to yourself of any missed information.
 
 **Within 24 Hours of Meeting**
 
-* [ ] Clean up everyone's notes plus your own into a cohesive set of salient points and assignments of the meeting.
+* [ ] Clean up everyone's notes plus your own into a cohesive set of key points and assignments of the meeting.
 Be sure to include the time of next meeting.
 * [ ] These polished notes should be in the **Notes** section of the agenda document.
 * [ ] Announce in the [#learning-path] channel that the notes are in the agenda document.
