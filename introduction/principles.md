@@ -1,12 +1,12 @@
 This file holds the text to accompany the [InnerSource Principles](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321610) video.
 This accompanying text will appear as a part of the learning path (like [this example](https://www.safaribooksonline.com/learning-paths/learning-path-lean/9781491999738/9781491946527-/part01ch01.html)).
 
-# Inner Source Principles
+# InnerSource Principles
 
 Every company, team, project, and individual is different.
-Because of that fact, the exact way that the concept of inner source works will vary from one situation to another.
-At its core, however, are four principles that form the bedrock of any successful instance of inner source.
-These principles have inspiration in successful open source projects and must be respected and present in order for inner source to achieve the benefits described earlier.
+Because of that fact, the exact way that the concept of InnerSource works will vary from one situation to another.
+At its core, however, are four principles that form the bedrock of any successful instance of InnerSource.
+These principles have inspiration in successful open source projects and must be respected and present in order for InnerSource to achieve the benefits described earlier.
 
 The principles are:
 * **Openness**
@@ -22,10 +22,10 @@ In being open, a project is set up in such a way that contributing is as frictio
 Projects should be discoverable and well documented.
 Anyone within an organization should be able to find them and ramp up without an inordinate amount of direct guidance from host team members.
 Host team contact information should be prevalent with as many channels as makes sense for the project.
-Host team intentions to inner source their project should be broadcast through relevant organization channels.
+Host team intentions to use the InnerSource approach in their project should be broadcast through relevant organization channels.
 
 By no means is the above an exhaustive list. Project openness will typically be directly related to how successful a project is
-in terms of inner sourcing: The more open it is, the less barriers are put in place for prospective contributors. The less open
+in terms of their application of the InnerSource approach: The more open it is, the less barriers are put in place for prospective contributors. The less open
 it is, the more difficult it becomes for anyone to contribute.
 
 ## Transparency
@@ -42,7 +42,7 @@ When possible, the above should be communicated clearly and in details, from tea
 
 ## Prioritized Mentorship
 
-_Mentorship_ from host team to guest team via trusted committers is a key aspect of inner source.
+_Mentorship_ from host team to guest team via trusted committers is a key aspect of InnerSource.
 Contributors on guest teams are upleveled so that they understand enough about the host team system to change it successfully.
 In the process of doing so, they come to better understand the host team's software system as a general consumer.
 They can use it more effectively and help other consumers to do so as well.
@@ -57,7 +57,7 @@ Open source readily recognizes this point and considers it as an honor to achiev
 
 ## Voluntary Code Contribution
 
-The first word _Voluntary_ means that engagement in inner source from both the guest and host teams occurs of their own free will.
+The first word _Voluntary_ means that engagement in InnerSource from both the guest and host teams occurs of their own free will.
 The guest team voluntarily donates code to the host team and the host team voluntarily accepts it.
 This opt-in nature means that each team needs to be certain that their involvement adds value to the others' objectives.
 Never is a host team required to accept a contribution that isn't in ultimate alignment with their overall mission.
