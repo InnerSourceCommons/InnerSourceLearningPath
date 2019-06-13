@@ -4,7 +4,7 @@ The purpose of this document is the hold the supplementary and planning material
 
 These learning path segments are the first in a series introducing InnerSource.
 This learning path should be the focal point and shared context of the current public conversation around InnerSource.
-In order to acheive that goal, this introduction must provide:
+In order to achieve that goal, this introduction must provide:
 
 * Compelling and clear definitions around 5 key terms:
     * Host (team)
@@ -15,7 +15,7 @@ In order to acheive that goal, this introduction must provide:
 * Guardrails for the minimum viable attributes of InnerSource:
     * Voluntary Code Contribution
     * Prioritized Mentorship
-* Interest and anticipation for viewers to watch the remaining learning path segements
+* Interest and anticipation for viewers to watch the remaining learning path segments
 
 # Audience
 

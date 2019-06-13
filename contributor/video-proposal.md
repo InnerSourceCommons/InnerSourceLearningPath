@@ -35,7 +35,7 @@ This section teaches the mindset, the habits, technical approaches and other det
 
 * You are a possible future Contributor to an InnerSource project and want to know what to expect 
 * You are a host team member looking to open your work for outside contributors / inner sourcing and want to be prepared to know what being a contributor may be like 
-* You are a product owner looking to support your TC or a (line) manager and want to know how the inner source approach is meant to work.
+* You are a product owner looking to support your TC or a (line) manager and want to know how the InnerSource approach is meant to work.
 
 ### Prerequisites
  

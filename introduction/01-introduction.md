@@ -3,13 +3,13 @@ This accompanying text will appear as a part of the learning path (like [this ex
 
 # Introduction
 
-This Learning Path gives an introduction to inner source.
-Inner source is the application of open source practices and principles to software development within the enterprise.
-Inner source software remains proprietary to the company, but within it is open for anyone to use it and contribute to it.
+This Learning Path gives an introduction to InnerSource.
+InnerSource is the application of open source practices and principles to software development within the enterprise.
+InnerSource software remains proprietary to the company, but within it is open for anyone to use it and contribute to it.
 This strategy enables wide and effective collaboration, producing software that is responsive and nimble to the changing needs of its many internal stakeholders.
 
 
-This Learning Path teaches how to recognize situations that are good candidates for inner source.
-We'll outline at a high level how inner source can help in those situations.
-You'll become familiar with shared terms used when discussing inner source.
-We'll also enumerate the key principles upon-which inner source is based and the benefits seen when it is applied effectively.
+This Learning Path teaches how to recognize situations that are good candidates for InnerSource.
+We'll outline at a high level how InnerSource can help in those situations.
+You'll become familiar with shared terms used when discussing InnerSource.
+We'll also enumerate the key principles upon-which InnerSource is based and the benefits seen when it is applied effectively.
