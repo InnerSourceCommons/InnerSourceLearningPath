@@ -1,6 +1,6 @@
 # InnerSourceLearningPath
 
-The Inner Source Learning Path is a series of short videos and articles explaining and teaching various aspects of inner source. Their production was kindly sponsored by PayPal.
+The InnerSource Learning Path is a series of short videos and articles explaining and teaching various aspects of InnerSource. Their production was kindly sponsored by PayPal.
 You can find finished portions of learning path hosted in the O'Reilly Safari platform at http://bit.ly/inner-source-learning-path.
 The content will also be made available on the [InnerSource Commons] website.
 This repository holds the backing and planning material for the videos and articles hosted there.
@@ -14,7 +14,7 @@ For now, there are four sections to the learning path each covering a specific t
   1. Trusted Committer
   1. Contributor
   
-Each section should have ~6 videos each explaning an individual, self-contained aspect of the section.
+Each section should have ~6 videos each explaining an individual, self-contained aspect of the section.
 People may watch all of the videos or just one, so it's important that each is self-contained and understandable either on its own or as part of the overall set.
 
 Each video should be accompanied by a short, ~1-page article explaining the same material as the video but in written form.
@@ -27,9 +27,9 @@ We can divide up the work and collaborate on each section via folks from the com
 
 | Role                      | Approximate Time | Notes                                                                  |
 | ------------------------- | ---------------- | ---------------------------------------------------------------------- |
-| Writer                    | 40 hr            | Writes an article for each segement in the section.                    |
+| Writer                    | 40 hr            | Writes an article for each segment in the section.                    |
 | Writer Reviewer           | 4 hr             |                                                                        |
-| Speaker                   | 20 hr            | Gives the spoken video for each segement in the section.               |
+| Speaker                   | 20 hr            | Gives the spoken video for each segment in the section.               |
 | Speaker Reviewer          | 2 hr             |                                                                        |
 | Post-Production           | 10 hr            | Responsible for post-production effects and editing for spoken videos. |
 | Post-Production Reviewer  | 1 hr             |                                                                        |
@@ -37,7 +37,7 @@ We can divide up the work and collaborate on each section via folks from the com
 This list is not an exhaustive a description of all currently open or possible tasks. There are many additional ways to help the learning path effort (please see *How to Get Involved* section...)
 
 ### Task Management
-We track our tasks and discuss their status openly using our Github projects [Kanban board]. A card's label indicates which learning path section it belongs to (introduction, product owner, ...). Clicking on a label allows you to filter the cards by learning path section.
+We track our tasks and discuss their status openly using our GitHub projects [Kanban board]. A card's label indicates which learning path section it belongs to (introduction, product owner, ...). Clicking on a label allows you to filter the cards by learning path section.
 
 Typically, a card bundles tasks about one artifact (e.g. written articles accompanying one learning path section) or small milestones (e.g. finishing the post production of one section). 
 Each card involves at least one person actively creating the content and a dedicated reviewer. 

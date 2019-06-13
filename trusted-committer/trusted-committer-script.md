@@ -99,9 +99,9 @@ So similar to how naming is important in writing software, it is for the
 roles in an InnerSource project as well. Choosing the right names and doing so
 consistently ensures that everyone has the same notion of the role and.
 
-Now you should hav a basic understanding of the role, why using the term
+Now you should have a basic understanding of the role, why using the term
 trusted committer is appropriate, and understand how a trusted committer might
-interact with other common roles in a souftware project.
+interact with other common roles in a software project.
 
 ## Responsibilities
 
@@ -111,7 +111,7 @@ TCs have:
 - ensuring product quality,
 - keeping the community healthy,
 - reducing the barrier to making contributions,
-- uplevelling the community,
+- upleveling the community,
 - advocating the communities needs.
 
 In addition to this, we will also explore the path of becoming a TC in the end
@@ -156,7 +156,7 @@ can ultimately accept and merge or reject a contribution. That is what I meant
 when I said "TCs can push code closer to production" earlier.  TCs should also
 help contributors during a PR to get their contribution over the finish line,
 by a timely review, a short pairing session, maybe a refactoring of the
-existing code to accomodate a new feature or help with setting up or
+existing code to accommodate a new feature or help with setting up or
 documenting manual testing steps.
 
 That said, it is ultimately the contributors job to make that happen. The job
@@ -239,8 +239,8 @@ quality and growing a healthy community.
 
 What does a healthy community look like? Quite simply, in a healthy community,
 contributors tend to stick around, can spend most of their time on developing
-software and are able to level up their abilitiies. As a result, a healthy
-community will also be growing. 
+software and are able to level up their abilities. As a result, a healthy
+community will also be growing.
 
 Why do contributors join and stick around in a community? Some do because they
 subscribe to the purpose or the mission of the community. It is the TCs job to
@@ -323,7 +323,7 @@ ground_ so to speak so that they are aware of the communities needs. We'll
 go into more detail about this in the section on "Advocating the Community's
 Needs".
 
-In summary, TCs should strive to create an intersting, welcoming and
+In summary, TCs should strive to create an interesting, welcoming and
 appreciative environment for their contributors that allows them to concentrate
 on writing software and to grow personally by creating opportunities to learn
 from other community members. 
@@ -405,7 +405,7 @@ abilities more than makes up for the fact that I have less time to actually
 spend writing software. 
 
 As mentioned in the previous section, learning and personal growth are reasons
-why people join and stick around in an InnerSource community. Upleveling their
+why people join and stick around in an InnerSource community. Upleveing their
 contributors is one of the most powerful tools TCs have at their disposal to
 increase the speed, output and longevity of their community. It is also one of
 the key arguments with which to convince management to allow their employees to
@@ -495,7 +495,7 @@ important for any InnerSource community to have
 one or more contact persons
 that are available for answering such questions. It is the TCs responsibility
 to make sure there is a community member "on call". Most commonly, the TCs
-themselves will fullfill that role, since onboarding new community members is
+themselves will fulfill that role, since onboarding new community members is
 one of their jobs. 
 
 -> Hide slides
@@ -557,7 +557,7 @@ in time, it was my responsibility as a TC to engage with management,
 explain the risks of launching before we were ready and to convince them to
 delay the introduction for a couple of days. These were difficult conversations
 but they were necessary to protect the community from the backlash we would
-have gotten, if our system would have performed suboptimally in the market. 
+have gotten, if our system would have performed sub-optimally in the market. 
 Because a successful market introduction really was the goal we were all
 striving towards and taking that away would have been a huge blow to the
 communities motivation. 
@@ -593,7 +593,7 @@ of the community and ultimately on a trustworthy relationship between both.
 ## Becoming a Trusted Committer 
 
 In this segment, you will learn what it takes to fill the TC role and what the
-path dowards Trusted Committership looks like.
+path towards Trusted Committership looks like.
 
 As we said in the beginning, the TC role is a very demanding but at the same
 time very fulfilling role. If we have interested you in the role of a TC, you
@@ -613,7 +613,7 @@ time. In grass-roots type communities, the founders often automatically assume
 the role of the TC, as well. As a community grows, the community or the
 existing TCs might nominate a contributor to become TC, which might or might
 not be subject to a community vote. Ideally, nominated contributors should take
-on the TC role voluntarily, as that indicates a high level of committment.
+on the TC role voluntarily, as that indicates a high level of commitment.
 
 What are the criteria to apply in nominating contributors for a TC role? What
 does it take to successfully fill the role of a TC? First off, potential TCs
@@ -674,7 +674,7 @@ contribution to the community and accelerate your own growth.
 In the past sections, we have learned about the responsibilities of TCs;
 ensuring product quality, keeping their community healthy, reducing the barrier
 to making contributions as well as upleveling the community and advocating the
-communitmes needs in their organization. We also talked about how to become a
+community's needs in their organization. We also talked about how to become a
 TC and what it takes to fill that role. For me personally, I can say that my
 years working as TC have been the best years of my professional life, so far.
 It's been a great experience, overall. In that sense, I hope this this video
@@ -690,6 +690,3 @@ articles and videos in the InnerSource Learning Path. And of course, we'd be
 thrilled to welcome you in the InnerSource commons community.
 
 May the source be with you.
-
-
-

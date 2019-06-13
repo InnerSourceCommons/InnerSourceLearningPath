@@ -60,9 +60,9 @@ roles in an InnerSource project as well. Choosing the right names and doing so
 consistently ensures that everyone has the same notion of the role and how it
 serves the community.
 
-Now you should hav a basic understanding of the role, why using the term
+Now you should have a basic understanding of the role, why using the term
 trusted committer is appropriate, and understand how a trusted committer might
-interact with other common roles in a souftware project.
+interact with other common roles in a software project.
 
 ## Responsibilities
 
@@ -72,7 +72,7 @@ TCs have:
 - ensuring product quality,
 - keeping the community healthy,
 - reducing the barrier to making contributions,
-- uplevelling the community,
+- upleveling the community,
 - advocating the communities needs.
 
 In addition to this, we will also explore the path of becoming a TC in the end

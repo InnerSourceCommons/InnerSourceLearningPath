@@ -57,7 +57,7 @@ figuring out if there's somebody to talk to in the community. It is therefore
 important for any InnerSource community to have one or more contact persons
 that are available for answering such questions. It is the TCs responsibility
 to make sure there is a community member "on call". Most commonly, the TCs
-themselves will fullfill that role, since onboarding new community members is
+themselves will fulfill that role, since onboarding new community members is
 one of their jobs.
 
 It is also important to help potential contributors

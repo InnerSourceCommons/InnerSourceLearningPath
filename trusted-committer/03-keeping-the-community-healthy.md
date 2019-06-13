@@ -9,7 +9,7 @@ growing a healthy community.
 
 What does a healthy community look like? Quite simply, in a healthy community,
 contributors tend to stick around, can spend most of their time on developing
-software and are able to level up their abilitiies. As a result, a healthy
+software and are able to level up their abilities. As a result, a healthy
 community will also be growing. 
 
 Why do contributors join and stick around in a community? Some do because they
