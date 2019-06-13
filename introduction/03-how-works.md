@@ -21,14 +21,14 @@ They're careful with the items in the house and follow the rules for the duratio
 They may hope for or expect a return invitation as long as they've been courteous and polite.
 These concepts around a home visit are a metaphor for the attitude and behaviors that teams should bring as one hosts another making a guest contribution to the codebase.
 
-Let's take a closer look at how the mechanics of the inner source process can work.
+Let's take a closer look at how the mechanics of the InnerSource process can work.
 To aid in this explanation, we'll name a few key individuals on the guest and host teams.
 First, the **Product Owner** determines what functionality the host team is willing to accept as a contribution.
 The **Contributor** is the individual on the guest team that submits the code contribution for review by the host team.
 The **Trusted Committer** represents the host team in providing any timely support and mentorship that the contributor needs to successfully submit the pull request.
 On small, grass roots efforts a single person often fills _both_ the product owner and trusted committer roles.
 
-With those definitions, here is the basic outline of an inner source contribution.
+With those definitions, here is the basic outline of an InnerSource contribution.
 
 * Guest team or contributor requests a feature from the host team.
 * Product owner ensures that user stories representing the feature request are created, either by members of the guest team or host team.
@@ -37,7 +37,7 @@ They also list any details from the host team on how the feature should be deliv
 Examples of such details include architecture constraints, coding conventions, dependency usages, data contracts, etc.
 * Supported by the trusted committer, the contributor submits the pull request to implement the requested feature.
 
-Note that these steps do not assume a specific system for the general organization of a team's time or priorities. Inner source assumes that teams already have existing methods of organization and provides a framework of how to use them to work together where there is a guest team desiring to contribute code to a host.
+Note that these steps do not assume a specific system for the general organization of a team's time or priorities. InnerSource assumes that teams already have existing methods of organization and provides a framework of how to use them to work together where there is a guest team desiring to contribute code to a host.
 
 This option works well for the guest team because they get the functionality they need when they need it without taking on the long-term burden of maintenance of the solution.
 It works for the host team because they are able to better scale and serve their consumers.

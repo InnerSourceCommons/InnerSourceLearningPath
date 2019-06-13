@@ -52,14 +52,14 @@
   make it themselves.
 - Reviewing and accepting contributions (including making sure they conform to
   the guidelines)
-- Reponsible for communicating contribution guidelines (possibly also
+- Responsible for communicating contribution guidelines (possibly also
   validating and setting guidelines)
 - Responsible for making sure undocumented requirements will be documented 
   (not necessarily do it herself)
 
 **Community oriented**
 - TC has to be aware of the communities needs
-- TC has to advocate the communitities interests
+- TC has to advocate the communities interests
 - Reducing the barriers for entry into the community
 - Onboarding new contributors
     - Making sure the new contributor is prepared/educated to make the next

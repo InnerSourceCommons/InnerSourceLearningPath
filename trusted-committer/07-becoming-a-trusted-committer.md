@@ -18,7 +18,7 @@ time. In grass-roots type communities, the founders often automatically assume
 the role of the TC as well. As a community grows, the community or the
 existing TCs might nominate a contributor to become TC, which might or might
 not be subject to a community vote. Ideally, nominated contributors should take
-on the TC role voluntarily, as that indicates a high level of committment.
+on the TC role voluntarily, as that indicates a high level of commitment.
 
 What are the criteria to apply in nominating contributors for a TC role? What
 does it take to successfully fill the role of a TC? First off, potential TCs

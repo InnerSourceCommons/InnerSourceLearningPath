@@ -3,7 +3,7 @@ This accompanying text will appear as a part of the learning path (like [this ex
 
 # What Problems Does InnerSource Solve?
 
-Inner source encourages and rewards collaboration and code reuse with anyone, regardless of their position in a company's organizational structure.
+InnerSource encourages and rewards collaboration and code reuse with anyone, regardless of their position in a company's organizational structure.
 This approach differs from what is seen in traditional organizations where ideas and work product tend to stay trapped within the boundaries of the internal corporate hierarchy and its silos.
 Let's explore one situation that gives an example of this idea. 
 
@@ -33,10 +33,10 @@ It is still a drag on the team, though, because it necessarily diverts some of t
 Additionally, this option does not scale as there are only so many times that a consumer can escalate feature requests before damaging their credibility.
 Escalation is similarly disruptive (even more so) for the producing team, who are taken out of their normal workflow and prioritization methods to deal with the escalated feature request.
 
-This discussion sets the stage for inner source.
-Inner source applies to the same type of situation where a consuming team is unable to get what needs via feature request.
-Inner source provides a way for the teams to gain the benefits of _wait it out_, _workaround_, and _escalate_ without the associated drawbacks.
+This discussion sets the stage for InnerSource.
+InnerSource applies to the same type of situation where a consuming team is unable to get what needs via feature request.
+InnerSource provides a way for the teams to gain the benefits of _wait it out_, _workaround_, and _escalate_ without the associated drawbacks.
 
-Inner source also provides a general improvement to engineering culture as engineers have the chance to work with a wider variety of new technologies and people.
+InnerSource also provides a general improvement to engineering culture as engineers have the chance to work with a wider variety of new technologies and people.
 Developers mentor and learn from one another as they share ideas and solutions across organizational silos.
 Engineers and teams can reuse internal solutions to commodity problems, allowing them to focus on higher value streams of work for the organization.
