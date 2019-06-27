@@ -18,11 +18,10 @@ The _Scheduler_ sends the calendar invite for the meeting.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 * [ ] Open the document and follow the steps in the **Do these things to set up this document** section.
-* [ ] Update the calendar invite for the next meeting.
-This invite must include:
+* [ ] Update the calendar invite for the next meeting to add:
 
-  * Conference call info.
   * Write-enabled link to the agenda document.
+  * Copy/pasted role assignments and agenda detail.
 
 ### Tips
 
