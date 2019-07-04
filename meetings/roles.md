@@ -18,7 +18,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 * [ ] Open the document and follow the steps in the **Do these things to set up this document** section.
-* [ ] Update the calendar invite for the next meeting to add:
+* [ ] Update the [calendar][shared calendar] invite for the next meeting to add:
 
   * Write-enabled link to the agenda document.
   * Copy/pasted role assignments and agenda detail.
@@ -112,7 +112,7 @@ This email should include (in order):
   * Link to the agenda document where the notes are located.
   * Chatham House Rule disclaimer.
   * Copy/pasted notes from the agenda document.
-  
+* [ ] Possibly update the invite with new participants emails.  
 
 ### Tips
 
@@ -137,3 +137,4 @@ so that recipients don't need to wade through all of the conversation in order t
 [#innersourcecommons share]: https://paypalflow.slack.com/archives/C0FJ7D2QH/p1553011694061300
 [sample email]: ./examples/notes-email.md
 [sample notes announcement]: https://paypalflow.slack.com/archives/CARTU4XV2/p1553120120110300
+[shared calendar]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1562254892028500 
