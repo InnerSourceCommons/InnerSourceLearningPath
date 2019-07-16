@@ -22,6 +22,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 
   * Write-enabled link to the agenda document.
   * Copy/pasted role assignments and agenda detail.
+  * [ ] Update the invitee list with new participants' email addresses from the last call.  
 
 ### Tips
 
@@ -112,7 +113,6 @@ This email should include (in order):
   * Link to the agenda document where the notes are located.
   * Chatham House Rule disclaimer.
   * Copy/pasted notes from the agenda document.
-* [ ] Possibly update the invite with new participants emails.  
 
 ### Tips
 
