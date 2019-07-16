@@ -13,6 +13,7 @@ The roles are:
 The _Scheduler_ sends the calendar invite for the meeting.
 
 **Within 24 Hours of Previous Meeting**
+* [ ] Update the [shared calendar] series with any new invitees from the last call.  
 * [ ] Visit the [learning path folder].
 * [ ] Right-click on `Meeting - 2019 - MM - DD`.
 * [ ] Select `Make a copy`.
@@ -22,7 +23,6 @@ The _Scheduler_ sends the calendar invite for the meeting.
 
   * Write-enabled link to the agenda document.
   * Copy/pasted role assignments and agenda detail.
-  * [ ] Update the invitee list with new participants' email addresses from the last call.  
 
 ### Tips
 
