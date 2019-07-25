@@ -132,6 +132,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     This typically makes the code more reusable, replaceable and secure.
     - Better alignment of shared projects to the needs of their internal consumers.
     - Improved and streamlined work environment retains more employees.
+    - Shared development cost: Especially for components that address cross cutting concerns efficient collaboration across team boundaries can help save duplicate effort and thus development cost.
 
 ## Conclusion
 
