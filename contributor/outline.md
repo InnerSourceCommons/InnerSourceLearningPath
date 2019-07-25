@@ -92,7 +92,7 @@ Outline for this section inspired by the [Trusted Committer introduction video].
     - After trying the above if you're still stuck then reach out to the host team for help.
     It doesn't do either side any good for you to spin forever on a problem that could be resolved in a few-minute conversation with someone more knowledgeable about the project.
     It's OK to ask for help.
-    You aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
+    You aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns. When asking for help prefer the project's official communication channels: Having both, your question and the answer to it written down, archived, searchable and linkable means that future contributors can benefit from it.
     - Match the existing coding style, indentation, etc., even if it's not what you would normally do and even if it is not specified in the `CONTRIBUTING.md`.
     A guest contribution for a feature or bug fix is not the time to introduce a new way of structuring or formatting project code.
   - Submitting the pull request
