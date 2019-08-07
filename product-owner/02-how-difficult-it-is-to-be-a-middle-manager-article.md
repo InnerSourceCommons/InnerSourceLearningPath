@@ -4,7 +4,7 @@ Here are the stats. Middle managers have higher rates of depression and anxiety 
 
 To paraphrase a common complaint I found, middle management is often responsible for upper management's vision without getting to participate in its creation. I can't really think of anything less motivating for someone that needs to have leadership abilities. 
 
-The top five complaints that I found after reading several studies are number one, inheriting product chaos and dysfunctional teams, number two, no flexibility and little room for creativity-- often, this includes no clear path forward-- number three and the one that I personally have to work on the most, stress of dealing with politics and infighting. 
+The top five complaints that I found after reading several studies are: Number one, inheriting product chaos and dysfunctional teams.  Number two, no flexibility and little room for creativity.  Often, this includes no clear path forward.  Number three, and the one that I personally have to work on the most, stress of dealing with politics and infighting. 
 
 Number four, middle managers rarely get credit for the work. This isn't just about achievements. Upper management is only focused on what is next and often ignores the facts that they changed objectives or chose impossible deadlines. So it seems to be more of a complete credit issue. 
 

@@ -2,6 +2,6 @@ Hey, middle managers, product owners, and program managers. Do you want to lead 
 
 Through the InnerSource process, we also reduced decades of cumulative internal backlog features in less than a year. The key element of InnerSource is being open. This breaks down the silos that most corporate teams are trapped in. We will talk about the basic InnerSource techniques that enable this to happen, saving us countless management and developer hours. 
 
-Hi. My name is [? Selena ?] [INAUDIBLE], and I'm a director at PayPal. I have successfully trained over 40 teams and 1,500 people in the InnerSource process I also participate and speak regularly at the Inner Source commons. Please come join us. Check out innersourcecommons.org. You can also get a copy of the booklet I wrote with O'Reilly there at innersourcecommons.org/checklist. It has even more details in this video. 
+Hi. My name is Silona Bonewald, and I'm a director at PayPal. I have successfully trained over 40 teams and 1,500 people in the InnerSource process.  I also participate and speak regularly at the Inner Source commons. Please come join us. Check out innersourcecommons.org. You can also get a copy of the booklet I wrote with O'Reilly there at innersourcecommons.org/checklist. It has even more details in this video. 
 
 Please watch the other videos first. See the links below. It helps to be familiar with the Agile or Lean processes, and it's really important that you understand the roles of the trusted committer and the contributors before watching this video. Thank you. 
