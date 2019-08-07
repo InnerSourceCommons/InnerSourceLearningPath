@@ -126,15 +126,15 @@ so that recipients don't need to wade through all of the conversation in order t
  
 [template]: https://docs.google.com/document/d/16pTjdrihudETbt-WSzgRSJgkIL0xm8wLKMKsvRoEGxs/edit?usp=sharing
 [learning path folder]: https://drive.google.com/drive/u/1/folders/11EkhuLJqQDloNU1W6c-f2bbOYVTUorCU
-[#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2/
-[#innersourcecommons]: https://paypalflow.slack.com/messages/C0FJ7D2QH
+[#learning-path]: https://innersourcecommons.slack.com/messages/CARTU4XV2/
+[#innersourcecommons]: https://innersourcecommons.slack.com/messages/C0FJ7D2QH
 [Scheduler]: #scheduler
 [Crier]: #crier
 [Facilitator]: #facilitator
 [Scribe]: #scribe
 [gdoc sharing]: https://business.tutsplus.com/articles/everything-you-need-to-know-about-sharing-in-google-docs--cms-20676
-[#learning-path announcement]: https://paypalflow.slack.com/archives/CARTU4XV2/p1553011676104100
-[#innersourcecommons share]: https://paypalflow.slack.com/archives/C0FJ7D2QH/p1553011694061300
+[#learning-path announcement]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1553011676104100
+[#innersourcecommons share]: https://innersourcecommons.slack.com/archives/C0FJ7D2QH/p1553011694061300
 [sample email]: ./examples/notes-email.md
-[sample notes announcement]: https://paypalflow.slack.com/archives/CARTU4XV2/p1553120120110300
+[sample notes announcement]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1553120120110300
 [shared calendar]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1562254892028500 
