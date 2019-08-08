@@ -1,0 +1,17 @@
+Just to wrap up what we talked about in this video, I'd like to do a quick review. 
+First of all, be kind. Middle management is tough. 
+Also, going into some of the key benefits that we talked about. 
+We talked about many different ways in regards to how InnerSource helps remove bottlenecks. 
+We also talked about how you can obtain more responsibility and get more control over being a middle manager. 
+
+Also, you get to collaborate more with your peers to accomplish more with less, so that you can actually deal with those redundancies. 
+The open processes also means that you get more credit for your work than you were probably getting previously. 
+By going through and publishing those planning processes, it also means that you can deal with less politics, because everything becomes so much more clear. 
+
+And lastly, you've got those new roles and responsibilities, such as supporting your new trusted committers. 
+They're really going to need your help. 
+Also, working with those other product owners so that you can both get more of your work done in a faster time frame. 
+Going to have to sink a lot of time in regards to the new documentation, but that's OK, because you're going to get more credit for it. 
+
+Also, with internal marketing, you've got a new skill that you've got to learn there. 
+But once you master it, you'll have a lot more resources in which to get your work done. 
