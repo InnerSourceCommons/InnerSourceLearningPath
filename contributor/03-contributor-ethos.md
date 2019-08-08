@@ -55,7 +55,7 @@ Being a Contributor essentially means being somehow closer to the host team than
 
 As a result the final call on what the contribution must look like is with the host team. It helps to make sure to approach the host team with a humble mindset, with the assumption that all are collaborating towards the purpose of the shared organisation. It helps to be open and transparent - not only about what was implemented how, but also why the change was needed.
 
-Usually it helps to treat feedback as a gift: Others are trying to improve your solution, saving you from trouble further down the road.
+Treat any feedback as a gift: Others are trying to improve your solution, saving you from trouble further down the road.
 
 There is a chance that the host team does not accept your contribution at all. In that case it helps to work with the team, figure out if there is a sub aspect of what you need that can be solved in their project and solve the remaining issues on your end.
 
