@@ -57,7 +57,8 @@ As a result the final call on what the contribution must look like is with the h
 
 Treat any feedback as a gift: Others are trying to improve your solution, saving you from trouble further down the road.
 
-There is a chance that the host team does not accept your contribution at all. In that case it helps to work with the team, figure out if there is a sub aspect of what you need that can be solved in their project and solve the remaining issues on your end.
+There is a chance that the host team does not accept your contribution at all. In that case it helps to work with the team, figure out if there is a sub aspect of what you need that can be solved in their project.
+Collaborate on that sub aspect and then find another way to solve the remaining issues on your end.
 
  #### Summary of this segment
 
