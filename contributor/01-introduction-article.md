@@ -12,7 +12,7 @@
   - Summary of the roles of InnerSource and how each relates to _Contributor_.
   - Summary of the upcoming segments and what each covers.
 
-Outline for this section inspired by the [Trusted Committer introduction article.
+Outline for this section inspired by the [Trusted Committer introduction article](link).
 
 ## Video Play-book based Target
 How do I best contribute to an InnerSource project?  This segment shares a summary of what it means to be an InnerSource Contributor.  We'll also give an overview of the upcoming training segments on being a great InnerSource Contributor.
@@ -84,10 +84,10 @@ The second segment, i.e. the one after this segment, will detail _mindset and ha
 In the third segment we'll look into the _ethos of the Contributor_ - i.e. aspects of _behavior_ that will lead to a pleasant and productive time for you and the home team and might spark more collaboration.
 The guest-in-home analogy presented in the introductory videos will serve as a vivid example. 
 
-The forth segment describes the hands-on things to do to make your contribution a success.
+The fourth segment describes the hands-on things to do to make your contribution a success.
 We'll give practical tips to leverage when preparing to work on a contribution, during development, and also in the pull request.  
 
-After we've dealt with the personal interaction-focused and technical of the contributor role, the fifth segment presents the benefits of making the effort to contribute from various perspectives: Your perspective, your teams' perspective, and the companies perspective at large.
+After we've dealt with the personal interaction-focused and technical of the contributor role, the fifth segment presents the benefits of making the effort to contribute from various perspectives: Your perspective, your team's perspective, and the company's perspective at large.
 
 The last segment will recap what we've learned about being an InnerSource contributor.  We'll share how you can continue your learning on InnerSource both with with other online videos and also involvement with the online InnerSource community.
 
