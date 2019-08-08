@@ -14,7 +14,7 @@ An InnerSource Contributor trying to make a contribution to the host team essent
 
 * They knock at the door.
 * They anticipate and follow house rules.
-* They understand they are not the home owner and acty accordingly.
+* They understand they are not the home owner and act accordingly.
 
 How do these expectations apply to InnerSource projects?
 
