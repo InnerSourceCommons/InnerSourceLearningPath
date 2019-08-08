@@ -26,7 +26,7 @@ But every team has a different roadmap? I've tried to use shared components befo
 
 In contrast to traditional project InnerSource projects come with the role of a Contributor: Yes, there will be times, when you wish that the shared solution has a new feature. As a Contributor you have the freedom to checkout the source code of the component, make modifications to it and use the resulting improved version.
 
-Yes, there will be times, when you urgently need a bug fix on your timeline that doesn't have the same priority in the host team. Becoming a Contributor enables you to become active yourself and support the host team with fixing that but.
+Yes, there will be times, when you urgently need a bug fix on your timeline that doesn't have the same priority in the host team. Becoming a Contributor enables you to become active yourself and support the host team with fixing that bug.
 
 This way of working requires a change in mindset for many: Instead of waiting for features to be implemented or bugs fixed, instead of working around issues there's now a third solution. Spend your time and energy to check back with the InnerSource project on what your needs are - and then make the change directly in the shared project. So in addition to your coding skills, what you need to be successful in an InnerSource project are communication skills to clearly articulate your needs and come to a solution to address those that works for both, your team and the host team.
 
