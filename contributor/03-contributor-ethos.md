@@ -30,7 +30,7 @@ In like manner, a contribution to an InnerSource project can have several ways t
 
 Sometimes you just open a pull request. At times you may need to get a feature request accepted before opening the pull request that fulfills it.
 
-In some organisations you may need to talk to the host team in person in addition to interacting with the project digitally. 
+In some organisations you may need to talk to the host team in a synchronous manner, e.g. around a coffee, by means of a video of voice chat, in addition to interacting with the project asynchronously, e.g. by means of issue trackers or email to establish some trust. 
 
 In the same way that real-life hosts don't always appreciate a stranger knocking on their door, some InnerSource hosts appreciate some heads-up before seeing a pull request gets opened to their repo. Typically there will be an issue tracker where new features are discussed before being submitted as a pull request. A useful alternative are archived, searchable, linkable but unstructured discussion platforms: Thank of mailing lists, chat plattforms or online fora.
 
