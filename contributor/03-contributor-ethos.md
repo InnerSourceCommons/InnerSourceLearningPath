@@ -26,7 +26,7 @@ In the real world there are several ways that guests are invited in:
 * Knock on the door unexpected.
 * Knock on the door only when invited.
 
-With InnerSource projects there are several ways that code gets in:
+In like manner, a contribution to an InnerSource project can have several ways that it gets accepted.
 
 Sometimes you just open a pull request. At times you may need to get a feature request accepted before opening the pull request that fulfills it.
 
