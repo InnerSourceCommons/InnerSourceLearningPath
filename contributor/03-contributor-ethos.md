@@ -20,7 +20,7 @@ How do these expectations apply to InnerSource projects?
 
 #### Getting in
 
-In the real world their are several ways that guests are invited in:
+In the real world there are several ways that guests are invited in:
 
 * An "open" sign lets them know they can walk right in without knocking.
 * Knock on the door unexpected.
