@@ -75,7 +75,7 @@ See you there!
 
 [Kanban board]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/projects/1
 [InnerSource Commons]: http://www.innersourcecommons.org/
-[#learning-path]: https://paypalflow.slack.com/messages/CARTU4XV2
+[#learning-path]: https://innersourcecommons.slack.com/messages/CARTU4XV2
 [Chatham House Rule]: https://www.chathamhouse.org/chatham-house-rule
 [Trusted Committer]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer
 [Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/introduction
