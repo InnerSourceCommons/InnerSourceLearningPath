@@ -4,7 +4,7 @@
 
      Contributors by definition work in teams that they are not familiar with. This section explains how to avoid common pitfalls when crossing team boundaries.
 
- ## Article
+# Article
 
 In the last segment we have motivated why you would want to reuse components and become active as a Contributor. This artice is sharing best practices on how to successfully contribute your changes to the host team's code base.
 
