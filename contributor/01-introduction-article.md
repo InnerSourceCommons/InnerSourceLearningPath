@@ -21,7 +21,7 @@ How do I best contribute to an InnerSource project?  This segment shares a summa
 
 # Article
 
-## The Contributor in InnerSource.
+## The Contributor in InnerSource
 
 Without contributions, an InnerSource community and its project(s) would not exist in a meaningful way.
 There would be open repositories, ideally equipped with somewhat specific extra documents (e.g. a CONTRIBUTING.md and a README.md) and person(s) committing to them, e.g. a Trusted Committer.
@@ -42,7 +42,7 @@ However, for quite a few people there is a sort of journey contributors can make
 Finally, some of them may even become Trusted Committers.
 
 
-## Summary of the roles of InnerSource and how each relates to _Contributor_.
+## Relationship to other roles
 
 As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as Trusted Committer or Product Owner and possibly also other contributors.
 At times, these roles can be played by the same person, such as Trusted Committer and Product Owner in small grass-roots style projects.
@@ -76,7 +76,7 @@ Last but not least someone acting as product owner might have been involved in b
 If you want to learn in more detail what these other roles are about, and we encourage you to do so, we've prepared sections about the [Trusted Committer](link) and the [Product Owner](link) too.
 
 
-## Overview of this section and its segments
+## Section overview
 In the following 5 videos you will learn more in detail about the various aspects introduced before. 
 
 The second segment, i.e. the one after this segment, will detail _mindset and habit_ that create opportunities to _become an InnerSource Contributor_.
