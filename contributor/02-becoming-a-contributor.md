@@ -2,7 +2,7 @@
 
 Outline for this section
 
-    What does it take to be successful as an InnerSource contributor? This segment shares information on how contributors to InnerSource projects think and act differently from team members in other projects. It highlights which types of contributions are seen as valuable InnerSource contributions.
+    What does it take to be successful as an InnerSource contributor? This article shares information on how contributors to InnerSource projects think and act differently from team members in other projects. It highlights which types of contributions are seen as valuable InnerSource contributions.
 
 ## Article
 
@@ -38,8 +38,9 @@ A good Contributor can comfortably make a call for when it makes both, technical
 
 So is Inner*Source* only about *Source*Code? Of course not. If your team's business depends on an outside component you want to make sure it's well maintained and well run. As an InnerSource Contributor, you can help the host team with that: Reporting issues you see when using the component is a valuable contribution. Creating or fixing test cases that show that the code isn't working as expected is valuable. So is improving documentation so others spend less time using it and contributing to it. Supporting other users, helping with bug triage can be valuable contributions. Improving builds is another example of a valuable contribution. 
 
-To summarize no contribution is too small to contribute. Here is one that I made to tensorflow/models. A simple label change in a graph.
+To summarize no contribution is too small to contribute. Here is one that I made
+to [tensorflow/models](https://github.com/tensorflow/models/pull/4784). A simple label change in a graph.
 
-#### Summary of this segment
+#### Summary of this article
 
-In this segment you learned about what it takes to become a Contributor. We looked at the sharing mindset. We took a deep dive into the benefits of sharing solutions. Finally we had a look at what the scope for InnerSource contributions typically looks like.
+In this article you learned about what it takes to become a Contributor. We looked at the sharing mindset. We took a deep dive into the benefits of sharing solutions. Finally we had a look at what the scope for InnerSource contributions typically looks like.
