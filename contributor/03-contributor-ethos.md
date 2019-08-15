@@ -20,25 +20,70 @@ How do these expectations apply to InnerSource projects?
 
 #### Getting in
 
-In the real world there are several ways that guests are invited in:
+When visiting your neighbors you will likely not enter their home without
+knocking or ringing the door bell even if the door is open. Likewise in Inner
+Source as a visitor you won't be able (or invited) to commit directly to any
+code repository.
 
-* An "open" sign lets them know they can walk right in without knocking.
-* Knock on the door unexpected.
-* Knock on the door only when invited.
+Instead when visiting your neighbors you're likely to at least knock on their
+door. Likewise in Inner Source after making your changes to the codebase you'll
+submit them as a pull request. Much like you wouldn't go about making large
+changes and what you consider improvments to your neighbors home, in Inner
+Source you will anticipate and follow the projects collaboration guidelines. In
+turn your hosts will show you the way - in Inner Source that translates to
+existing trusted committers spending their time to mentor guests.
 
-In like manner, a contribution to an InnerSource project can have several ways that it gets accepted.
+What about those lovely summer parties that you went to? Likely before going
+there was some planning ahead of time to choose the right date and time, to
+prepare enough food or have that contributed by the guests. The same happens for
+bigger changes in Inner Source projects: Before making large modifications a
+project is likely to first ask you to submit an issue describing your need and
+your proposed solution. Spending some time on an intial design instead of
+jumping right into the implementation here saves contributors from having to
+re-do a lot of their work. Sharing progress early - even when it's not finished
+yet - helps mentoring the contributor towards a better solution. Much like
+[Yonik's law of unifinished
+patches](https://cwiki.apache.org/confluence/display/solr/HowToContribute)
+explains: "A half-baked patch in Jira, with no documentation, no tests
+and no backwards compatibility is better than no patch at all."
 
-Sometimes you just open a pull request. At times you may need to get a feature request accepted before opening the pull request that fulfills it.
+Does that imply that Inner Source projects place no value on face to face
+communication? Not quite: There is value in meeting participants face to face.
+Remember that all written communication lacks a lot of bandwidth compared with
+meeting in person: There's no gestures, no mimics, not even the tone of voice
+that otherwise help with understanding. In particular for inter-personal
+challenges, resolving conflict and misunderstandings meeting in person has
+strong value. However for Inner Source projects the goal should be that
+communication about project decisions be kept in writing so that others can
+follow along and influence the project, so that even years later it's possible
+to trace why a certain decision was made.
 
-In some organisations you may need to talk to the host team in a synchronous manner, e.g. around a coffee, by means of a video of voice chat, in addition to interacting with the project asynchronously, e.g. by means of issue trackers or email to establish some trust. 
+Here's my general rule of thumb: Feel free to meet over coffee, often that helps
+with building a stronger team. Remember though that when the team is split into
+multiple physical locations (for me that includes teams that are spread across
+mutliple floors) there is a good chance that this encourages the team to split
+into multiple silos. Do make sure though that all decisions are made in a
+transparent and asynchronous way so that everyone - including those lurking in
+on your conversation - can jump in and become active contributors. One example
+of just how far one can take open decision making is explained in several
+excercises in the [Open Organization
+Workbook](https://opensource.com/open-organization/resources/workbook)
 
-In the same way that real-life hosts don't always appreciate a stranger knocking on their door, some InnerSource hosts appreciate some heads-up before seeing a pull request gets opened to their repo. Typically there will be an issue tracker where new features are discussed before being submitted as a pull request. A useful alternative are archived, searchable, linkable but unstructured discussion platforms: Thank of mailing lists, chat plattforms or online fora.
+Now, how do you figure out where an Inner Source project would like to discuss
+changes, future direction of the project? Many InnerSource projects outline how
+they like to be approached by potential Contributors in their README.md. If that
+document becomes too large to handle contribution guidelines tend to be split
+out into a file named CONTRIBUTING.md files. Following those recommendations
+greatly helps the contributor selling their offer.
 
-In all of these interactions, be prepared to "sell" your contribution to the host team. Articulate the value that the contribution will bring to their ecosystem.
+In all of these interactions, be prepared to "sell" your contribution to the
+host team. Articulate the value that the contribution will bring to their
+ecosystem.
 
-The host team will be the one taking over maintenance for your changes. It makes sense to offer to fulfill a 30-day warranty on your submission. This can alleviate the host teams' fear of the contributors not being available for support with fixing bugs after the time on contribution.
-
-Many InnerSource projects outline how they like to be approached by potential Contributors in their README.md or CONTRIBUTING.md files. Following those recommendations greatly increases your chances of getting your contribution accepted.
+The host team will be the one taking over maintenance for your changes. It makes
+sense to offer to fulfill a [30-day warranty](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md) on your submission. This can
+alleviate the host teams' fear of the contributors not being available for
+support with fixing bugs after the time on contribution.
 
 #### Anticipate and follow house rules
 
