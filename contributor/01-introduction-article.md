@@ -33,10 +33,7 @@ There would be open repositories, ideally equipped with somewhat specific extra 
         - In the ASF-Rule-set this would be the distinction between Developer and Committer.
 ]
 
-The Contributor role describes a person that makes contributions to an InnerSource community.
-A contribution can be a code or non-code artifact such as a bug-report, an addition to documentation or a feature request. 
-[EDITOR-NOTE: IMPORTANT we should probably distinguish that just requesting is not already InnerSource or phrase this accordingly].
-
+The Contributor role describes a person that makes contributions to the repos of an InnerSource community project.
 This person may or may not be part or see themselves as part of the community.
 However, for quite a few people there is a sort of journey contributors can make from just knowing about the community to using the community's product to interacting with members of the community and finally starting to contribute.
 Finally, some of them may even become Trusted Committers.
@@ -81,7 +78,7 @@ In the following 5 videos you will learn more in detail about the various aspect
 
 The second segment, i.e. the one after this segment, will detail _mindset and habit_ that create opportunities to _become an InnerSource Contributor_.
 
-In the third segment we'll look into the _ethos of the Contributor_ - i.e. aspects of _behavior_ that will lead to a pleasant and productive time for you and the home team and might spark more collaboration.
+In the third segment we'll look into the _ethos of the Contributor_ - i.e. aspects of _behavior_ that will lead to a pleasant and productive time for you and the host team and might spark more collaboration.
 The guest-in-home analogy presented in the introductory videos will serve as a vivid example. 
 
 The fourth segment describes the hands-on things to do to make your contribution a success.
