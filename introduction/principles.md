@@ -22,7 +22,10 @@ The configuration of an open project enables frictionless contributing.
 Projects should be discoverable and well documented through README.md and CONTRIBUTING.md files within the root of the repo.
 Anyone within an organization should be able to find a desired project and ramp up without an inordinate amount of direct guidance from host team members.
 Host team contact information should be prevalent with as many channels as makes sense for the project.
-Host team intentions to InnerSource their project can be broadcast through relevant organization channels to raise awareness. 
+Host team intentions to InnerSource their project can be broadcast through relevant organization channels to raise awareness. Particularly in smaller 
+settings you may want to establish a regular "broadcast" on the InnerSource work your team is doing, in larger settings this may create a lot of 
+noise and making sure it is discoverable in a easy to use tool is probably a better path. Remember, the goal is awareness use the appropriate channels that 
+work in YOUR company.
 
 By no means is the above an exhaustive list. Project openness will typically be directly related to how successful a project is
 in terms of inner sourcing: The more open it is, the less barriers are put in place for prospective contributors. The less open
