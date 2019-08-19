@@ -27,7 +27,7 @@ Have you ever been blocked in your next coding task because another team didn't 
 Perhaps after a while you even had to do some extra work in your project to work around the missing feature.
 How nice would it be to never be blocked in this way?
 
-With projects that run via InnerSource, you'll never be blocked waiting for another team to deliver some needed feature.
+With projects that incorporate InnerSource principles, you'll never be blocked waiting for another team to deliver some needed feature.
 If you're not getting what you need you can make the change you need directly in the other team's code repository by acting as an InnerSource Contributor.
 
 The Contributor role describes a person that makes contributions to an InnerSource community.
