@@ -2,15 +2,21 @@
 
  Outline for this section
 
-     Contributors by definition work in teams that they are not familiar with. This section explains how to avoid common pitfalls when crossing team boundaries.
+     Contributors by definition work in teams that they are not familiar with.
+This section explains how to avoid common pitfalls when crossing team
+boundaries.
 
 # Article
 
-In the last segment we have motivated why you would want to reuse components and become active as a Contributor. This artice is sharing best practices on how to successfully contribute your changes to the host team's code base.
+In the last segment we have motivated why you would want to reuse components and
+become active as a Contributor. This artice is sharing best practices on how to
+successfully contribute your changes to the host team's code base.
 
  ### Contributor Ethos
 
-An InnerSource Contributor trying to make a contribution to the host team essentially is a guest in their home. In general a good guest is expected to behave in a certain way:
+An InnerSource Contributor trying to make a contribution to the host team
+essentially is a guest in their home. In general a good guest is expected to
+behave in a certain way:
 
 * They knock at the door.
 * They anticipate and follow house rules.
@@ -66,7 +72,7 @@ into multiple silos. Do make sure though that all decisions are made in a
 transparent and asynchronous way so that everyone - including those lurking in
 on your conversation - can jump in and become active contributors. One example
 of just how far one can take open decision making is explained in several
-excercises in the [Open Organization
+exercises in the [Open Organization
 Workbook](https://opensource.com/open-organization/resources/workbook)
 
 Now, how do you figure out where an Inner Source project would like to discuss
@@ -81,30 +87,67 @@ host team. Articulate the value that the contribution will bring to their
 ecosystem.
 
 The host team will be the one taking over maintenance for your changes. It makes
-sense to offer to fulfill a [30-day warranty](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md) on your submission. This can
+sense to offer to fulfill a [30-day
+warranty](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md)
+on your submission. This can
 alleviate the host teams' fear of the contributors not being available for
 support with fixing bugs after the time on contribution.
 
 #### Anticipate and follow house rules
 
-The README.md or CONTRIBUTING.md often not only contains information about how to approach the host team, but also guidelines throughout the contribution process. Be sure to understand and follow them.
+When visiting your neighbors, likely they will help you around in their
+apartment: They'll show you the way to their living room, likely they'll show
+you where the restroom is located. If you're staying longer, they likely also
+give you more details: In my case an example would be to try to avoid turning on
+the dishwasher and the electric kettle at the same time to avoid blowing the
+fuse.
 
-If you are contributing the fix to an issue, be sure to follow all guidance and instruction documented in the issue.
+Similarly every software system comes with it's own quirks and intricacies.
+Often the most obvious ones are well documented: In smaller projects this
+documentation can be found in the README.md. In larger ones, contribution
+specific documentation can often be found in the CONTRIBUTING.md document.
 
-You should understand the project well enough to know that your contribution makes sense overall and is not just your personal snowflake.
+Often what you'll find in this documentation is more information on how to
+checkout and build the project, how to run the test suite, how to submit changes
+to the project. Likely it will point you to further documentation if there it
+deviates largely from standard tooling - or if there are things you should keep
+in mind when making changes.
 
+Going through that documentation usually turns out to be a huge time saver as it
+stops you from going down the wrong path and warns you about dead ends. If you
+find things are missing from it based on your experience - patches to that
+documentation typically are very welcome: There's nobody better suited to
+improve it than the new contributor who sees the project for the first time.
+
+Try to figure out together with the project in their preferred communication
+channel if the changes you have in mind make sense overall. At the beginning it
+can be scary to have these conversations in a company public medium, that is
+archived and searchable. The benefit here is with others coming after you with
+similar proposals: Instead of walking the exact same path again, they can learn
+what was discussed before and start from there.
 
 #### Understands they are not the home owner and acts accordingly.
 
-Being a Contributor essentially means being somehow closer to the host team than someone merely requesting a feature. Still Contributors are not accountable for the software project they are contributing to.
+Being a Contributor essentially means being somehow closer to the host team than
+someone merely requesting a feature. Still Contributors are not accountable for
+the software project they are contributing to.
 
-As a result the final call on what the contribution must look like is with the host team. It helps to make sure to approach the host team with a humble mindset, with the assumption that all are collaborating towards the purpose of the shared organisation. It helps to be open and transparent - not only about what was implemented how, but also why the change was needed.
+As a result the final call on what the contribution must look like is with the
+host team. It helps to make sure to approach the host team with a humble
+mindset, with the assumption that all are collaborating towards the purpose of
+the shared organisation. It helps to be open and transparent - not only about
+what was implemented how, but also why the change was needed.
 
-Treat any feedback as a gift: Others are trying to improve your solution, saving you from trouble further down the road.
+Treat any feedback as a gift: Others are trying to improve your solution, saving
+you from trouble further down the road.
 
-There is a chance that the host team does not accept your contribution at all. In that case it helps to work with the team, figure out if there is a sub aspect of what you need that can be solved in their project.
-Collaborate on that sub aspect and then find another way to solve the remaining issues on your end.
+There is a chance that the host team does not accept your contribution at all.
+In that case it helps to work with the team, figure out if there is a sub aspect
+of what you need that can be solved in their project.  Collaborate on that sub
+aspect and then find another way to solve the remaining issues on your end.
 
  #### Summary of this segment
 
-In this segment we have learned how to best approach an InnerSource project as a Contributor. We also looked at how to best communicate our need for the change and together with the host team find a solution for that need.
+In this segment we have learned how to best approach an InnerSource project as a
+Contributor. We also looked at how to best communicate our need for the change
+and together with the host team find a solution for that need.
