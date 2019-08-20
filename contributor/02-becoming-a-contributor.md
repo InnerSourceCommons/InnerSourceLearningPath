@@ -4,6 +4,30 @@ Outline for this section
 
     What does it take to be successful as an InnerSource contributor? This article shares information on how contributors to InnerSource projects think and act differently from team members in other projects. It highlights which types of contributions are seen as valuable InnerSource contributions.
 
+  - A contributing mindset starts with a sharing mindset.
+    - When you start adding new functionality to your project, ask yourself:
+      - Does the new functionality reflect a general issue that needs a solution?
+      - Does this new functionality have technical needs that are orthogonal to the domain of your project?
+    If you can answer either question with "Yes", then look around to see if there is a shared solution that you can use or improve to fit your needs.
+    - Briefly enumerate the benefits of using shared solutions.
+  - Using shared solutions puts you in a position to become a _Contributor_.
+    - There will be times when you wish that the shared solution has some new feature.
+    - There will be times when you need a bug fix on your timeline to the shared solution for your usage scenario.
+    - Don't _Wait it Out_ or _Work Around_; spend your time and energy to check back with project leads/maintainers on plans and then make the change directly in the shared project. Good communication will avoid duplicate efforts.
+    - Briefly enumerate the benefits of contributing.
+    This should be taken from the **Benefits** segment.
+    - You may need to spend some time explaining these benefits to your management hierarchy in order for their support for the time you spend contributing.
+    - An InnerSource _Contributor_ knows that it doesn't matter where the code goes as it's in a well-run project that gives them the functionality they need.
+  - The scope of contributions goes beyond "just code".
+    - Opening issues.
+    - Improving documentation.
+    - Fixing builds.
+    - Creating or fixing test cases that show a bug in the existing code base.
+    - Nothing too small to contribute (e.g. documentation typo).
+      - [Here is one](https://github.com/tensorflow/models/pull/4784) that I made to `tensorflow/models`.
+      A simple label change in a graph.
+
+
 ## Article
 
 ### Becoming an InnerSource Contributor
