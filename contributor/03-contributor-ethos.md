@@ -27,22 +27,22 @@ How do these expectations apply to InnerSource projects?
 #### Getting in
 
 When visiting your neighbors you will likely not enter their home without
-knocking or ringing the door bell even if the door is open. Likewise in Inner
-Source as a visitor you won't be able (or invited) to commit directly to any
+knocking or ringing the door bell even if the door is open. Likewise in InnerSource
+as a visitor you won't be able (or invited) to commit directly to any
 code repository.
 
 Instead when visiting your neighbors you're likely to at least knock on their
-door. Likewise in Inner Source after making your changes to the codebase you'll
+door. Likewise in InnerSource after making your changes to the codebase you'll
 submit them as a pull request. Much like you wouldn't go about making large
 changes and what you consider improvments to your neighbors home, in Inner
 Source you will anticipate and follow the projects collaboration guidelines. In
-turn your hosts will show you the way - in Inner Source that translates to
+turn your hosts will show you the way - in InnerSource that translates to
 existing trusted committers spending their time to mentor guests.
 
 What about those lovely summer parties that you went to? Likely before going
 there was some planning ahead of time to choose the right date and time, to
 prepare enough food or have that contributed by the guests. The same happens for
-bigger changes in Inner Source projects: Before making large modifications a
+bigger changes in InnerSource projects: Before making large modifications a
 project is likely to first ask you to submit an issue describing your need and
 your proposed solution. Spending some time on an intial design instead of
 jumping right into the implementation here saves contributors from having to
@@ -53,13 +53,13 @@ patches](https://cwiki.apache.org/confluence/display/solr/HowToContribute)
 explains: "A half-baked patch in Jira, with no documentation, no tests
 and no backwards compatibility is better than no patch at all."
 
-Does that imply that Inner Source projects place no value on face to face
+Does that imply that InnerSource projects place no value on face to face
 communication? Not quite: There is value in meeting participants face to face.
 Remember that all written communication lacks a lot of bandwidth compared with
 meeting in person: There's no gestures, no mimics, not even the tone of voice
 that otherwise help with understanding. In particular for inter-personal
 challenges, resolving conflict and misunderstandings meeting in person has
-strong value. However for Inner Source projects the goal should be that
+strong value. However for InnerSource projects the goal should be that
 communication about project decisions be kept in writing so that others can
 follow along and influence the project, so that even years later it's possible
 to trace why a certain decision was made.
@@ -75,7 +75,7 @@ of just how far one can take open decision making is explained in several
 exercises in the [Open Organization
 Workbook](https://opensource.com/open-organization/resources/workbook)
 
-Now, how do you figure out where an Inner Source project would like to discuss
+Now, how do you figure out where an InnerSource project would like to discuss
 changes, future direction of the project? Many InnerSource projects outline how
 they like to be approached by potential Contributors in their README.md. If that
 document becomes too large to handle contribution guidelines tend to be split
