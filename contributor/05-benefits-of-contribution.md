@@ -12,7 +12,7 @@ a business perspective.
 Contributors are the life blood of Inner Source projects: Every project that is
 run as an Inner Source project comes both with the promise and with the ultimate
 goal of expanding their development team beyond the original founders, tapping
-into the potential for further collaborators amongs users (also sometimes
+into the potential for further collaborators amongst users (also sometimes
 referred to as customers in corporations) of that project.
 
 However what would motivate an individual developer to spend time on a project
@@ -26,15 +26,15 @@ The most obvious motivation is what typically draws early contributors into open
 source as well:
 
 Rememember that annoying bug you've been working around for so long? The time
-and energy mainainting those workarounds costs? What if instead of waiting for
+and energy that maintainting those workarounds costs? What if instead of waiting for
 the upstream team to fix that issue sometime in the future, you could go ahead
-and fix it yourself? Often in a scratch your own itch kind of approach first
-time contributors start with fixing issues in projects they depend on for their
+and fix it yourself? Often in a "scratch your own itch" kind of approach first-time
+contributors start with fixing issues in projects they depend on for their
 daily work to reduce the number of workarounds in their own codebase.
 
 When deciding whether to create and contribute a fix instead of maintaining your
 own workaround - think about the benefit that the contribution will bring to
-your own changes: Instead of working in isolation, those working on the upstream
+your own changes.  Instead of working in isolation, those working on the upstream
 project will be able to not only review but also improve your solution. You get
 support and mentoring which greatly speeds up your own development effort.
 
@@ -56,23 +56,23 @@ help the upstream project improve and accelerate development cycles.
 
 ### Team level motivation
 
-Rememember that annoying but that's suddenly fixed upstream? Why should your
+Rememember that annoying bug that's suddenly fixed upstream? Why should your
 team spend the extra effort to contribute that fix to the upstream project?
 
 For one it means that maintenance cost and time suddenly is with the upstream
-project: For every new release it's on them instead of on your team to make it
+project.  For every new release it's on them instead of on your team to make it
 work with your modifications and requirements.
 
 Having team members work as active contributors in projects your team depends on
-means that likely they will get to have a say in project direction and timelines
-which can be benefitial for your team as well.
+means that likely they will get to have a say in project direction and timelines,
+which can be beneficial for your team.
 
 ### Company movtivation
 
 Remember that functionality that's specific to your company's domain - but that
 is maintained in mutiple implementations across the entire company? What if
-there were a way to avoid a dozen buggy implementations, merge them into a
-shared asset - however with a development process attached that avoids the usual
+there were a way to avoid a dozen buggy implementations and merge them into a
+shared asset with a development process attached that avoids the usual
 drain of energy that central dependencies bring to the table? Many open source
 projects are being used by a huge number of players - some of which participate
 in their design and development. Encouraging cross team collarboration in Inner
@@ -82,22 +82,22 @@ innovation from the edges of your organisation.
 In general it is well understood that projects with a [bus
 factor](https://en.wikipedia.org/wiki/Bus_factor) of one or two people pose a
 risk to the organisation - all the more, when that project turns out to be
-central to the business' purpose. Inner Source helps not only with making such
+central to the purpose of the business. Inner Source helps not only with making such
 projects transparent, but also provides tools to improve that situation by
 putting focus on mentoring and expanding the contributor base.
 
-While cross team collaboration does make assessing individual contributions hard
-it does enable learning and knowledge sharing withing an organisation. As a
-result the impact of individuals will improve. Best practices and positive
+While cross team collaboration does make assessing individual contributions hard,
+it also enables learning and knowledge sharing withing an organisation. As a
+result, the impact of individuals will improve. Best practices and positive
 innovation will spread more easily across the entire organisation. As a side
-effect improvements to the work environment will more easily spread across the
+effect, improvements to the work environment will more easily spread across the
 organization - helping retain employees.
 
 On the technological side more eyes with a more diverse background implies that
-code changes will be put under much more scrutiny leading to better overall
+code changes will be put under much more scrutiny, leading to better overall
 quality and security.
 
-Finally a focus on enabling project users and customers to participate in
+Finally, a focus on enabling project users and customers to participate in
 development means that there is a very clear incentive to make these projects
 easy to get started with: Based on standard tooling, easy to understand, easy to
 re-use and as a result more modular and replaceable.
@@ -106,7 +106,7 @@ re-use and as a result more modular and replaceable.
 
 As we've seen in this article many of the reasons for individuals and
 corporations to get active in Open Source also apply to Inner Source projects.
-What we've seen as well is the that it's not only altruistic reasons that drive
+What we've seen as well is that it's not only altruistic reasons that drive
 people to collaborate in Inner Source projects - often it's easy to identify
 business reasons for when collaboration like this makes a lot of sense.
 
