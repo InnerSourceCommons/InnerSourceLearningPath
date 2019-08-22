@@ -12,6 +12,8 @@ This approach allows for easier editing and re-arrangement of text.
 * When reviewing a pull request, make suggestions via regular comment.
 If you have a specific text to suggest, use the [the _GitHub_ "suggestion" feature][suggestion feature].
 The author can easily [incorporate your suggestions][incorporate suggestions].
+* Spell the term as `InnerSource` (Pascal cased).
+* Avoid "verbifying" the noun `InnerSource`, e.g. try something like `adopting InnerSource` as opposed to `InnerSourcing`.
 
 # Issues
 
