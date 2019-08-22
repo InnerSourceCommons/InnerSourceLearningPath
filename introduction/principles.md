@@ -48,7 +48,7 @@ When possible, the above should be communicated clearly and in details, from tea
 _Mentorship_ from host team to guest team via trusted committers is a key aspect of InnerSource.
 Contributors on guest teams are upleveled so that they understand enough about the host team's project/repo to change it successfully.
 In the process of doing so, they come to better understand the host team's software system as a general consumer and ambassador for the project/software.
-This individual committer can then over time and with experience take on a broader role in the project as a trusted committer.
+This individual contributor can then over time and with experience take on a broader role in the project as a trusted committer.
 
 It's critical that this mentorship for contributors is _Prioritized_ by the host team.
 The host team should strive to make time to mentor guest team contributors _at the time that the contributor needs it_ as opposed to when it's convenient to the host team.
