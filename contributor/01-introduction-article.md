@@ -23,15 +23,12 @@ How do I best contribute to an InnerSource project?  This segment shares a summa
 
 ## The Contributor in InnerSource
 
-Without contributions, an InnerSource community and its project(s) would not exist in a meaningful way.
-There would be open repositories, ideally equipped with somewhat specific extra documents (e.g. a CONTRIBUTING.md and a README.md) and person(s) committing to them, e.g. a Trusted Committer.
-[EDITOR NOTE:
-- In other articles we draw a distinction between guest and host team.
-- We argue that the Committer is part of the guest team and needs to fit in with the host team.
-- In a more-than-one-person project what do we call the people aside of the TC/PO that are members of the host team? Just team members?
-        - OSS would likely not make this distinction and everyone would end up as contributor until it's committer / trusted committer at some point I guess?
-        - In the ASF-Rule-set this would be the distinction between Developer and Committer.
-]
+Have you ever been blocked in your next coding task because another team didn't have time to add a feature in their system that you depend on?
+Perhaps after a while you even had to do some extra work in your project to work around the missing feature.
+How nice would it be to never be blocked in this way?
+
+With projects that incorporate InnerSource principles, you'll never be blocked waiting for another team to deliver some needed feature.
+If you're not getting what you need you can make the change you need directly in the other team's code repository by acting as an InnerSource Contributor.
 
 The Contributor role describes a person that makes contributions to the repos of an InnerSource community project.
 This person may or may not be part or see themselves as part of the community.
