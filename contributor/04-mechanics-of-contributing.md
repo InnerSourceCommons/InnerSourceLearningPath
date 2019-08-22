@@ -45,10 +45,10 @@ Especially in the case of larger distances between you and the host teams, e.g. 
 
 You've got this really large feature or larger rewrite in mind that would be totally great and add real value that you would like to donate?
 Excellent!
-Wouldn't it be horrible if all your work would be wasted because the host team is maybe already building something very similar, is planning to depreciate the part of the software you are trying to extend or even does not see what you are proposing to be a fit for their project? 
+Wouldn't it be horrible if all your work would be wasted because the host team is maybe already building something very similar, is planning to deprecate the part of the software you are trying to extend or even does not see what you are proposing to be a fit for their project? 
 This challenge is a frequent challenge and many team relationships suffered from not handling the fit in advance.
 
-Make yourself and the host team happy (and possibly even save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ submitting a pull request.
+Make yourself and the host team happy (and possibly even save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
 You'll have to understand how the host team would like you to reach out for this - sometimes they have regular design discussions in person or via chat/voice/video conferences, some hand in design discussion / extension proposal documents for collective discussion and review, some work with feature requests, etc. 
 Ask a trusted committer about how to best discuss your proposal.  
 
@@ -58,7 +58,7 @@ This type of high-level, up-front agreement early will save time in rework or re
 
 ### Communication and unblocking yourself
 
-Great, you've made yourself familiar with the host teams approach and they are looking forward to receive your pull request.
+Great, you've made yourself familiar with the host team's approach and they are looking forward to receive your pull request.
 Which gotchas are there waiting for you now?
 
 First, you'll be in less direct contact with them and second you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
@@ -66,13 +66,13 @@ How can you now deal with this the best?
 
 Try to peruse their documentation, the conversation archives and code artifacts from the host team to unblock yourself - this is pretty much similar to the situation you and likely most people find yourself in when using one of the popular OSS projects.
 
-However, this time you've got the advantage to be able to directly ask the host team if, even after trying to unblock yourself, things went nowhere. (That's an approach that works with many OSS projects as well!)
+Much like in Open Source projects, make use of the advantage to be able to directly ask the host team if, even after trying to unblock yourself, things went nowhere. The questions you ask and the answers you receive will help others coming after you solve the same issues - so make sure that your communication ends up in a searchable archive that is closely linked to the project itself.
 It doesn't do either side any good for you to spin forever on a problem that could be resolved in a few-minute conversation with someone more knowledgeable about the project.
 It's OK to ask for help.
 
 There's one key difference though, bringing advantage to you and other people in the future: 
 In almost all cases you should prefer the projects' official communication channels - this can be a mailing list, a chat room, the issue tracker or something similar depending on the purpose of having a more synchronous or asynchronous way of interacting or the varying needs for structure in the communication.
-All of those usually have in common that they are text-based, archived, searchable and linkable - this means your question and the answer will be written down.
+All of those usually have in common that they are text-based, archived, searchable and come with stable links - this means your question and the answer will be written down, references you link in those answers will also be kept reachable.
 This way you could benefit from this passively documented knowledge on your search and will help future contributors to have the same advantage.
 Imagine what would be needed for realizing this benefit by just walking by or calling a trusted committer on the project or even in a group call.    
 
@@ -100,8 +100,8 @@ The basic point here is to enable the trusted committer to validate the contribu
 To achieve this do the following: 
 
 - Add tests for your code contribution so that validating the function of your contribution by others works well, even after some time when you work in other projects or might have stopped to contribute to this project.
-  - Often projects will use automated checks against pull request using those tests and the level of code coverage. Try to meet the criteria these test enforce.
-- Many projects will provide project build and validations scripts to enable you to locally test your changes. 
+  - Often projects will use automated checks against pull requests using those tests and the level of code coverage. Try to meet the criteria these tests enforce.
+- Many projects will provide project build and validation scripts that enable you to locally test your changes. 
   - Use those to ensure that your contribution works as well as possible before opening a pull request. 
   - Having to review defect pull requests with easy-to-fix errors often bugs trusted committers. They will not fix your code but ask you to do so. This might create more round-trips and slow the merge if there's unnecessary errors.
   - No one's perfect though. Try your best, use the prepared validation scripts if there are any and give it your best shot with a pull request!
@@ -109,7 +109,7 @@ To achieve this do the following:
 
 ### Documentation and reviewability
 
-You'll want to ensure that your pull request includes any documentation updates are relevant to your changes. 
+You'll want to ensure that your pull request includes any documentation updates that are relevant to your changes. 
 Should the documentation live in a different place, make sure you add them there and link to them in the pull request.
 
 To make the actual code review as easy as possible for the trusted committer or other persons reviewing it, try to follow these hints:
@@ -120,6 +120,6 @@ To make the actual code review as easy as possible for the trusted committer or 
 - If there is anything uncommon or unexpected in the pull request highlight it and provide an explanation. This will make it easier to reason about and solve potential blocking questions the reviewer might have during the review. 
   - The same goes for place where you were unsure in the implementation or your approach - highlight it and ask for insight.
   - Be civil and expect civility from the trusted committers' review.   
-- Making pull requests too broad and large makes them more difficult to review and longer before they're accepted.
-  - If you have a larger feature you are contributing it often helps to split it in multiple pull request that get submitted, reviewed and accepted sequentially.
-  - You can still bind them together with an issue the are referring to.  
+- Making pull requests too broad and large makes them more difficult to review so it will take much longer before they're accepted.
+  - If you have a larger feature you are contributing it often helps to split it in multiple pull requests that get submitted, reviewed and accepted sequentially.
+  - You can still bind them together with an issue that you are referring to.  
