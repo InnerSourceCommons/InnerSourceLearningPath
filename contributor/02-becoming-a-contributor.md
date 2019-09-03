@@ -48,7 +48,7 @@ Collaborating with other teams enables you to share development cost. Just like 
 
 But every team has a different roadmap? I've tried to use shared components before - they always took longer to integrate than it would have taken me to re-implement them. Those components were always lacking in some aspect or another - and my feature requests never got priority on the roadmap of the other team!
 
-In contrast to traditional project InnerSource projects come with the role of a Contributor: Yes, there will be times, when you wish that the shared solution has a new feature. As a Contributor you have the freedom to checkout the source code of the component, make modifications to it and use the resulting improved version.
+In contrast to traditional project InnerSource projects come with the role of a Contributor: Yes, there will be times, when you wish that the shared solution has a new feature. As a Contributor you have the freedom to check out the source code of the component, make modifications to it and use the resulting improved version.
 
 Yes, there will be times, when you urgently need a bug fix on your timeline that doesn't have the same priority in the host team. Becoming a Contributor enables you to become active yourself and support the host team with fixing that bug.
 
@@ -56,7 +56,7 @@ This way of working requires a change in mindset for many: Instead of waiting fo
 
 "But I could simply go and fork the project, make my changes there and save myself from all this coordination overhead!". Sure - forking the project is a way to get your job done. Except in the long run this means it's on you to maintain that forked version for your team - and carry your changes forward for any new release the host team makes. Contributing your changes to the host team also means you get to benefit from their deeper knowledge of the component. They may spot issues in your patch, that otherwise would only have become obvious in production.
 
-A good Contributor can comfortably make a call for when it makes both, technical and business sense to introduce a dependency and re-use a component instead of duplicating work. They can talk to management to explain the benefits of InnerSource contributions.
+A good Contributor can comfortably make a call for when it makes both technical and business sense to introduce a dependency and re-use a component instead of duplicating work. They can talk to management to explain the benefits of InnerSource contributions.
 
 #### Scope of InnerSource contributions
 
