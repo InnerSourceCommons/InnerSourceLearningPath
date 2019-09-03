@@ -34,8 +34,8 @@ code repository.
 Instead when visiting your neighbors you're likely to at least knock on their
 door. Likewise in InnerSource after making your changes to the codebase you'll
 submit them as a pull request. Much like you wouldn't go about making large
-changes and what you consider improvments to your neighbors home, in Inner
-Source you will anticipate and follow the projects collaboration guidelines. In
+changes and what you consider improvments to your neighbors home, in InnerSource
+you will anticipate and follow the project's collaboration guidelines. In
 turn your hosts will show you the way - in InnerSource that translates to
 existing trusted committers spending their time to mentor guests.
 
@@ -130,7 +130,7 @@ what was discussed before and start from there.
 
 Being a Contributor essentially means being somehow closer to the host team than
 someone merely requesting a feature. Still Contributors are not accountable for
-the software project they are contributing to.
+the software project to which they are contributing.
 
 As a result the final call on what the contribution must look like is with the
 host team. It helps to make sure to approach the host team with a humble
