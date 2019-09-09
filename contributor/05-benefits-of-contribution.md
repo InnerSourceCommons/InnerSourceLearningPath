@@ -76,7 +76,7 @@ Rememember that annoying bug that's suddenly fixed upstream? Why should your
 team spend the extra effort to contribute that fix to the upstream project?
 
 For one it means that maintenance cost and time suddenly is with the upstream
-project.  For every new release it's on them instead of on your team to make it
+project.  For every new release it's on them instead of on your team to make sure it
 keeps working with your modifications and requirements.
 
 Having team members work as active contributors in projects your team depends on
