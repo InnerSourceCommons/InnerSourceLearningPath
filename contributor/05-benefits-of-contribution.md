@@ -51,7 +51,7 @@ your own projects. Working on more than one core project means that you will be
 exposed to a larger ecosystem from which to draw best practices and solutions to
 challenges.
 
-A nice side effect of being able to spend some your time in other teams means
+A nice side effect of being able to spend some of your time in other teams is
 that your reputation and impact expands the boundaries of your own team. So in
 addition to yourself learning and growing from others you get to influence
 projects.  You influence directly via your own contributions but also by
@@ -61,6 +61,15 @@ projects, both in a very specific way by your own contributions but also by
 sharing your experience and knowledge on project tooling and setup that might
 help the upstream project improve and accelerate development cycles.
 
+Aside from all of those objective criteria there is a component that is very
+hard to meassure but has been reported both in InnerSource and in Open Source
+projects alike: People participate, because they find work on those project
+personally fullfilling and fun. Most likely the aspect of being in a position
+to truely self select tasks to work on does play an important role for that.
+This self selection typically also leads to host projects being very welcoming
+and supportive as those are key to keeping motivation in contributors up.
+
+
 ### Team level motivation
 
 Rememember that annoying bug that's suddenly fixed upstream? Why should your
@@ -68,13 +77,19 @@ team spend the extra effort to contribute that fix to the upstream project?
 
 For one it means that maintenance cost and time suddenly is with the upstream
 project.  For every new release it's on them instead of on your team to make it
-work with your modifications and requirements.
+keeps working with your modifications and requirements.
 
 Having team members work as active contributors in projects your team depends on
 means that likely they will get to have a say in project direction and timelines,
 which can be beneficial for your team.
 
-### Company movtivation
+By using InnerSource teams can establish a middle path between "be independent
+and build your own" (including any number of new bugs that you own) and "safe
+time and money by relying on existing implementations" (at the cost of creating
+long term dependencies that can only be influenced in a limited way. That way
+balancing reimplementing versus reusing becomes easier.
+
+### Company motivation
 
 Remember that functionality that's specific to your company's domain - but that
 is maintained in mutiple implementations across the entire company? What if
@@ -93,7 +108,7 @@ central to the purpose of the business. Inner Source helps not only with making 
 projects transparent, but also provides tools to improve that situation by
 putting focus on mentoring and expanding the contributor base.
 
-While cross team collaboration does make assessing individual contributions hard,
+While cross team collaboration makes assessing individual contributions hard,
 it also enables learning and knowledge sharing withing an organisation. As a
 result, the impact of individuals will improve. Best practices and positive
 innovation will spread more easily across the entire organisation. As a side
