@@ -9,7 +9,11 @@ a business perspective.
 
 ## Benefits of becoming an InnerSource Contributor
 
-Contributors are the life blood of Inner Source projects: Every project that is
+Contributors are the life blood of Inner Source projects.  Every project that is
+run as an Inner Source project comes both with the promise and with the ultimate
+goal of expanding their development team beyond the original founders.  The project taps
+into the potential for further collaborators amongs users (also sometimes
+referred to as customers in corporations) of that project.```
 run as an Inner Source project comes both with the promise and with the ultimate
 goal of expanding their development team beyond the original founders, tapping
 into the potential for further collaborators amongst users (also sometimes
