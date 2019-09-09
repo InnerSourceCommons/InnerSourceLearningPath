@@ -11,10 +11,6 @@ a business perspective.
 
 Contributors are the life blood of Inner Source projects.  Every project that is
 run as an Inner Source project comes both with the promise and with the ultimate
-goal of expanding their development team beyond the original founders.  The project taps
-into the potential for further collaborators amongs users (also sometimes
-referred to as customers in corporations) of that project.```
-run as an Inner Source project comes both with the promise and with the ultimate
 goal of expanding their development team beyond the original founders, tapping
 into the potential for further collaborators amongst users (also sometimes
 referred to as customers in corporations) of that project.
@@ -57,9 +53,6 @@ addition to yourself learning and growing from others you get to influence
 projects.  You influence directly via your own contributions but also by
 sharing your experience and knowledge on project tooling and setup.  This sharing might
 help the upstream project improve and accelerate development cycles.
-projects, both in a very specific way by your own contributions but also by
-sharing your experience and knowledge on project tooling and setup that might
-help the upstream project improve and accelerate development cycles.
 
 Aside from all of those objective criteria there is a component that is very
 hard to meassure but has been reported both in InnerSource and in Open Source
@@ -84,7 +77,7 @@ means that likely they will get to have a say in project direction and timelines
 which can be beneficial for your team.
 
 By using InnerSource teams can establish a middle path between "be independent
-and build your own" (including any number of new bugs that you own) and "safe
+and build your own" (including any number of new bugs that you own) and "save
 time and money by relying on existing implementations" (at the cost of creating
 long term dependencies that can only be influenced in a limited way. That way
 balancing reimplementing versus reusing becomes easier.
@@ -104,7 +97,7 @@ innovation from the edges of your organisation.
 In general it is well understood that projects with a [bus
 factor](https://en.wikipedia.org/wiki/Bus_factor) of one or two people pose a
 risk to the organisation - all the more, when that project turns out to be
-central to the purpose of the business. Inner Source helps not only with making such
+central to the purpose of the business. InnerSource helps not only with making such
 projects transparent, but also provides tools to improve that situation by
 putting focus on mentoring and expanding the contributor base.
 
@@ -127,9 +120,9 @@ re-use and as a result more modular and replaceable.
 ## Conclusion
 
 As we've seen in this article many of the reasons for individuals and
-corporations to get active in Open Source also apply to Inner Source projects.
+corporations to get active in Open Source also apply to InnerSource projects.
 What we've seen as well is that it's not only altruistic reasons that drive
-people to collaborate in Inner Source projects - often it's easy to identify
+people to collaborate in InnerSource projects - often it's easy to identify
 business reasons for when collaboration like this makes a lot of sense.
 
 
