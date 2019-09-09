@@ -54,6 +54,9 @@ challenges.
 A nice side effect of being able to spend some your time in other teams means
 that your reputation and impact expands the boundaries of your own team. So in
 addition to yourself learning and growing from others you get to influence
+projects.  You influence directly via your own contributions but also by
+sharing your experience and knowledge on project tooling and setup.  This sharing might
+help the upstream project improve and accelerate development cycles.
 projects, both in a very specific way by your own contributions but also by
 sharing your experience and knowledge on project tooling and setup that might
 help the upstream project improve and accelerate development cycles.
