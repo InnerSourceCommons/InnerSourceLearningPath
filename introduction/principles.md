@@ -19,16 +19,17 @@ Let's take a look at each of these principles in more detail.
 ## Openness
 
 The configuration of an open project enables frictionless contributing.
-Projects should be discoverable and well documented through README.md and CONTRIBUTING.md files within the root of the repo.
+Projects should be discoverable and well-documented through README.md and CONTRIBUTING.md files within the root of the repo.
 Anyone within an organization should be able to find a desired project and ramp up without an inordinate amount of direct guidance from host team members.
 Host team contact information should be prevalent with as many channels as makes sense for the project.
-Host team intentions to InnerSource their project should be shared through relevant organization channels to raise awareness. Particularly in smaller 
-settings you may want to establish a regular "broadcast" on the InnerSource work your team is doing, in larger settings this may create a lot of 
-noise and making sure it is discoverable in a easy to use tool is probably a better path. Remember, the goal is awareness use the appropriate channels that 
+Host team intentions to accept InnerSource contributions to their project should be shared through relevant organization channels to raise awareness. Particularly in smaller 
+settings you may want to establish a regular "broadcast" on the InnerSource work your team is doing.
+In larger settings, however, such broadcast may create a lot of 
+noise, and it may be more approproate to make sure the project is discoverable in a easy-to-use tool. Remember, the goal is awareness use the appropriate channels that 
 work in YOUR company.
 
 By no means is the above an exhaustive list. Project openness will typically be directly related to how successful a project is
-in terms of inner sourcing: The more open it is, the less barriers are put in place for prospective contributors. The less open
+in terms of InnerSource.  The more open it is, the fewer barriers are put in place for prospective contributors. The less open
 it is, the more difficult it becomes for anyone to contribute.
 
 ## Transparency
@@ -41,20 +42,20 @@ This means that guest teams should be able to have an understanding of:
 * Progress on feature requirements
 * Decision making of the host team
 
-When possible, the above should be communicated clearly and in details, from teams internal definitions of items to special case scenarios specific to the project, in a manner that can be easily queried and understood to those that are not part of the core team.
+When possible, the above should be communicated clearly and in detail, from teams' internal definitions of items to special-case scenarios specific to the project.  This communication should be done in a manner that can be easily queried and understood to those that are not part of the core team.
 
 ## Prioritized Mentorship
 
 _Mentorship_ from host team to guest team via trusted committers is a key aspect of InnerSource.
 Contributors on guest teams are upleveled so that they understand enough about the host team's project/repo to change it successfully.
 In the process of doing so, they come to better understand the host team's software system as a general consumer and ambassador for the project/software.
-This individual contributor can then over time and with experience take on a broader role in the project as a trusted committer.
+This individual contributor can, over time and with experience, take on a broader role in the project as a trusted committer.
 
 It's critical that this mentorship for contributors is _Prioritized_ by the host team.
 The host team should strive to make time to mentor guest team contributors _at the time that the contributor needs it_ as opposed to when it's convenient to the host team.
 At times it may be a culture change for engineers on the host team to spend time helping others to code rather than just coding themselves.
 This mentorship is valuable to both the individual contributor and the host, and it is worth doing well.
-It proves to be mutually beneficial in the long run. By improving the code, the contributor models, forges or
+It proves to be mutually beneficial in the long run. By improving the code, the contributor forges or
 improves relationships within an organization that may not have existed otherwise.
 Open source readily recognizes this point and considers it as an honor to achieve trusted committer status on a project.
 
