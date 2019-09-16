@@ -42,7 +42,8 @@ This means that guest teams should be able to have an understanding of:
 * Progress on feature requirements
 * Decision making of the host team
 
-When possible, the above should be communicated clearly and in detail, from teams' internal definitions of items to special-case scenarios specific to the project.  This communication should be done in a manner that can be easily queried and understood to those that are not part of the core team.
+When possible, the above should be communicated clearly and in detail, from teams' internal definitions of items to special-case scenarios specific to the project.
+This communication should be done in a manner that can be easily queried and understood to those that are not part of the core team.
 
 ## Prioritized Mentorship
 
