@@ -68,8 +68,11 @@ That can happen when the host team is already building something very similar, i
 This challenge is a frequent challenge and many team relationships suffered from not agreeing in advance that a contribution is a good fit.
 
 Make yourself and the host team happy (and possibly even save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
-You'll have to understand how the host team would like you to reach out for this - sometimes they have regular design discussions in person or via chat/voice/video conferences, some hand in design discussion / extension proposal documents for collective discussion and review, some work with feature requests, etc. 
-Ask a trusted committer about how to best discuss your proposal.  
+You'll have to understand how the host team would like you to reach out for this.
+It's best to ask a trusted committer about how to best discuss your proposal.
+
+It is time-and-again-proven wisdom from the Open Source arena that, if you get to select how to discuss your proposal you should try to select a written way.
+Ideally one whose artifacts are public, searchable and perma-linkable to enable referencing your proposal in later discussions on this future contribution or other contributions to come - by you or others. 
 
 This type of high-level, up-front agreement early will save time in rework or rejection of your pull request down the road.
 
