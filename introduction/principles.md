@@ -22,15 +22,15 @@ The configuration of an open project enables frictionless contributing.
 Projects should be discoverable and well-documented through README.md and CONTRIBUTING.md files within the root of the repo.
 Anyone within an organization should be able to find a desired project and ramp up without an inordinate amount of direct guidance from host team members.
 Host team contact information should be prevalent with as many channels as makes sense for the project.
-Host team intentions to accept InnerSource contributions to their project should be shared through relevant organization channels to raise awareness. Particularly in smaller 
-settings you may want to establish a regular "broadcast" on the InnerSource work your team is doing.
-In larger settings, however, such broadcast may create a lot of 
-noise, and it may be more approproate to make sure the project is discoverable in a easy-to-use tool. Remember, the goal is awareness use the appropriate channels that 
-work in YOUR company.
+Host team intentions to accept InnerSource contributions to their project should be shared through relevant organization channels to raise awareness.
+Particularly in smaller settings you may want to establish a regular "broadcast" on the InnerSource work your team is doing.
+In larger settings, however, such broadcast may create a lot of noise, and it may be more approproate to make sure the project is discoverable in a easy-to-use tool.
+Remember, the goal is awareness use the appropriate channels that work in YOUR company.
 
-By no means is the above an exhaustive list. Project openness will typically be directly related to how successful a project is
-in terms of InnerSource.  The more open it is, the fewer barriers are put in place for prospective contributors. The less open
-it is, the more difficult it becomes for anyone to contribute.
+By no means is the above an exhaustive list.
+Project openness will typically be directly related to how successful a project is in terms of InnerSource.
+The more open it is, the fewer barriers are put in place for prospective contributors.
+The less open it is, the more difficult it becomes for anyone to contribute.
 
 ## Transparency
 
