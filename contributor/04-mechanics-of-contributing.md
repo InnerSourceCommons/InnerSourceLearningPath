@@ -10,8 +10,9 @@ See [Outline Section](https://github.com/InnerSourceCommons/InnerSourceLearningP
 
 # Article
 
-You are ready to start contributing to other teams projects/repos or look forward to reduce your blockers by not playing the big-cheese game but by collaborating? 
-Please consider reading this section beforehand as it will give you practical advice and informs you about gotchas to remember when making an InnerSource contribution. This will hopefully enable you and the host team to have as pleasant an experience as possible setting the foundation for more contributions and great collaboration.  
+Are you ready to start contributing to other teams projects/repos?
+Do you look forward to reducing your blockers not by management escalation but by collaboration? 
+This section gives practical advice and highlights gotchas to remember when making an InnerSource contribution. It enables you and the host team to have as pleasant an experience as possible, setting the foundation for more contributions and great collaboration.  
 
 This article is separated into the three steps you will likely experience
 
@@ -27,10 +28,14 @@ It is very likely that as you do this everything will feel more and more natural
 ### Lead times
 
 One key difference is the turn-around time. 
-You're coming to a new (host) team on every first contribution and thus you'll need to get to know their approach, i.e. their development, reviews and deployment, etc. processes.
-Even if you are coming back after a while the teams' ways and members might have changed - take your time as you would to catch up with a friend you haven't seen in a while and whom you are visiting now.
+With every first time contribution you are coming to a new (host) team.
+As a result, you'll need to get to know their code-base and the technology used, but also their preferred development environment (think test framework, build system).
+Even in cases where this type of tooling is standardized each team will have developed some individual peculiarities.
+In addition to the technical side, you may be faced with differences in communication, think code-reviews.
+Even if you are coming back after a while the teams' ways and members might have changed.
+Take your time as you would to catch up with a friend you haven't seen in a while and whom you are visiting now.
 
-Thus: Please give yourself enough lead time.
+Give yourself enough lead time.
 Start early enough so that your work is available for you to leverage at the time you need it. 
 It's better to add more slack time initially - you'll get a feeling about the turn-around times once you work with the host team.
 If you end with too much there surely will be a great way to make use of the time, be it some work on your side, the quirky bug or improvement opportunity you found while making your initial contribution or possibly even a nice chat over coffee, beers in case of personal availability or whatever topic in case of distributed projects. 
@@ -40,13 +45,25 @@ The basic point is that aside of reliability in collaboration, continued presenc
 ]  
 
 Especially in the case of larger distances between you and the host teams, e.g. multiple time zones difference as in San Francisco, USA (PDT) and Berlin, Germany (CEST), you will need to actively consider this and explicitly manage your and their expectations on reaction times.
+### Building trust
 
+InnerSource puts huge weight on written communication - in particular when it comes to project decisions.
+Does that imply that in-person communication is forbidden?
+
+Clearly not: Where written communication shines when it comes to archiving and searchability, in-person communication shines when it comes to communication bandwidth. 
+Try to make time to meet the people behind the names. If possible, try to meet them over your favorite beverage or some food.
+When you're able to hear people speak, when you know their idiosyncrasies remote collaboration will become easier. 
+
+[EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
+The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
+]  
 ### Avoiding rejection
 
-You've got this really large feature or larger rewrite in mind that would be totally great and add real value that you would like to donate?
+Do you have a large feature that you want to contribute?
 Excellent!
-Wouldn't it be horrible if all your work would be wasted because the host team is maybe already building something very similar, is planning to deprecate the part of the software you are trying to extend or even does not see what you are proposing to be a fit for their project? 
-This challenge is a frequent challenge and many team relationships suffered from not handling the fit in advance.
+Wouldn't it be horrible if all your work would be wasted?
+That can happen when the host team is already building something very similar, is planning to deprecate the the software, or does not see what you are proposing to be a fit for their project? 
+This challenge is a frequent challenge and many team relationships suffered from not agreeing in advance that a contribution is a good fit.
 
 Make yourself and the host team happy (and possibly even save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
 You'll have to understand how the host team would like you to reach out for this - sometimes they have regular design discussions in person or via chat/voice/video conferences, some hand in design discussion / extension proposal documents for collective discussion and review, some work with feature requests, etc. 
@@ -64,9 +81,12 @@ Which gotchas are there waiting for you now?
 First, you'll be in less direct contact with them and second you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
 How can you now deal with this the best?
 
-Try to peruse their documentation, the conversation archives and code artifacts from the host team to unblock yourself - this is pretty much similar to the situation you and likely most people find yourself in when using one of the popular OSS projects.
+Try to peruse their documentation, the conversation archives and code artifacts from the host team to unblock yourself.
+This is similar to the situation you and likely most people find yourself in when using one of the popular OSS projects.
 
-Much like in Open Source projects, make use of the advantage to be able to directly ask the host team if, even after trying to unblock yourself, things went nowhere. The questions you ask and the answers you receive will help others coming after you solve the same issues - so make sure that your communication ends up in a searchable archive that is closely linked to the project itself.
+Much like in Open Source projects, ask the host team if things are going nowhere even after trying to unblock yourself.
+The questions you ask and the answers you receive will help others coming after you solve the same issues.
+Make sure that your communication ends up in a searchable archive that is closely linked to the project itself.
 It doesn't do either side any good for you to spin forever on a problem that could be resolved in a few-minute conversation with someone more knowledgeable about the project.
 It's OK to ask for help.
 
@@ -76,14 +96,14 @@ All of those usually have in common that they are text-based, archived, searchab
 This way you could benefit from this passively documented knowledge on your search and will help future contributors to have the same advantage.
 Imagine what would be needed for realizing this benefit by just walking by or calling a trusted committer on the project or even in a group call.    
 
-Did you on your way of trying to unblock yourself find that you were missing documentation or found parts of it to be wrong or out-of-date and had to figure this out for yourself now?
+As you work if you find missing (or out-of-date) documentation, do a favor to the next Contributor and update it with what you've discovered.
 Often projects are happy to receive additions, updates or corrections for their existing documentation as well - you've just found another opportunity to contribute! 
 (Or just politely provide them with feedback on your experience and what would have helped you.)
 
 ### Crafting the code
 
 We all have our preferences and opinions on code style, indentation, etc. 
-The home that the host team lives in will have them as well, individual wallpaper, decoration and hangings incl. 
+The host team's project has them as well. 
 Try to adapt and match those preferences even if it's not what you would normally do and even if it is not specified in the projects' `CONTRIBUTING.md`.
 If you are unsure you can always ask politely, nevertheless a guest contribution for a feature or bug fix is not the time to introduce a new way of structuring or formatting project code.
 
