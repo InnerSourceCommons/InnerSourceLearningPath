@@ -33,6 +33,8 @@ Even if you are coming back after a while the teams' ways and members might have
 Thus: Please give yourself enough lead time.
 Start early enough so that your work is available for you to leverage at the time you need it. 
 It's better to add more slack time initially - you'll get a feeling about the turn-around times once you work with the host team.
+Often, you will notice a reduction in turn-around time per host team after making a few successful contributions to that host team.
+This is effect can be observed with Open Source as well, you can read more about it [here](https://doi.org/10.1109/MS.2013.95). 
 If you end with too much there surely will be a great way to make use of the time, be it some work on your side, the quirky bug or improvement opportunity you found while making your initial contribution or possibly even a nice chat over coffee, beers in case of personal availability or whatever topic in case of distributed projects. 
 
 [EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
