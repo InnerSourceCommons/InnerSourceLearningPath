@@ -45,7 +45,14 @@ This is effect can be observed with Open Source as well, you can read more about
 The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
 ]  
 
-Especially in the case of larger distances between you and the host teams, e.g. multiple time zones difference as in San Francisco, USA (PDT) and Berlin, Germany (CEST), you will need to actively consider this and explicitly manage your and their expectations on reaction times.
+### Expectation management
+In your classic teams everyone had an idea of the expectable lead times.
+Within an InnerSource context this might not be the case, either due to large time-zone differences (e.g. Seattle, USA with PDT vs Berlin, Germany with CEST) or you not being available full-time as with your original team even if they are in the same physical location as you are.
+Thus, to prevent frustration on both sides, impatience and other non-trust-building effects you'll need to explicitly do expectations management with regards to your expected reaction times.
+One approach be to just quickly react with a "I'll look into it, I won't get to it in the next few days though" to a Trusted Committer's feedback if you know that you'll only be able to come back to them in a few days.
+Ideally you can provide them with a rough estimate when you likely will have time to take a look at their input.
+Doing so builds trust by reliability even over non-physical contact, longer distance or otherwise asynchronous media.
+Established trust will allow you overcome uncertainty bumps in the collaborative road ahead of you. 
 ### Building trust
 
 InnerSource puts huge weight on written communication - in particular when it comes to project decisions.
