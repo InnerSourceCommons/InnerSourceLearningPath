@@ -153,4 +153,8 @@ To make the actual code review as easy as possible for the trusted committer or 
   - Be civil and expect civility from the trusted committers' review.   
 - Making pull requests too broad and large makes them more difficult to review so it will take much longer before they're accepted.
   - If you have a larger feature you are contributing it often helps to split it in multiple pull requests that get submitted, reviewed and accepted sequentially.
+    - Some tools also have Draft / WIP pull request functionality that you can use to explicitly mark unfinished and non-polished work and still get early feedback from your host team's trusted committers.
+    - This allows you to ensure you are going down a path that your host team is happy to merge once it's done, adhering to the "release early, release often" idea in a way.
+    - The host teams' responsibility is to create an atmosphere where sharing and discussing not-totally-polished work is possible and welcome. If you can't fail safe, you can't innovate and collaborate becomes very hard.  
+    - Try to balance between asking for review early and providing meaningful changes to review.
   - You can still bind them together with an issue that you are referring to.  
