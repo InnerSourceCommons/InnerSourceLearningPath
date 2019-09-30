@@ -104,7 +104,6 @@ Make note to yourself of any missed information.
 **Within 24 Hours of Meeting**
 
 * [ ] Clean up everyone's notes plus your own into a cohesive set of key points and assignments of the meeting.
-Be sure to include the time of next meeting.
 * [ ] These polished notes should be in the **Notes** section of the agenda document.
 * [ ] Announce in the [#learning-path] channel that the notes are in the agenda document.
 In your announcement include a sharing link to the document itself.
