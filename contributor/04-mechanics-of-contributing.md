@@ -39,7 +39,7 @@ Give yourself enough lead time.
 Start early enough so that your work is available for you to leverage at the time you need it. 
 It's better to add more slack time initially - you'll get a feeling about the turn-around times once you work with the host team.
 Often, you will notice a reduction in turn-around time per host team after making a few successful contributions to that host team.
-This is effect can be observed with Open Source as well, you can read more about it [here](https://doi.org/10.1109/MS.2013.95). 
+This is effect can be observed with Open Source as well, you can read more about it [here](#buildup-of-trust-through-collaboration). 
 
 [EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
 The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
@@ -157,4 +157,10 @@ To make the actual code review as easy as possible for the trusted committer or 
     - This allows you to ensure you are going down a path that your host team is happy to merge once it's done, adhering to the "release early, release often" idea in a way.
     - The host teams' responsibility is to create an atmosphere where sharing and discussing not-totally-polished work is possible and welcome. If you can't fail safe, you can't innovate and collaborate becomes very hard.  
     - Try to balance between asking for review early and providing meaningful changes to review.
-  - You can still bind them together with an issue that you are referring to.  
+  - You can still bind them together with an issue that you are referring to.
+
+## Additional articles 
+Some of these resources might be hidden behind paywalls. 
+Sometimes your employer has a subscription enabling access, otherwise public university libraries often allow access for guests, too.
+
+### [Buildup of trust through collaboration](https://doi.org/10.1109/MS.2013.95)
