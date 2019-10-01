@@ -19,10 +19,10 @@ Time-target for the video 1-3 minutes.
 ## Conclusion
 Thanks for watching the Contributor segment of the InnerSource Commons Learning Path.
 
-In this segment you've learned about how to become an contributor by learning about how to find opportunities to contribute and the mindset and habits needed to find or create such opportunities.
-We've also discussed the Ethos of the role and suggested some behaviour that is likely to lead to successful contributions.
+In this section you've learned about how to become an contributor by learning about how to find opportunities to contribute and the mindset and habits needed to find or create such opportunities.
+We've also discussed the ethos of the role and suggested some behaviour that is likely to lead to successful contributions.
 
-Given the right mindset, habits and ethos there are still a few details that might keep you from successfully contributing - hence, we've discussed these nuts and bolts in greater detail
+Given the right mindset, habits and ethos there are still a few details that might keep you from successfully contributing - hence, we've discussed these nuts and bolts in greater detail.
 
 Last but not least, convincing your teammates and your organization at various levels can be hard, thus we've discussed the benefits of contribution from various perspectives to make this process easier for you.   
 
