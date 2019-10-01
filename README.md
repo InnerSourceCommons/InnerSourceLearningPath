@@ -55,10 +55,16 @@ This repository holds the backing/planning material for the videos and articles 
 ```
 section-name/assignments.md  // Contains the community assignments for authors and reviewers in this section.
 section-name/outline.md      // Contains an outline of all of the segments in this section.
-section-name/article-1.md    // Contains the text of the written articles.
-section-name/article-2.md
+section-name/01-first-topic-article.md    // Contains the text of the written articles, scripts and workbook assessments.
+section-name/01-first-topic-script.md
+section-name/01-first-topic-workbook.md
+section-name/02-next-topic-article.md
+section-name/02-next-topic-script.md
+section-name/02-next-topic-workbook.md
 . . .
-section-name/article-n.md
+section-name/0n-last-topic-article.md
+section-name/0n-last-topic-script.md
+section-name/0n-last-topic-workbook.md
 ```
 
 ## How to Get Involved
