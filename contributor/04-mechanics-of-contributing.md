@@ -20,8 +20,8 @@ This article is separated into the three steps you will likely experience
 - Actually creating the contribution
 - Polishing and wrapping the gift nicely and presenting it to the host team.
 
-If your contribution is larger, you'll possibly go through (some) these steps repeatedly as you iterate towards your common goal.
-It is very likely that as you do this everything will feel more and more naturally - maybe you'll even wonder why you were doing anything else before.
+If your contribution is larger, you'll possibly go through (some) of these steps repeatedly as you iterate towards your common goal.
+It is very likely that as you do this everything will feel more and more natural - maybe you'll even wonder why you were doing anything else before.
 
 ## Preparing to work
 
@@ -31,7 +31,7 @@ One key difference is the turn-around time.
 With every first time contribution you are coming to a new (host) team.
 As a result, you'll need to get to know their code-base and the technology used, but also their preferred development environment (think test framework, build system).
 Even in cases where this type of tooling is standardized each team will have developed some individual peculiarities.
-In addition to the technical side, you may be faced with differences in communication, think code-reviews.
+In addition to the technical side, you may be faced with differences in communication (think code-reviews).
 Even if you are coming back after a while the teams' ways and members might have changed.
 Take your time as you would to catch up with a friend you haven't seen in a while and whom you are visiting now.
 
@@ -70,7 +70,7 @@ The basic point is that aside of reliability in collaboration, continued presenc
 Do you have a large feature that you want to contribute?
 Excellent!
 Wouldn't it be horrible if all your work would be wasted?
-That can happen when the host team is already building something very similar, is planning to deprecate the the software, or does not see what you are proposing to be a fit for their project? 
+That can happen when the host team is already building something very similar, is planning to deprecate the the software, or does not see what you are proposing to be a fit for their project.
 This challenge is a frequent challenge and many team relationships suffered from not agreeing in advance that a contribution is a good fit.
 
 Make yourself and the host team happy (and possibly even save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
@@ -122,7 +122,7 @@ If you are unsure you can always ask politely, nevertheless a guest contribution
 You've completed all the essential work, figured out all the quirks of the problem and the project you are contributing to, the time you've planned for the new feature to be used comes nearer and you want to make sure your contribution gets merged in as fast and smooth as possible?
 
 Here's what you can do to make reviewing and merging as easy as possible for the the trusted committer and the host team.
-(This might actually be pretty similar to what you might already be doing on your own project to get your changes accepted - if that's the case: great, this is going to come natural to you!)
+This might actually be pretty similar to what you might already be doing on your own project to get your changes accepted - if that's the case: great, this is going to come natural to you!
 
 ### Testing and automation
 
@@ -152,11 +152,11 @@ To make the actual code review as easy as possible for the trusted committer or 
   - Be civil and expect civility from the trusted committers' review.   
 - Making pull requests too broad and large makes them more difficult to review so it will take much longer before they're accepted.
   - If you have a larger feature you are contributing it often helps to split it in multiple pull requests that get submitted, reviewed and accepted sequentially.
+You can still bind them together with an issue that you are referring to.
     - Some tools also have Draft / WIP pull request functionality that you can use to explicitly mark unfinished and non-polished work and still get early feedback from your host team's trusted committers.
     - This allows you to ensure you are going down a path that your host team is happy to merge once it's done, adhering to the "release early, release often" idea in a way.
-    - The host teams' responsibility is to create an atmosphere where sharing and discussing not-totally-polished work is possible and welcome. If you can't fail safe, you can't innovate and collaborate becomes very hard.  
+    - The host team's responsibility is to create an atmosphere where sharing and discussing not-totally-polished work is possible and welcome. If you can't fail safe, you can't innovate and collaborate becomes very hard.  
     - Try to balance between asking for review early and providing meaningful changes to review.
-  - You can still bind them together with an issue that you are referring to.
 
 ## Additional articles 
 Some of these resources might be hidden behind paywalls. 
