@@ -105,7 +105,6 @@ There's one key difference though, bringing advantage to you and other people in
 In almost all cases you should prefer the projects' official communication channels - this can be a mailing list, a chat room, the issue tracker or something similar depending on the purpose of having a more synchronous or asynchronous way of interacting or the varying needs for structure in the communication.
 All of those usually have in common that they are text-based, archived, searchable and come with stable links - this means your question and the answer will be written down, references you link in those answers will also be kept reachable.
 This way you could benefit from this passively documented knowledge on your search and will help future contributors to have the same advantage.
-Imagine what would be needed for realizing this benefit by just walking by or calling a trusted committer on the project or even in a group call.    
 
 As you work if you find missing (or out-of-date) documentation, do a favor to the next Contributor and update it with what you've discovered.
 Often projects are happy to receive additions, updates or corrections for their existing documentation as well - you've just found another opportunity to contribute! 
