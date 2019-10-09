@@ -61,7 +61,18 @@ Does that imply that in-person communication is forbidden?
 Clearly not: Where written communication shines when it comes to archiving and searchability, in-person communication shines when it comes to communication bandwidth. 
 Try to make time to meet the people behind the names. If possible, try to meet them over your favorite beverage or some food.
 When you're able to hear people speak, when you know their idiosyncrasies remote collaboration will become easier. 
+### Building trust
 
+InnerSource puts huge weight on written communication - in particular when it comes to project decisions.
+Does that imply that in-person communication is forbidden?
+
+Clearly not: Where written communication shines when it comes to archiving and searchability, in-person communication shines when it comes to communication bandwidth. 
+Try to make time to meet the people behind the names. If possible, try to meet them over your favorite beverage or some food.
+When you're able to hear people speak, when you know their idiosyncrasies remote collaboration will become easier. 
+
+[EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
+The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
+]  
 [EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
 The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
 ]  
@@ -98,6 +109,9 @@ This is similar to the situation you and likely most people find yourself in whe
 Much like in Open Source projects, ask the host team if things are going nowhere even after trying to unblock yourself.
 The questions you ask and the answers you receive will help others coming after you solve the same issues.
 Make sure that your communication ends up in a searchable archive that is closely linked to the project itself.
+Should you see easy improvement opportunities to reach said goal if it is not reached yet, you could try to - very politely - suggest an improvement to your host team.
+Sometimes the status quo arises from pure happenstance and stays that way because no-one had a different idea or cared enough.
+Suggestions for improvement might be welcome in such cases.
 It doesn't do either side any good for you to spin forever on a problem that could be resolved in a few-minute conversation with someone more knowledgeable about the project.
 It's OK to ask for help.
 
@@ -105,6 +119,7 @@ There's one key difference though, bringing advantage to you and other people in
 In almost all cases you should prefer the projects' official communication channels - this can be a mailing list, a chat room, the issue tracker or something similar depending on the purpose of having a more synchronous or asynchronous way of interacting or the varying needs for structure in the communication.
 All of those usually have in common that they are text-based, archived, searchable and come with stable links - this means your question and the answer will be written down, references you link in those answers will also be kept reachable.
 This way you could benefit from this passively documented knowledge on your search and will help future contributors to have the same advantage.
+Such passive documentation could even serve to enrich 'official' documentation should it happen to contain especially valuable gems such as important definitions that got created ad-hoc.  
 
 As you work if you find missing (or out-of-date) documentation, do a favor to the next Contributor and update it with what you've discovered.
 Often projects are happy to receive additions, updates or corrections for their existing documentation as well - you've just found another opportunity to contribute! 
@@ -127,6 +142,8 @@ This might actually be pretty similar to what you might already be doing on your
 ### Testing and automation
 
 The basic point here is to enable the trusted committer to validate the contribution without your presence and to ensure easy maintainability.
+Imagine you've built a feature or handling of an unsolvable quirk or important performance tweak whose code is not entirely obvious or might even look hacky / wrong at the first glance. 
+If you have covered this with a test - and ideally have shed some words on the rationale behind it in a comment - a future editor will get reminded about the purpose of the code and the test(s) will ensure that the value your code realizes will be kept, even in new implementations.
 To achieve this do the following: 
 
 - Add tests for your code contribution so that validating the function of your contribution by others works well, even after some time when you work in other projects or might have stopped to contribute to this project.
@@ -135,6 +152,7 @@ To achieve this do the following:
   - Use those to ensure that your contribution works as well as possible before opening a pull request. 
   - Having to review defect pull requests with easy-to-fix errors often bugs trusted committers. They will not fix your code but ask you to do so. This might create more round-trips and slow the merge if there's unnecessary errors.
   - No one's perfect though. Try your best, use the prepared validation scripts if there are any and give it your best shot with a pull request!
+  - If your pull request keeps breaking tests and you can't find out why after giving it your best shot: try to highlight those tests in the pull request comment, illustrate your current understanding of the problem and ask for help on it.  
 - Don't forget your own project that triggered your contribution in the first place. Build a modified build of the shared project with your changes and try it out in your own project that consumes it.
 
 ### Documentation and reviewability
