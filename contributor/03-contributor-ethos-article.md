@@ -44,7 +44,7 @@ there was some planning ahead of time to choose the right date and time, to
 prepare enough food or have that contributed by the guests. The same happens for
 bigger changes in InnerSource projects: Before making large modifications a
 project is likely to first ask you to submit an issue describing your need and
-your proposed solution. Spending some time on an intial design instead of
+your proposed solution. Spending some time on an initial design instead of
 jumping right into the implementation here saves contributors from having to
 re-do a lot of their work. Sharing progress early - even when it's not finished
 yet - helps mentoring the contributor towards a better solution. Much like
@@ -73,7 +73,7 @@ transparent and asynchronous way so that everyone - including those lurking in
 on your conversation - can jump in and become active contributors. One example
 of just how far one can take open decision making is explained in several
 exercises in the [Open Organization
-Workbook](https://opensource.com/open-organization/resources/workbook)
+Workbook](https://opensource.com/open-organization/resources/workbook).
 
 Now, how do you figure out where an InnerSource project would like to discuss
 changes, future direction of the project? Many InnerSource projects outline how
