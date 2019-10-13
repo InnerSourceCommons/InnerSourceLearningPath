@@ -47,8 +47,8 @@ This communication should be done in a manner that can be easily queried and und
 
 ## Prioritized Mentorship
 
-_Mentorship_ from host team to guest team via trusted committers is a key aspect of InnerSource.
-Contributors on guest teams are upleveled so that they understand enough about the host team's project/repo to change it successfully.
+_Mentorship_ from host team to guest team via [trusted committers](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) is a key aspect of InnerSource.
+[Contributors](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md) on guest teams are upleveled so that they understand enough about the host team's project/repo to change it successfully.
 In the process of doing so, they come to better understand the host team's software system as a general consumer and ambassador for the project/software.
 This individual contributor can, over time and with experience, take on a broader role in the project as a trusted committer.
 
