@@ -12,7 +12,7 @@
   - Summary of the roles of InnerSource and how each relates to _Contributor_.
   - Summary of the upcoming segments and what each covers.
 
-Outline for this section inspired by the [Trusted Committer introduction article](link).
+Outline for this section inspired by the [Trusted Committer introduction article](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md).
 
 ## Video Play-book based Target
 How do I best contribute to an InnerSource project?  This segment shares a summary of what it means to be an InnerSource Contributor.  We'll also give an overview of the upcoming training segments on being a great InnerSource Contributor.
@@ -33,16 +33,16 @@ If you're not getting what you need you can make the change you need directly in
 The Contributor role describes a person that makes contributions to the repos of an InnerSource community project.
 This person may or may not be part or see themselves as part of the community.
 However, for quite a few people there is a sort of journey contributors can make from just knowing about the community to using the community's product to interacting with members of the community and finally starting to contribute.
-Finally, some of them may even become Trusted Committers.
+Finally, some of them may even become [Trusted Committers](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md).
 
 
 ## Relationship to other roles
 
-As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as Trusted Committer or Product Owner and possibly also other contributors.
+As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as [_Trusted Committer_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) or [_Product Owner_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md) and possibly also other contributors.
 At times, these roles can be played by the same person, such as Trusted Committer and Product Owner in small grass-roots style projects.
 
-This section gives you a very short overview of the other two roles but we'd like to encourage you to read the [introductory article of the Trusted Committer role]() and recommended to read the [Lowering the barriers to entry]() article too before you delve deeper into the details of the Contributor role in this section.
-You can also watch the videos ([introduction](intro-trusted-committer),[lowering the barriers to entry](tc-lowering-the-barriers-to-entry)) instead of the articles.
+This section gives you a very short overview of the other two roles but we'd like to encourage you to read the [introductory article of the Trusted Committer role](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) and recommended to read the [Lowering the barriers to entry]() article too before you delve deeper into the details of the Contributor role in this section.
+You can also watch the videos ([introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925),[lowering the barriers to entry](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929) instead of the articles.
 
 ### Trusted Committer
 
