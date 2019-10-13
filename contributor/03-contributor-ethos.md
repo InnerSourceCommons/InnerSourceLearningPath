@@ -42,7 +42,7 @@ existing trusted committers spending their time to mentor guests.
 What about those lovely summer parties that you went to? Likely before going
 there was some planning ahead of time to choose the right date and time, to
 prepare enough food or have that contributed by the guests. The same happens for
-bigger changes in InnerSource projects: Before making large modifications a
+bigger changes in InnerSource projects: before making large modifications a
 project is likely to first ask you to submit an issue describing your need and
 your proposed solution. Spending some time on an intial design instead of
 jumping right into the implementation here saves contributors from having to
@@ -54,9 +54,9 @@ explains: "A half-baked patch in Jira, with no documentation, no tests
 and no backwards compatibility is better than no patch at all."
 
 Does that imply that InnerSource projects place no value on face to face
-communication? Not quite: There is value in meeting participants face to face.
+communication? Not quite: there is value in meeting participants face to face.
 Remember that all written communication lacks a lot of bandwidth compared with
-meeting in person: There's no gestures, no mimics, not even the tone of voice
+meeting in person: there are no gestures, no mimics, not even the tone of voice
 that otherwise help with understanding. In particular for inter-personal
 challenges, resolving conflict and misunderstandings meeting in person has
 strong value. However for InnerSource projects the goal should be that
@@ -64,10 +64,10 @@ communication about project decisions be kept in writing so that others can
 follow along and influence the project, so that even years later it's possible
 to trace why a certain decision was made.
 
-Here's my general rule of thumb: Feel free to meet over coffee, often that helps
+Here's my general rule of thumb: feel free to meet over coffee, often that helps
 with building a stronger team. Remember though that when the team is split into
 multiple physical locations (for me that includes teams that are spread across
-mutliple floors) there is a good chance that this encourages the team to split
+mutliple floors), there is a good chance that this encourages the team to split
 into multiple silos. Do make sure though that all decisions are made in a
 transparent and asynchronous way so that everyone - including those lurking in
 on your conversation - can jump in and become active contributors. One example
@@ -78,7 +78,7 @@ Workbook](https://opensource.com/open-organization/resources/workbook)
 Now, how do you figure out where an InnerSource project would like to discuss
 changes, future direction of the project? Many InnerSource projects outline how
 they like to be approached by potential Contributors in their README.md. If that
-document becomes too large to handle contribution guidelines tend to be split
+document becomes too large to handle, contribution guidelines tend to be split
 out into a file named CONTRIBUTING.md files. Following those recommendations
 greatly helps the contributor selling their offer.
 
@@ -90,7 +90,7 @@ The host team will be the one taking over maintenance for your changes. It makes
 sense to offer to fulfill a [30-day
 warranty](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md)
 on your submission. This can
-alleviate the host teams' fear of the contributors not being available for
+alleviate the host team's fear of the contributors not being available for
 support with fixing bugs after the time on contribution.
 
 #### Anticipate and follow house rules
@@ -98,12 +98,12 @@ support with fixing bugs after the time on contribution.
 When visiting your neighbors, likely they will help you around in their
 apartment: They'll show you the way to their living room, likely they'll show
 you where the restroom is located. If you're staying longer, they likely also
-give you more details: In my case an example would be to try to avoid turning on
+give you more details: in my case an example would be to try to avoid turning on
 the dishwasher and the electric kettle at the same time to avoid blowing the
 fuse.
 
 Similarly every software system comes with it's own quirks and intricacies.
-Often the most obvious ones are well documented: In smaller projects this
+Often the most obvious ones are well documented. In smaller projects this
 documentation can be found in the README.md. In larger ones, contribution
 specific documentation can often be found in the CONTRIBUTING.md document.
 
@@ -126,7 +126,7 @@ archived and searchable. The benefit here is with others coming after you with
 similar proposals: Instead of walking the exact same path again, they can learn
 what was discussed before and start from there.
 
-#### Understands they are not the home owner and acts accordingly.
+#### Understand they are not the home owner and act accordingly.
 
 Being a Contributor essentially means being somehow closer to the host team than
 someone merely requesting a feature. Still Contributors are not accountable for
