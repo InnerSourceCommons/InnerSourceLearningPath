@@ -95,14 +95,14 @@ support with fixing bugs after the time on contribution.
 
 #### Anticipate and follow house rules
 
-When visiting your neighbors, likely they will help you around in their
-apartment: They'll show you the way to their living room, likely they'll show
-you where the restroom is located. If you're staying longer, they likely also
+When visiting your neighbors, they will likely help you around in their
+apartment: they'll show you the way to their living room and where the restroom 
+is located. If you're staying longer, they will probably
 give you more details: in my case an example would be to try to avoid turning on
 the dishwasher and the electric kettle at the same time to avoid blowing the
 fuse.
 
-Similarly every software system comes with it's own quirks and intricacies.
+Similarly every software system comes with its own quirks and intricacies.
 Often the most obvious ones are well documented. In smaller projects this
 documentation can be found in the README.md. In larger ones, contribution
 specific documentation can often be found in the CONTRIBUTING.md document.
@@ -116,14 +116,14 @@ in mind when making changes.
 Going through that documentation usually turns out to be a huge time saver as it
 stops you from going down the wrong path and warns you about dead ends. If you
 find things are missing from it based on your experience - patches to that
-documentation typically are very welcome: There's nobody better suited to
-improve it than the new contributor who sees the project for the first time.
+documentation typically are very welcome: there's nobody better suited to
+improve it than a new contributor who sees the project for the first time.
 
 Try to figure out together with the project in their preferred communication
 channel if the changes you have in mind make sense overall. At the beginning it
-can be scary to have these conversations in a company public medium, that is
+can be scary to have these conversations in a company public medium that is
 archived and searchable. The benefit here is with others coming after you with
-similar proposals: Instead of walking the exact same path again, they can learn
+similar proposals: instead of walking the exact same path again, they can learn
 what was discussed before and start from there.
 
 #### Understand they are not the home owner and act accordingly.
