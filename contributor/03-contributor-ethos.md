@@ -8,14 +8,14 @@ boundaries.
 
 # Article
 
-In the last segment we have motivated why you would want to reuse components and
+In the last segment we have outlined why you would want to reuse components and
 become active as a Contributor. This artice is sharing best practices on how to
 successfully contribute your changes to the host team's code base.
 
  ### Contributor Ethos
 
 An InnerSource Contributor trying to make a contribution to the host team
-essentially is a guest in their home. In general a good guest is expected to
+is essentially a guest in their home. In general a good guest is expected to
 behave in a certain way:
 
 * They knock at the door.
@@ -26,12 +26,12 @@ How do these expectations apply to InnerSource projects?
 
 #### Getting in
 
-When visiting your neighbors you will likely not enter their home without
+When visiting your neighbors, you will likely not enter their home without
 knocking or ringing the door bell even if the door is open. Likewise in InnerSource
 as a visitor you won't be able (or invited) to commit directly to any
 code repository.
 
-Instead when visiting your neighbors you're likely to at least knock on their
+Instead, when visiting your neighbors you're likely to at least knock on their
 door. Likewise in InnerSource after making your changes to the codebase you'll
 submit them as a pull request. Much like you wouldn't go about making large
 changes and what you consider improvments to your neighbors home, in InnerSource
