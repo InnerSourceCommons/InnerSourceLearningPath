@@ -30,5 +30,5 @@ Project documentation improves to enable these contributions at-scale.
 Contributors feel a stake in the host team project.
 It's something that they recommend to their colleagues or new teams that they join.
 They understand the project better and are able to answer questions about it to others, relieving the host team of some of that burden.
-More people contributing to a project naturally cross-pollinates ideas from all over the company.
+More people contributing to a project naturally cross-pollinate ideas from all over the company.
 This learning and cross-team alignment over time serves to **break down traditional company silos**.
