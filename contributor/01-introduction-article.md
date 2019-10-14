@@ -12,7 +12,7 @@
   - Summary of the roles of InnerSource and how each relates to _Contributor_.
   - Summary of the upcoming segments and what each covers.
 
-Outline for this section inspired by the [Trusted Committer introduction article](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md).
+Outline for this section inspired by the [Trusted Committer introduction article][TC Introduction].
 
 ## Video Play-book based Target
 How do I best contribute to an InnerSource project?  This segment shares a summary of what it means to be an InnerSource Contributor.  We'll also give an overview of the upcoming training segments on being a great InnerSource Contributor.
@@ -33,16 +33,16 @@ If you're not getting what you need you can make the change you need directly in
 The Contributor role describes a person that makes contributions to the repos of an InnerSource community project.
 This person may or may not be part or see themselves as part of the community.
 However, for quite a few people there is a sort of journey contributors can make from just knowing about the community to using the community's product to interacting with members of the community and finally starting to contribute.
-Finally, some of them may even become [Trusted Committers](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md).
+Finally, some of them may even become [Trusted Committers][TC Introduction].
 
 
 ## Relationship to other roles
 
-As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as [_Trusted Committer_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) or [_Product Owner_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md) and possibly also other contributors.
+As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as [_Trusted Committer_][TC Introduction] or [_Product Owner_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md) and possibly also other contributors.
 At times, these roles can be played by the same person, such as Trusted Committer and Product Owner in small grass-roots style projects.
 
-This section gives you a very short overview of the other two roles but we'd like to encourage you to read the [introductory article of the Trusted Committer role](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) and recommended to read the [Lowering the barriers to entry](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.md) article too before you delve deeper into the details of the Contributor role in this section.
-You can also watch the videos ([introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925),[lowering the barriers to entry](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929)) instead of the articles.
+This section gives you a very short overview of the other two roles but we'd like to encourage you to read the [introductory article of the Trusted Committer role][TC Introduction] and recommended to read the [Lowering the barriers to entry](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.md) article too before you delve deeper into the details of the Contributor role in this section.
+You can also watch the videos ([introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925), [lowering the barriers to entry](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929)) instead of the articles.
 
 ### Trusted Committer
 
@@ -56,7 +56,7 @@ Caring for the community involves keeping it healthy, upleveling it and its part
 
 
 ### Product Owner
-The role of the [_Product Owner_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md) has some similarity with the product owner role of your average project.
+The role of the [_Product Owner_][PO Introduction] has some similarity with the product owner role of your average project.
 However, there are some differences - depending on the size of the project, this role is often filled by the same person that acts as trusted committer.
 In larger projects or in teams that only partially use InnerSource as an approach to fill their needs by accepting contributions this role is likely filled by a person separate from a trusted committer.
 
@@ -66,7 +66,7 @@ You might work this role to make sure that general aspects of documentation or c
 Last but not least someone acting as product owner might have been involved in bringing the project, its benefits and community to your attention. 
 
 
-If you want to learn in more detail what these other roles are about, and we encourage you to do so, we've prepared sections about the [_Trusted Committer_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) and the [_Product Owner_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md) too.
+If you want to learn in more detail what these other roles are about, and we encourage you to do so, we've prepared sections about the [_Trusted Committer_][TC Introduction] and the [_Product Owner_][PO Introduction] too.
 
 
 ## Section overview
@@ -88,3 +88,5 @@ The last segment will recap what we've learned about being an InnerSource contri
 [intro-innersource]:https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504
 [intro-trusted-comitter]:https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
 [tc-lowering-the-barriers-to-entry]:https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929
+[TC Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md
+[PO Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md
