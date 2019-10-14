@@ -1,6 +1,3 @@
-This file holds the text to accompany the [What Problems Does InnerSource Solve?](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321607) video.
-This accompanying text will appear as a part of the learning path (like [this example](https://www.safaribooksonline.com/learning-paths/learning-path-lean/9781491999738/9781491946527-/part01ch01.html)).
-
 # What Problems Does InnerSource Solve?
 
 InnerSource encourages and rewards collaboration and code reuse with anyone, regardless of their position in a company's organizational structure.
