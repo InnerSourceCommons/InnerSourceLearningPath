@@ -90,7 +90,7 @@ there were a way to avoid a dozen buggy implementations and merge them into a
 shared asset with a development process attached that avoids the usual
 drain of energy that central dependencies bring to the table? Many open source
 projects are being used by a huge number of players - some of which participate
-in their design and development. Encouraging cross team collarboration in InnerSource 
+in their design and development. Encouraging cross team collarboration in InnerSource
 projects at the corporate level means that you can drive central
 innovation from the edges of your organisation.
 
