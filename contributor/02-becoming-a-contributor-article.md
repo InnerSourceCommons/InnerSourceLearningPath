@@ -15,7 +15,7 @@ Outline for this section
     - There will be times when you need a bug fix on your timeline to the shared solution for your usage scenario.
     - Don't _Wait it Out_ or _Work Around_; spend your time and energy to check back with project leads/maintainers on plans and then make the change directly in the shared project. Good communication will avoid duplicate efforts.
     - Briefly enumerate the benefits of contributing.
-    This should be taken from the **Benefits** segment.
+    This should be taken from the [**Benefits**](#benefits-to-sharing-solutions) segment.
     - You may need to spend some time explaining these benefits to your management hierarchy in order for their support for the time you spend contributing.
     - An InnerSource _Contributor_ knows that it doesn't matter where the code goes as it's in a well-run project that gives them the functionality they need.
   - The scope of contributions goes beyond "just code".
@@ -38,7 +38,7 @@ InnerSource contributors operate outside of regular team boundaries, they are th
 
 So - you're implementing a new feature for your team's product. You need some functionality to get this feature working. Instead of jumping right into the implementation, slow down for a bit: Does this functionality reflect a general issue? Is it something that other teams in your organisation face as well due to the shared business domain? Is it functionality that is orthogonal to the domain of your project? If any of that applies, then start looking beyond your own team: Is there a shared solution that you can use or improve to fit your needs? Should there be one?
 
-#### Benefits to sharing solutions
+#### Benefits to sharing solutions 
 
 There is an African proverb stating that “If you want to go fast, go alone. If you want to go far, go together.” The same is true for software development teams:
 
@@ -46,13 +46,13 @@ If you want to move fast, it's a great idea to break dependencies. The downside 
 
 Collaborating with other teams enables you to share development cost. Just like in Open Source projects it can enable your team to build something bigger than you alone could have accomplished.
 
-But every team has a different roadmap? I've tried to use shared components before - they always took longer to integrate than it would have taken me to re-implement them. Those components were always lacking in some aspect or another - and my feature requests never got priority on the roadmap of the other team!
+But every team has a different roadmap! I've tried to use shared components before - they always took longer to integrate than it would have taken me to re-implement them. Those components were always lacking in some aspect or another - and my feature requests never got priority on the roadmap of the other team!
 
-In contrast to traditional project InnerSource projects come with the role of a Contributor: Yes, there will be times, when you wish that the shared solution has a new feature. As a Contributor you have the freedom to check out the source code of the component, make modifications to it and use the resulting improved version.
+In contrast to traditional project InnerSource projects come with the role of a Contributor: Yes, there will be times when you wish that the shared solution had a new feature. As a Contributor you have the freedom to check out the source code of the component, make modifications to it and use the resulting improved version.
 
-Yes, there will be times, when you urgently need a bug fix on your timeline that doesn't have the same priority in the host team. Becoming a Contributor enables you to become active yourself and support the host team with fixing that bug.
+Yes, there will be times when you urgently need a bug fix on your timeline that doesn't have the same priority in the host team. Becoming a Contributor enables you to become active yourself and support the host team with fixing that bug.
 
-This way of working requires a change in mindset for many: Instead of waiting for features to be implemented or bugs fixed, instead of working around issues there's now a third solution. Spend your time and energy to check back with the InnerSource project on what your needs are - and then make the change directly in the shared project. So in addition to your coding skills, what you need to be successful in an InnerSource project are communication skills to clearly articulate your needs and come to a solution to address those that works for both, your team and the host team.
+This way of working requires a change in mindset for many: instead of waiting for features to be implemented or bugs fixed, instead of working around issues there's now a third solution. Spend your time and energy to check back with the InnerSource project on what your needs are - and then make the change directly in the shared project. So in addition to your coding skills, what you need to be successful in an InnerSource project are communication skills to clearly articulate your needs and come to a solution to address those that works for both, your team and the host team.
 
 "But I could simply go and fork the project, make my changes there and save myself from all this coordination overhead!". Sure - forking the project is a way to get your job done. Except in the long run this means it's on you to maintain that forked version for your team - and carry your changes forward for any new release the host team makes. Contributing your changes to the host team also means you get to benefit from their deeper knowledge of the component. They may spot issues in your patch, that otherwise would only have become obvious in production.
 
@@ -60,7 +60,7 @@ A good Contributor can comfortably make a call for when it makes both technical 
 
 #### Scope of InnerSource contributions
 
-So is Inner*Source* only about *Source*Code? Of course not. If your team's business depends on an outside component you want to make sure it's well maintained and well run. As an InnerSource Contributor, you can help the host team with that: Reporting issues you see when using the component is a valuable contribution. Creating or fixing test cases that show that the code isn't working as expected is valuable. So is improving documentation so others spend less time using it and contributing to it. Supporting other users, helping with bug triage can be valuable contributions. Improving builds is another example of a valuable contribution. 
+So is Inner*Source* only about *Source*Code? Of course not. If your team's business depends on an outside component, you want to make sure it's well maintained and well run. As an InnerSource Contributor, you can help the host team with that: Reporting issues you see when using the component is a valuable contribution. Creating or fixing test cases that show that the code isn't working as expected is valuable. So is improving documentation so others spend less time using it and contributing to it. Supporting other users, helping with bug triage can be valuable contributions. Improving builds is another example of a valuable contribution. 
 
 To summarize no contribution is too small to contribute. Here is one that I made
 to [tensorflow/models](https://github.com/tensorflow/models/pull/4784). A simple label change in a graph.

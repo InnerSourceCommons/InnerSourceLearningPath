@@ -87,6 +87,5 @@ The last segment will recap what we've learned about being an InnerSource contri
 
 [intro-innersource]:https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504
 [intro-trusted-comitter]:https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
-[tc-lowering-the-barriers-to-entry]:https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929
 [TC Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md
 [PO Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md
