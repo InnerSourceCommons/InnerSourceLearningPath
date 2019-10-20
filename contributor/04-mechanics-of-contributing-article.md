@@ -41,11 +41,8 @@ It's better to add more slack time initially - you'll get a feeling about the tu
 Often, you will notice a reduction in turn-around time per host team after making a few successful contributions to that host team.
 This is effect can be observed with Open Source as well, you can read more about it [here](#buildup-of-trust-through-collaboration). 
 
-[EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
-The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
-]  
-
 ### Expectation management
+
 In your classic teams everyone had an idea of the expectable lead times.
 Within an InnerSource context this might not be the case, either due to large time-zone differences (e.g. Seattle, USA with PDT vs Berlin, Germany with CEST) or you not being available full-time as with your original team even if they are in the same physical location as you are.
 Thus, to prevent frustration on both sides, impatience and other non-trust-building effects you'll need to explicitly do expectations management with regards to your expected reaction times.
@@ -53,6 +50,7 @@ One approach be to just quickly react with a "I'll look into it, I won't get to 
 Ideally you can provide them with a rough estimate when you likely will have time to take a look at their input.
 Doing so builds trust by reliability even over non-physical contact, longer distance or otherwise asynchronous media.
 Established trust will allow you overcome uncertainty bumps in the collaborative road ahead of you. 
+
 ### Building trust
 
 InnerSource puts huge weight on written communication - in particular when it comes to project decisions.
@@ -61,21 +59,7 @@ Does that imply that in-person communication is forbidden?
 Clearly not: Where written communication shines when it comes to archiving and searchability, in-person communication shines when it comes to communication bandwidth. 
 Try to make time to meet the people behind the names. If possible, try to meet them over your favorite beverage or some food.
 When you're able to hear people speak, when you know their idiosyncrasies remote collaboration will become easier. 
-### Building trust
-
-InnerSource puts huge weight on written communication - in particular when it comes to project decisions.
-Does that imply that in-person communication is forbidden?
-
-Clearly not: Where written communication shines when it comes to archiving and searchability, in-person communication shines when it comes to communication bandwidth. 
-Try to make time to meet the people behind the names. If possible, try to meet them over your favorite beverage or some food.
-When you're able to hear people speak, when you know their idiosyncrasies remote collaboration will become easier. 
-
-[EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
-The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
-]  
-[EDITOR NOTE: There was actually a paper on how trust is build up on remote/asynchronous collaboration. Maybe I'll find that again. 
-The basic point is that aside of reliability in collaboration, continued presence the effect of water cooler discussions and food/drink consumption is quite impressive...
-]  
+  
 ### Avoiding rejection
 
 Do you have a large feature that you want to contribute?
