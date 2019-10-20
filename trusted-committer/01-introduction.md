@@ -17,7 +17,7 @@ explore both of these dimensions in the following sections.
 Before we go into the details of what a TC actually does, let's spend some time
 contrasting the TC role to other roles in InnerSource on a high level of abstraction and
 explain why we think the name is both apt and important.  Let's
-start with the _Contributor_ role. A _Contributor_ - as the name implies -
+start with the [_Contributor_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/contributor) role. A _Contributor_ - as the name implies -
 makes contributions to an InnerSource community.  These contributions could be code or non-code
 artifacts, such as bug-reports, feature-requests or documentation.
 _Contributors_ might or might not be part of the community. They might be sent by
@@ -34,13 +34,13 @@ to contributors, TCs have earned the responsibility to push code closer to
 production and are generally allowed to perform tasks that have a higher level
 of risk associated with them.
 
-The _Product Owner_ (PO) is the third role in InnerSource.  Similar to agile
+The [_Product Owner_ (PO)](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/product-owner) is the third role in InnerSource.  Similar to agile
 processes, the PO is responsible for defining and prioritizing requirements and
 stories for the community to implement. The PO interacts often with the
 TC, e.g. in making sure that a requested or contributed feature actually
 belongs to the product. Especially in smaller, grass-roots type InnerSource
-communities, the TC usually also acts as a PO. Please check out our Product
-Owner Learning Path segment for more detailed information.
+communities, the TC usually also acts as a PO. Please check out our [Product
+Owner Learning Path segment](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/product-owner) for more detailed information.
 
 ## Why role names matter
 

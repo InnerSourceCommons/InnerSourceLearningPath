@@ -1,6 +1,3 @@
-This file holds the text to accompany the [What is InnerSource?](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321608) video.
-This accompanying text will appear as a part of the learning path (like [this example](https://www.safaribooksonline.com/learning-paths/learning-path-lean/9781491999738/9781491946527-/part01ch01.html)).
-
 # How does InnerSource work?
 
 Let's say that team A uses software produced by team B.
@@ -9,8 +6,8 @@ In an InnerSource setting, if team A can't get this feature request then it subm
 That is to say team A implements the feature directly in team B's software and submits a pull request with the code changes.
 Team B partners to review and accept the submitted code.
 
-In this example, we call team A the **Guest** team and team B the **Host** team.
-The terms **Guest** and **Host** suggest a situation analogous to receiving a visitor in the home.
+In this example, we call team A the _Guest_ team and team B the _Host_ team.
+The terms _Guest_ and _Host_ suggest a situation analogous to receiving a visitor in the home.
 In that situation, most people want to be a good host.
 They ensure that things are kept neat and tidy in anticipation of their guests' arrival.
 Visitors are greeted at the door and invited in.
@@ -23,9 +20,9 @@ These concepts around a home visit are a metaphor for the attitude and behaviors
 
 Let's take a closer look at how the mechanics of the InnerSource process can work.
 To aid in this explanation, we'll name a few key individuals on the guest and host teams.
-First, the **Product Owner** determines what functionality the host team is willing to accept as a contribution.
-The **Contributor** is the individual on the guest team that submits the code contribution for review by the host team.
-The **Trusted Committer** represents the host team in providing any timely support and mentorship that the contributor needs to successfully submit the pull request.
+First, the [_Product Owner_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md) determines what functionality the host team is willing to accept as a contribution.
+The [_Contributor_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md) is the individual on the guest team that submits the code contribution for review by the host team.
+The [_Trusted Committer_](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) represents the host team in providing any timely support and mentorship that the contributor needs to successfully submit the pull request.
 On small, grass roots efforts a single person often fills _both_ the product owner and trusted committer roles.
 
 With those definitions, here is the basic outline of an InnerSource contribution.
