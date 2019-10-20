@@ -21,8 +21,13 @@ I: Last but not least, convincing your teammates and your organization at variou
 
 J: We hope you've enjoyed watching and reading the articles and videos and hope you could take away some interesting new insights for your journey towards InnerSource and being a good contributor. 
 
-I: If you haven't done so already, we would like to invite you to also learn more about the other aspects of InnerSource in our InnerSource learning path: http://innersourcecommons.org/learningpath/
+I: If you haven't done so already, we would like to invite you to also learn more about the other aspects of InnerSource in our InnerSource learning path: http://innersourcecommons.org/learningpath/ 
+
+-> Show link overlay.
+
 Be welcome to additionally check out the InnerSource group [InnerSource Commons](http://innersourcecommons.org) online! 
 Feel free to join the discussion and share your experiences and lessons learnt in your organization.
+
+-> Show link overlay. Special customized overlay a la innersourcecomms.org/invite that we could then map to the Slack inviter or elsewhere or just the blank domain?
 
 J: Live long and have prosperous projects!
