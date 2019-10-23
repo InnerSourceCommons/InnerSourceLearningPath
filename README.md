@@ -68,7 +68,7 @@ section-name/0n-last-topic-workbook.md
 ```
 
 After material is finished the scripts will be used to film videos.
-Vidoes, articles, and workbooks will be reviewed by O'Reilly's professional editors and then published at _learning.oreilly.com_ and also at _innersourcecommons.org_.
+Videos, articles, and workbooks will be reviewed by O'Reilly's professional editors and then published at _learning.oreilly.com_ and also at _innersourcecommons.org_.
 
 ## How to Get Involved
 
