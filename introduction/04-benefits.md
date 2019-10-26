@@ -1,6 +1,3 @@
-This file holds the text to accompany the [What Are the Benefits of InnerSource?](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321609) video.
-This accompanying text will appear as a part of the learning path (like [this example](https://www.safaribooksonline.com/learning-paths/learning-path-lean/9781491999738/9781491946527-/part01ch01.html)).
-
 # What Are the Benefits of InnerSource?
 
 There are many benefits to collaborating via InnerSource.
@@ -24,7 +21,7 @@ Beyond the raw work that the host team is able to accomplish in its system, regu
 A host team can do its best requirements gathering on the work it produces, but when the consumer itself is the one submitting the work the chances are much higher that the resulting change is aligned to just what the consumer needs.
 While it may be only one single guest team submitting the change, that team is likely representative of many other consumers.
 
-In addition to this alignment, there is also a general training and education of contributors as they work with and learn from trusted committers.
+In addition to this alignment, there is also a general training and education of [contributors](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md) as they work with and learn from [trusted committers](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md).
 This interaction helps contributors to learn and grow in their career, resulting in **higher job satisfaction**. 
 Project documentation improves to enable these contributions at scale.
 Contributors feel a stake in the host team project.

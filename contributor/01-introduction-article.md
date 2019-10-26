@@ -12,7 +12,7 @@
   - Summary of the roles of InnerSource and how each relates to _Contributor_.
   - Summary of the upcoming segments and what each covers.
 
-Outline for this section inspired by the [Trusted Committer introduction article](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md).
+Outline for this section inspired by the [Trusted Committer introduction article][TC Introduction].
 
 ## Video Play-book based Target
 How do I best contribute to an InnerSource project?  This segment shares a summary of what it means to be an InnerSource Contributor.  We'll also give an overview of the upcoming training segments on being a great InnerSource Contributor.
