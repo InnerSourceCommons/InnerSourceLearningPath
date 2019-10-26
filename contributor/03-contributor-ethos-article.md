@@ -102,8 +102,8 @@ give you more details: in my case an example would be to try to avoid turning on
 the dishwasher and the electric kettle at the same time to avoid blowing the
 fuse.
 
-Similarly every software system comes with it's own quirks and intricacies.
-Often the most obvious ones are [well documented](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.md): In smaller projects this
+Similarly every software system comes with its own quirks and intricacies.
+Often the most obvious ones are well documented. In smaller projects this
 documentation can be found in the README.md. In larger ones, contribution
 specific documentation can often be found in the CONTRIBUTING.md document.
 
