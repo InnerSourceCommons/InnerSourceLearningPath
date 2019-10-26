@@ -103,7 +103,7 @@ the dishwasher and the electric kettle at the same time to avoid blowing the
 fuse.
 
 Similarly every software system comes with it's own quirks and intricacies.
-Often the most obvious ones are well documented: In smaller projects this
+Often the most obvious ones are [well documented](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.md): In smaller projects this
 documentation can be found in the README.md. In larger ones, contribution
 specific documentation can often be found in the CONTRIBUTING.md document.
 
@@ -126,7 +126,7 @@ archived and searchable. The benefit here is with others coming after you with
 similar proposals: Instead of walking the exact same path again, they can learn
 what was discussed before and start from there.
 
-#### Understands they are not the home owner and acts accordingly.
+#### Understand they are not the home owner and act accordingly.
 
 Being a Contributor essentially means being somehow closer to the host team than
 someone merely requesting a feature. Still Contributors are not accountable for
