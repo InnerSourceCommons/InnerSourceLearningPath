@@ -1,6 +1,6 @@
 #Script: The Contributor in InnerSource - Mechanics of Contribution
 
-## Duration: 5-6 Mintes
+## Duration: 5-6 Minutes
 
 ## Actors: Isabel and Johannes
 
@@ -45,19 +45,66 @@ Clearly not: Where written communication shines when it comes to archiving and s
 -> Show illustratory slide on comms bandwidth?
 
 X: Try to make time to meet the people behind the names. If possible, try to meet them over your favorite beverage or some food. 
-If that's not possible having a relaxed informal water-cooler style chat about whatever via your video conference can provide some of this bandwidth.
+If that's not possible having a relaxed informal water-cooler style chat about whatever via your video conference system can provide some of this bandwidth.
 When you're able to hear people speak, when you know their idiosyncrasies remote collaboration will become easier. 
 
-X: The contributions you're going to make will vary in size and scope - sometimes it's just a bug fix, documentation ammendment, other times it will be larger feature.
+X: The contributions you're going to make will vary in size and scope - sometimes it's just a bug fix, documentation amendment, other times it will be larger feature.
 A time-and-again-proven wisdom from the Open Source arena, especially for large contributions, is to get into contact with a Trusted Committer early to get agreement on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
 Also, working in the open as early as possible can help you from going down a wrong path, loosing time, wasting effort or even being rejected.
 
-X: A good Trusted Committer will help and mentor you on your way and not expect completely finished, perfect ready-to-nod-off reviewable content.   
+X: A good Trusted Committer will help and mentor you on your way and not expect only completely finished, perfect ready-to-nod-off reviewable content.   
 
 -> Show phases image, crafting part
 
-X: Let's talk about the gotchas awaiting you now that you're familiar with thw host team's approach and them looking forward to your pull request.
+X: Let's talk about the gotchas awaiting you now that you're familiar with the host team's approach and them looking forward to your pull request. 
+First, you'll be in less direct contact with them and second you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
+How can you now deal with this the best?
 
+X: Being InnerSource and thus written-communication focused their documentation, the conversation archives and code artifacts from the host team should serve well as a way to unblock yourself.
+This is similar to the situation you and likely most people find yourself in when using one of the popular OSS projects, such as [I'd put OpenZFS, GoCD or OSM here, we'll need another, popular/well-known, well documented more library-style project with a great, helpful community].
+
+X: Do you find that things are going nowhere even after trying to unblock yourself?
+Try to get in contact with the project via one of it's trusted comitters. Hey, they may even be as close as one floor away, why not just drop by for a coffee?
+While that might solve *your* problem quickly, it will require the TC's availability and time and leave the problem open for the next person having the same one.
+
+X: In most cases InnerSource projects will have public, text-based, searchable and archived communication groups, such as a mailing list, a chat room, the issue tracker or something similar depending on the purpose of having a more synchronous or asynchronous way of interacting.
+Using them will bring your problem in front of more people who might be able to help you and, more importantly, will record your problem and its possible solution to more people having the same problem in the future.
+
+X: Think about how you might utilize StackOverflow or GitHub bug trackers in your daily work. We can possibly all remember a solution to some odd but critical quirk in one of the libraries our software uses that was caught by happenstance on some bug tracker. 
+Documentation built up en passant is called passive documentation and this approach can be of great help in the InnerSource context too.
+
+X: Did you figure out an error in a piece of existing documentation in the host team's project? Please consider updating it, making a quick pull request or reaching out to the project if there's no easy way to provide the update yourself.
+Hosts teams or future users and contributors will probably be very happy. As a side-effect this might already establish a bit of trust with the host project making it easier for you to get contributions merged in the future. 
+
+-> Show phases image, polishing & wrapping part
+
+X: So you've crafted a nice addition to the hosts teams project, added good documentation pieces and circumvented all the small quirks and large dragons looming on the way with the help of the community and maybe even fixed a small doc mistake on the way. How do you make sure your contribution gets reviewed and merged as quick and easy as possible?
+
+X: Most of this is about enabling a trusted committer to review your contribution asynchronously without your presence as well as enabling them to focus on questions that would not be solvable in an automated fashion, such as questions of code style, evaluating possibly regressions, etc.
+
+[Might be nice to be able to reference this: http://commadot.com/wtf-per-minute/ ]
+
+X: A great starting point to find out what a host teams likes with regard to their code style, testing setup and more on their development workflow is a document you might have taken a look at while initially setting up your workspace -their CONTRIBUTING.md and sometimes their README.md files. Definitely take a look at them, every good InnerSource project should have them.
+Even if you might not 100% agree with their code style decisions or other things - it's their house, please adhere to their wishes for now.
+
+X: Should you find that the CONTRIBUTING.md file does not answer your question definitely reach out to the host project as mentioned above.
+
+-> show link to innersourcecommons for link to contributing.md template?
+
+X: Often projects will provide scripts to check for compliance with their coding standards, passing tests, etc. before committing things - if your host projects provide such pre-submit scripts, definitely use them, they will save you and you the trusted comitter time.
+
+X: Meaningful tests for your contribution are important with InnerSource as they will facilitate asynchronous validation of the work you crafted and allow everyone to check for regressions early on.
+Often, InnerSource projects will have larger automated integration tests and CI suites running to enable validation of pull requests and the current trunk in a larger context.
+Don't forget to regularly validate that what you've built solves your own problem that made you consider contributing in the first place! 
+
+X: The articles accompanying this video have more technical details on testing and validation, feel welcome to give them a read. Let's come a to a last aspect: Try to be comfortable working in the open. 
+
+X: Just open up a branch, pull request it, mark it as WIP and start crafting code once you've reached a rough agreement on how to bring up your contribution as we discussed earlier. You'll be able to get early feedback from a trusted committer or others preventing you from running in the wrong direction or walking down dead alleys.
+A good trusted comitter should not look for just "nod off" pull requests but be happy to mentor and help you along the way.
+
+X: Finally, remember that nobody is perfect, should be perfect and that mastery comes through a cycle of trying, failing, learning and trying again. Give it your best shot and have fun! 
+
+## Draft targets
 
 ### Preparing to work
 
@@ -115,26 +162,6 @@ X: Let's talk about the gotchas awaiting you now that you're familiar with thw h
 
 #### Documentation and reviewability
 
-
-
-You'll want to ensure that your pull request includes any documentation updates that are relevant to your changes. 
-Should the documentation live in a different place, make sure you add them there and link to them in the pull request.
-
-To make the actual code review as easy as possible for the trusted committer or other persons reviewing it, try to follow these hints:
-
-- Be sure that your pull request includes just the relevant changes for the issue you're completing.
-- Try to avoid super-large commits, commits with unclear commit messages, gazillions of files, incoherent changes (e.g. touching multiple topics).
-- Provide a clear description what this pull request changes, why it does so and which issue and possible design documents (if there were any) it refers to.
-- If there is anything uncommon or unexpected in the pull request highlight it and provide an explanation. This will make it easier to reason about and solve potential blocking questions the reviewer might have during the review. 
-  - The same goes for place where you were unsure in the implementation or your approach - highlight it and ask for insight.
-  - Be civil and expect civility from the trusted committers' review.   
-- Making pull requests too broad and large makes them more difficult to review so it will take much longer before they're accepted.
-  - If you have a larger feature you are contributing it often helps to split it in multiple pull requests that get submitted, reviewed and accepted sequentially.
-You can still bind them together with an issue that you are referring to.
-    - Some tools also have Draft / WIP pull request functionality that you can use to explicitly mark unfinished and non-polished work and still get early feedback from your host team's trusted committers.
-    - This allows you to ensure you are going down a path that your host team is happy to merge once it's done, adhering to the "release early, release often" idea in a way.
-    - The host team's responsibility is to create an atmosphere where sharing and discussing not-totally-polished work is possible and welcome. If you can't fail safe, you can't innovate and collaborate becomes very hard.  
-    - Try to balance between asking for review early and providing meaningful changes to review.
 
 -> split stuff up
 -> clear description
