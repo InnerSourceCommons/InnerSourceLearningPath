@@ -11,9 +11,13 @@ We will talk about the basic InnerSource techniques that enable this to happen, 
 
 Hi. My name is Silona Bonewald, and I'm a director at PayPal. 
 I have successfully trained over 40 teams and 1,500 people in the InnerSource process.  
-I also participate and speak regularly at the InnerSource Commons. Please come join us. Check out innersourcecommons.org.
-You can also get a copy of the booklet I wrote with O'Reilly there at innersourcecommons.org/checklist. It has even more details than this video. 
+I also participate and speak regularly at the InnerSource Commons. Please come join us. Check out [innersourcecommons.org](http://innersourcecommons.org/).
+You can also get a copy of the booklet I wrote with O'Reilly there at [innersourcecommons.org/checklist](http://innersourcecommons.org/checklist). It has even more details than this video. 
 
 Please watch the other videos first. 
 See the links below. 
-It helps to be familiar with the Agile or Lean processes, and it's really important that you understand the roles of the trusted committer and the contributors before watching this video. Thank you. 
+It helps to be familiar with the Agile or Lean processes, and it's really important that you understand the roles of the [_Trusted Committers_][TC Introduction] and the [_Contributors_][CO Introduction] before watching this video. Thank you. 
+
+[CO Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md
+[TC Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md
+
