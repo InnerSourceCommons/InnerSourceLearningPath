@@ -46,7 +46,7 @@ This effect can be observed with Open Source as well, you can read more about it
 In your classic teams everyone had an idea of the expected lead times.
 Within an InnerSource context this might not be the case, either due to large time-zone differences (e.g. Seattle, USA with PDT vs Berlin, Germany with CEST) or you not being available full-time as with your original team, even if they are in the same physical location as you are.
 Thus, to prevent frustration on both sides, impatience and other non-trust-building effects, you'll need to explicitly do expectations management with regards to your expected reaction times.
-One approach is to just quickly react with a "I'll look into it, I won't get to it in the next few days though" to a [Trusted Committer's][TC Introduction] feedback if you know that you'll only be able to come back to them in a few days.
+One approach is to just quickly react with a "I'll look into it, I won't get to it in the next few days though" to a [_Trusted Committer's_][TC Introduction] feedback if you know that you'll only be able to come back to them in a few days.
 Ideally, you can provide them with a rough estimate when you will likely have time to take a look at their input.
 Doing so builds trust by reliability even over non-physical contact, longer distance or otherwise asynchronous media.
 Established trust will allow you to overcome uncertainty bumps in the collaborative road ahead of you. 
