@@ -42,7 +42,7 @@ As a Contributor in an InnerSource community you will interact with people playi
 At times, these roles can be played by the same person, such as Trusted Committer and Product Owner in small grass-roots style projects.
 
 This section gives you a very short overview of the other two roles but we'd like to encourage you to read the [introductory article of the Trusted Committer role][TC Introduction] and recommended to read the [Lowering the barriers to entry][TC Barriers] article, too, before you delve deeper into the details of the Contributor role in this section.
-You can also watch the videos ([introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925),[lowering the barriers to entry](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929)) instead of the articles.
+You can also watch the videos ([introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925), [lowering the barriers to entry](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929)) instead of the articles.
 
 ### Trusted Committer
 
