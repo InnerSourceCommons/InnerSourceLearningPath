@@ -1,5 +1,5 @@
 In the [InnerSource Commons](http://innersourcecommons.org/), we talk about the concept of _open_ in the lessons we've learned in open source, and how we might reuse what we know or have learned in an enterprise environment. 
-Let me step through a few of those from a manager's perspective. I'll talk about how they've benefited me as a director, and my product managers -- that's what we call product owners at PayPal. 
+Let me step through a few of those from a manager's perspective. I'll talk about how they've benefited me as a director, and my product managers - that's what we call product owners at PayPal. 
 
 First of that is _open code_. 
 What do I mean by open code? Basically, the fact that the code is visible by all of the company, and there's a process for other developers to be able to submit pull requests on other code bases and get them accepted. 
@@ -12,7 +12,7 @@ You no longer have to lean on escalations to upper management and politics to ge
  Instead, you have more power to determine priorities with your team and reduce your dependencies on others. 
 Sometimes it may take longer because of the learning curves. But if it is a team that is a constant bottleneck, you can get those stories out of their backlog that've been sitting there for years. 
 
-_Open planning_ -- this is where everyone publishes their planning process in an open and standardized fashion. 
+_Open planning_ - this is where everyone publishes their planning process in an open and standardized fashion. 
 At PayPal, we have the UPE standard. It stands for Unified Product Experience. 
 It includes a tech hub where all the teams publish their roadmaps and spreadsheets for sprint planning. 
 Everyone knows where those documents are by individual product. 
@@ -40,14 +40,14 @@ This helps a lot with the credit issue that we talked about earlier in regards t
 
 It also increases the velocity on your collaborations. 
 You can easily research teams you're interested in collaborating with, and you can kind of see how they do things.
-The biggest bear of them all -- it reduces tribal knowledge and helps to break down the silos. 
+The biggest bear of them all - it reduces tribal knowledge and helps to break down the silos. 
 If a team is difficult to collaborate with, it will become quickly obvious, both in the fact that the velocity will be much slower, and sometimes the documentation is either overly complex, restrictive, or negative. 
 Sometimes they have good reasons, like a fragile legacy code base, but now upper management can more clearly see why refactorization might need to be prioritized in regards to the resources. 
 
-Collaborating and negotiating-- middle managers don't typically feel empowered to use their leadership skills. 
+Collaborating and negotiating: middle managers don't typically feel empowered to use their leadership skills. 
 This was mentioned in the top five complaints that middle management had previously. 
 
-During the InnerSource process, these skills, like collaborations and negotiations, become crucial. When you have these clearly stated, setting expectations across the teams becomes much easier. 
+During the InnerSource process, these skills, like collaboration and negotiation, become crucial. When you have these clearly stated, setting expectations across the teams becomes much easier. 
 You can even help other teams help you create your documents and standards. 
 I found, most of the time, people want to give input, especially in regards to the standards making process. 
 It's also a good and sometimes safe way to get those teams started when they're first working together. 
@@ -72,13 +72,13 @@ This team created some amazing open standard documents after working with variou
 ### Third Example - FDI
 The third example is FDI, which stands for Failed Developer Interactions. 
 We created a Developer Standards Committee to help develop an open standard. 
-After all, who's better to determine what a FDI, or Failed Developer Interaction, is than the developers being directly impacted on an hourly basis? 
+After all, who's better able to determine what a FDI, or Failed Developer Interaction, is than the developers being directly impacted on an hourly basis? 
 
 This helped resolve some political issues, as well, as every team, previously, had different ways of how they measured failures. 
-Needless to say, in a couple of instances, the developers didn't agree. 
+Needless to say, in a couple of instances, developers didn't agree. 
 But by having the discussions public, I like to believe we were able to create standards that are more accurate than the previous ones. 
 
-These examples show that if open processes are done well, it changes the face of middle management. 
+These examples show that if open processes are done well, it changes the face of the middle management. 
 The middle management role changes. 
 Product owners have to negotiate more between teams.
  Product owners have to focus a little bit more on collaboration. 
