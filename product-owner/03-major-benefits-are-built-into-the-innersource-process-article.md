@@ -72,7 +72,7 @@ This team created some amazing open standard documents after working with variou
 ### Third Example - FDI
 The third example is FDI, which stands for Failed Developer Interactions. 
 We created a Developer Standards Committee to help develop an open standard. 
-After all, who's better able to determine what a FDI, or Failed Developer Interaction, is than the developers being directly impacted on an hourly basis? 
+After all, who's better able to determine what a FDI, or Failed Developer Interaction, is, than the developers being directly impacted on an hourly basis? 
 
 This helped resolve some political issues, as well, as every team, previously, had different ways of how they measured failures. 
 Needless to say, in a couple of instances, developers didn't agree. 
