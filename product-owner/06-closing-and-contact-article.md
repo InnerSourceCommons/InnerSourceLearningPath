@@ -1,4 +1,4 @@
-Please contact us at [innersourcecommon.org](http://innersourcecommons.org/checklist/), and join us online. 
+Please contact us at [innersourcecommon.org](http://innersourcecommons.org/), and join us online. 
 We have a very active community of over 80 companies. 
 Many of those are Fortune 500 companies. 
 
