@@ -45,3 +45,5 @@ interests of individual [_contributors_][CO Introduction] and their community as
 organization. They do this because they understand that the value that the
 community can provide to the organization depends on the health and longevity
 of the community and ultimately on a trustworthy relationship between both.
+
+[CO Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md
