@@ -1,18 +1,18 @@
-In the InnerSource Commons, we talk about the concept of open in the lessons we've learned in open source and how we might reuse what we know or have learned in an enterprise environment. 
-Let me step through a few of those from a manager's perspective. I'll talk about how they've benefited me as a director and my product managers-- that's what we call product owners at PayPal. 
+In the [InnerSource Commons](http://innersourcecommons.org/), we talk about the concept of _open_ in the lessons we've learned in open source, and how we might reuse what we know or have learned in an enterprise environment. 
+Let me step through a few of those from a manager's perspective. I'll talk about how they've benefited me as a director, and my product managers -- that's what we call product owners at PayPal. 
 
-First of that is open code. 
-What do I mean by open code? Basically the fact that code is visible by all of the company, and there's a process for other developers to be able to submit pull requests on other code bases and get them accepted. 
-To understand this more, please see the videos about trusted committers and contributing agreements for more details. 
+First of that is _open code_. 
+What do I mean by open code? Basically, the fact that the code is visible by all of the company, and there's a process for other developers to be able to submit pull requests on other code bases and get them accepted. 
+To understand this more, please see the articles about [_Trusted Committers_][TC Introduction] and contributing agreements for more details. 
 
 Open code for a manager also means no more waiting or escalating to get bugs fixed or features implemented on other teams' code bases. 
 You can start to implement and plan more effectively. 
 Often, your team's problem (or feature) may not be the highest priority for that other team. 
 You no longer have to lean on escalations to upper management and politics to get access to that team.
- Instead, you have more power to determine priorities with your team and have your dependencies on others. 
-Sometimes it may take longer because of the learning curves. But if it is a team that is a constant bottleneck, you can get those stories out of a backlog that's been sitting there for years. 
+ Instead, you have more power to determine priorities with your team and reduce your dependencies on others. 
+Sometimes it may take longer because of the learning curves. But if it is a team that is a constant bottleneck, you can get those stories out of their backlog that've been sitting there for years. 
 
-Open planning-- this is where everyone publishes their planning process in an open and standardized fashion. 
+_Open planning_ -- this is where everyone publishes their planning process in an open and standardized fashion. 
 At PayPal, we have the UPE standard. It stands for Unified Product Experience. 
 It includes a tech hub where all the teams publish their roadmaps and spreadsheets for sprint planning. 
 Everyone knows where those documents are by individual product. 
@@ -21,26 +21,26 @@ Some of the benefits is that it helps you and your teams get credit for the work
 You can also cross-team coordinate more effectively when you know what the other teams are working on and what they're prioritizing currently. 
 Open planning allows for more effective negotiations between teams. 
 
-One of the things we work a lot on in InnerSource is open documentation. 
+One of the things we work a lot on in InnerSource is _open documentation_. 
 This includes the planning process, the standards, things of that nature. 
-A key element of this is the findability and the fact that there's a certain amount of centralization so that everybody knows where to go to find the documentation to figure out how to collaborate with you better. 
+A key element of this is the findability and the fact that there's a certain amount of centralization, so that everybody knows where to go to find the documentation to figure out how to collaborate with you better. 
 
-It has a lot of benefits in regards to that. 
-Some of that is the open planning and the open standards so that you can collaborate better. 
-But there's also the credit aspect where upper management can also see the different paths that you're going through and what you are doing in regards to these projects moving forward and the previous history. 
+It has a lot of benefits in regards to your success. 
+Some of that is the open planning and the open standards, so that you can collaborate better. 
+But there's also the credit aspect where upper management can see the different paths you're going through, and what you are doing in regards to these projects moving forward and the previous history. 
 
 While at first it may seem a bit time intensive, collaborating becomes way more effective when you have open processes, open standards, and open documents. 
 These documents need to be openly published in a standardized place. 
-This enables them to be findable. 
+This enables them to be discoverable. 
 They can be enforced via a standard or a good search engine as well. 
 
-The benefits are you and your team get more credit about work being done. 
+The benefits are - you and your team get more credit about the work being done. 
 You also have an obvious history. The reason priorities are changed are obvious. 
-This helps a lot with the credit issue that we talked about earlier in regards to stressors for middle management. 
+This helps a lot with the credit issue that we talked about earlier in regards to the stressors for middle management. 
 
 It also increases the velocity on your collaborations. 
 You can easily research teams you're interested in collaborating with, and you can kind of see how they do things.
-The biggest bear of them all-- it reduces tribal knowledge and helps to break down the silos. 
+The biggest bear of them all -- it reduces tribal knowledge and helps to break down the silos. 
 If a team is difficult to collaborate with, it will become quickly obvious, both in the fact that the velocity will be much slower, and sometimes the documentation is either overly complex, restrictive, or negative. 
 Sometimes they have good reasons, like a fragile legacy code base, but now upper management can more clearly see why refactorization might need to be prioritized in regards to the resources. 
 
@@ -88,3 +88,4 @@ It's best if this open planning goes all the way to the top.
 Often, this means that the product owners may need additional training and mentorship in negotiations. 
 But it does address the major complaint middle managers have about not feeling empowered. 
 
+[TC Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md
