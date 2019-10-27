@@ -25,7 +25,7 @@ Trusted Committer alike. We have heard from Trusted Committers that mentoring an
 their abilities more than makes up for the fact that they have less time to
 actually spend writing software. 
 
-As mentioned in the previous section, learning and personal growth are reasons
+As mentioned in the [previous section](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/03-keeping-the-community-healthy.md), learning and personal growth are reasons
 why people join and stick around in an InnerSource community. Upleveling their
 [_Contributors_][CO Introduction] is one of the most powerful tools Trusted Committers have at their disposal to
 increase the speed, output and longevity of their community. It is also one of
