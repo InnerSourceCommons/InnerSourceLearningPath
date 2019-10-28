@@ -30,7 +30,11 @@ solution that you can rely on? Should there be one?
 -> Show dealing with dependencies slide 1
 X: So you've found that the functionality that you need already exists within
 your company. On a technical level, the solution is easy: Introduce a dependency
-in your project, go ahead and re-use what others did before. What looks easy on
+in your project, go ahead and re-use what others did before. 
+
+-> -> Show dealing with dependencies slide 2
+
+What looks easy on
 first sight becomes more complicated when we remember that all of those
 components are being built by humans - colleagues, working in different teams,
 potentially against different roadmaps, potentially using different design
