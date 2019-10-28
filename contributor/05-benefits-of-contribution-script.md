@@ -57,6 +57,9 @@ independent and (potentially re-)build your own" and "use something existing but
 create a dependency to another team's output". Balancing reimplementing and
 reusing suddenly becomes easier.
 
+
+-> Show corporate motivation slide.
+
 X: All of your teams operate in the same business domain. Likely there is some
 level of base functionality that all of these teams need. InnerSource provides a
 way to balance centralization and autonomy when creating shared assets that
