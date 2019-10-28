@@ -1,14 +1,5 @@
-# Draft comments
 
-## Video playbook outline
-
-What are the nuts and bolts of advice to follow when acting as an InnerSource Contributor?  This segment describes the hands-on things to do to make your contribution a success.  We'll give practical tips to leverage when preparing to work on a contribution, during development, and also in the pull request. 
-
-## Outline doc
-
-See [Outline Section](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/outline.md#mechanics-of-contributing)
-
-# Article
+# Mechanics of contributing
 
 Are you ready to start contributing to other teams projects/repos?
 Do you look forward to reducing your blockers not by management escalation but by collaboration? 
