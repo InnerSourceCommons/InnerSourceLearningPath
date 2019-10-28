@@ -1,25 +1,4 @@
-# Draft comments
 
- Please watch the [Intro to InnerSource Video](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504)
-* Also watch the [Introduction](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925) to the Trusted Committer role.
-* The [Lowering the Barriers to Entry](https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929) video of the Trusted Committer role can be a good addition to understand more of why the Trusted Committer might ask for different things.
-
-## Outline based Target
-### The Contributor in InnerSource
-
-  - Introduce the speaker. - only required for the video script I'd say. 
-  - Quick overview of the _Contributor_ role.
-  - Summary of the roles of InnerSource and how each relates to _Contributor_.
-  - Summary of the upcoming segments and what each covers.
-
-Outline for this section inspired by the [Trusted Committer introduction article][TC Introduction].
-
-## Video Play-book based Target
-How do I best contribute to an InnerSource project?  This segment shares a summary of what it means to be an InnerSource Contributor.  We'll also give an overview of the upcoming training segments on being a great InnerSource Contributor.
-
-
-
-# Article
 
 ## The Contributor in InnerSource
 
