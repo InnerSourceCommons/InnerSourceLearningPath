@@ -73,6 +73,9 @@ As a good contributor you should be able to make a call for when re-using a
 component provides a benefit to your team in terms of collaboration with others
 to move faster and reduce waste. 
 
+
+-> -> Show more than source code slide
+
 X: So - it's called InnerSource - that means, this is just about source-code,
 correct?
 
