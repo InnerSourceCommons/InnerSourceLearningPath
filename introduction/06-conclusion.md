@@ -1,5 +1,5 @@
 
-# Conclusion
+## Conclusion
 
 In this learning path, we've given an introduction to InnerSource.
 InnerSource applies open source best practices and principles to internal software development.
