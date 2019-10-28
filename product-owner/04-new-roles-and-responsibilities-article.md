@@ -1,21 +1,21 @@
 Being an InnerSource leader comes with new roles and responsibilities.
- One of the first one of those is supporting your TCs. TCs are the trusted committers. 
+ One of the first one of those is supporting your TCs. TCs are the [_Trusted Committers_][TC Introduction]. 
 One of the first things that you're going to be doing is probably helping to choose who those new TCs are going to be and supporting them in their job. 
-If you want to know more about what the TC role looks like, please watch the video. 
+If you want to know more about what the TC role looks like, please review the [_Trusted Committer_][TC Introduction] section. 
 
 They are the gatekeepers to your code base. 
 Typically, they are lead developers who are good at code reviews and have a deep understanding of the code base's architecture. 
 They will need your support. 
 They will also be key for you in regards to collaborating with other teams. 
-They'll be your right-hand person in regards to estimations and integrations. Remember to support them. 
-They have some crazy new responsibilities and may need mentoring to help with those contributing teams. 
+They'll be your right-hand people in regards to estimations and integrations. Remember to support them. 
+They have some crazy new responsibilities and may need mentoring to help with those [_contributing teams_][CO Introduction]. 
 Developers are not often taught how to negotiate. 
-I recommend the book Getting to Yes, and for you to use that with them. 
+I recommend the book [Getting to Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/), and for you to use it with them. 
 
 Secondly, other product owners. 
 Now, you're going to be dealing with the other product owners, especially to meet new time commitments in regards to negotiation and collaboration. 
 It takes time. You're going to need to mentor. 
-You may need to mentor other product owners, especially that are new to the process. Your processes might be different from theirs as well. That's OK. 
+You may need to mentor other product owners, especially those that are new to the process. Your processes might be different from theirs as well. That's OK. 
 
 I like to think of project code bases as being like houses.
  Some older houses need more rules and directions than others because they're quirky. 
@@ -25,24 +25,28 @@ So nowadays, you document it so that the guests know that hey, in the shower, th
 Thirdly, documentation time. 
 At the beginning, you may have to sink a fair amount of your time in regards to the open documentation, and going beyond just your open roadmaps and other open processes. 
 I'm also talking about things like UX and UI standards, API standards, or even testing requirements. 
-With that, of course, you're going to want to sync up with your trusted committers as to what they need to feel safe in regards to some of their coding requirements. It'll be worth it, promise. 
+With that, of course, you're going to want to sync up with your [_Trusted Committers_][TC Introduction] as to what they need to feel safe in regards to some of their coding requirements. It'll be worth it, promise. 
 
-Once you start working with those other teams, and when you onboard new developers and get so much more done than you'd gotten previously, remember those new developers-- you can also get them to help you write some of this brand-new documentation. 
+Once you start working with those other teams, and when you onboard new developers and get so much more done than you'd gotten previously, remember those [_new developers_][CO Introduction] - you can also get them to help you write some of this brand-new documentation. 
 If your tool is one of those bottlenecks and is really important to them, they may even offer to help you do a lot of the heavy lifting in regards to the standards, because they want to integrate in with your product. 
 
 Lastly, internal marketing. 
-There's some projects that everyone wants to contribute code to. 
+There're some projects that everyone wants to contribute code to. 
 Oftentimes, these projects are the bottlenecks. 
 I find that people start working on InnerSource projects at first because they must get something into one of those bottleneck projects. 
 So they can progress their own projects forward. But what if you aren't one of those projects? 
 If that's true, and you really want to get free help from others in the company, then you're going to need to market your code base to them. 
 
-Sometimes you can market it as a new skill to learn-- say, for example, the Android team got a lot of contributors because a lot of people wanted to put mobile on their resume.
+Sometimes you can market it as a new skill to learn - say, for example, the Android team got a lot of contributors because a lot of people wanted to put mobile on their resume.
 Also, good Getting Started documents will help other teams be ready to contribute and work with you on it. 
 Another thing that you can do is go look for other teams where you may be doing things that are redundant. 
-So if you find that there's a bunch of different tools that are doing a similar functionality, you can all work together and divide out those features so that you can collaborate, use less time and resources.
+So if you find that there's a bunch of different tools that are doing a similar functionality, you can all work together and divide out those features so that you can collaborate, and use less time and resources.
 Be sure to reflect that up, so that way they understand how much money you've saved them by doing InnerSource. 
 
-We also have several other patterns at the InnerSource commons.
-So please go and check out innersourcecommons.org to learn more.
+We also have several other patterns at the [InnerSource commons](http://innersourcecommons.org/).
+So please go and check out [innersourcecommons.org](http://innersourcecommons.org/) to learn more.
 Two really good examples that I can think of off the top of my head are the Code-a-Thon and doing different types of announcements saying that your code base is ready and open for business. Thank you. 
+
+
+[TC Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md
+[CO Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md

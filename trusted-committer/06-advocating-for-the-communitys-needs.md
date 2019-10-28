@@ -11,15 +11,15 @@ are naturally more concerned with the longevity of both the product and the
 community. This is why many InnerSource initiatives were modeled after the
 Apache Way, which has the motto "Community over Code". 
 
-It is in this potential area of conflict where the TC plays a vital role. TCs
+It is in this potential area of conflict where the Trusted Committer plays a vital role. Trusted Committers
 build trust with the organization and, building on that trust, act as an
 advocate for the interests of the community and the long term health of the
 software in the company. They are responsible for communicating technical as
-well community related risks to management. At the same time, TCs need to be
+well community related risks to management. At the same time, Trusted Committers need to be
 strategic and work within the degrees of freedom afforded by their companies.
 
-Related to this, TCs need to make sure that the community and individual
-contributors get public credit for their work, to make sure everyone is aware
+Related to this, Trusted Committers need to make sure that the community and individual
+[_contributors_][CO Introduction] get public credit for their work, to make sure everyone is aware
 of the valuable contribution made. Public credit is kind of the currency in which
 contributors are being paid, especially those who contribute voluntarily. It is
 good practice to commend valuable contributors publicly and making sure their
@@ -29,19 +29,21 @@ health of the community overall. Neglecting to give credit can occur in
 companies which are not yet accustomed to the InnerSource working model or when
 the software being developed by the InnerSource community runs _behind the
 scenes_ and managers were simply not aware of the community's contribution. A
-good TC will engage with management and advocate the need for
+good Trusted Committer will engage with management and advocate the need for
 public credit in this case. Failure to give credit is almost never done in bad
-faith, though, and TCs should be able to easily correct that. 
+faith, though, and Trusted Committers should be able to easily correct that. 
 
-Another common example where the TC's advocacy is needed is when contributors
+Another common example where the Trusted Committer's advocacy is needed is when [_contributors_][CO Introduction]
 are not given time or permission to make a contribution.  This situation can can happen if
 the community is not working on a product that belongs to the domain of the contributor's
 department and thus not relevant for the respective manager's goals.
-In this case, the TC should engage in discussion with the contributor's manager
+In this case, the Trusted Committer should engage in discussion with the contributor's manager
 and lobby for an alternative decision.
 
-In summary, there are many situations in which TCs need to advocate the
-interests of individual contributors and their community as a whole to the
+In summary, there are many situations in which Trusted Committers need to advocate the
+interests of individual [_contributors_][CO Introduction] and their community as a whole to the
 organization. They do this because they understand that the value that the
 community can provide to the organization depends on the health and longevity
 of the community and ultimately on a trustworthy relationship between both.
+
+[CO Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md

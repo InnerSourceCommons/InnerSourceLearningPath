@@ -1,4 +1,4 @@
-# InnerSource Principles
+## InnerSource Principles
 
 Every company, team, project, and individual is different.
 Because of that fact, the exact way that the concept of InnerSource works will vary from one situation to another.
@@ -13,7 +13,7 @@ The principles are:
 
 Let's take a look at each of these principles in more detail.
 
-## Openness
+### Openness
 
 The configuration of an open project enables frictionless contributing.
 Projects should be discoverable and well-documented through README.md and CONTRIBUTING.md files within the root of the repo.
@@ -29,7 +29,7 @@ Project openness will typically be directly related to how successful a project 
 The more open it is, the fewer barriers are put in place for prospective contributors.
 The less open it is, the more difficult it becomes for anyone to contribute.
 
-## Transparency
+### Transparency
 
 In order for guest teams to be able to contribute meaningfully to a project, the host team must be _transparent_.
 This means that guest teams should be able to have an understanding of:
@@ -42,7 +42,7 @@ This means that guest teams should be able to have an understanding of:
 When possible, the above should be communicated clearly and in detail, from teams' internal definitions of items to special-case scenarios specific to the project.
 This communication should be done in a manner that can be easily queried and understood to those that are not part of the core team.
 
-## Prioritized Mentorship
+### Prioritized Mentorship
 
 _Mentorship_ from host team to guest team via [trusted committers](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md) is a key aspect of InnerSource.
 [Contributors](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md) on guest teams are upleveled so that they understand enough about the host team's project/repo to change it successfully.
@@ -57,7 +57,7 @@ It proves to be mutually beneficial in the long run. By improving the code, the 
 improves relationships within an organization that may not have existed otherwise.
 Open source readily recognizes this point and considers it as an honor to achieve trusted committer status on a project.
 
-## Voluntary Code Contribution
+### Voluntary Code Contribution
 
 The first word _Voluntary_ means that engagement in InnerSource from both the guest and host teams occurs of their own free will.
 The guest team voluntarily donates code to the host team and the host team voluntarily accepts it.

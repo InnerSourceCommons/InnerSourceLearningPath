@@ -1,7 +1,5 @@
-This file holds the text to accompany the [Conclusion](https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321611) video.
-This accompanying text will appear as a part of the learning path (like [this example](https://www.safaribooksonline.com/learning-paths/learning-path-lean/9781491999738/9781491946527-/part01ch01.html)).
 
-# Conclusion
+## Conclusion
 
 In this learning path, we've given an introduction to InnerSource.
 InnerSource applies open source best practices and principles to internal software development.
