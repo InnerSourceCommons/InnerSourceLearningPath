@@ -1,5 +1,5 @@
 
-# Mechanics of contributing
+## Mechanics of contributing
 
 Are you ready to start contributing to other teams projects/repos?
 Do you look forward to reducing your blockers not by management escalation but by collaboration? 
