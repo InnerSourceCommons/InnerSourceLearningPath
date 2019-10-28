@@ -16,6 +16,9 @@ making contributions earlier, in this section we'll dive a bit deeper into why
 participating in InnerSource projects is beneficial not only for the contributor
 but also for their team and their employer.
 
+
+-> Show individual motivation slide.
+
 X: Contributors are the life blood of inner source projects. What are
 motivations for individual contributors to become active?  Much like in open
 source: Instead of working around issues, fix them at the source. Typical
