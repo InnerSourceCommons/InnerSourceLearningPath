@@ -49,7 +49,11 @@ dependent on another team.
 
 X: The typical solution is to cut dependencies whereever possible. This means
 that you can move independent and faster. It also means that you will duplicate
-effort that others already invested. InnerSource gives you a path in between the
+effort that others already invested. 
+
+-> -> Show dealing with dependencies slide 4
+
+InnerSource gives you a path in between the
 two options of being fully dependent on another team or cutting the dependency
 entirely:
 
