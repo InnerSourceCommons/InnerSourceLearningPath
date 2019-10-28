@@ -1,4 +1,4 @@
-# How does InnerSource work?
+## How does InnerSource work?
 
 Let's say that team A uses software produced by team B.
 Team A submits a feature request to team B, but team B isn't able to implement that feature in time for team A.
