@@ -17,6 +17,7 @@ what a sharing mindset has to do with contributing, what the benefits of sharing
 solutions are and which types of contributions InnerSource projects are
 typically looking for.
 
+-> Show gaining by sharing slide. 
 X: Imagine you are implementing a new feature for your product. Before jumping
 right into the implementation - slow down for a bit: Is this a general issue
 that could benefit from a solution that multiple teams work on? Do other teams
