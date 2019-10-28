@@ -1,11 +1,3 @@
-# Draft comments
-
-Outline for this segment
-
-What are the benefits of contributing - both from an individual as well as from
-a business perspective. 
-
-# Article
 
 ## Benefits of becoming an InnerSource Contributor
 
@@ -119,7 +111,7 @@ re-use and as a result more modular and replaceable.
 
 ## Conclusion
 
-As we've seen in this article many of the reasons for individuals and
+As we've seen in this article, many of the reasons for individuals and
 corporations to get active in Open Source also apply to InnerSource projects.
 What we've seen as well is that it's not only altruistic reasons that drive
 people to collaborate in InnerSource projects - often it's easy to identify
