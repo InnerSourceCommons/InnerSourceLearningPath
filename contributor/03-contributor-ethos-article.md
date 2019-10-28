@@ -3,7 +3,7 @@ In the last segment we have outlined why you would want to reuse components and
 become active as a Contributor. This artice is sharing best practices on how to
 successfully contribute your changes to the host team's code base.
 
- ### Contributor Ethos
+ ## Contributor Ethos
 
 An InnerSource Contributor trying to make a contribution to the host team
 is essentially a guest in their home. In general a good guest is expected to
@@ -15,7 +15,7 @@ behave in a certain way:
 
 How do these expectations apply to InnerSource projects?
 
-#### Getting in
+### Getting in
 
 When visiting your neighbors, you will likely not enter their home without
 knocking or ringing the door bell even if the door is open. Likewise in InnerSource
@@ -84,7 +84,7 @@ on your submission. This can
 alleviate the host team's fear of the contributors not being available for
 support with fixing bugs after the time on contribution.
 
-#### Anticipate and follow house rules
+### Anticipate and follow house rules
 
 When visiting your neighbors, they will likely help you around in their
 apartment: they'll show you the way to their living room and where the restroom 
@@ -117,7 +117,7 @@ archived and searchable. The benefit here is with others coming after you with
 similar proposals: instead of walking the exact same path again, they can learn
 what was discussed before and start from there.
 
-#### Understand they are not the home owner and act accordingly.
+### Understand they are not the home owner and act accordingly.
 
 Being a Contributor essentially means being somehow closer to the host team than
 someone merely requesting a feature. Still Contributors are not accountable for
@@ -137,7 +137,7 @@ In that case it helps to work with the team, figure out if there is a sub aspect
 of what you need that can be solved in their project.  Collaborate on that sub
 aspect and then find another way to solve the remaining issues on your end.
 
- #### Summary of this segment
+ ### Summary of this segment
 
 In this segment we have learned how to best approach an InnerSource project as a
 Contributor. We also looked at how to best communicate our need for the change
