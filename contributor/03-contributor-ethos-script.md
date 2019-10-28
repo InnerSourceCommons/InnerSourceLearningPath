@@ -66,6 +66,9 @@ X: Now, once you're clear to participate in the InnerSource project of your
 choice - will you be able to carry over the same established collaboration
 practices that you're used to from your own team? Likely only partially:
 
+
+-> Show following house rules slide.
+
 X: When visiting your neighbors - they'll show you around. If you're staying for
 longer, they'll tell you what's particular about their home. In my case you
 shouldn't turn on the dish washer and the electric kettle at the same time -
