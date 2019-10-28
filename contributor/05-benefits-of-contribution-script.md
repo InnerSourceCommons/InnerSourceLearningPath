@@ -34,6 +34,9 @@ reputation grows beyond the walls of your own team.
 X: Aside from these obvious factors many people observe that being part of an
 Innersource project is perceived as full-filling and fun.
 
+
+-> Show team motivation slide.
+
 X: Now we know what motivates individuals to become active in InnerSource projects.
 What are reasons for teams to make space for other team members to participate
 in host teams?
