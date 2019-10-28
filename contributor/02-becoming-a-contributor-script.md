@@ -44,6 +44,9 @@ that component. The component may lack some minor modification that you need in
 order to meaningfully use it. At the end of the day you make your success
 dependent on another team.
 
+
+-> -> Show dealing with dependencies slide 3
+
 X: The typical solution is to cut dependencies whereever possible. This means
 that you can move independent and faster. It also means that you will duplicate
 effort that others already invested. InnerSource gives you a path in between the
