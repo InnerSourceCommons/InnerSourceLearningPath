@@ -24,7 +24,7 @@ their door is open, you probably won't enter without knocking on the door first.
 
 The same is true for a lot of InnerSource projects: Inviting contributions from
 the outside does not imply giving write access to everyone right from the start.
-Instead you will submit your changes through a pull request and have them
+Instead you will submit your changes through a pull request or proposed patchset and have them
 reviewed by existing trusted committers.
 
 X: Much like in the real world you'll follow contributions guidelines set by the
