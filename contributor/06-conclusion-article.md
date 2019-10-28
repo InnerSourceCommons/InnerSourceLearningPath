@@ -1,21 +1,4 @@
-# Draft comments
 
-
-## Outline based Target
-### Conclusion
-
-Review what we've learned/taught together.
-  - Quick overview of the _Contributor_ role.
-  - Summary of these _Contributor_ segments and what each covered.
-  - Summary of the other sections in the learning path with invitation to watch.
-  - Summary of the InnerSource Commons and invitation to join.  
-
-## Video Play-book based Target
-This segment recaps what we've learned about being an InnerSource contributor.  We'll share how you can continue your learning on InnerSource both with with other online videos and also involvement with the online InnerSource community.
-
-Time-target for the video 1-3 minutes.
-
-# Article
 ## Conclusion
 Thanks for watching the Contributor segment of the InnerSource Commons Learning Path. With this section you've learned about the Contributor role - the life blood of InnerSource projects: External to the owners of a component's team, they bring additional valuable input to the project.
 
