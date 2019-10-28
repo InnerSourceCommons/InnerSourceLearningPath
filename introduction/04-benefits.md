@@ -1,4 +1,4 @@
-# What Are the Benefits of InnerSource?
+## What Are the Benefits of InnerSource?
 
 There are many benefits to collaborating via InnerSource.
 InnerSource gives a company a scalable strategy for **guest teams to get feature requests when they need them** without the long-term burden of maintenance.
