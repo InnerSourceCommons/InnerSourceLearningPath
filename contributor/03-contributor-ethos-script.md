@@ -11,7 +11,7 @@ A Contributor to an InnerSource project is like a guest in a home.  How should a
 ## Script
 
 X: In the previous video section we took a closer look at when to become an
-InnerSource contributor. We also investigated which types of contributions
+InnerSource contributor. We also investigate which types of contributions
 InnerSource projects typically are looking for. In this video you will learn
 more about how to be a good contributor following the guest-in-home analogy.
 
