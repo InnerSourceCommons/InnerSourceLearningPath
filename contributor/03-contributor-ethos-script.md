@@ -15,6 +15,8 @@ InnerSource contributor. We also investigate which types of contributions
 InnerSource projects typically are looking for. In this video you will learn
 more about how to be a good contributor following the guest-in-home analogy.
 
+-> Show being a guest slide
+
 X: So you are planning to support an InnerSource project of your choice. How do
 you get started? InnerSource contributors understand that essentially they are
 guests in the house of the host team. When visiting your neighbors - even if
