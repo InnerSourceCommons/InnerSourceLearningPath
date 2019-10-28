@@ -27,6 +27,7 @@ this functionality orthogonal to your business domain?
 X: If any of this is the case - look beyond your own team: Is there a shared
 solution that you can rely on? Should there be one?
 
+-> Show dealing with dependencies slide 1
 X: So you've found that the functionality that you need already exists within
 your company. On a technical level, the solution is easy: Introduce a dependency
 in your project, go ahead and re-use what others did before. What looks easy on
