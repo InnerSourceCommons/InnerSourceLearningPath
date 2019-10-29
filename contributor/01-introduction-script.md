@@ -18,7 +18,7 @@ Thus, this is a work draft to have something to start with and discuss.
 ### Intro
 I: 
 
-J: 
+J: My name is Johannes Tigges. I am a Principal Engineer at 7Learnings, worked on introducing InnerSource to HERE Technologies and have acted as Contributor and Trusted Commiter in a number of projects within companies and the OpenSource domain. 
 
 ### Overview
 
