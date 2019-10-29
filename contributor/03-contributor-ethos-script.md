@@ -27,19 +27,21 @@ the outside does not imply giving write access to everyone right from the start.
 Instead you will submit your changes through a pull request or patchset and have them
 reviewed.
 
-I: Much like in the real world you'll follow contributions guidelines set by the
+I: Much like in the real world you'll follow contribution guidelines set by the
 host project. In turn, those active in the project will mentor you.
 
 J: So - is the process the same for all types of changes? Let's look at a
-specific scenario in the real world. Remember that lovely summer party that you
+specific scenario in the real world.
+Remember that lovely summer party that you
 went to at your friends' place? Likely before knocking on the door you received
 an invitation with a set time and date. Likely your friends spent some time
 planning for there to be enough food available.
 
 I: The same is true if you need major modifications in an InnerSource project:
 Likely you'll first submit an issue proposing your changes, discussing
-architectural options. Most
-likely you will be encouraged to share your progress early. Like Yonik's law of
+architectural options.
+Most likely you will be encouraged to share your progress early.
+Like Yonik's law of
 patches states:
 
 https://cwiki.apache.org/confluence/display/solr/HowToContribute
@@ -48,9 +50,10 @@ https://cwiki.apache.org/confluence/display/solr/HowToContribute
 and no backwards compatibility is better than no patch at all."
 
 Sharing progress early on makes it easier to guide you towards a great solution, showing you caveats. 
-Sharing this project in a way that is visible for the entire InnerSource project enables
-everyone involved to help you out. Essentially that means sharing a lot more in
-writing and visible to others.
+Sharing this *project* in a way that is visible for the entire InnerSource project enables
+everyone involved to help you out. 
+Essentially that means sharing a lot more in
+writing *and visible* to others.
 
 J: Does that mean that there's no space for face to face communication? Of course
 not: Teams need a certain level of face to face interaction.
@@ -80,10 +83,11 @@ J: The more you contribute to a project, the closer you will feel you belong to
 that project's team - maybe at some point you'll be invited to be part of it as
 another trusted committer. However as long as you're approaching the project as
 a contributor you should understand that you are a guest to the InnerSource
-project. Ultimately accountability for the project lies with the existing
+project. 
+*Ultimately accountability for the project lies with the existing
 Trusted Committers. As such they are the ones who make a final call on what
 contributions need to look like. Also they are the ones making the final call on
-whether or not to accept a contribution.
+whether or not to accept a contribution.*
 
 I: In this section we looked at how to get started submitting your contributions
 to the host team, which rules to follow and how to learn more about how the host
