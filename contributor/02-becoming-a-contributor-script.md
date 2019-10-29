@@ -18,6 +18,7 @@ solutions are and which types of contributions InnerSource projects are
 typically looking for.
 
 -> Show gaining by sharing slide. 
+
 J: Imagine you are implementing a new feature for your product. Before jumping
 right into the implementation - slow down for a bit: Is this a general issue
 that could benefit from a solution that multiple teams work on? Do other teams
@@ -28,6 +29,7 @@ J: If any of this is the case - look beyond your own team: Is there a shared
 solution that you can rely on? Should there be one?
 
 -> Show dealing with dependencies slide 1
+
 I: So you've found that the functionality that you need already exists within
 your company. On a technical level, the solution is easy: Introduce a dependency
 in your project, go ahead and re-use what others did before. 
