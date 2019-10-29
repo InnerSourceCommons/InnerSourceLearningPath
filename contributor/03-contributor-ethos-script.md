@@ -48,8 +48,7 @@ https://cwiki.apache.org/confluence/display/solr/HowToContribute
 and no backwards compatibility is better than no patch at all."
 
 Sharing progress early on makes it easier to guide you towards a great solution, showing you caveats. 
-Sharing this project in a way that is visible
-for the entire InnerSource project enables
+Sharing this project in a way that is visible for the entire InnerSource project enables
 everyone involved to help you out. Essentially that means sharing a lot more in
 writing and visible to others.
 
@@ -72,9 +71,7 @@ otherwise you'll blow the fuse.
 
 J: You can expect the same explanations of how things work at InnerSource projects:
 You'll find that in their README.md (or alternatively in a document called
-CONTRIBUTING.md) the project has written down
-information to get you started. It will list anything that deviates from standard
-tooling.
+CONTRIBUTING.md) the project has written down information to get you started. It will list anything that deviates from standard tooling.
 
 I: Typically looking at this documentation saves you a lot of ramp up time as it
 stops you from trial and error but also from going down the wrong path.

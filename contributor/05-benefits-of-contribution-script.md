@@ -11,10 +11,8 @@ Why make the effort to contribute to an InnerSource project?  Contribution comes
 ## Script
 
 I: In the previous video segment we looked into the mechanics of submitting your
-contribution to the host project. While we did touch upon the motivation for
-making contributions earlier, in this section we'll dive a bit deeper into why
-participating in InnerSource projects is beneficial not only for the contributor
-but also for their team and their employer.
+contribution to the host project. 
+While we did touch upon the motivation for making contributions earlier, in this section we'll dive a bit deeper into why participating in InnerSource projects is beneficial not only for the contributor but also for their team and their employer.
 
 
 -> Show individual motivation slide.
@@ -85,10 +83,3 @@ appreciated by customers.
 I: We hope those arguments will help you convince colleagues that being an
 InnerSource contributor is valuable not only for the individual itself but also
 for the team - and even the corporation at large.
-
-J: In this video series we took a deeper look at the contributor role in
-InnerSource. We hope the insights help you become an awesome contributor
-yourself - but also to convince others to follow your path. If you would like to
-dig deeper, please do take a look at the article series accompanying this video
-series. We are looking forward to welcome you back for the next training series.
-
