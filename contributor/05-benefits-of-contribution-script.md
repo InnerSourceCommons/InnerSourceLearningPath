@@ -39,12 +39,12 @@ J: Now we know what motivates individuals to become active in InnerSource projec
 What are reasons for teams to make space for other team members to participate
 in host teams?
 
-J: If you're already using software from the host team. If you've already made
+J: *If you're already using software from the host team. If you've already made
 fixes to it. Why should you spend the time to make sure these fixes make their
 way back to the host team's project? If you donate them back, with every new
 release of that component the fix will already be integrated. Essentially the
 host team take over not only ownership of the fix, but also maintenance
-associated with it.
+associated with it.*
 
 I: Having someone active in the host project typically builds a bridge to that team
 - it typically makes it easier to have a voice in future direction of that
