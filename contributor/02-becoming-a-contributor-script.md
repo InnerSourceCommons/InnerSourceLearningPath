@@ -64,7 +64,8 @@ need is not provided and is not on the roadmap of the original team just yet,
 you have the option to implement that feature yourself and contribute that
 implementation to the project. Instead of spending all the effort to
 re-implement the entire functionality you can focus on only adding the feature
-that you need. In addition you will get help and mentorship on how to make the
+that you need. 
+In addition you will get help and mentorship on how to make the
 modifications that you need.
 
 I: Contributing those changes to the other team's codebase means that they will
@@ -82,16 +83,16 @@ J: So - it's called InnerSource - that means, this is just about source-code,
 correct?
 
 If you are a user of an InnerSource project, you want to ensure the project is
-well run and well maintained. You can help the host team with that: In addition
-to source code contributions, you can help with improving the documentation. You
-can help with providing issues for bugs you find. You can help by providing
-additional information to existing issues. You can help with fixing tests, in
-addition to reporting bugs you can help with providing (failing) test cases for
-these bugs. You can help with mentoring other users of the InnerSource
+well run and well maintained. 
+You can help the host team with that: In addition to source code contributions, you can help with improving the documentation. You can help with providing issues for bugs you find. You can help by providing
+additional information to existing issues. You can help with fixing tests.
+In addition to reporting bugs you can help with providing (failing) test cases for
+these bugs. 
+You can help with mentoring other users of the InnerSource
 component.
 
 I: With that we would like to conclude this section on becoming a contributor.
-In this episode we looked into when you should look into becoming an InnerSource
-contributor, what benefits are waiting for you. We also touched upon types of
-contributions beyond source code. In the following video section you will learn
-more about the contributor ethos - on what being a good contributor looks like.
+*In this episode we looked into when you should look into becoming an InnerSource
+contributor, what benefits are waiting for you.* FIX
+We also touched upon types of contributions beyond source code.
+In the following video section you will learn more about the contributor ethos - on what being a good contributor looks like.
