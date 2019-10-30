@@ -37,7 +37,7 @@ The _Crier_ reminds people in _Slack_ of the upcoming meeting.
 **About 24 Hours Before Meeting**
 
 * [ ] Announce the meeting in the [#learning-path] channel.
-* [ ] Share that announcement with the [#innersourcecommons] channel.
+* [ ] Share that announcement with the [#general] channel.
 
 ### Tips
 
@@ -46,7 +46,7 @@ That means at a minimum the announcement has the meeting day, time, and call inf
 * Try to make the announcement engaging so that even people that have not participated before may be interested in joining.
 A good way to do that is to copy the agenda text from the invite into the announcement.
 * You can find link to the agenda document in the calendar invite for the upcoming meeting.
-* Here is an [example announcement][#learning-path announcement] in the [#learning-path] channel and [its share][#innersourcecommons share] in the [#innersourcecommons] channel.
+* Here is an [example announcement][#learning-path announcement] in the [#learning-path] channel and [its share][#innersourcecommons share] in the [#general] channel.
 
 <a name="facilitator"></a>
 ## Facilitator
@@ -127,7 +127,7 @@ so that recipients don't need to wade through all of the conversation in order t
 [template]: https://docs.google.com/document/d/16pTjdrihudETbt-WSzgRSJgkIL0xm8wLKMKsvRoEGxs/edit?usp=sharing
 [learning path folder]: https://drive.google.com/drive/u/1/folders/11EkhuLJqQDloNU1W6c-f2bbOYVTUorCU
 [#learning-path]: https://innersourcecommons.slack.com/messages/CARTU4XV2/
-[#innersourcecommons]: https://innersourcecommons.slack.com/messages/C0FJ7D2QH
+[#general]: https://app.slack.com/client/T04PXKRM0/C04PXKRN4
 [Scheduler]: #scheduler
 [Crier]: #crier
 [Facilitator]: #facilitator
