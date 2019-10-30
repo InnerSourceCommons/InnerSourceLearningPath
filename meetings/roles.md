@@ -89,7 +89,7 @@ Once the agenda is complete the meeting is over.
 
 The _Scribe_ ensures that meeting notes are taken and sends them out.
 
-**Day Before Meeting**
+**Day of the Meeting**
 
 * [ ] Reserve time on tomorrow's calendar to transcribe and clean up everyone's writing into the **Notes** section of the agenda document.
 This time should be scheduled as close as possible after the end of the meeting.
