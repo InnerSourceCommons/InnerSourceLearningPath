@@ -1,0 +1,235 @@
+CAUTION: Convert headers to == notation
+IMPORTANT: Formatted according to https://powerman.name/doc/asciidoc
+
+Video:  InnerSource Product Owners
+----------------------------------
+
+SEGMENT: How Difficult It Is to Be Middle Management
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TIP:
+More than one answer may be correct in some questions.
+
+Question 1. This video highlights the following complaints of middle managers, relevant to InnerSource:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+
+. Lack of competent developers because of stiff competition in the market for employees
+. Lack of recognition for the manager's role in making the project successful
+. Lack of input into the organization’s vision
+. Lack of clarity in the allocation of funds
+
+Correct answers: 2 and 3
+++++++++++++++++++++++++
+
+Why 1 is incorrect: Competition for qualified development staff is certainly a problem in the computer field at this time, but InnerSource can’t deal with that. It does not make developers spring up from the ground.
+
+Why 2 is correct: The video highlighted the invisibility of many activities of middle management. InnerSource gives these managers a chance to be more involved in discussions that cross organizational boundaries, and its record trail preserves evidence of their contributions.
+
+Why 3 is correct: Middle managers feel that they are responsible for carrying out choices made by upper management, but can’t influence those choices. In contrast, InnerSource brings the managers into communication with other teams, thus providing a chance to broaden their own influence and participate more active in shaping the goals and vision behind their projects.
+
+Why 4 is incorrect: InnerSource does not have a direct impact on funding, so funding is not discussed in this video segment. However, the adoption of InnerSource does have an indirect on funding, because now the work on a project is shared by multiple teams, and management must recognize that resources are spent differently. Specifically, the amount of coding per team member will slightly shrink in favor of communication and documentation, while the overall project output should increase thanks to the collaboration.
+
+SEGMENT: Major Benefits are Built into the InnerSource Process
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TIP:
+More than one answer may be correct in some questions.
+
+Question 1. InnerSource can help with the following problems:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. A delay in implementing an important feature because the responsible team assigns it a low priority
+. Slow integration of bug fixes submitted by outsiders
+. A failure to acknowledge the value of middle managers' contributions
+. Knowledge that is restricted to a few key developers
+
+Correct answers: 1, 2, 3, and 4
++++++++++++++++++++++++++++++++
+
+Why 1 and 2 are correct: In traditional organizations, only the host team can change its code. Other teams must submit requests and wait until their importance is recognized. With InnerSource, an outside team that urgently needs a change can code it themselves, with guidance from the host team.
+
+Why 3 is correct: Because InnerSource requires contributions from many different teams, plans should be published and shared. This not only allows for coordination, but highlights the contributions that a manager and her team make to the larger organization.
+
+Why 4 is correct: InnerSource calls for documentation and transparency in both code and guidelines. If a key developer leaves or is busy, the knowledge will be available to others.
+
+Question 2. InnerSource promotes both collaboration and transparency in the following area:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. Corporate standards
+. Processes
+. Documentation
+. Credit for accomplishments
+
+Correct answers: 1, 2, 3, and 4
++++++++++++++++++++++++++++++++
+
+Why 1, 2, and 3 are correct: Standards, processes, and documentation are important elements of collaboration that enable multiple teams to produce code for a shared project. Sharing standards, processes, and documentation along with the code itself makes them explicit, as well as easy to consume and maintain.
+
+Why 4 is correct: Version control, message boards, and other tools preserve a record of what happened and who contributed. The transparency and open access they create ensures visibility and thus enables proper credit for accomplishments in InnerSource projects.
+
+Question 3. InnerSource is expected to cause:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. A greater dependence on other teams to implement needed features
+. Looser approaches to application lifecycle management
+. More discussions among product owners on different teams
+. Divergent views of the product among different teams
+
+Correct answer: 3
++++++++++++++++++
+
+Why 1 is incorrect: Each team should have the staff and resources it needs to meet its requirements. When engaging in InnerSource, an outside team may implement a feature or bug fix needed by the hosting team. However, it should be regarded as a lucky coincidence rather than part of the hosting team’s product plan.
+
+Why 2 is incorrect: Requirement definition, code development, testing, code vetting, and deployment--the various parts of the application life cycle--are still as important as they always were. Trusted committers make sure that outsiders respect the life cycle and follow team standards to ensure quality.
+
+Why 3 is correct: Contributors, trusted committers, and product owners all hold more discussions on InnerSource projects in order to collaborate on finding solutions. The input from other product owners embodies valuable knowledge about their users the history of their projects, stumbling blocks to watch for, and other things. These make the extra communication well worthwhile.
+
+Why 4 is incorrect: InnerSource fosters communication between teams so that everybody has a consistent view of what needs to be done. Although teams may have different goals and work on a project to meet those goals, they should be unified in their view of the product.
+
+Question 4. Collaboration and negotiation with other product leaders:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. Is less necessary because the teams share a code base
+. May require training and mentoring so project leaders do effective collaboration
+. Leads to more empowerment of middle managers
+. Should be in written form as much as possible
+
+Correct answers: 2, 3, and 4
+++++++++++++++++++++++++++++
+
+Why 1 is incorrect: Collaboration and negotiation become more important than ever in InnerSource. Contributors explain what they want to change and why. Trusted committers work with them to make sure the project is successful and works well in the code base.
+
+Why 2 is correct: Technical staff generally come out of college or other training programs with skill is programming, and perhaps engineering and project management. But such programs rarely recognize or teach the value of training and mentoring, which are key to InnerSource. Companies should consider filling in the gap with their own training.
+
+Why 3 is correct: Because middle managers can participate in, and help fashion, the decision of other teams, they can achieve their team’s own goals more easily.
+
+Why 4 is correct: People cannot participate in a shared goal if they don’t have the same views of key goals and ways to proceed. Documentation helps to ensure that everybody agrees before they start on the important tasks and procedures.
+
+SEGMENT: New Roles and Responsibilities
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TIP:
+More than one answer may be correct in some questions.
+
+Question 1.  The product owner in InnerSource is responsible for:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. Letting the contributors know what they should work on next.
+. Ensuring that all contributor requests get into the product.
+. Ensuring that your team uses the same processes as other teams.
+. Inviting outside contributors to write coding standards and UI/UX standards.
+
+Correct answer: 4
++++++++++++++++++
+
+Why 1 is incorrect:  InnerSource relies on contributors to decide what they work on based on their own needs. Although the product owner may decide for their own team what to work on next, InnerSource contributors self-select to work on based on their own criteria. Trusted committers can encourage contributors to work on particular projects, but the decision to do so rests with the contributor.
+
+Why 2 is incorrect:  InnerSource contributors own their own fate as far as work getting finished.  While the product owner may agree on the work that should be done, it is ultimately up to the contributor to make the time, do the work, and respond to any trusted committer feedback so that the work can become a part of the host team’s product.
+
+Why 3 is incorrect: DIfferent teams may use different processes because their products call for it, because they have chosen different tools or programming languages, or for historical or cultural reasons. Differences in processes do not prevent teams from working together in an InnerSource manner. However, each team should document its processes and learn the processes of another team when working on that team’s code. Outsiders can also help to document a team’s processes, coding standards, and UI/UX standards.
+
+Why 4 is correct: Outsiders often bring important perspectives, both about user needs and about robust methods for meeting these needs. They can review your team’s standards, and can even contribute to them. Both product owners and trusted committers should solicit contributions to standards.
+
+Question 2. Product owners should not ask trusted committers to:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. Help estimate resource needs and deadlines
+. Create user interface or user experience (UI/UX) documentation
+. Duplicate work being done in other teams
+. Write their advice down when training contributors
+
+Correct answer: 3
++++++++++++++++++
+
+Why 1 is incorrect: Trusted committers can provide valuable input into determining resource needs and deadlines, because they understand well the state of the code and capabilities of the contributors.
+
+Why 2 is incorrect: Trusted committers should also understand end-user needs in order to create code that meets those needs. So it may be reasonable for trusted committers to work on UI/UX documentation.
+
+Why 3 is correct: The point of InnerSource is to bring everyone who is interested in a feature together, so that they can collaborate on creating the necessary code in a single place. Duplication is poor architecture, and is wasteful.
+
+Why 4 is incorrect: Most communication between trusted committers and contributors is written and asynchronous, because they are often in different locations. Furthermore, written communication stays around as a record of what was done and why. It can be useful for training future contributors. There are many ways besides email to record written communications, but email remains a popular and useful medium.
+
+Question 4.  The most important people that a product owner needs to support for an InnerSource project are:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. Upper management.
+. Outside contributors.
+. Scrum masters.
+. Trusted committers.
+
+Correct answer: 4
++++++++++++++++++
+
+Why 1 is incorrect: Upper management may set strategic priorities for the business, but are generally not involved in the on-the-ground implementation through InnerSource.
+ 
+Why 2 is incorrect: Once a contributor is found, the trusted committer has the primary responsibility to support them in making a successful contribution to the project.
+
+Why 3 is incorrect: Scrum may or may not be in use on InnerSource projects, and may not work well across teams (especially teams that are geographically remote). The critical InnerSource process involves support to motivated individuals, not a team effort such as Scrum.
+
+Why 4 is correct: Trusted committers make InnerSource work on-the-ground. They are key in facilitating the changes other teams make to the code base in a way that works for both teams.
+
+Question 5.  When marketing your project for InnerSource contributions, what are some common reasons that others might want to contribute?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+. They need an update in your project in order for their own project to proceed forward.
+. They see how important your project is to the company and want to help it out.
+. Contribution allows their engineering skills to mature by doing work in a new technical area.
+. Their team projects overlap with yours and their contribution is a way to pool both teams’ resources to get more done.
+
+Correct answers: 1, 3, 4
+++++++++++++++++++++++++
+
+Why 1 is correct: When a feature in your backlog is not important to the overall project yet very important to a particular team, an InnerSource contribution is a great way for that team to get the item out of your backlog and into your project.
+
+Why 2 is incorrect: Everyone is busy with their own work.  Even if work in your project is critical to company success, it is unlikely to gain additional help from others by altruism alone.
+
+Why 3 is correct: Actually working in a new technology is the best way to learn it.  Engineers need to always be learning new skills, and doing so via InnerSource contribution is a great way to help the company at the same time.
+
+Why 4 is correct: InnerSource saves development cost by allowing teams with redundant or overlapping projects to collaborate on a single code based instead of duplicated engineering silos. 
+
+SEGMENT: Recap and Takeaways
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TIP:
+More than one answer may be correct in some questions.
+
+Question 1. Adopting InnerSource allows a manager to:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+. Place responsibility for your team's output on other teams
+. Gain more control over a project
+. Reduce time-consuming interactions with other teams
+. Accomplish more tasks, and do them more quickly, by harnessing other team's input
+
+Correct answers: 2 and 4
+++++++++++++++++++++++++
+
+Why 1 is incorrect: A team remains responsible for the tasks assigned to it. InnerSource helps other teams upgrade your code base to meet their needs, but they will not take over your tasks.
+
+Why 2 is correct: When your team contributes to another team’s code base, you can implement a feature you need in the time frame you need it, investing whatever developer time is necessary. When another team contributes to yours, you relinquish a little control over how a feature is implemented, but can employ the outside help to meet timelines for overlapping needs more effectively.
+
+Why 3 is incorrect: Interactions with other teams will increase significantly after you adopt InnerSource. The increased time spent on interaction will pay off as teams meet their needs more efficiently.
+
+Why 4 is correct: InnerSource gives an outlet for teams with pent-up demand or time to contribute that toward your project in a way that gives them what they need while advancing your project’s features.
+
+Question 2.  Adopting InnerSource requires a product owner to:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+. Negotiate with other product owners.
+. Market the team’s project to other parts of the company.
+. Support the trusted committer role.
+. Adopt open planning practices.
+
+Correct answers: 1, 2, 3, and 4
++++++++++++++++++++++++++++++++
+
+Why 1 is correct: InnerSource empowers product owners to negotiate directly to set up contributions from one team to the other.
+
+Why 2 is correct: Contributors don’t always flock to a project just because it’s declared “open”.  Go out and find people that could be interested in contributing and tell them why it would be a great idea to do so.
+
+Why 3 is correct: Once a contribution is lined up, the trusted committer role is key to making sure that it the submitted code actually fills the need of both guest and host teams. 
+
+Why 4 is correct: Open planning makes it easier to collaborate with others.  Since decisions and information is in the open, organizational politics are reduced and people can focus on the work that needs to be done and how to accomplish it.
+
