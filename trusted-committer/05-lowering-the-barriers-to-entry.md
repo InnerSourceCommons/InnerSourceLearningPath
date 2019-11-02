@@ -1,4 +1,4 @@
-## Lowering the Barriers To Entry
+# Lowering the barriers To entry
 
 Soliciting contributions is one of the things that is more challenging in
 InnerSource compared to Open Source. There are a number of reasons for this.
