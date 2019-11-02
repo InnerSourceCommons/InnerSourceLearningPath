@@ -1,4 +1,4 @@
-## Advocating for the Community's Needs
+# Advocating for the community needs
 
 InnerSource communities exist in a corporate context and are thus more
 constrained than Open Source Communities. There can be times when a business
