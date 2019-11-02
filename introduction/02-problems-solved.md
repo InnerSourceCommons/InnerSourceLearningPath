@@ -1,4 +1,4 @@
-# What Problems Does InnerSource Solve?
+# What problems does InnerSource solve?
 
 InnerSource encourages and rewards collaboration and code reuse with anyone, regardless of their position in a company's organizational structure.
 This approach differs from what is seen in traditional organizations where ideas and work product tend to stay trapped within the boundaries of the internal corporate hierarchy and its silos.
