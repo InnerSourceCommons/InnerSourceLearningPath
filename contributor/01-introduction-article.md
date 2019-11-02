@@ -27,7 +27,7 @@ You can also watch the videos ([introduction](https://learning.oreilly.com/video
 
 A Trusted Committer will be your host for your stay in the hosting community.
 They are the gatekeepers to the project's code repository, and will move your contribution closer to production once they accepted it. 
-It is their role to mentor you on your way to contributing to their community. They may help you directly or provide information to enable you to help yourself. This could be established house rules for reviews, proposal templates for larger changes, pointers to documentation or code sections relevant for your contribution.
+It is their role to mentor you on your way to contributing to their community. They may help you directly or provide information to enable you to help yourself. This information could be established house rules for reviews, proposal templates for larger changes, pointers to documentation or code sections relevant for your contribution.
 
 They also need to care about product quality, sustainability and project evolution from technical as well as general perspective, about reducing the barrier to making contributions for everyone, as well as about caring for their community in general.
 Caring for the community involves keeping it healthy, upleveling it and its participants, and advocating its needs in their organization.
@@ -38,8 +38,8 @@ The role of the [_Product Owner_][PO Introduction] has some similarity with the 
 However, there are differences - depending on the size of the project, this role is often filled by the same person that acts as trusted committer.
 In larger projects, or in teams that only partially use InnerSource as an approach to fill their needs by accepting contributions, this role is likely filled by a person separate from a trusted committer.
 
-Your interaction with this role will likely focus on working out the fit of your contribution into the general product and its roadmap. 
-You might work this role to make sure that general aspects of documentation or consistency of UI/UX are kept upon merging your contribution.  
+Your interaction with product owner will likely focus on working out the fit of your contribution into the general product and its roadmap. 
+You might work with product owner to make sure that general aspects of documentation, or consistency of UI/UX, are kept upon merging your contribution.  
 
 Last but not least, someone acting as product owner might have been involved in bringing the project, its benefits and community to your attention. 
 
