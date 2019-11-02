@@ -1,5 +1,5 @@
 
-## Conclusion
+# Conclusion
 Thanks for watching the Contributor segment of the InnerSource Commons Learning Path. With this section you've learned about the Contributor role - the life blood of InnerSource projects: External to the owners of a component's team, they bring additional valuable input to the project.
 
 In this section you've learned about how to become an contributor by learning about how to find opportunities to contribute and the mindset and habits needed to find or create such opportunities.
