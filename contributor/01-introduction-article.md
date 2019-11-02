@@ -1,4 +1,4 @@
-
+# Introduction
 
 ## The Contributor in InnerSource
 
