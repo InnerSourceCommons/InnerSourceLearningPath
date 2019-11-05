@@ -1,4 +1,4 @@
-## Conclusion
+# Conclusion
 
 In the past sections, we have learned about the responsibilities of Trusted Committers;
 ensuring product quality, keeping their community healthy, reducing the barrier

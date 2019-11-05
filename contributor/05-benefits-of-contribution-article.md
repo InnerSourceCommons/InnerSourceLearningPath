@@ -1,5 +1,5 @@
 
-## Benefits of becoming an InnerSource Contributor
+# Benefits of becoming an InnerSource Contributor
 
 Contributors are the life blood of InnerSource projects.  Every project that is
 run as an InnerSource project comes both with the promise and with the ultimate
@@ -12,7 +12,7 @@ that is not under the direction of their manager? What would motivate a manager
 to make time for their developers to improve projects that are not 100% under
 their purview?
 
-### Individual motivation
+## Individual motivation
 
 The most obvious motivation is what typically draws early contributors into open
 source as well:
@@ -55,7 +55,7 @@ This self selection typically also leads to host projects being very welcoming
 and supportive as those are key to keeping motivation in contributors up.
 
 
-### Team level motivation
+## Team level motivation
 
 Remember that annoying bug that's suddenly fixed upstream? Why should your
 team spend the extra effort to contribute that fix to the upstream project?
@@ -74,7 +74,7 @@ time and money by relying on existing implementations" (at the cost of creating
 long term dependencies that can only be influenced in a limited way). That way
 balancing reimplementing versus reusing becomes easier.
 
-### Company motivation
+## Company motivation
 
 Remember that functionality that's specific to your company domain - but that
 is maintained in mutiple implementations across the entire company? What if

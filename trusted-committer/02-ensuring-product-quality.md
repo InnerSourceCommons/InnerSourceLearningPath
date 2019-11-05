@@ -1,4 +1,4 @@
-## Ensuring Product Quality
+# Ensuring product quality
 
 Let's start with the responsibility most often associated with the Trusted Committer role: 
 ensuring product quality. 
