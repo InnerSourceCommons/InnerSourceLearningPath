@@ -1,0 +1,48 @@
+name: Sync Master to Atlas Repos
+
+on: 
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  atlas:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@master 
+    - name: Add O'Reilly remotes
+      run: |
+        git remote add oreilly git@git.atlas.oreilly.com:lenucksi/learningpath-introduction.git
+    - uses: fregante/setup-git-token@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: enable SSH-Key
+      env: 
+        OREILLYKEY: ${{ secrets.OREILLYKEY }}
+      run: |
+        mkdir -p $HOME/.ssh
+        #ls -al ~/.ssh
+        echo -e "$OREILLYKEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        eval `ssh-agent -s`
+        ssh-add ~/.ssh/id_rsa
+        ssh-keyscan git.atlas.oreilly.com >> ~/.ssh/known_hosts
+        #    - name: checkout master
+        #      run: git checkout master
+    - name: push master to oreilly repo
+      run: |
+        # What will happen here?
+        # We've got the repo local and need to merge two histories.
+        # O'Reilly master has extra content, not conflicting with ours though. Fetch it and check it out
+        # Get our master into a different branch. Merge our master-branch into the O'Reilly master.
+        # Push our new merged master into the O'Reilly master.
+        # Party!
+        git fetch oreilly
+        git checkout -b oreilly-master oreilly/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log master 
+        git push oreilly oreilly-master:master
