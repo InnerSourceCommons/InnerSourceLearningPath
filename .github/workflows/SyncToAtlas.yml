@@ -46,3 +46,9 @@ jobs:
         git checkout -b oreilly-master oreilly/master
         git merge -m "Merge GitHub content to Atlas" -v --commit --log master 
         git push oreilly oreilly-master:master
+    - name: Trigger build on Atlas
+      run: |
+        gem install atlas
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-introduction pdf,epub master
+      env:
+        OREILLYAPISECRET: ${{ secrets.OREILLYAPISECRET }}
