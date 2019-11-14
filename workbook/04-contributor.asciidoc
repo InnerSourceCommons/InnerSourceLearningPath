@@ -61,7 +61,9 @@ Why 2 is incorrect: There is nothing wrong with asking good questions, and they 
 
 Why 3 is correct: InnerSource stresses the creation of documentation, both as background to the work (for instance, README.md and CONTRIBUTING.md, and to justify individual decisions and code changes. The reason for a culture of documentation is to provide you, as a contributor, with the background you need to fit your change successfully into the project.
 
-Why 4 is incorrect: Getting your contribution accepted is an achievement to be celebrated. However, your involvement does not end there. You should plan to be available at a minimum to fulfill a 30-day warranty on your changes (and their impact), or even better: stay close to the community and help out with additional contributions. 
+Why 4 is incorrect: Getting your contribution accepted is an achievement to be celebrated.
+However, your involvement does not end there. 
+You should plan to be available at a minimum to fulfil a [30-day warranty](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md) on your changes (and their impact), or even better: stay close to the community and help out with additional contributions. 
 
 ==== Question 2.  Which of the following attitudes helps a contributor build a positive relationship with the community?
 
