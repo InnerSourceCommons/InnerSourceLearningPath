@@ -49,7 +49,7 @@ More than one answer may be correct in some questions.
 ==== Question 1.  Which approach can drive success in your contribution to an InnerSource project?
 
 . My team’s work is crucial for the company’s success, so my team’s voice has more weight in a shared solution community than others.
-. As I a guest to the project, I am entitled to quick and comprehensive answers to my questions from host team.
+. As I am a guest to the project, I am entitled to quick and comprehensive answers to my questions from host team.
 . As a guest to the project, I should make sure I understand and adhere to the rules and guidelines as outlined in the associated documentation (starting with, but not limited to, the README.md and CONTRIBUTING.md files) and can ask questions respectfully afterward for clarifications or help.
 . My commitment is to the change I provide. Once my contribution is accepted my work is done and I can focus on the core of my own project again.
 
