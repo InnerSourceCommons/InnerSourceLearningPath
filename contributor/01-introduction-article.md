@@ -58,7 +58,8 @@ The guest-in-home analogy presented in the introductory videos will serve as a v
 The fourth segment describes the hands-on things to do to make your contribution a success - the _mechanics of Contributing_.
 We'll give practical tips to leverage when preparing to work on a contribution, during development, and also in the pull request.  
 
-After we've dealt with the personal, the interaction-focused, and the technical aspects of the contributor role, the fifth segment presents the benefits of making the effort to contribute from various perspectives: yours, your team's, and the perspective of the company at large.
+After we've dealt with the personal, the interaction-focused, and the technical aspects of the contributor role, the fifth segment presents the benefits of making the effort to contribute.
+We'll show benefits from various perspectives: yours, your team's, and the perspective of the company at large.
 
 The last segment will recap what we've learned about being an InnerSource contributor.  We'll share how you can continue your learning of InnerSource both with other online videos and articles, and through involvement with the online InnerSource community.
 
