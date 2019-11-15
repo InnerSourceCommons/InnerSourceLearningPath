@@ -60,7 +60,8 @@ We'll give practical tips to leverage when preparing to work on a contribution, 
 
 After we've dealt with the personal, the interaction-focused, and the technical aspects of the contributor role, the fifth segment presents the benefits of making the effort to contribute from various perspectives: yours, your team's, and the perspective of the company at large.
 
-The last segment will recap what we've learned about being an InnerSource contributor.  We'll share how you can continue your learning of InnerSource both with other online videos and articles, and through involvement with the online InnerSource community.
+The last segment will recap what we've learned about being an InnerSource contributor. 
+We'll share how you can continue your learning of InnerSource both with other online videos and articles, and through involvement with the online InnerSource community.
 
 
 [intro-innersource]:https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504
