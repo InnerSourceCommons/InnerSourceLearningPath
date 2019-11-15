@@ -48,7 +48,7 @@ If you want to learn in more detail what these other roles are about, and we enc
 
 
 ## Section overview
-In the following 5 sections you will learn more in detail about the various aspects introduced here. 
+In the following 5 segments you will learn more in detail about the various aspects introduced here. 
 
 The next segment will detail _mindset and habit_ that create opportunities to _become an InnerSource Contributor_.
 
