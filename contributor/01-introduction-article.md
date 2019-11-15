@@ -38,7 +38,7 @@ The role of the [_Product Owner_][PO Introduction] has some similarity with the 
 However, there are differences - depending on the size of the project, this role is often filled by the same person that acts as trusted committer.
 In larger projects, or in teams that only partially use InnerSource as an approach to fill their needs by accepting contributions, this role is likely filled by a person separate from a trusted committer.
 
-Your interaction with product owner will likely focus on working out the fit of your contribution into the general product and its roadmap. 
+Your interaction with the product owner role will likely focus on working out the fit of your contribution into the general product and its roadmap. 
 You might work with the product owner role to make sure that general aspects of documentation, or consistency of UI/UX, are kept upon merging your contribution.  
 
 Last but not least, someone acting as product owner might have been involved in bringing the project, its benefits and community to your attention. 
