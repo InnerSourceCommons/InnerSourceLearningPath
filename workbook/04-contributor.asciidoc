@@ -10,7 +10,7 @@ More than one answer may be correct in some questions.
 . I can make sure others have to follow my suggestions to improve the project.
 . The host team will maintain the features I add on behalf of my team.
 . I can shape the solution to better fit my team’s needs.
-. I can help to shape all aspects of the project beyond the code itself (for example, GitHub branches and merges, tests, documentation).
+. I can help to shape all aspects of the project beyond the code itself (for example, GitHub reviewing, bug triage, tests, documentation).
 
 
 ===== Correct answers 3 and 4
