@@ -4,9 +4,6 @@ on:
   push:
     branches:
     - master
-  pull_request:
-    branches:
-    - master
 
 jobs:
   atlas:
@@ -26,20 +23,17 @@ jobs:
         OREILLYKEY: ${{ secrets.OREILLYKEY }}
       run: |
         mkdir -p $HOME/.ssh
-        #ls -al ~/.ssh
         echo -e "$OREILLYKEY" > ~/.ssh/id_rsa
         chmod 600 ~/.ssh/id_rsa
         eval `ssh-agent -s`
         ssh-add ~/.ssh/id_rsa
         ssh-keyscan git.atlas.oreilly.com >> ~/.ssh/known_hosts
-        #    - name: checkout master
-        #      run: git checkout master
     - name: push master to oreilly repo
       run: |
         # What will happen here?
         # We've got the repo local and need to merge two histories.
         # O'Reilly master has extra content, not conflicting with ours though. Fetch it and check it out
-        # Get our master into a different branch. Merge our master-branch into the O'Reilly master.
+        # Merge our master-branch into the O'Reilly master.
         # Push our new merged master into the O'Reilly master.
         # Party!
         git fetch oreilly
