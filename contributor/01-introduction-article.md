@@ -39,7 +39,7 @@ However, there are differences - depending on the size of the project, this role
 In larger projects, or in teams that only partially use InnerSource as an approach to fill their needs by accepting contributions, this role is likely filled by a person separate from a trusted committer.
 
 Your interaction with product owner will likely focus on working out the fit of your contribution into the general product and its roadmap. 
-You might work with product owner to make sure that general aspects of documentation, or consistency of UI/UX, are kept upon merging your contribution.  
+You might work with the product owner role to make sure that general aspects of documentation, or consistency of UI/UX, are kept upon merging your contribution.  
 
 Last but not least, someone acting as product owner might have been involved in bringing the project, its benefits and community to your attention. 
 
