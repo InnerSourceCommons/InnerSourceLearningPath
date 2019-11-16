@@ -42,7 +42,7 @@ jobs:
         git push oreilly oreilly-master:master
     - name: Trigger build on Atlas
       run: |
-        gem install atlas
+        gem install atlas-api
         atlas build $OREILLYAPISECRET lenucksi/learningpath-introduction pdf,epub master
       env:
         OREILLYAPISECRET: ${{ secrets.OREILLYAPISECRET }}
