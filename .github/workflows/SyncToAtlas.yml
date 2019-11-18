@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - name: Setup Ruby for Atlas Gem
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.x' 
     - uses: actions/checkout@master
       with:
         ref: master 
