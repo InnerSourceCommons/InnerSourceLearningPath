@@ -17,7 +17,12 @@ More than one answer may be correct in some questions.
 
 Why 1 is incorrect: Open communities are not a dictatorship. As a contributor, you are part of a community helping the solution to grow and thrive.  This may involve compromise at times, but will pay longer term benefits to you and the community. 
 
-Why 2 is incorrect: In a shared solution you are invited to help improve the code, which includes bug fixes. Ownership in shared solutions should be seen as stewardship to keep the solution long term healthy.
+Why 2 is incorrect: Reducing the amount of work needed to get a customer feature implemented is one of the main reasons for InnerSource. 
+It's correct that contributing changes back to host projects means that the host team becomes aware of the change and will take it into consideration in any refactorings that they are making going forward. 
+That way the work that you as a contributor have to do to adapt to new versions is being reduced significantly. 
+Still that does not imply that on acceptance the host team will be the only people responsible for making sure the change you submitted works as intended: 
+The 30 day warranty pattern provides a formal means to defining how long contributors are responsible for fixing issues in the modification they submitted. 
+In practice contributors often move closer to the host team and provide their expertise going forward.
 
 Why 3 is correct: Shared solutions develop out of contributions from interested parties. Becoming a contributor allows you to shape the solution, always in consultation and collaboration with other community members.
 
