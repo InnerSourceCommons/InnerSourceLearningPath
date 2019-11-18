@@ -11,7 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@master 
+    - uses: actions/checkout@master
+      with:
+        ref: master 
     - name: Add O'Reilly remotes
       run: |
         git remote add oreilly git@git.atlas.oreilly.com:lenucksi/learningpath-introduction.git
@@ -38,7 +40,7 @@ jobs:
         # Party!
         git fetch oreilly
         git checkout -b oreilly-master oreilly/master
-        git merge -m "Merge GitHub content to Atlas" -v --commit --log master 
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master 
         git push oreilly oreilly-master:master
     - name: Trigger build on Atlas
       run: |
