@@ -68,7 +68,7 @@ section-name/0n-last-topic-article.md
 section-name/0n-last-topic-script.md
 section-name/0n-last-topic-workbook.md
 . . .
-workbook/01-section.asciidoc // Contains the part of the workbook matching the section's name.
+workbook/0n-section-name.asciidoc // Contains the part of the workbook matching the section's name.
 ```
 
 After material is finished the scripts will be used to film videos.
