@@ -37,7 +37,9 @@ The _Crier_ reminds people in _Slack_ of the upcoming meeting.
 **About 24 Hours Before Meeting**
 
 * [ ] Announce the meeting in the [#learning-path] channel.
-* [ ] Share that announcement with the [#general] channel.
+* [ ] Use the `Share` arrow icon to share that announcement with the [#general] channel.
+
+![Slack "share" arrow](examples/share.png)
 
 ### Tips
 
