@@ -9,16 +9,18 @@ This repository holds the backing and planning material for the videos and artic
 
 For now, there are four sections to the learning path each covering a specific topic:
 
-  1. Introduction
-  1. Product Owner
-  1. Trusted Committer
-  1. Contributor
+  1. [Introduction](introduction/)
+  1. [Product Owner](product-owner/)
+  1. [Trusted Committer](trusted-committer/)
+  1. [Contributor](contributor/)
   
 Each section should have ~6 videos each explaining an individual, self-contained aspect of the section.
 People may watch all of the videos or just one, so it's important that each is self-contained and understandable either on its own or as part of the overall set.
 
 Each video should be accompanied by a short, ~1-page article explaining the same material as the video but in written form.
 The idea is that some people will prefer to learn the content via watching/listening and others via reading, so we should present the content in both formats so that learners can use whatever format is best for them.
+
+There is also the [workbook](workbook/), a collection of questions and answers on based on the videos and articles for people to check their knowledge against after consuming the material.
 
 ## Community Collaboration
 
@@ -65,6 +67,8 @@ section-name/02-next-topic-workbook.md
 section-name/0n-last-topic-article.md
 section-name/0n-last-topic-script.md
 section-name/0n-last-topic-workbook.md
+. . .
+workbook/0n-section-name.asciidoc // Contains the part of the workbook matching the section's name.
 ```
 
 After material is finished the scripts will be used to film videos.
