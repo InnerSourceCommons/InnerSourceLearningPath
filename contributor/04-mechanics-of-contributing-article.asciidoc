@@ -1,4 +1,4 @@
-= Mechanics of contributing
+== Mechanics of contributing
 
 Are you ready to start contributing to other teams projects/repos?
 Do you look forward to reducing your blockers not by management escalation but by collaboration?
@@ -13,9 +13,9 @@ This article is separated into the three steps you will likely experience
 If your contribution is larger, you'll possibly go through (some) of these steps repeatedly as you iterate towards your common goal.
 It is very likely that, as you do this, everything will feel more and more natural - maybe you'll even wonder why you were doing anything else before.
 
-== Preparing to work
+=== Preparing to work
 
-=== Lead times
+==== Lead times
 
 One key difference is the turnaround time.
 With every first time contribution you are coming to a new (host) team.
@@ -31,7 +31,7 @@ It's better to add more slack time initially - you'll get a feeling about the tu
 Often, you will notice a reduction in turnaround time per host team after making a few successful contributions to that host team.
 This effect can be observed with Open Source as well, you can read more about it <<buildup-of-trust-through-collaboration,here>>.
 
-=== Expectation management
+==== Expectation management
 
 In your classic teams everyone had an idea of the expected lead times.
 Within an InnerSource context this might not be the case, either due to large time-zone differences (e.g. Seattle, USA with PDT vs Berlin, Germany with CEST) or you not being available full-time as with your original team, even if they are in the same physical location as you are.
@@ -41,7 +41,7 @@ Ideally, you can provide them with a rough estimate when you will likely have ti
 Doing so builds trust by reliability even over non-physical contact, longer distance or otherwise asynchronous media.
 Established trust will allow you to overcome uncertainty bumps in the collaborative road ahead of you.
 
-=== Building trust
+==== Building trust
 
 InnerSource puts huge weight on written communication - in particular when it comes to project decisions.
 Does that imply that in-person communication is forbidden?
@@ -50,7 +50,7 @@ Clearly not: while written communication shines when it comes to archiving and s
 Try to make time to meet with people behind the names. If possible, try to meet them over your favorite beverage or some food.
 When you're able to hear people speak, when you know their idiosyncrasies, remote collaboration will become easier.
 
-=== Avoiding rejection
+==== Avoiding rejection
 
 Do you have a large feature that you want to contribute?
 Excellent!
@@ -67,9 +67,9 @@ Ideally, choose the way where artifacts are public, searchable and perma-linkabl
 
 This type of high-level, early upfront agreement will save time in rework or rejection of your pull request down the road.
 
-== Creating the pull request
+=== Creating the pull request
 
-=== Communication and unblocking yourself
+==== Communication and unblocking yourself
 
 Great, you've made yourself familiar with the host team's approach and they are looking forward to receive your pull request.
 Which gotchas are there waiting for you now?
@@ -99,21 +99,21 @@ As you work, if you find missing (or out-of-date) documentation, do a favor to t
 Project teams are often happy to receive additions, updates or corrections for their existing documentation - you've just found another opportunity to contribute!
 (Or just politely provide them with a feedback on your experience, and what would have helped you.)
 
-=== Crafting the code
+==== Crafting the code
 
 We all have our preferences and opinions on code style, indentation, etc.
 The host team's project has them as well.
 Try to adapt and match those preferences even if it's not what you would normally do, and even if it is not specified in the projects' https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.md[_`CONTRIBUTING.md`_].
 If you are unsure, you can always ask politely. Nevertheless, a guest contribution for a feature or a bug fix is not the time to introduce a new way of structuring or formatting project code.
 
-== Submitting the pull request
+=== Submitting the pull request
 
 You've completed all the essential work, figured out all the quirks of the problem and the project you are contributing to, the time you've planned for the new feature to be used comes nearer, and you want to make sure your contribution gets merged in as fast and smooth as possible.
 
 Here's what you can do to make reviewing and merging as easy as possible for the the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md[_Trusted Committer_] and the host team.
 This might actually be pretty similar to what you may already be doing on your own project to get your changes accepted. If that's the case - great, this is going to come natural to you!
 
-=== Testing and automation
+==== Testing and automation
 
 The basic point here is to enable the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md[_Trusted Committer_] to validate the contribution without your presence and to ensure easy maintainability.
 Imagine you've built a feature or handling of an unsolvable quirk, or an important performance tweak, and your code is not entirely obvious (or might even look hacky / wrong at the first glance).
@@ -129,7 +129,7 @@ To achieve this do the following:
  ** If your pull request keeps breaking tests, and you can't find out why after giving it your best shot: try to highlight those tests in the pull request comment, illustrate your current understanding of the problem and ask for help on it.
 * Don't forget your own project that triggered your contribution in the first place. Create a modified build of the shared project with your changes and try it out in your own project that consumes it.
 
-=== Documentation and reviewability
+==== Documentation and reviewability
 
 You'll want to ensure that your pull request includes any documentation updates that are relevant to your changes.
 Should the documentation live in a different place, make sure you add them there and link to them in your pull request.
@@ -150,9 +150,9 @@ You can still bind them together with an issue that you are referring to.
   *** The host team's responsibility is to create an atmosphere where sharing and discussing not-totally-polished work is possible and welcome. If you can't fail safe, you can't innovate, and collaboration becomes very hard.
   *** Try to balance between asking for a review early and providing meaningful changes to review.
 
-== Additional articles
+=== Additional articles
 
 Some of these resources might be hidden behind paywalls.
 Sometimes your employer has a subscription enabling access, otherwise public university libraries often allow access for guests, too.
 
-=== https://doi.org/10.1109/MS.2013.95[Buildup of trust through collaboration]
+==== https://doi.org/10.1109/MS.2013.95[Buildup of trust through collaboration]

@@ -1,12 +1,12 @@
-= Becoming an InnerSource Contributor
+== Becoming an InnerSource Contributor
 
 InnerSource contributors operate outside of regular team boundaries, they are the links crossing organisational silos. As such, they need to be aware of a few common practices that make this work more effective.
 
-== Sharing Mindset
+=== Sharing Mindset
 
 So - you're implementing a new feature for your team's product. You need some functionality to get this feature working. Instead of jumping right into the implementation, slow down for a bit: does this functionality reflect a general issue? Is it something that other teams in your organisation face as well due to the shared business domain? Is this functionality orthogonal to the domain of your project? If any of that applies, then start looking beyond your own team: is there a shared solution that you can use or improve to fit your needs? Should there be one?
 
-== Benefits to sharing solutions
+=== Benefits to sharing solutions
 
 There is an African proverb stating that "`If you want to go fast, go alone. If you want to go far, go together.`" The same is true for software development teams:
 
@@ -26,13 +26,13 @@ This way of working requires a change in mindset for many: instead of waiting fo
 
 A good Contributor can comfortably make a call for when it makes both technical and business sense to introduce a dependency and reuse a component instead of duplicating work. They can talk to management to explain the benefits of InnerSource contributions.
 
-== Scope of InnerSource contributions
+=== Scope of InnerSource contributions
 
 So is Inner__Source__ only about __Source__Code? Of course not. If your team's business depends on an outside component, you want to make sure it's well maintained and well run. As an InnerSource Contributor, you can help the host team in multiple ways. Reporting issues you see when using the component is a valuable contribution. Creating or fixing test cases that show that the code isn't working as expected is valuable. So is improving documentation, so others spend less time using it and contributing to it. Supporting other users, helping with bug triage can be valuable contributions. Improving builds is another example of a valuable contribution.
 
 To summarize no contribution is too small to contribute. Here is one that I made
 to https://github.com/tensorflow/models/pull/4784[tensorflow/models]. A simple label change in a graph.
 
-== Summary of this article
+=== Summary of this article
 
 In this article you learned about what it takes to become a Contributor. We looked at the sharing mindset. We took a deep dive into the benefits of sharing solutions. Finally we had a look at what the scope for InnerSource contributions typically looks like.

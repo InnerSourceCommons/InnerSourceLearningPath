@@ -52,11 +52,11 @@ You can even help other teams help you create your documents and standards.
 I found, most of the time, people want to give input, especially in regards to the standards making process.
 It's also a good and sometimes safe way to get those teams started when they're first working together.
 
-== Examples
+=== Examples
 
 I have three great examples of how InnerSource processes greatly changed the path for some large projects I worked on.
 
-=== First Example - Payment
+==== First Example - Payment
 
 The first one is payments. Payments needed refactorization and modularization.
 I worked with the payments team and five other teams to design their new InnerSource processes for eight months.
@@ -65,14 +65,14 @@ We were able to take a team that was 80% interrupt driven to being able to final
 The other teams were able to get rid of years of backlogged features.
 At the end, the director told me we couldn't have understood properly what the refactorization and modularization would look like for the new payments modules without the input from those five teams during the InnerSource processes and facilitation.
 
-=== Second Example - ALM
+==== Second Example - ALM
 
 The second one is the ALM, or Application Lifecycle Management process.
 This team is responsible for orchestrating all of our tools from code creation to production.
 Not only were we able to implement 15 major features in less than a year, including containerization and database as a service, but we were also able to start refactoring the ALM to transition to platform as a service.
 This team created some amazing open standard documents after working with various teams and seeing how much velocity it generated.
 
-=== Third Example - FDI
+==== Third Example - FDI
 
 The third example is FDI, which stands for Failed Developer Interactions.
 We created a Developer Standards Committee to help develop an open standard.

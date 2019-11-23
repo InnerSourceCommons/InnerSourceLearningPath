@@ -1,14 +1,14 @@
 #Script: The Contributor in InnerSource - Mechanics of Contribution
 
-== Duration: 5-6 Minutes
+=== Duration: 5-6 Minutes
 
-== Actors: Isabel and Johannes
+=== Actors: Isabel and Johannes
 
-== Playbook Summary
+=== Playbook Summary
 
 What are the nuts and bolts of advice to follow when acting as an InnerSource Contributor?  This segment describes the hands-on things to do to make your contribution a success.  We'll give practical tips to leverage when preparing to work on a contribution, during development, and also in the pull request.
 
-== Script
+=== Script
 
 I: In the previous video we learned about the contributor ethos and the guest-in-home analogy.
 In this video you will learn more about gotchas and practical aspects around contributing code.
@@ -99,11 +99,11 @@ A good trusted committer will not look for "nod through" pull requests but will 
 
 J: Finally, remember that nobody is perfect, should be perfect and that mastery comes through a cycle of trying, failing, learning and trying again. Give it your best shot and have fun!
 
-== Draft targets
+=== Draft targets
 
-=== Preparing to work
+==== Preparing to work
 
-==== Lead times + Expectation management
+===== Lead times + Expectation management
 
 * Don't rely on purely written culture
  ** Your goal should be to see everyone or the majority on the project in person at least once to establish rapport.
@@ -113,15 +113,15 @@ J: Finally, remember that nobody is perfect, should be perfect and that mastery 
 
 \-> Example comments from our work? Timezone overlap image?
 
-==== Building trust
+===== Building trust
 
 \-> Show the graphic from the paper? ~ if possible
 
 \-> Image supporting "get to know each other"
 
-=== Creating the pull request
+==== Creating the pull request
 
-==== Communication and unblocking yourself
+===== Communication and unblocking yourself
 
 \-> Shorten this and hint to the article for detailed advice
 
@@ -129,18 +129,18 @@ J: Finally, remember that nobody is perfect, should be perfect and that mastery 
 \-> update what you found
 \-> try to unblock yourself
 
-==== Crafting the code
+===== Crafting the code
 
 \-> contrib.md + readme.md
 
-===== Avoiding rejection
+====== Avoiding rejection
 
 \-> large feature discuss in advance
 \-> examples for written over spoken
 
-=== Submitting the pull request
+==== Submitting the pull request
 
-==== Testing and automation
+===== Testing and automation
 
 \-> Highlight Testing, Pre-Submit, Docs
 \-> Remove some details, hint to the articles
@@ -153,7 +153,7 @@ J: Finally, remember that nobody is perfect, should be perfect and that mastery 
 \-> try your own stuff
 \-> no one's perfect
 
-==== Documentation and reviewability
+===== Documentation and reviewability
 
 \-> split stuff up
 \-> clear description

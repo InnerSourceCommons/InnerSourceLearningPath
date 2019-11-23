@@ -1,6 +1,6 @@
-= InnerSource Product Owner Content Outline
+== InnerSource Product Owner Content Outline
 
-== Preliminary Content
+=== Preliminary Content
 
 We've got the initial transcription of Silona's videos in this directory.
 If we want to work on conceptual outlines of everything product owner and discuss that, let's do that here.

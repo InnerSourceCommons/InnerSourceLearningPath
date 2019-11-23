@@ -1,4 +1,4 @@
-= Keeping the community healthy
+== Keeping the community healthy
 
 The introduction points out that Trusted Committers have both tech oriented and community
 oriented responsibilities. It is not sufficient to focus on code and code

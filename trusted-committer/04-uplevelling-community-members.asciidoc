@@ -1,4 +1,4 @@
-= Uplevelling community members
+== Uplevelling community members
 
 Let's talk about participation. There is a continuum of participation in an
 InnerSource community. There are people not even aware of the community,
