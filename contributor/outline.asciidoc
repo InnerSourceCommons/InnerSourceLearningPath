@@ -1,6 +1,6 @@
-= InnerSource Contributor Content Outline
+== InnerSource Contributor Content Outline
 
-== The Contributor in InnerSource
+=== The Contributor in InnerSource
 
 * Introduce the speaker.
 * Quick overview of the _Contributor_ role.
@@ -9,7 +9,7 @@
 
 Outline for this section inspired by the https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925[Trusted Committer introduction video].
 
-== Becoming an InnerSource Contributor
+=== Becoming an InnerSource Contributor
 
 * A contributing mindset starts with a sharing mindset.
  ** When you start adding new functionality to your project, ask yourself:
@@ -34,7 +34,7 @@ This should be taken from the *Benefits* segment.
   *** https://github.com/tensorflow/models/pull/4784[Here is one] that I made to `tensorflow/models`.
 A simple label change in a graph.
 
-== The Contributor Ethos
+=== The Contributor Ethos
 
 * Introduce the guest in a home analogy.
   A good guest:
@@ -76,7 +76,7 @@ They're the ones that are signing up to maintain it, after all!
 Try to collaborate on an aspect of the contribution that you all agree on,
 and look for another way to fill the rest of your needs.
 
-== Mechanics of Contributing
+=== Mechanics of Contributing
 
 * This section contains practical advice and gotchas to remember when making an InnerSource contribution.
 * Preparing to work.
@@ -104,7 +104,7 @@ A guest contribution for a feature or bug fix is not the time to introduce a new
  ** Be sure that your pull request includes just the relevant changes for the issue you're completing.
 Making pull requests too broad and large makes them more difficult to review and longer before they're accepted.
 
-== Benefits of Contribution
+=== Benefits of Contribution
 
 * Personally
  ** Puts your development time into a place where others are also working.
@@ -134,7 +134,7 @@ This typically makes the code more reusable, replaceable and secure.
  ** Improved and streamlined work environment retains more employees.
  ** Shared development cost: Especially for components that address cross cutting concerns efficient collaboration across team boundaries can help save duplicate effort and thus development cost.
 
-== Conclusion
+=== Conclusion
 
 Review what we've learned/taught together.
 

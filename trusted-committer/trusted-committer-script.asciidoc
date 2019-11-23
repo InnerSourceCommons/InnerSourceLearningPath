@@ -1,13 +1,13 @@
-= InnerSource Learning Path: Trusted Committer
+== InnerSource Learning Path: Trusted Committer
 
-== Introduction
+=== Introduction
 
 D: Welcome ...
 
 G: My name is Georg Grütter. I am an InnerSource evangelist at Robert Bosch
 in Germany and I am a Trusted Committer on a number of projects in my company.
 
-== Introducing The Trusted Committer Role
+=== Introducing The Trusted Committer Role
 
 The Trusted Committer (TC) role is one of the key roles in an InnerSource
 community. Think of TCs as the persons in a community that you trust with
@@ -81,7 +81,7 @@ information.
 
 \-> Hide slides
 
-== Why role names matter
+=== Why role names matter
 
 The role of the TC is present in every successful InnerSource community but not
 every community uses that name. That was actually true for myself in my
@@ -102,7 +102,7 @@ Now you should have a basic understanding of the role, why using the term
 trusted committer is appropriate, and understand how a trusted committer might
 interact with other common roles in a software project.
 
-== Responsibilities
+=== Responsibilities
 
 In the following segments, we'll dive into the various responsibilities that
 TCs have:
@@ -116,7 +116,7 @@ TCs have:
 In addition to this, we will also explore the path of becoming a TC in the end
 of this article.
 
-== Ensuring Product Quality
+=== Ensuring Product Quality
 
 In this segment, you will learn about the responsibility most often associated
 with the TC role: ensuring software quality. We will talk about why this is so
@@ -212,7 +212,7 @@ take responsibility for the long term health of the software.
 
 \-> Hide slides
 
-== Keeping The Community Healthy
+=== Keeping The Community Healthy
 
 In this segment, we'll talk about another key responsibility of TCs: keeping
 their community healthy. We'll explore why that is important and what TCs can
@@ -327,7 +327,7 @@ appreciative environment for their contributors that allows them to concentrate
 on writing software and to grow personally by creating opportunities to learn
 from other community members.
 
-== Uplevelling The Community
+=== Uplevelling The Community
 
 A healthy community is not just growing in size. It is also continuously
 upleveling their capability do develop software. This segment briefly explores
@@ -416,7 +416,7 @@ make contributions to ultimately level up the communities ability to create
 better software faster. They do so by communicating opportunities to make
 contributions and by helping and mentoring contributors to grow.
 
-== Reducing Barriers To Entry
+=== Reducing Barriers To Entry
 
 Similar to Open Source, receiving valuable contributions is fundamental for the
 success of any InnerSource community. This segment explores that TCs can do to
@@ -513,7 +513,7 @@ community to answer any questions they might have and that they can get up
 and running in no time. Generally speaking, TCs should make sure that the
 the onboarding experience is a great one.
 
-== Advocating The Community's Needs
+=== Advocating The Community's Needs
 
 In this segment we will learn why it is important that TCs advocate the needs +
 of their communities in their organization and share a couple of relevant
@@ -588,7 +588,7 @@ organization. They do this because they understand that the value that the
 community can provide to the organization depends on the health and longevity
 of the community and ultimately on a trustworthy relationship between both.
 
-== Becoming a Trusted Committer
+=== Becoming a Trusted Committer
 
 In this segment, you will learn what it takes to fill the TC role and what the
 path towards Trusted Committership looks like.
@@ -667,7 +667,7 @@ your side.  As a TC, you will have less time to code yourself. However, by
 acting as a force multiplier you will ultimately be able to boost your value
 contribution to the community and accelerate your own growth.
 
-== Conclusion
+=== Conclusion
 
 In the past sections, we have learned about the responsibilities of TCs;
 ensuring product quality, keeping their community healthy, reducing the barrier

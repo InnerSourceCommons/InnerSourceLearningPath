@@ -1,4 +1,4 @@
-= Becoming a Trusted Committer
+== Becoming a Trusted Committer
 
 The Trusted Committer role is a very demanding but at the same
 time very fulfilling role. If this learning path has interested you in the role of a Trusted Committer, you

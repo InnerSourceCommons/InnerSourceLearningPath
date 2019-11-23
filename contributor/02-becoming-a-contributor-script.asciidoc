@@ -1,14 +1,14 @@
 #Script: The Contributor in InnerSource - Becoming an InnerSource Contributor
 
-== Duration: 3-5 Mintes
+=== Duration: 3-5 Mintes
 
-== Actors: Isabel and Johannes
+=== Actors: Isabel and Johannes
 
-== Playbook Summary
+=== Playbook Summary
 
 How do some people seem to find opportunity to contribute to projects everywhere?  This segment describes the mindset and habits that create opportunities to become an InnerSource Contributor.
 
-== Script
+=== Script
 
 I: Welcome back to our video series on the contributor role in InnerSource. In
 this episode you are going to learn more on what it takes to become a successful

@@ -1,28 +1,28 @@
 #Script: The Contributor in InnerSource - Introduction
 
-== Duration: 1-3 Mintes
+=== Duration: 1-3 Mintes
 
-== Actors: Isabel and Johannes
+=== Actors: Isabel and Johannes
 
-== Playbook Summary
+=== Playbook Summary
 
 How do I best contribute to an InnerSource project?  This segement shares a summary of what it means to be an InnerSource Contributor.  We'll also give an overview of the upcoming training segements on being a great InnerSource Contributor.
 
-== General notes
+=== General notes
 
 J: I took quite a bit of text from the article, since I think there are nice consise parts there.
 However I do think that there's lots of opportunity to narrow it down, comparing it to the 1 minute text size that the intro of the intro video had.
 Thus, this is a work draft to have something to start with and discuss.
 
-== Script
+=== Script
 
-=== Intro
+==== Intro
 
 I:
 
 J: My name is Johannes Tigges. I am a Principal Engineer at 7Learnings, worked on introducing InnerSource to HERE Technologies and have acted as Contributor and Trusted Commiter in a number of projects within companies and the OpenSource domain.
 
-=== Overview
+==== Overview
 
 [EDITOR NOTE J: I think the article text is nice here - shortening some of it though given the 1-3 minutes timeframe.]
 
@@ -34,7 +34,7 @@ I: With projects that incorporate InnerSource principles, you'll never be blocke
 J: The Contributor role describes a person that makes contributions to the repos of an InnerSource community project.
 This person may or may not be part or see themselves as part of the community although this often changes with continuing involvement with the community.
 
-=== Relationship to other roles
+==== Relationship to other roles
 
 \-> Possibly slide with the other two role names?
 
@@ -56,7 +56,7 @@ J: We would like to encourage you to watch the video introducing the Trusted Com
 
 \-> Possibly hinting to some links popping up with the video links ~ YouTube style or just a short link overlay?
 
-=== Section overview
+==== Section overview
 
 \-> Possbly slide with the segment names, popping up one after another?
 
@@ -77,6 +77,6 @@ J: After we've dealt with the personal, the interaction-focused, and the technic
 
 I: The last segment will recap what we've learned about being an InnerSource contributor.  We'll share how you can continue your learning on InnerSource both with other online videos and involvement with the online InnerSource community.
 
-=== Wish people an enjoyable time
+==== Wish people an enjoyable time
 
 J: We wish you an enjoyable time watching the following videos and hope you can take away new insights that are valuable to you.

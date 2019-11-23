@@ -1,4 +1,4 @@
-= Introduction
+== Introduction
 
 This Learning Path gives an introduction to InnerSource.
 InnerSource is the application of open source practices and principles to software development within the enterprise.

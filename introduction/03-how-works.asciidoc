@@ -1,4 +1,4 @@
-= How does InnerSource work?
+== How does InnerSource work?
 
 Let's say that team A uses software produced by team B.
 Team A submits a feature request to team B, but team B isn't able to implement that feature in time for team A.
@@ -41,6 +41,6 @@ It works for the host team because they are able to better scale and serve their
 It works for the company at-large because solutions to shared problems end up in shared, centrally-maintained locations where anyone can use them.
 More engineering time stays focused on producing code that solves company problems rather than the mechanics of the feature negotiation and escalation process.
 
-== Additional Resources
+=== Additional Resources
 
 * The https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.md[Trusted Committer] pattern.
