@@ -51,7 +51,7 @@ jobs:
         git fetch oreilly-intro
         git checkout -b oreilly-intro-master oreilly-intro/master
         git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master 
-        git push oreilly-intro oreilly-master:master
+        git push oreilly-intro oreilly-intro-master:master
         # Trusted Committer
         git fetch oreilly-trusted-committer
         git checkout -b oreilly-tc-master oreilly-trusted-committer/master
