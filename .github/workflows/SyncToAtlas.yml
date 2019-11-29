@@ -20,7 +20,11 @@ jobs:
         ref: master 
     - name: Add O'Reilly remotes
       run: |
-        git remote add oreilly git@git.atlas.oreilly.com:lenucksi/learningpath-introduction.git
+        git remote add oreilly-intro git@git.atlas.oreilly.com:lenucksi/learningpath-introduction.git
+        git remote add oreilly-trusted-committer git@git.atlas.oreilly.com:lenucksi/learningpath-trusted-committer.git
+        git remote add oreilly-contributor git@git.atlas.oreilly.com:lenucksi/learningpath-contributor.git
+        git remote add oreilly-product-owner git@git.atlas.oreilly.com:lenucksi/learningpath-product-owner.git
+        git remote add oreilly-workbook git@git.atlas.oreilly.com:lenucksi/learningpath-workbook.git
     - uses: fregante/setup-git-token@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
@@ -45,10 +49,19 @@ jobs:
         git fetch oreilly
         git checkout -b oreilly-master oreilly/master
         git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master 
-        git push oreilly oreilly-master:master
+        # We use 5 Atlas repos, push our newly merged master to all of them
+        git push oreilly-intro oreilly-master:master
+        git push oreilly-trusted-committer oreilly-master:master
+        git push oreilly-contributor oreilly-master:master
+        git push oreilly-product-owner oreilly-master:master
+        git push oreilly-workbook oreilly-master:master
     - name: Trigger build on Atlas
       run: |
         gem install atlas-api
         atlas build $OREILLYAPISECRET lenucksi/learningpath-introduction pdf,epub master
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-trusted-committer pdf,epub master
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-contributor pdf,epub master
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-product-owner pdf,epub master
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-workbook pdf,epub master
       env:
         OREILLYAPISECRET: ${{ secrets.OREILLYAPISECRET }}
