@@ -46,15 +46,32 @@ jobs:
         # Merge our master-branch into the O'Reilly master.
         # Push our new merged master into the O'Reilly master.
         # Party!
-        git fetch oreilly
-        git checkout -b oreilly-master oreilly/master
+        # We use 5 repos with nearly identical content, however different master. Sync them individually
+        # Intro
+        git fetch oreilly-intro
+        git checkout -b oreilly-intro-master oreilly-intro/master
         git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master 
-        # We use 5 Atlas repos, push our newly merged master to all of them
         git push oreilly-intro oreilly-master:master
-        git push oreilly-trusted-committer oreilly-master:master
-        git push oreilly-contributor oreilly-master:master
-        git push oreilly-product-owner oreilly-master:master
-        git push oreilly-workbook oreilly-master:master
+        # Trusted Committer
+        git fetch oreilly-trusted-committer
+        git checkout -b oreilly-tc-master oreilly-trusted-committer/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-trusted-committer oreilly-tc-master:master
+        # Contributor
+        git fetch oreilly-contributor
+        git checkout -b oreilly-contributor-master oreilly-contributor/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-contributor oreilly-contributor-master:master
+        # Product Owner
+        git fetch oreilly-product-owner
+        git checkout -b oreilly-po-master oreilly-product-owner/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-product-owner oreilly-po-master:master
+        # Workbook
+        git fetch oreilly-workbook
+        git checkout -b oreilly-workbook-master oreilly-workbook/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-workbook oreilly-workbook-master:master
     - name: Trigger build on Atlas
       run: |
         gem install atlas-api
