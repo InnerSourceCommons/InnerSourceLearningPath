@@ -83,7 +83,7 @@ support with fixing bugs after the time on contribution.
 When you are visiting your neighbors, they will likely help you around in their
 apartment: they'll show you the way to their living room and where the restroom 
 is located. If you're staying longer, they will probably
-give you more details: in my case an example would be to try not to turn on
+give you more details: in my case an example would be to avoid turning on
 the dishwasher and the electric kettle at the same time to avoid blowing the
 fuse.
 
