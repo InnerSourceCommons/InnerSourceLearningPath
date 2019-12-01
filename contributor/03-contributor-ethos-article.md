@@ -23,7 +23,7 @@ code repository.
 
 Instead, after making your changes to the codebase you'll
 submit them as a pull request. Much like you wouldn't go about making large
-changes and what you consider improvments to your neighbors home, in InnerSource
+changes and what you consider improvements to your neighbors home, in InnerSource
 you will anticipate and follow the project's collaboration guidelines. In
 turn, your hosts will show you the way - in InnerSource that translates to
 existing trusted committers spending their time to mentor guests.
