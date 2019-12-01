@@ -54,7 +54,7 @@ to trace why a certain decision was made.
 
 Here's my general rule of thumb: feel free to meet over coffee. Often that helps 
 build a stronger team, especially when the team is split into multiple physical locations. Do make sure though that all decisions are made in a
-transparent and asynchronous way so that everyone - including those lurking in
+transparent and asynchronous way so that everyone - including those [lurking](https://en.wikipedia.org/wiki/Lurker) in
 on your conversation - can jump in and become active contributors. One example
 of just how far one can take open decision making is explained in several
 exercises in the [Open Organization
