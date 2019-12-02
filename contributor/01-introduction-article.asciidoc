@@ -16,7 +16,7 @@ Finally, some of them may become https://github.com/InnerSourceCommons/InnerSour
 
 === Relationship to other roles
 
-As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] or https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md[_Product Owner_] and possibly with other contributors.
+As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] or https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_] and possibly with other contributors.
 At times, these roles can be played by the same person, such as Trusted Committer and Product Owner in small grassroots style projects.
 
 This section gives you a very short overview of the other two roles, but we'd like to encourage you to read the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[introductory article of the Trusted Committer role], and we recommended you read the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.md[Lowering the barriers to entry] article, too, before you delve deeper into the details of the Contributor role in this section.
