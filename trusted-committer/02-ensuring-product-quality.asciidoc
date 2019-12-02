@@ -45,7 +45,7 @@ and the speed at which it will move forward.
 Coming back to the project scope: sometimes requirements or limitations for
 the software being developed are not elicited up front but rather discovered
 during development. Trusted Committers are also responsible for making sure these findings are
-captured and documented for both the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owners_] and the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_Contributors_].
+captured and documented for both the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owners_] and the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_].
 
 The Trusted Committers purview with respect to quality goes beyond pull requests, though. Trusted Committers think
 about quality on a strategic level and ensure the longevity of the software
