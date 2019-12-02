@@ -3,7 +3,7 @@
 In this learning path, we've given an introduction to InnerSource.
 InnerSource applies open source best practices and principles to internal software development.
 It gives an additional option to consumers when producing teams are not able to deliver a needed feature request.
-Successful InnerSource involves a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.md[_product owner_] and https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md[_trusted committer_] from the *host team* as well as a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_contributor_] from the *guest team*.
+Successful InnerSource involves a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_product owner_] and https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md[_trusted committer_] from the *host team* as well as a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_contributor_] from the *guest team*.
 Done effectively, InnerSource brings many benefits to both participating teams.
 They key principles upon-which effective InnerSource works are *voluntary code contribution* and *prioritized mentorship*.
 

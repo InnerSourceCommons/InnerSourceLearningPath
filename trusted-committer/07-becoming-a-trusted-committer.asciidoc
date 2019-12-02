@@ -16,11 +16,11 @@ The process of officially becoming a Trusted Committer differs from community to
 depends on where you are in your InnerSource journey and might evolve over
 time. In grass-roots type communities, the founders often automatically assume
 the role of the Trusted Committer as well. As a community grows, the community or the
-existing Trusted Committers might nominate a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_contributor_] to become Trusted Committer, which might or might
+existing Trusted Committers might nominate a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributor_] to become Trusted Committer, which might or might
 not be subject to a community vote. Ideally, nominated contributors should take
 on the Trusted Committer role voluntarily, as that indicates a high level of commitment.
 
-What are the criteria to apply in nominating https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_contributors_] for a Trusted Committer role? What
+What are the criteria to apply in nominating https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] for a Trusted Committer role? What
 does it take to successfully fill the role of a Trusted Committer? First off, potential Trusted Committers
 need to have demonstrated a deep, technical competence during their work in the
 community. In addition to that, they must have proven their ability to
@@ -34,7 +34,7 @@ able to deal with stressful social situations, which are bound to come up from
 time to time. Contributors who satisfy these criteria will be good potential
 Trusted Committers, in our opinion.
 
-For some https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_contributors_], the Trusted Committer role might not appear all that attractive as it
+For some https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_], the Trusted Committer role might not appear all that attractive as it
 means spending less time on coding. Being nominated as a Trusted Committer might even be
 perceived by some as a demotion or a negative comment on their coding skills.
 The opposite is true. Being nominated as a Trusted Committer is most often a sign that someone

@@ -16,4 +16,4 @@ You can also get a copy of the booklet I wrote with O'Reilly there at http://inn
 
 Please watch the other videos first.
 See the links below.
-It helps to be familiar with the Agile or Lean processes, and it's really important that you understand the roles of the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.md[_Trusted Committers_] and the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_Contributors_] before watching this video. Thank you.
+It helps to be familiar with the Agile or Lean processes, and it's really important that you understand the roles of the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committers_] and the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.md[_Contributors_] before watching this video. Thank you.

@@ -83,7 +83,7 @@ Even if you might not agree with their code style decisions or other things 100%
 
 I: Should you find that the CONTRIBUTING.md file does not answer your question definitely reach out to the host project as mentioned above.
 
-\-> show link to innersourcecommons for link to contributing.md template?
+\-> show link to innersourcecommons for link to contributing.asciidoc template?
 
 J: Many projects will provide scripts to check for compliance with their coding standards, passing tests, etc. before committing things - if your host project provides them, definitely use them. They will save you and the Trusted Committers time.
 
@@ -131,7 +131,7 @@ J: Finally, remember that nobody is perfect, should be perfect and that mastery 
 
 ===== Crafting the code
 
-\-> contrib.md + readme.md
+\-> contrib.asciidoc + readme.md
 
 ====== Avoiding rejection
 

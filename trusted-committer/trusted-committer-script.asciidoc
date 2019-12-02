@@ -440,14 +440,14 @@ are a number of things TCs can do in this department.
 
 \-> Show barriers-2.png
 
-* Have a good readme.md in each code repository. A good readme.md explains
+* Have a good readme.asciidoc in each code repository. A good readme.md explains
 what's in the repository and what it can be used for. In addition, it should
 provide detailed instructions on how to get, build, test and use the SW in
 the repository, including information about the license.
 
 \-> Show barriers-3.png
 
-* Have a good contributing.md which outlines what is expected of the
+* Have a good contributing.asciidoc which outlines what is expected of the
 contributor with respect to making a contribution. It should answer common
 questions, such as:
  ** How do I submit a bug report or feature request?
