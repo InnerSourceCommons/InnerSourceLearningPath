@@ -46,7 +46,7 @@ jobs:
         # Merge our master-branch into the O'Reilly master.
         # Push our new merged master into the O'Reilly master.
         # Party!
-        # We use 5 repos with nearly identical content, however different master. Sync them individually
+        # We use 5 repos with nearly identical content, however different Atlas master. Sync them individually.
         # Intro
         git fetch oreilly-intro
         git checkout -b oreilly-intro-master oreilly-intro/master
@@ -75,10 +75,15 @@ jobs:
     - name: Trigger build on Atlas
       run: |
         gem install atlas-api
+        echo "============ INTRODUCTION ============"
         atlas build $OREILLYAPISECRET lenucksi/learningpath-introduction pdf,epub master
+        echo "============ TRUSTED COMMITTER ============"
         atlas build $OREILLYAPISECRET lenucksi/learningpath-trusted-committer pdf,epub master
+        echo "============ CONTRIBUTOR ============"
         atlas build $OREILLYAPISECRET lenucksi/learningpath-contributor pdf,epub master
+        echo "============ PRODUCT OWNER ============"
         atlas build $OREILLYAPISECRET lenucksi/learningpath-product-owner pdf,epub master
+        echo "============ WORKBOOK ============"
         atlas build $OREILLYAPISECRET lenucksi/learningpath-workbook pdf,epub master
       env:
         OREILLYAPISECRET: ${{ secrets.OREILLYAPISECRET }}
