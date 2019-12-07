@@ -19,7 +19,7 @@ It is very likely that, as you do this, everything will feel more and more natur
 
 One key difference is the turnaround time.
 With every first time contribution you are coming to a new (host) team.
-As a result, you'll need to get to know their code base and the technology used, but also their preferred development environment (think test framework, build system).
+As a result, you'll need to get to know their code base and the technology used, and also their preferred development environment (think test framework, build system).
 Even in cases where this type of tooling is standardized, each team will have developed some individual peculiarities.
 In addition to the technical side, you may be faced with differences in communication (think code reviews).
 Even if you are coming back after a while, the teams' ways and members might have changed.
@@ -58,7 +58,7 @@ Wouldn't it be horrible if all your work would be wasted?
 That can happen when the host team is already building something very similar, is planning to deprecate the software, or does not see what you are proposing to be a fit for their project.
 This challenge is a frequent one, and many team relationships suffered from not agreeing in advance that a contribution is a good fit.
 
-Make yourself and the host team happy (and possibly even save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
+Make yourself and the host team happy (and possibly save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
 You'll have to understand how the host team would like you to reach out for this.
 It's best to ask a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] about how to best discuss your proposal.
 
