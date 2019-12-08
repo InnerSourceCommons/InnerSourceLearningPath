@@ -19,7 +19,7 @@ It is very likely that, as you do this, everything will feel more and more natur
 
 One key difference is the turnaround time.
 With every first time contribution you are coming to a new (host) team.
-As a result, you'll need to get to know their code base and the technology used, but also their preferred development environment (think test framework, build system).
+As a result, you'll need to get to know their code base and the technology used, and also their preferred development environment (think test framework, build system).
 Even in cases where this type of tooling is standardized, each team will have developed some individual peculiarities.
 In addition to the technical side, you may be faced with differences in communication (think code reviews).
 Even if you are coming back after a while, the teams' ways and members might have changed.
@@ -58,7 +58,7 @@ Wouldn't it be horrible if all your work would be wasted?
 That can happen when the host team is already building something very similar, is planning to deprecate the software, or does not see what you are proposing to be a fit for their project.
 This challenge is a frequent one, and many team relationships suffered from not agreeing in advance that a contribution is a good fit.
 
-Make yourself and the host team happy (and possibly even save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
+Make yourself and the host team happy (and possibly save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
 You'll have to understand how the host team would like you to reach out for this.
 It's best to ask a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] about how to best discuss your proposal.
 
@@ -71,10 +71,10 @@ This type of high-level, early upfront agreement will save time in rework or rej
 
 ==== Communication and unblocking yourself
 
-Great, you've made yourself familiar with the host team's approach and they are looking forward to receive your pull request.
+Great, you've made yourself familiar with the host team's approach, and they are looking forward to receive your pull request.
 Which gotchas are there waiting for you now?
 
-First, you'll be in less direct contact with them and second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
+First, you'll be in less direct contact with them, and second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
 How can you now deal with this the best?
 
 Try to peruse their documentation, the conversation archives and code artifacts from the host team to unblock yourself.
@@ -84,7 +84,7 @@ Much like in Open Source projects, ask the host team if things are going nowhere
 The questions you ask and the answers you receive will help others coming after you solve the same issues.
 Make sure that your communication ends up in a searchable archive that is closely linked to the project itself.
 Should you see easy improvement opportunities to reach said goal if it is not reached yet, you could try to - very politely - suggest an improvement to your host team.
-Sometimes the status quo arises from pure happenstance and stays that way because no-one had a different idea or cared enough.
+Sometimes the status quo arises from pure happenstance and stays that way because no one had a different idea or cared enough.
 Suggestions for improvement might be welcome in such cases.
 It doesn't do either side any good for you to spin forever on a problem that could be resolved in a few-minute conversation with someone more knowledgeable about the project.
 It's OK to ask for help.
@@ -118,34 +118,34 @@ This might actually be pretty similar to what you may already be doing on your o
 The basic point here is to enable the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] to validate the contribution without your presence and to ensure easy maintainability.
 Imagine you've built a feature or handling of an unsolvable quirk, or an important performance tweak, and your code is not entirely obvious (or might even look hacky / wrong at the first glance).
 If you have covered this with a test - and ideally have shed some words on the rationale behind it in a comment - a future editor will get reminded about the purpose of the code, and the test(s) will ensure that the value your code realizes will be kept, even in the new implementations.
-To achieve this do the following:
+To achieve this, do the following:
 
 * Add tests for your code contribution, so that validating the function of your contribution by others works well, even after some time, when you work in other projects or might have stopped contributing to this project.
  ** Often projects will have automated checks against pull requests using those tests and the level of code coverage. Try to meet the criteria these tests enforce.
 * Many projects will provide project build and validation scripts that enable you to locally test your changes.
  ** Use those to ensure that your contribution works as well as possible before opening a pull request.
  ** Having to review defective pull requests with easy-to-fix errors often bugs trusted committers. They will not fix your code but ask you to do so. This might create more round-trips and slow the merge.
- ** No one is perfect though. Try your best, use prepared validation scripts if there are any, and give it your best shot with a pull request!
+ ** No one is perfect though. Do your best, use prepared validation scripts if there are any, and give it your best shot with a pull request!
  ** If your pull request keeps breaking tests, and you can't find out why after giving it your best shot: try to highlight those tests in the pull request comment, illustrate your current understanding of the problem and ask for help on it.
 * Don't forget your own project that triggered your contribution in the first place. Create a modified build of the shared project with your changes and try it out in your own project that consumes it.
 
 ==== Documentation and reviewability
 
-You'll want to ensure that your pull request includes any documentation updates that are relevant to your changes.
+You want to ensure that your pull request includes any documentation updates that are relevant to your changes.
 Should the documentation live in a different place, make sure you add them there and link to them in your pull request.
 
 To make the actual code review as easy as possible for the trusted committer or other persons reviewing it, try to follow these hints:
 
-* Be sure that your pull request includes just the relevant changes for the issue you're completing.
+* Be sure that your pull request includes only the relevant changes for the issue you're completing.
 * Try to avoid super-large commits, commits with unclear commit messages, gazillions of files, incoherent changes (e.g. touching multiple topics).
 * Provide a clear description of what this pull request changes, why it does so, and which issue and design documents (if there were any) it refers to.
 * If there is anything uncommon or unexpected in the pull request, highlight it and provide the explanation. This will make it easier to reason about and solve potential blocking questions that a reviewer might have during the review.
- ** The same goes for scenario where you were unsure of the implementation or your approach - highlight it and ask for an insight.
+ ** The same goes for the scenario where you were unsure of the implementation or your approach - highlight it and ask for an insight.
  ** Be civil and expect civility from the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer's_] review.
 * Making pull requests too broad and large makes them more difficult to review, so it will take much longer before they're accepted.
- ** If you have a larger feature that you are contributing, it often helps to split it in multiple pull requests that get submitted, reviewed and accepted sequentially.
+ ** If you have a larger feature that you are contributing, it often helps to split it in multiple pull requests that are submitted, reviewed and accepted sequentially.
 You can still bind them together with an issue that you are referring to.
-  *** Some tools also have Draft / WIP pull request functionality that you can use to explicitly mark unfinished and non-polished work and still get early feedback from your host team's https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committers_].
+  *** Some tools also have Draft / WIP pull request functionality that you can use to explicitly mark unfinished and non-polished work and still get early feedback from your host team's https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/02-ensuring-product-quality.asciidoc[_Trusted Committers_].
   *** This allows you to ensure that you are going down a path that your host team is happy to merge once it's done, adhering to the "release early, release often" idea in a way.
   *** The host team's responsibility is to create an atmosphere where sharing and discussing not-totally-polished work is possible and welcome. If you can't fail safe, you can't innovate, and collaboration becomes very hard.
   *** Try to balance between asking for a review early and providing meaningful changes to review.
