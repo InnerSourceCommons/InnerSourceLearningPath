@@ -71,10 +71,10 @@ This type of high-level, early upfront agreement will save time in rework or rej
 
 ==== Communication and unblocking yourself
 
-Great, you've made yourself familiar with the host team's approach and they are looking forward to receive your pull request.
+Great, you've made yourself familiar with the host team's approach, and they are looking forward to receive your pull request.
 Which gotchas are there waiting for you now?
 
-First, you'll be in less direct contact with them and second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
+First, you'll be in less direct contact with them, and second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
 How can you now deal with this the best?
 
 Try to peruse their documentation, the conversation archives and code artifacts from the host team to unblock yourself.
@@ -84,7 +84,7 @@ Much like in Open Source projects, ask the host team if things are going nowhere
 The questions you ask and the answers you receive will help others coming after you solve the same issues.
 Make sure that your communication ends up in a searchable archive that is closely linked to the project itself.
 Should you see easy improvement opportunities to reach said goal if it is not reached yet, you could try to - very politely - suggest an improvement to your host team.
-Sometimes the status quo arises from pure happenstance and stays that way because no-one had a different idea or cared enough.
+Sometimes the status quo arises from pure happenstance and stays that way because no one had a different idea or cared enough.
 Suggestions for improvement might be welcome in such cases.
 It doesn't do either side any good for you to spin forever on a problem that could be resolved in a few-minute conversation with someone more knowledgeable about the project.
 It's OK to ask for help.
