@@ -1,6 +1,6 @@
 == Conclusion
 
-Thanks for reviewing the Contributor segment of the InnerSource Commons Learning Path. With this section you've learned about the Contributor role - the life blood of InnerSource projects: external to the component owners' team, they bring additional valuable input to the project.
+Thanks for reviewing the Contributor segment of the InnerSource Commons Learning Path. With this section you've learned about the Contributor role - the life blood of InnerSource projects.  Contributors are external to the component owners' team, and they bring additional valuable input to the project.
 
 In this section you've learned about how to become a contributor by finding opportunities to contribute, and the mindset and habits needed to find or create such opportunities.
 We've also discussed the ethos of the role and a suggested approach that is likely to lead to successful contributions.
