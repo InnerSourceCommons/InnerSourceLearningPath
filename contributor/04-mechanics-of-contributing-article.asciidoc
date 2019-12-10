@@ -74,7 +74,7 @@ This type of high-level, early upfront agreement will save time in rework or rej
 Great, you've made yourself familiar with the host team's approach, and they are looking forward to receive your pull request.
 Which gotchas are there waiting for you now?
 
-First, you'll be in less direct contact with them, and second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
+First, you'll be in less direct contact with them.  Second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
 How can you now deal with this the best?
 
 Try to peruse their documentation, the conversation archives and code artifacts from the host team to unblock yourself.
