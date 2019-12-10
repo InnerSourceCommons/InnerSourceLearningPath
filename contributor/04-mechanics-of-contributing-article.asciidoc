@@ -19,7 +19,7 @@ It is very likely that, as you do this, everything will feel more and more natur
 
 One key difference is the turnaround time.
 With every first time contribution you are coming to a new (host) team.
-As a result, you'll need to get to know their code base and the technology used, and also their preferred development environment (think test framework, build system).
+As a result, you'll need to get to know their code base, technologies used, and also their preferred development environment (think test framework, build system).
 Even in cases where this type of tooling is standardized, each team will have developed some individual peculiarities.
 In addition to the technical side, you may be faced with differences in communication (think code reviews).
 Even if you are coming back after a while, the teams' ways and members might have changed.
