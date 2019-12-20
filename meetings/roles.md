@@ -103,7 +103,6 @@ This time should be scheduled as close as possible after the end of the meeting.
 * [ ] Watch closely what is being typed to ensure that all key points and assignments make it in.
 Make note to yourself of any missed information.
 
-
 **Within 24 Hours of Meeting**
 
 * [ ] Clean up everyone's notes **Notes** of the notes. Use the raw notes section plus your own notes to provide a cohesive set of key points and assignments of the meeting. Do not alter or remove the raw notes. 
