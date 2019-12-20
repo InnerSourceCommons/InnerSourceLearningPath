@@ -1,0 +1,19 @@
+== Conclusion
+
+Thanks for reviewing the Contributor segment of the InnerSource Commons Learning Path. With this section you've learned about the Contributor role - the life blood of InnerSource projects.  Contributors are external to the component owners' team, and they bring additional valuable input to the project.
+
+In this section you've learned about how to become a contributor by finding opportunities to contribute. 
+We have reviewed the mindset and habits needed to find or create such opportunities.
+We've also discussed the ethos of the role and a suggested approach that is likely to lead to successful contributions.
+
+Given the right mindset, habits and ethos, there are still a few details that might keep you from successfully contributing - hence, we've discussed these nuts and bolts in greater detail.
+
+Last but not least, convincing your teammates and your organization at various levels can be hard, thus we've discussed the benefits of contribution from various perspectives to make this process easier for you.
+
+We hope you've enjoyed watching the videos, and/or and reading the articles, and will be able to take away some interesting new insights for your journey towards InnerSource and being a good contributor.
+
+If you haven't done so already, we would like to invite you to learn more about the other aspects of InnerSource in our InnerSource learning path: http://innersourcecommons.org/learningpath/
+
+We invite you to check out the InnerSource group http://innersourcecommons.org[InnerSource Commons] online - feel free to join the discussion and share your experiences and lessons learnt in your organization.
+
+Live long and have prosperous projects!

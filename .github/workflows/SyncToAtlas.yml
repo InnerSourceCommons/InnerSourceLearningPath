@@ -1,0 +1,89 @@
+name: Sync Master to Atlas Repos
+
+on: 
+  push:
+    branches:
+    - master
+
+jobs:
+  atlas:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Setup Ruby for Atlas Gem
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.x' 
+    - uses: actions/checkout@master
+      with:
+        ref: master 
+    - name: Add O'Reilly remotes
+      run: |
+        git remote add oreilly-intro git@git.atlas.oreilly.com:lenucksi/learningpath-introduction.git
+        git remote add oreilly-trusted-committer git@git.atlas.oreilly.com:lenucksi/learningpath-trusted-committer.git
+        git remote add oreilly-contributor git@git.atlas.oreilly.com:lenucksi/learningpath-contributor.git
+        git remote add oreilly-product-owner git@git.atlas.oreilly.com:lenucksi/learningpath-product-owner.git
+        git remote add oreilly-workbook git@git.atlas.oreilly.com:lenucksi/learningpath-workbook.git
+    - uses: fregante/setup-git-token@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: enable SSH-Key
+      env: 
+        OREILLYKEY: ${{ secrets.OREILLYKEY }}
+      run: |
+        mkdir -p $HOME/.ssh
+        echo -e "$OREILLYKEY" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        eval `ssh-agent -s`
+        ssh-add ~/.ssh/id_rsa
+        ssh-keyscan git.atlas.oreilly.com >> ~/.ssh/known_hosts
+    - name: push master to oreilly repo
+      run: |
+        # What will happen here?
+        # We've got the repo local and need to merge two histories.
+        # O'Reilly master has extra content, not conflicting with ours though. Fetch it and check it out
+        # Merge our master-branch into the O'Reilly master.
+        # Push our new merged master into the O'Reilly master.
+        # Party!
+        # We use 5 repos with nearly identical content, however different Atlas master. Sync them individually.
+        # Intro
+        git fetch oreilly-intro
+        git checkout -b oreilly-intro-master oreilly-intro/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master 
+        git push oreilly-intro oreilly-intro-master:master
+        # Trusted Committer
+        git fetch oreilly-trusted-committer
+        git checkout -b oreilly-tc-master oreilly-trusted-committer/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-trusted-committer oreilly-tc-master:master
+        # Contributor
+        git fetch oreilly-contributor
+        git checkout -b oreilly-contributor-master oreilly-contributor/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-contributor oreilly-contributor-master:master
+        # Product Owner
+        git fetch oreilly-product-owner
+        git checkout -b oreilly-po-master oreilly-product-owner/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-product-owner oreilly-po-master:master
+        # Workbook
+        git fetch oreilly-workbook
+        git checkout -b oreilly-workbook-master oreilly-workbook/master
+        git merge -m "Merge GitHub content to Atlas" -v --commit --log origin/master
+        git push oreilly-workbook oreilly-workbook-master:master
+    - name: Trigger build on Atlas
+      run: |
+        gem install atlas-api
+        echo "============ INTRODUCTION ============"
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-introduction pdf,epub master
+        echo "============ TRUSTED COMMITTER ============"
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-trusted-committer pdf,epub master
+        echo "============ CONTRIBUTOR ============"
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-contributor pdf,epub master
+        echo "============ PRODUCT OWNER ============"
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-product-owner pdf,epub master
+        echo "============ WORKBOOK ============"
+        atlas build $OREILLYAPISECRET lenucksi/learningpath-workbook pdf,epub master
+      env:
+        OREILLYAPISECRET: ${{ secrets.OREILLYAPISECRET }}
