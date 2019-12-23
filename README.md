@@ -34,7 +34,7 @@ We can divide up the work and collaborate on each section via folks from the com
 | Speaker                   | 20 hr            | Gives the spoken video for each segment in the section.               |
 | Speaker Reviewer          | 2 hr             |                                                                        |
 | Post-Production           | 10 hr            | Responsible for post-production effects and editing for spoken videos. |
-| Post-Production Reviewer  | 1 hr             |                                                                        |
+| Post-Production Reviewer  | 1 hr             | Review raw video recordings.  Comments should focus on adding or editing spoken audio, slides, or banner text. |
 
 This list is not an exhaustive a description of all currently open or possible tasks. There are many additional ways to help the learning path effort (please see *How to Get Involved* section...)
 
