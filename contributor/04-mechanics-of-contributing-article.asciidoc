@@ -19,7 +19,7 @@ It is very likely that, as you do this, everything will feel more and more natur
 
 One key difference is the turnaround time.
 With every first time contribution you are coming to a new (host) team.
-As a result, you'll need to get to know their code base and the technology used, and also their preferred development environment (think test framework, build system).
+As a result, you'll need to get to know their code base, technologies used, and also their preferred development environment (think test framework, build system).
 Even in cases where this type of tooling is standardized, each team will have developed some individual peculiarities.
 In addition to the technical side, you may be faced with differences in communication (think code reviews).
 Even if you are coming back after a while, the teams' ways and members might have changed.
@@ -74,7 +74,7 @@ This type of high-level, early upfront agreement will save time in rework or rej
 Great, you've made yourself familiar with the host team's approach, and they are looking forward to receive your pull request.
 Which gotchas are there waiting for you now?
 
-First, you'll be in less direct contact with them, and second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
+First, you'll be in less direct contact with them.  Second, you aren't expected to be as knowledgeable and proficient as you might be on the full-time projects that your team owns.
 How can you now deal with this the best?
 
 Try to peruse their documentation, the conversation archives and code artifacts from the host team to unblock yourself.
