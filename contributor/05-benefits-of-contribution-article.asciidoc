@@ -41,7 +41,7 @@ challenges.
 A nice side effect of being able to spend some of your time in other teams is
 that your reputation and impact expand the boundaries of your own team. So in
 addition to learning from others and growing yourself, you get to influence
-projects.  You influence directly via your own contributions and by
+projects. You influence directly via your own contributions and by
 sharing your experience and knowledge on project tooling and setup. This sharing might
 help the upstream project improve and accelerate development cycles.
 
