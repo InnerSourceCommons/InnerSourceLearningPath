@@ -25,7 +25,7 @@ daily work to reduce the number of workarounds in their own codebase.
 
 When deciding whether to create and contribute a fix instead of maintaining your
 own workaround, think about the benefit that the contribution will bring to
-the quality of your own changes. Instead of working in isolation, those in the upstream
+the quality of your own changes. Instead of working in isolation, those working on the upstream
 project will be able to not only review but also improve your solution. You get
 support and mentoring which greatly speeds up your own development effort.
 
