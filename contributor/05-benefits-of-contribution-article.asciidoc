@@ -92,7 +92,7 @@ projects transparent, but also provides tools to improve that situation by
 putting focus on mentoring and expanding the contributor base.
 
 While cross team collaboration makes assessing individual contributions hard,
-it also enables learning and knowledge sharing withing the organisation. As a
+it also enables learning and knowledge sharing within the organisation. As a
 result, the impact of individuals will improve. Best practices and positive
 innovation will spread more easily across the entire organisation. As a side
 effect, improvements to the work environment will more easily spread across the
