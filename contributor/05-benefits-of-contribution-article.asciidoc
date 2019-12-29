@@ -51,7 +51,7 @@ projects alike: people participate because they find work on those projects
 personally fulfilling and fun. Most likely, the aspect of being in a position
 to truly self select tasks to work on does play an important role.
 This self selection typically also leads to host projects being very welcoming
-and supportive in their effort to attract motivated contributors.
+and supportive in their effort to keep contributors motivated.
 
 === Team level motivation
 
