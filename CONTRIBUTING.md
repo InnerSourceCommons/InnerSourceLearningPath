@@ -24,3 +24,23 @@ If the issue applies to the Learning Path in-general but not to any specific sec
 [suggestion feature]: https://help.github.com/articles/commenting-on-a-pull-request/#adding-line-comments-to-a-pull-request
 [incorporate suggestions]: https://help.github.com/articles/incorporating-feedback-in-your-pull-request/
 [project board]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/projects/1
+
+# Review
+
+When reviewing a video:
+
+* Each video should teach all of the information needed to answer the corresponding workbook questions.
+* The information in the video should also be harmonious with the corresponding written article,
+although the article may provide additional detail not covered in the video.
+* The purpose of video review is to ensure that:
+  * the video relates correctly to its corresponding workbook/article.
+  * the speaker and message are clear and easy to understand.
+* Any comments for video changes should be made directly in the _Screenlight_ tool.
+If review of the video prompts an idea for change in the corresponding workbook/article,
+then those comments/suggestions should be made against the source text _GitHub_.
+* Video comments should focus on non-visual adjustments to make, including:
+  * Re-recording portions of the audio.
+  * Adding or editing slides.
+  * Addition of superimposed banner text.
+* Adjustments to respond to comments will be released as a new video in the same folder.
+The new video will have a version number in the title.
