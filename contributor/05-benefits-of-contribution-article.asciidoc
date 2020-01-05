@@ -55,7 +55,7 @@ and supportive in their effort to keep contributors motivated.
 
 === Team level motivation
 
-Remember that annoying bug that's been suddenly fixed upstream? Why should your
+Remember that annoying bug that's been finally fixed upstream? Why should your
 team spend an extra effort to contribute that fix to the upstream project?
 
 For one, it means that maintenance cost and time is now with the upstream
@@ -67,7 +67,7 @@ means that they may get to have a say in the project direction and timelines,
 which can be beneficial for your team.
 
 By using InnerSource teams can establish a middle path between "be independent
-and build your own" (including any number of new bugs that you introduce) and "save
+and build your own" (including any number of new bugs that you own) and "save
 time and money by relying on existing implementations" (at the cost of creating
 long term dependencies which can only be influenced in a limited way). That way
 balancing reimplementing versus reuse becomes easier.
@@ -76,11 +76,11 @@ balancing reimplementing versus reuse becomes easier.
 
 Remember that functionality that's specific to your company domain - but that
 is maintained in mutiple implementations across the entire company? What if
-there were a way to avoid a dozen buggy versions and merge them into a
+there were a way to avoid a dozen buggy implementations and merge them into a
 shared asset? What if the development process for this shared asset ran without the usual
 drain of energy that central dependencies bring to the table? Many open source
 projects are being used by a huge number of players - some of who participate
-in their design and development. Encouraging cross team collarboration in InnerSource
+in their design and development. Encouraging cross team collaboration in InnerSource
 projects at the corporate level means that you can drive central
 innovation from the edges of your organisation.
 
