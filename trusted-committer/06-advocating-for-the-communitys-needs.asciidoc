@@ -1,3 +1,5 @@
+
+[[advocating]]
 == Advocating for the community needs
 
 InnerSource communities exist in a corporate context and are thus more

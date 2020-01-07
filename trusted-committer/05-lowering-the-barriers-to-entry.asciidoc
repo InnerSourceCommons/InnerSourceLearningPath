@@ -48,7 +48,6 @@ There are two common models for making contributions, today:
 _shared repository_ and _fork and join_. Both have advantages and as a Trusted Committer,
 you'll want to support both models to accommodate different needs of your
 potential and current https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_].
-
 Oftentimes, potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] will have questions they would like to
 have answered before they make a contribution. Those could be tech oriented
 questions, questions regarding contributions, or quite simply questions aimed at
@@ -65,6 +64,7 @@ contributions but also non-code contributions, such as writing documentation,
 creating artwork or organizing events. One common way to do this is to tag
 "newcomer tasks" in the issue tracker used by the community or implement a
 marketplace for open tasks, that https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] can use.
+
 
 In summary, it is super important for InnerSource communities in a corporate
 environment to keep the barriers to contributing as low as possible to get as
