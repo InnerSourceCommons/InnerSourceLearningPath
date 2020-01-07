@@ -1,3 +1,4 @@
+role="pagenumrestart"]
 == Introducing the Trusted Committer role
 
 The Trusted Committer (TC) role is one of the key roles in an InnerSource
@@ -42,7 +43,6 @@ Trusted Committer, e.g. in making sure that a requested or contributed feature a
 belongs to the product. Especially in smaller, grass-roots type InnerSource
 communities, the Trusted Committer usually also acts as a PO. Please check out our https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[Product
 Owner Learning Path segment] for more detailed information.
-
 
 === Why role names matter
 
