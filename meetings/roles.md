@@ -105,7 +105,7 @@ Make note to yourself of any missed information.
 
 **Within 24 Hours of Meeting**
 
-* [ ] Clean up everyone's notes **Notes** of the notes. Use the raw notes section plus your own notes to provide a cohesive set of key points and assignments of the meeting. Do not alter or remove the raw notes. 
+* [ ] Clean up everyone's **Notes** of the notes. Use the raw notes section plus your own notes to provide a cohesive set of key points and assignments of the meeting. Do not alter or remove the raw notes. 
 * [ ] These polished notes should be in the **Notes** section of the agenda document.
 * [ ] Announce in the [#learning-path] channel that the notes are in the agenda document.
 In your announcement include a sharing link to the document itself.
