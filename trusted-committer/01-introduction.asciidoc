@@ -20,6 +20,7 @@ explain why we think the name is both apt and important.  Let's
 start with the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] role. A _Contributor_ - as the name implies -
 makes contributions to an InnerSource community.  These contributions could be code or non-code
 artifacts, such as bug reports, feature requests or documentation.
+
 _Contributors_ might or might not be part of the community. They might be sent by
 another team to develop a feature that their team needs. This is why we
 sometimes also refer to _Contributors_ as _Guests_ or being part of a _Guest
@@ -41,6 +42,7 @@ Trusted Committer, e.g. in making sure that a requested or contributed feature a
 belongs to the product. Especially in smaller, grass-roots type InnerSource
 communities, the Trusted Committer usually also acts as a PO. Please check out our https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[Product
 Owner Learning Path segment] for more detailed information.
+
 
 === Why role names matter
 
