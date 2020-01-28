@@ -57,7 +57,7 @@ Maintainer, but this term conflicts with other technical roles such as the
 "Maintainer" role defined by GitHub, for instance. Apache uses the term
 _Committer_, too, but they attach fewer and mostly tech-oriented
 responsibilities to that role. With its additional community-oriented responsibilities, 
-the TC role goes beyond that. The ``Trusted'' in Trusted Committer
+the TC role goes beyond that. The "Trusted" in Trusted Committer
 means this person is trusted and thus empowered by both their
 management and their community to do their job. By fostering openness
 and transparency, Trusted Committers build trust in the process and also in the product
