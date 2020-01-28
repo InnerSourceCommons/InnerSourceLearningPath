@@ -66,7 +66,7 @@ Now you should have a basic understanding of the role, why using the term
 _Trusted Committer_ is appropriate, and understand how a Trusted Committer might
 interact with other common roles in a software project.
 
-=== Responsibilities
+=== Responsibilities 
 
 In the following segments, we'll dive into the various responsibilities that
 Trusted Committers have:
