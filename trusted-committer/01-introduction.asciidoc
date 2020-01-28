@@ -2,24 +2,25 @@
 == Introducing the Trusted Committer Role
 
 The Trusted Committer (TC) role is one of the key roles in an
-InnerSource community. Think of TCs as the people in a community that
+InnerSource community. Think of Trusted Committers as the people in a community that
 you trust with important technical decisions and with mentoring
 contributors to ultimately get contributions over the finish line.
 The TC role is both demanding and rewarding. It is more than just being an opinionated gatekeeper and is instrumental for
 the success of any InnerSource community.
 
-Generally speaking, the TC role is defined by its responsibilities,
+Generally speaking, the Trusted Committer role is defined by its responsibilities,
 rather than by its privileges. On a very high level, TCs represent the
 interests of both their InnerSource community and the products the
 community is building. They are concerned with the health of both the
-community and the product. So as a TC, you’ll have both tech- and community-oriented responsibilities. We’ll explore both of these
+community and the product. So as a Trusted Committer, you’ll have both 
+tech- and community-oriented responsibilities. We’ll explore both of these
 dimensions in the following sections.
 
-Before we go into the details of what a TC actually does, let’s spend
-some time contrasting the TC role with other roles in InnerSource at a
+Before we go into the details of what a Trusted Committer actually does, let’s spend
+some time contrasting the Trusted Committer role with other roles in InnerSource at a
 high level of abstraction and explain why we think the name is both apt
 and important. Let’s start with the _Contributor_ role. A
-_Contributor_—as the name implies—makes contributions to an InnerSource
+_Contributor_ — as the name implies—makes contributions to an InnerSource
 community. These contributions could be code or non-code artifacts, such
 as bug reports, feature requests, or documentation.
 
@@ -31,9 +32,9 @@ in" and for conforming to the community’s expectations and processes.
 
 The _Trusted Committer_ is always a member of the InnerSource community,
 which is also sometimes referred to as the _Host Team_. In this analogy,
-the TC is responsible for both building the house and setting the house
+the Trusted Committer is responsible for both building the house and setting the house
 rules to ensure their guests are comfortable and can work together
-effectively. Compared to contributors, TCs have earned the
+effectively. Compared to contributors, Trusted Committers have earned the
 responsibility to push code closer to production and are generally
 allowed to perform tasks that have a higher level of risk associated
 with them.
@@ -41,34 +42,35 @@ with them.
 The _Product Owner_ (PO) is the third role in InnerSource. Similar to
 agile processes, the PO is responsible for defining and prioritizing
 requirements and stories for the community to implement. The PO
-interacts often with the TC, (e.g., in making sure that a requested or
+interacts often with the Trusted Committer, (e.g., in making sure that a requested or
 contributed feature actually belongs to the product). Especially in
-smaller, grassroots InnerSource communities, the TC usually also
+smaller, grassroots InnerSource communities, the Trusted Committer usually also
 acts as a PO. Check out our https://learning.oreilly.com/videos/innersource-product-owners/9781492046707[Product Owner Learning Path segment]
 for more detailed information.
 
 === Why Role Names Matter
 
-The role of the TC is present in every successful InnerSource community
+The role of the Trusted Committer is present in every successful InnerSource community
 but not every community uses that name. Some communities use the term
 Maintainer, but this term conflicts with other technical roles such as the 
 "Maintainer" role defined by GitHub, for instance. Apache uses the term
 _Committer_, too, but they attach fewer and mostly tech-oriented
-responsibilities to that role. With its additional community-oriented responsibilities, the TC role goes beyond that. The ``Trusted'' in TC
+responsibilities to that role. With its additional community-oriented responsibilities, 
+the TC role goes beyond that. The ``Trusted'' in Trusted Committer
 means this person is trusted and thus empowered by both their
 management and their community to do their job. By fostering openness
-and transparency, TCs build trust in the process and also in the product
+and transparency, Trusted Committers build trust in the process and also in the product
 being built.
 
 Similar to how naming is important in writing software, choosing the right names for roles and
 doing so consistently ensures that everyone has the same understanding about the roles played in the community.
 
 Now that you have a basic understanding of the role, why using the
-term TC is appropriate, and know how a TC might interact with other common roles in a software project, let's take a quick look at the responsibilities of a TC.
+term TC is appropriate, and know how a Trusted Committer might interact with other common roles in a software project, let's take a quick look at the responsibilities of a Trusted Committer.
 
 === Responsibilities
 
-TCs have various responsibilities, including:
+Trusted Committers have various responsibilities, including:
 
 * Ensuring product quality
 * Keeping the community healthy
@@ -76,4 +78,4 @@ TCs have various responsibilities, including:
 * Upleveling the community
 * Advocating the community's needs
 
-We will look at these responsibilities in more depth in the following pages and also explore the path of becoming a TC at the end of this article.
+We will look at these responsibilities in more depth in the following pages and also explore the path of becoming a Trusted Committer at the end of this article.
