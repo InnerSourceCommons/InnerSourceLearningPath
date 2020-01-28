@@ -79,4 +79,3 @@ Trusted Committers have:
 
 In addition, we will also explore the path of https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/07-becoming-a-trusted-committer.asciidoc[becoming a Trusted Committer] in the end
 of this article.
-
