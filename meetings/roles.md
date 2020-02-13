@@ -15,7 +15,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 **Within 24 Hours of Previous Meeting**
 * [ ] Update the [shared calendar] series with any new invitees from the last call.  
 * [ ] Visit the [learning path folder].
-* [ ] Right-click on `Meeting - 2019 - MM - DD`.
+* [ ] Right-click on `Meeting - 2020 - MM - DD`.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 * [ ] Open the document and follow the steps in the **Do these things to set up this document** section.
@@ -99,13 +99,13 @@ This time should be scheduled as close as possible after the end of the meeting.
 **During Meeting**
 
 * [ ] Note the first names of each meeting attendee.
-* [ ] At the beginning, encourage everyone to type in key points and assignments directly into the document.
+* [ ] At the beginning, encourage everyone to type in key points and assignments directly into the document or into a raw notes section at the bottom of the document. 
 * [ ] Watch closely what is being typed to ensure that all key points and assignments make it in.
 Make note to yourself of any missed information.
 
 **Within 24 Hours of Meeting**
 
-* [ ] Clean up everyone's notes plus your own into a cohesive set of key points and assignments of the meeting.
+* [ ] Clean up everyone's **Notes** of the notes. Use the raw notes section plus your own notes to provide a cohesive set of key points and assignments of the meeting. Do not alter or remove the raw notes. 
 * [ ] These polished notes should be in the **Notes** section of the agenda document.
 * [ ] Announce in the [#learning-path] channel that the notes are in the agenda document.
 In your announcement include a sharing link to the document itself.
@@ -115,6 +115,7 @@ This email should include (in order):
   * Link to the agenda document where the notes are located.
   * Chatham House Rule disclaimer.
   * Copy/pasted notes from the agenda document.
+  * REMOVE the raw section for the email only.
 
 ### Tips
 

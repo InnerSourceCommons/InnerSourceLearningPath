@@ -1,4 +1,4 @@
-Hi, everyone, thanks for coming today.  Here are the notes (also in the [Google doc])!   
+Hi, everyone, thanks for coming.  Here are the notes (also in the [Google doc])!   
 
 Russ   
 

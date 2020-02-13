@@ -10,9 +10,6 @@ communicating and - if necessary - advocating these decisions, inside and outsid
 of the community. Trusted Committers don't necessarily make all the tech related decisions
 themselves or do all the work to implement them.
 
-So what does a Trusted Committer do in practice to reach these goals? It turns out that as a
-Trusted Committer, you have many tools for that job. Let's go to the most important ones.
-
 It is the Trusted Committer's job to communicate and motivate quality standards in their
 community and to formulate them in a way that is understandable and actionable
 by their https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_]. This includes written documentation, of course. But the
@@ -33,6 +30,7 @@ requests by pointing out necessary improvements, it is usually only the Trusted 
 can ultimately accept and merge or reject a contribution. That is what we meant
 when we said "Trusted Committers can push code closer to production" earlier.  Trusted Committers should also
 help https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] during a PR to get their contribution over the finish line.
+
 That said, it is ultimately the contributor's job to make that happen. The job
 of a Trusted Committer is not to accept all contributions by default, but to only accept those
 who meet the defined criteria in terms of quality and scope.  And Trusted Committers should
@@ -55,10 +53,12 @@ software. It also entails more management oriented tasks such as making sure
 that the community is given sufficient time to refactor their software or move
 a release date in favor of quality improvements, if the community deems that
 necessary. The effectiveness of the Trusted Committer is strongly related to code health.
+
 Absent the latter, the Trusted Committer will have to spend much of their valuable time
 validating and documenting workarounds for bugs or a fragile architecture
 and will not have enough time to spend on onboarding and mentoring
 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_].
+
 
 In conclusion, ensuring product quality is a key responsibility of Trusted Committers. They set
 quality standards and lead by example.  They participate in pull requests and

@@ -26,6 +26,7 @@ need to have demonstrated a deep, technical competence during their work in the
 community. In addition to that, they must have proven their ability to
 effectively communicate with peers in the community and ideally also with
 product owners and with management, as that's a key part of the Trusted Committer role.
+
 In the same vein, they must have shown the willingness and patience to use
 their skills and spend intentional time to uplevel contributors so that they
 can make more contributions than they could have on their own. Finally,
@@ -48,8 +49,8 @@ new insights on part of the Trusted Committer and will help to identify opportun
 improve the software.
 
 Whether or not you have only one or multiple Trusted Committers depends on the size and the
-risk associated with the software developed in the InnerSource community. The
-Trusted Committer role is time consuming and not everyone is willing or empowered to spend 100%
+risk associated with the software developed in the InnerSource community. 
+The Trusted Committer role is time consuming and not everyone is willing or empowered to spend 100%
 of their time as Trusted Committer. Some companies have therefore enacted a _Trusted Committer rotation_
 where multiple Trusted Committers share the workload of the Trusted Committer role and the Trusted Committers who are not _on
 duty_ could exclusively focus on tech oriented work. Another reason to have
