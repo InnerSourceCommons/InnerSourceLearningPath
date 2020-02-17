@@ -17,7 +17,8 @@ of course, but the most effective way for Trusted Committers to communicate thes
 can be a worthwhile goal for an InnerSource community to try and
 distinguish itself from traditional software development projects not
 just in the way they organize development but also in the quality of the
-software they produce, as well. A high level of software quality is essential for establishing and maintaining the trust of both users in the software the community is building and the management in the way it is being built. We all know how one bad release can shatter this trust in an instant.
+software they produce, as well. A high level of software quality is essential for establishing and maintaining the 
+trust in the InnerSource community on part of their users and their management. We all know how one bad release can shatter this trust in an instant.
 
 Trusted Committers also make sure the community has the infrastructure and the
 tools they need to produce quality software. The peer review, usually
@@ -35,7 +36,7 @@ scope. And Trusted Committers should avoid rewriting a contributor's code to mak
 "fit" as much as possible, even if it means spending more time
 supporting  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] in a PR. Trusted Committers
 take a long-term perspective and understand that this kind of support is
-an investment both in the longevity of the community, and it will increase the community's development speed in the long run.
+an investment in the longevity of the community, and it will increase the community's development speed in the long run.
 
 Sometimes project requirements or limitations are not known upfront and are instead
 discovered during development. Trusted Committers are also responsible for making sure
