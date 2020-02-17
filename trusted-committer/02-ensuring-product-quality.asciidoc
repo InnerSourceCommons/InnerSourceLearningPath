@@ -12,7 +12,7 @@ tech-related decisions themselves or do all the work to implement them.
 
 It is the Trusted Committer's job to communicate and clarify quality standards in their
 community and to formulate them in a way that is understandable and
-actionable by their  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_]. This includes written documentation,
+actionable by their https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_]. This includes written documentation,
 of course, but the most effective way for Trusted Committers to communicate these quality standards is by example. We think it
 can be a worthwhile goal for an InnerSource community to try and
 distinguish itself from traditional software development projects not
@@ -26,7 +26,7 @@ performed as part of pull requests (PRs), is most frequently used to ensure qual
 and participate in pull requests by pointing out necessary improvements,
 it is usually only the Trusted Committer who can ultimately accept and merge or reject
 a contribution. This is what we meant earlier when we said "Trusted Committers can push code
-closer to production." Trusted Committers should also help contributors during
+closer to production." Trusted Committers should also help https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] during
 a PR to get their contributions over the finish line.
 
 That said, it is ultimately the contributor's job to make that happen.
