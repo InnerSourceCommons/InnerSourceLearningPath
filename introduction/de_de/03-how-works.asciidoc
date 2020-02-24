@@ -1,0 +1,95 @@
+== How does InnerSource work?
+
+Let's say that team A uses software produced by team B.
+Team A submits a feature request to team B, but team B isn't able to implement that feature in time for team A.
+In an InnerSource setting, if team A can't get this feature request then it submits a pull request instead.
+That is to say team A implements the feature directly in team B's software and submits a pull request with the code changes.
+Team B partners to review and accept the submitted code.
+
+In this example, we call team A the _Guest_ team and team B the _Host_ team.
+The terms _Guest_ and _Host_ suggest a situation analogous to receiving a visitor in the home.
+In that situation, most people want to be a good host.
+They ensure that things are kept neat and tidy in anticipation of their guests' arrival.
+Visitors are greeted at the door and invited in.
+They can use the features and utilities that are in the home's public areas.
+There may be a few house rules that guests are asked to follow.
+Similarly, most guests want to show respect for the home and their host.
+They're careful with the items in the house and follow the rules for the duration of their stay.
+They may hope for or expect a return invitation as long as they've been courteous and polite.
+These concepts around a home visit are a metaphor for the attitude and behaviors that teams should bring as one hosts another making a guest contribution to the codebase.
+
+Let's take a closer look at how the mechanics of the InnerSource process can work.
+To aid in this explanation, we'll name a few key individuals on the guest and host teams.
+First, the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_] determines what functionality the host team is willing to accept as a contribution.
+The https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] is the individual on the guest team that submits the code contribution for review by the host team.
+The https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] represents the host team in providing any timely support and mentorship that the contributor needs to successfully submit the pull request.
+On small, grass roots efforts a single person often fills _both_ the product owner and trusted committer roles.
+
+With those definitions, here is the basic outline of an InnerSource contribution.
+
+* Guest team or contributor requests a feature from the host team.
+* Product owner ensures that user stories representing the feature request are created, either by members of the guest team or host team.
+These stories should describe the requested feature in terms agreeable to the guest team.
+They also list any details from the host team on how the feature should be delivered in order for the work to be accepted.
+Examples of such details include architecture constraints, coding conventions, dependency usages, data contracts, etc.
+* Supported by the trusted committer, the contributor submits the pull request to implement the requested feature.
+
+Note that these steps do not assume a specific system for the general organization of a team's time or priorities. InnerSource assumes that teams already have existing methods of organization and provides a framework of how to use them to work together where there is a guest team desiring to contribute code to a host.
+
+This option works well for the guest team because they get the functionality they need when they need it without taking on the long-term burden of maintenance of the solution.
+It works for the host team because they are able to better scale and serve their consumers.
+It works for the company at-large because solutions to shared problems end up in shared, centrally-maintained locations where anyone can use them.
+More engineering time stays focused on producing code that solves company problems rather than the mechanics of the feature negotiation and escalation process.
+
+=== Additional Resources
+
+* The https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.asciidoc[Trusted Committer] pattern.
+
+
+== Wie funktioniert InnerSource?
+
+Angenommen, Team A verwendet Software, die von Team B produziert wird.
+Team A sendet eine Funktionsanforderung an Team B, aber Team B kann diese Funktion nicht rechtzeitig für Team A implementieren.
+In einer InnerSource Umgebung kann Team A anstatt einer Feature-Anforderung auch alternativ einen PullRequest an Team B zur Integration schicken.
+Das heißt, Team A implementiert die Funktion direkt in der Software von Team B und sendet einen PullRequest mit den Codeänderungen.
+In enger Partnerschaft überprüft Team B dann den übermittelten Code und ggf. akzeptiert die Aenderungen wenn sie den Anforderungen enpricht.
+
+In diesem Beispiel nennen wir Team A das _Guest_-Team und Team B das _Host_-Team.
+Die Begriffe _Guest_ und _Host_ legen eine Situation nahe, die dem Empfang eines Besuchers im Haus entspricht.
+In dieser Situation wollen die meisten Menschen ein guter Gastgeber sein.
+In Erwartung der Ankunft ihrer Gäste, sorgen Sie dafür, dass die Dinge sauber in bester Ordnung sind.
+Die Besucher werden an der Tür begrüßt und herein gebeten.
+Sie können die Funktionen und Räume nutzen, die sich in den öffentlichen Bereichen des Hauses befinden.
+Es kann ein paar Hausregeln geben, die Sie gebeten werden zu befolgen.
+Ebenso wollen die meisten Gäste Respekt vor dem Zuhause und ihrem Gastgeber zeigen.
+Sie sind vorsichtig mit den Gegenständen im Haus und folgen den Regeln für die Dauer ihres Aufenthalts.
+Sie können auf eine erneute Einladung hoffen, solange sie sich gut benommen haben und höflich waren.
+Diese Konzepte rund um einen Hausbesuch sind eine Metapher für die Einstellung und das Verhalten das Teams an den Tage legen sollten wenn der eine der Gastgeber (Host) ist, und der andere ein Gast (Contributor) ist der einen Gastbeitrag (Contribution) zur Codebasis leistet.
+
+Werfen wir einen genaueren Blick darauf, wie der InnerSource-Prozess funktioniert.
+Befor wir in das Thema tiefer einsteigen, lassen sie uns einige wichtige Rollen in den Gast- und Gastgeberteams vorstellen.
+Zunächst bestimmt https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_], welche Funktionen das Hostteam als Beitrag zu akzeptieren bereit ist.
+Der https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] ist die Person im Gastteam, die den Codebeitrag einreicht, welcher dann durch das Hostteam geprüft und ggf. akzeptiert wird.
+Der https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] steht dem Hostteam als zusätzliche Unterstützung für Review- und Mentoringaufgaben bei, um letztendlich den Contributor mit seinem Pullrequest zu unterstützen.
+Bei kleinen, eingfacheren Projekten füllt oft eine einzelne Person _sowohl_ die Rolle des Produktbesitzers als auch die des Trusted Committer aus.
+
+Basierend auf diesen Definitionen folgt nun der eine grobe Skizze des InnerSource-Prozesses.
+
+* Gastteam oder ein Mitglied des Gastteams fragt eine Funktion vom Host-Team an.
+* Der Produktbesitzer stellt sicher, dass die Featureanforderungen gemaess des Entwicklungsprozzesses des Hostteams  erstellt werden, entweder von Mitgliedern des Gastteams oder Mitgliedern des Gastgeberteams. 
+Diese Documentation geschieht meist in der Form von Userstories, welche die gewünschte Funktion und Rahmenbedingungen beschreiben, die das Gastteam akzeptiert hat.
+Sie listet auch alle Details aus Sicht des Host-Teams auf, z.B. wie eine Funktion geschrieben und eingereicht werden soll damit der Code akzeptiert werden kann.
+Beispiele für solche Details sind Architektureinschränkungen, Codierungskonventionen, Abhängigkeitsverwendungen, Datenverträge usw.
+* Unterstützt vom vertrauenswürdigen Committer, sendet der Mitwirkende den PullRequest, um die angefragte Funktion zu implementieren.
+
+Beachten Sie, dass bei diesen Schritten kein bestimmtes System für die allgemeine Organisation der Zeit oder der Prioritäten eines Teams angenommen wird. 
+InnerSource geht davon aus, dass Teams bereits über vorhandene Organisationsmethoden verfügen, und bietet einen Rahmen für die Zusammenarbeit, wenn ein Gastteam Code zu einem Project beitragen möchte.
+
+Dieser Weg der Zusammenarbeit funktioniert gut für das Gastteam, da es die Funktionalität erhält die es benötigt, wenn sie sie benötigt, und ohne die Notwendigkeit die langfristige Wartung der Lösung zu übernehmen.
+Dieser Weg funktioniert für das Gastgeberteam, weil es in der Lage ist, besser zu skalieren und seine Kunden besser zu bedienen.
+Dies funktioniert für das Unternehmen in der Gesamtheit, weil Lösungen für gemeinsame Probleme an einem gemeinsamen, zentral gepflegten Ort jedem zur Verfuegung gestellt werden.
+Letzlich steht mehr Zeit für die Erstellung von Code zur Verfügung, der die wirklichen Unternehmensprobleme löst, anstatt sie zur Verhandlung über Features oder für Eskalationsprozesse zu verwenden.
+
+=== Zusätzliche Ressourcen
+
+* Die Mustervorlage https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.asciidoc[Trusted Committer].

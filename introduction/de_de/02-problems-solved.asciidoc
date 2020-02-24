@@ -1,0 +1,38 @@
+Welche Probleme löst InnerSource?
+InnerSource fördert und belohnt die Zusammenarbeit und die Wiederverwendung von Code mit jedem, unabhängig von seiner Position in der Organisationsstruktur eines Unternehmens. 
+Dieser Ansatz unterscheidet sich von dem in traditionellen Organisationen, in denen Ideen und Produkte in der Regel innerhalb der Grenzen der internen Unternehmenshierarchie und ihrer Silos gefangen bleiben. 
+Lassen Sie uns eine Situation untersuchen, die ein Beispiel für diesen neuen Ansatz gibt.
+
+Stellen Sie sich vor, zwei Teams desselben Unternehmens liefern separate Softwareteile, wobei die Software eines Teams abhängig von der Software des anderen Teams ist. 
+Ein Beispiel könnte eine Benutzerführung sein die von einem API-Dienst abhängt um Daten abzurufen und anzuzeigen. 
+Diese Situation ist in einem großen Unternehmen üblich da ein einzelnes Team das Software produziert, Dutzende oder Hunderte von Verbrauchern haben kann.
+
+Wenn konsumierende Teams viele Funktionen benötigen, haben produzierende Teams normalerweise bestimmte Anforderungen und Priorisierungsprozesse, um zu entscheiden, an welchen Funktionen sie arbeiten. 
+Bei kritischen Funktionsanforderungen, die für die sofortige Arbeit nicht priorisiert sind, kann das konsumierende Team üblicherweise eine von drei Optionen auswählen wobei jede ihre eigenen Nachteile hat.
+
+. *Abwarten.* Das konsumierende Team kann nichts tun und ohne die angeforderte Funktionalität nur bedingt Fortschritte erzielen. 
+Diese Option erfordert den geringsten Arbeitsaufwand auf ihrer Seite als Konsumer. 
+Abhängig vom Nutzen der Funktionsanforderung kann das Warten in Ordnung sein. 
+Es kann jedoch zu erheblichen Schwierigkeiten kommen, insbesondere wenn die angeforderte Funktion nie geliefert wird.
+
+. *Problemumgehung.* Ein konsumierendes Team das nicht warten möchte, kann an einer anderen Stelle zusätzliche Arbeit leisten, um das Fehlen der angeforderten Funktion zu kompensieren. 
+Diese zusätzliche Arbeit schlägt sich typischerweise als Änderung im konsumierenden Projekt nieder. 
+Alternativ können Sie ein neues Projekt erstellen das ihren Anforderungen entspricht und die Verwendung des gesamten oder eines Teils des Codes des Produktionsteams ersetzt (Code- / Projektduplizierung). 
+Diese Strategie ermöglicht es dem konsumierenden Team die angeforderte Funktion aus eigener Kraft zu erhalten. Dies hat jedoch mehrere Nachteile.
+.. Alle Veränderungen die vom Verbraucherteam ausgeführt werden, stehen anderen Verbrauchern mit derselben Funktionsanforderung nicht zur Verfügung.
+.. Das konsumierende Team hat sich unbeabsichtigt darauf eingelassen die langfristige Pflege des neu geschriebenen Codes zu uebernehmen obwohl die Thematik ausserhalb der Kernteamkompetenz des Teams liegt.
+.. Das Unternehmen bekommt im Laufe der Zeit doppelte Projekte und Code im selben Problembereich.
+
+*Eskalation.* Das konsumierende Team nimmt möglicherweise kein "Nein" als Antwort hin und wendet sich stattdessen an jemanden in der Managementhierarchie der Produzenten um das produzierende Team zu beeinflussen (oder zu zwingen), die gewünschte Arbeit zu erledigen. 
+Diese Option klingt für das konsumierende Team attraktiv da es die angeforderte Funktion erhält ohne die Arbeit zur Implementierung oder Wartung zu erfordern. 
+Es ist jedoch immernoch eine Belastung für das Team, da es notwendigerweise einen Teil ihrer Aufmerksamkeit und Arbeit auf die nicht-technische Aufgabe der Eskalation lenkt. 
+Darüber hinaus lässt sich diese Option nicht skalieren da ein Verbraucher nur so oft Feature-Anfragen eskalieren kann, bevor seine Glaubwürdigkeit beeinträchtigt wird. 
+Die Eskalation ist für das Produktionsteam ähnlich störend (umso mehr) da es aus seinen normalen Workflow- und Priorisierungsmethoden herausgenommen wird um die eskalierte Funktionsanforderung zu bearbeiten.
+
+Diese Diskussion bereitet die Bühne für InnerSource. 
+InnerSource ist eine gute Lösung für die oben beschriebene Situation in der ein konsumierendes Team nicht in der Lage ist, die Funktionsanforderungen selbst zu erfüllen. 
+InnerSource bietet den Teams die Vorteile der oben beschriebenen Strategien des _Abwartens_, der _Problemumgehung_ und der _Eskalation_, ohne die damit verbundenen Nachteile.
+
+InnerSource bietet auch eine allgemeine Verbesserung der Ingenieurkultur, da Ingenieure die Möglichkeit haben, mit einer größeren Vielfalt neuer Technologien und Mitarbeiter zu arbeiten. 
+Entwickler lehren einander und lernen voneinander wenn sie Ideen und Lösungen zwischen verschiedenen Unternehmenssilos austauschen. 
+Ingenieure und Teams können interne Lösungen für Standartprobleme wiederverwenden, sodass sie sich auf lukrativere Aufgaben für das Unternehmen konzentrieren können.
