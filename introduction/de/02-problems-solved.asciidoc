@@ -1,9 +1,9 @@
 Welche Probleme löst InnerSource?
 InnerSource fördert und belohnt die Zusammenarbeit und die Wiederverwendung von Code mit jedem, unabhängig von seiner Position in der Organisationsstruktur eines Unternehmens. 
 Dieser Ansatz unterscheidet sich von dem in traditionellen Organisationen, in denen Ideen und Produkte in der Regel innerhalb der Grenzen der internen Unternehmenshierarchie und ihrer Silos gefangen bleiben. 
-Lassen Sie uns eine Situation untersuchen, die ein Beispiel für diesen neuen Ansatz gibt.
+Lass uns eine Situation untersuchen, die ein Beispiel für diesen neuen Ansatz gibt.
 
-Stellen Sie sich vor, zwei Teams desselben Unternehmens liefern separate Softwareteile, wobei die Software eines Teams abhängig von der Software des anderen Teams ist. 
+Stell Dir vor, zwei Teams desselben Unternehmens liefern separate Softwareteile, wobei die Software eines Teams abhängig von der Software des anderen Teams ist. 
 Ein Beispiel könnte eine Benutzerführung sein die von einem API-Dienst abhängt um Daten abzurufen und anzuzeigen. 
 Diese Situation ist in einem großen Unternehmen üblich da ein einzelnes Team das Software produziert, Dutzende oder Hunderte von Verbrauchern haben kann.
 
@@ -17,7 +17,7 @@ Es kann jedoch zu erheblichen Schwierigkeiten kommen, insbesondere wenn die ange
 
 . *Problemumgehung.* Ein konsumierendes Team das nicht warten möchte, kann an einer anderen Stelle zusätzliche Arbeit leisten, um das Fehlen der angeforderten Funktion zu kompensieren. 
 Diese zusätzliche Arbeit schlägt sich typischerweise als Änderung im konsumierenden Projekt nieder. 
-Alternativ können Sie ein neues Projekt erstellen das ihren Anforderungen entspricht und die Verwendung des gesamten oder eines Teils des Codes des Produktionsteams ersetzt (Code- / Projektduplizierung). 
+Alternativ könnte man ein neues Projekt erstellen das den Anforderungen entspricht und die Verwendung des gesamten oder eines Teils des Codes des Produktionsteams ersetzt (Code- / Projektduplizierung). 
 Diese Strategie ermöglicht es dem konsumierenden Team die angeforderte Funktion aus eigener Kraft zu erhalten. Dies hat jedoch mehrere Nachteile.
 .. Alle Veränderungen die vom Verbraucherteam ausgeführt werden, stehen anderen Verbrauchern mit derselben Funktionsanforderung nicht zur Verfügung.
 .. Das konsumierende Team hat sich unbeabsichtigt darauf eingelassen die langfristige Pflege des neu geschriebenen Codes zu uebernehmen obwohl die Thematik ausserhalb der Kernteamkompetenz des Teams liegt.
@@ -30,9 +30,10 @@ Darüber hinaus lässt sich diese Option nicht skalieren da ein Verbraucher nur 
 Die Eskalation ist für das Produktionsteam ähnlich störend (umso mehr) da es aus seinen normalen Workflow- und Priorisierungsmethoden herausgenommen wird um die eskalierte Funktionsanforderung zu bearbeiten.
 
 Diese Diskussion bereitet die Bühne für InnerSource. 
-InnerSource ist eine gute Lösung für die oben beschriebene Situation in der ein konsumierendes Team nicht in der Lage ist, die Funktionsanforderungen selbst zu erfüllen. 
+Es ist eine gute Lösung für die oben beschriebene Situation, in der ein konsumierendes Team nicht in der Lage ist, die Funktionsanforderungen selbst zu erfüllen. 
 InnerSource bietet den Teams die Vorteile der oben beschriebenen Strategien des _Abwartens_, der _Problemumgehung_ und der _Eskalation_, ohne die damit verbundenen Nachteile.
 
-InnerSource bietet auch eine allgemeine Verbesserung der Ingenieurkultur, da Ingenieure die Möglichkeit haben, mit einer größeren Vielfalt neuer Technologien und Mitarbeiter zu arbeiten. 
-Entwickler lehren einander und lernen voneinander wenn sie Ideen und Lösungen zwischen verschiedenen Unternehmenssilos austauschen. 
-Ingenieure und Teams können interne Lösungen für Standartprobleme wiederverwenden, sodass sie sich auf lukrativere Aufgaben für das Unternehmen konzentrieren können.
+InnerSource bietet auch eine allgemeine Verbesserung der Arbeitskultur, da Mitarbeiter die Möglichkeit haben, mit einer größeren Vielfalt neuer Technologien in Kontakt zu kommen und mit einem größeren Kreis Kollegen zusammen zu arbeiten. 
+Entwickler beraten einander und lernen voneinander wenn sie Ideen und Lösungen zwischen verschiedenen Unternehmenssilos austauschen. 
+Teams können interne Lösungen für Standardprobleme wiederverwenden. 
+ Auf diese Weise können sie sich auf für das Unternehmen gewinnbringendere Aufgaben konzentrieren.

@@ -1,12 +1,12 @@
 == Einführung
 
-Diese Weiterbildungsserie bietet eine Einführung in InnerSource. 
+Diess Learningpath Serie bietet eine Einführung in InnerSource. 
 InnerSource ist die Anwendung von Open-Source Praktiken und -Prinzipien auf die Softwareentwicklung im Unternehmen. 
 Die InnerSource-Software bleibt dabei Eigentum des Unternehmens, kann jedoch von jedem Mitarbeiter des Unternehmens genutzt, verbessert und erweitert werden. 
 Diese Strategie ermöglicht eine breite und effektive Zusammenarbeit und produziert Software, die sich schnell auf die sich ändernden Anforderungen der verschiedenen internen 
 Stakeholder einstellen und anpassen lässt.
 
-Diese Serie zeigt auf, wie Sie Situationen erkennen in denen die Anwendung von InnerSource Praktiken vorteilhaft sind. 
-Wir werden beispielhaft skizzieren wie InnerSource in diesen Situationen helfen kann und 
-Sie werden mit Begriffen vertraut gemacht die im Zusammenhang mit InnerSource verwendet werden. 
+Diese Serie zeigt auf, wie Du Situationen erkennst, in denen die Anwendung von InnerSource Praktiken vorteilhaft sind. 
+Wir werden beispielhaft skizzieren, wie InnerSource in diesen Situationen helfen kann. 
+Du wirst mit Begriffen vertraut gemacht, die im Zusammenhang mit InnerSource verwendet werden. 
 Wir werden weiterhin die wichtigsten Prinzipien auf denen InnerSource basiert aufzählen, und Vorteile nennen, die sich bei einer effektiven Anwendung der vorgestellten Praktiken ergeben.
