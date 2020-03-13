@@ -2,7 +2,7 @@
 # each having sets of URLs to the equivalent article/video in separate hosting locations.
 # This information is useful when mapping or converting one URL to another,
 # such as when generating a version of an article to be hosted on a specific platform
-
+---
 - section: introduction
   # URLs of video locations.
   video:
