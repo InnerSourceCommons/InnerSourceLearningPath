@@ -1,0 +1,33 @@
+# This file contains an array of objects,
+# each having sets of URLs to the equivalent article/video in separate hosting locations.
+# This information is useful when mapping or converting one URL to another,
+# such as when generating a version of an article to be hosted on a specific platform
+---
+- section: introduction
+  # URLs of video locations.
+  video:
+    # URL on the innersourcecommons.org site.
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    # URL on the O'Reilly learning plarform.
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321606
+    # URL on YouTube.
+    youtube: https://www.youtube.com/watch?v=tP6K5oF2IxQ
+  article:
+    # URL when used as an anchor link in a published PDF.
+    anchor: ''
+    # URL in GitHub.
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/01-introduction.asciidoc
+    # URL on the innersourcecommons.org site.
+    isc: ''
+    # URL on the O'Reilly learning plarform.
+    oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321607
+    youtube: https://www.youtube.com/watch?v=CxsfR_n7JKI
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/02-problems-solved.asciidoc
+    isc: ''
+    oreilly: ''
