@@ -2,10 +2,10 @@
 [[upleveling]]
 == Upleveling Community Members
 
-There is a continuum of participation in
-an InnerSource community. Newcomers might be interested in the community and its product, but have not yet used it. Consumers use the software but may not have made a contribution. Then there are the contributors, and finally the TC, who is taking responsibility for both the software and the community.
-As a TC, you are responsible for moving individuals along this continuum
-and upleveling their ability to make contributions. In this sense, TCs
+There is a continuum of participation in an InnerSource community. 
+There are people who are not aware of the community. _Newcomers_ might be interested in the community and its product, but have not yet used it. _Consumers_ use the software but may not have made a contribution. Then there are the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] who have made at least one contribution, and finally the _Trusted Committers_, who are taking responsibility for both the software and the community.
+As a Trusted Committer, you are responsible for moving individuals along this continuum
+and upleveling their ability to make contributions. In this sense, Trusted Committers
 act as force multipliers in their community.
 
 It is important for TCs to market their
