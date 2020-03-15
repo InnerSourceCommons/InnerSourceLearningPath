@@ -26,7 +26,7 @@ who should create and enact a code of conduct for the community. If
 there are community members whose behavior is detrimental or toxic to
 the community’s health, it is the Trusted Committer’s responsibility to address this. 
 Trusted Committers should create opportunities for people to get together
-regularly and get to know each other personally and to peacefully resolve conflicts as they arise.
+regularly (in person or virtually), get to know each other personally and to peacefully resolve conflicts as they arise.
 
 People also tend to stick around because working in an
 InnerSource community is an excellent opportunity to acquire new skills
@@ -35,7 +35,7 @@ important. Trusted Committers often become mentors for junior developers, and
 explicitly spend time during pull requests not only pointing out areas
 for improvement but also explaining in detail why something needs to be
 improved and how to do it. 
-They supply the theory or experience behind the change and offer suggestions for the best ways to do it
+They supply the theory or experience behind the change and offer suggestions for the best ways to implement it.
 By doing so, Trusted Committers
 can increase the speed of learning in their
 communities far beyond that in traditional software
