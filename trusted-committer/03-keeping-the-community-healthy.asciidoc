@@ -45,7 +45,7 @@ We believe that Trusted Committers should prioritize onboarding and mentoring du
 requests over reaching communicated release dates, unless there is a very
 good reason not to. Good mentoring during pull requests leads to a higher level
 of trust and engagement by https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_], which in turn leads
-to more contributions. We’ll discuss this more in pass:[<a data-type="xref" href="upleveling" data-xrefstyle="chap-num-title">#upleveling</a>].
+to more contributions. We’ll discuss this more in https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/04-uplevelling-community-members.asciidoc["Upleveling the Community"].
 
 Finally, some people stick around in InnerSource communities because
 they get to focus on developing software instead of activities considered overhead or waste, especially 
@@ -62,15 +62,11 @@ in identifying and solving problems. Ultimately, Trusted Committers should empow
 community to find process-related problems and to adapt and improve
 them as a community as much as possible.
 
-For Trusted Committers to be able to fulfill all these responsibilities, it is important that
-they communicate regularly with community members and _keep an ear to the
-ground_ so to speak, so that they are aware of the community's needs. We'll
-go into more detail about this in the section in https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc["Advocating the Community's
-Needs"].
-
 For Trusted Committers to be able to fulfill all these responsibilities, it is
 important that they communicate regularly with community members and
-keep an ear to the ground. We’ll go into more detail about this in pass:[<a data-type="xref" href="advocating" data-xrefstyle="chap-num-title">#advocating</a>].
+keep an ear to the ground.  We'll
+go into more detail about this in the section in https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc["Advocating the Community's
+Needs"].
 
 In summary, Trusted Committers should strive to create a welcoming and appreciative
 environment for their https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] that allows them to concentrate on writing
