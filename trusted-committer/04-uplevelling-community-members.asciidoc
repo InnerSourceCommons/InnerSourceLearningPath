@@ -23,16 +23,16 @@ contributor. We've heard Trusted Committers say that mentoring and
 seeing people level up their abilities more than makes up for the fact
 that they have less time to actually spend writing software.
 
-As mentioned in the previous section, learning and personal growth are
+As mentioned in the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/03-keeping-the-community-healthy.asciidoc[previous section], learning and personal growth are
 reasons people join and stick around in an InnerSource community.
-Upleveling their contributors is one of the most powerful tools TCs have
-at their disposal to increase the speed, output, and longevity of their
+Upleveling their https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] is one of the most powerful tools Trusted Committers have
+at their disposal to increase the speed, output and longevity of their
 communities. It is also one of the key arguments with which to convince
 management to allow their employees to participate in an InnerSource
 community, as that will make their employees more valuable to 
 the company overall and help them retain top talent.
 
-In summary, TCs need to attract new contributors and level up their
+In summary, Trusted Committers need to attract new https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] and level up their
 ability to make contributions. This activity ultimately levels up the
 community’s ability to create better software faster. They do so by
 communicating opportunities to make contributions and by helping and
