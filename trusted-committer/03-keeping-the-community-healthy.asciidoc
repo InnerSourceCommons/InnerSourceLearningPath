@@ -34,7 +34,9 @@ and to grow personally. This is again where the role of the Trusted Committer is
 important. Trusted Committers often become mentors for junior developers, and
 explicitly spend time during pull requests not only pointing out areas
 for improvement but also explaining in detail why something needs to be
-improved and how to do it. By doing so, Trusted Committers
+improved and how to do it. 
+They supply the theory or experience behind the change and offer suggestions for the best ways to do it
+By doing so, Trusted Committers
 can increase the speed of learning in their
 communities far beyond that in traditional software
 development projects.
