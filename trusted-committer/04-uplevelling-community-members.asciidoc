@@ -8,12 +8,12 @@ As a Trusted Committer, you are responsible for moving individuals along this co
 and upleveling their ability to make contributions. In this sense, Trusted Committers
 act as force multipliers in their community.
 
-It is important for TCs to market their
+It is important for Trusted Committers to market their
 product and communities to increase the number of
 newcomers and consumers. They should also communicate opportunities to
 make contributions to consumers and try to elicit and align the
-interests of potential contributors with that of the community. What
-often works well is if contributors are able to work on something that
+interests of potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] with that of the community. What
+often works well is if https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] are able to work on something that
 benefits their department or role in the company. Development tools and automation are good examples.
 
 Finally, it is the TC's responsibility to identify and support contributors with the
