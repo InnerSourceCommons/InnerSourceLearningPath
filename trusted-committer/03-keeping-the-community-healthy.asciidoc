@@ -18,7 +18,7 @@ not recognized, but marketing a community and its products is truly essential.
 Another, more obvious reason for people to stick around is that they
 enjoy working with other members of the community, including the Trusted Committers. A thriving community is one where members treat
 and communicate with each other with the utmost respect. Contributions are
-treated like gifts or donations, and excellent (especially
+treated like gifts or donations rather than distractions, and excellent (especially
 first) contributions are lauded. The Trusted Committer’s job in all this is primarily to set an
 example for others, similar to setting an example for the level of
 software quality expected. If necessary, the Trusted Committers are the ones
