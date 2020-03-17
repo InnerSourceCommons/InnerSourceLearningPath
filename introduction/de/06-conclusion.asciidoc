@@ -4,7 +4,7 @@ Auf dieser Serie haben wir eine Einführung in InnerSource gegeben.
 InnerSource wendet Open Source Praktiken und Prinzipien auf die firmeninterne Softwareentwicklung an.
 Es bietet Nutzern eine zusätzliche Option, speziell wenn Produktionsteams nicht in der Lage sind eine erforderliche Funktionsanforderung im notwendingen Zeitraum zu liefern.
 Erfolgreiche InnerSource umfasst https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Produkt Owner_] und https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-Committer/01-Introduction.asciidoc [_Trusted Committer_] vom *Hostteam* sowie ein https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc [_Contributor_] vom *Gastteam*.
-Richtig betriebene InnerSource bietet beiden teilnehmenden Teams viele Vorteile.
+Richtig betriebenes InnerSource bietet beiden teilnehmenden Teams viele Vorteile.
 Die Schlüsselprinzipien, nach denen gut geführte InnerSource funktioniert, sind *freiwilliger Code-Beitrag* und *priorisierte Schulung/Betreuung*.
 
 Während diese Serie einen allgemeinen Überblick über InnerSource enthält, gibt es viele weitere wichtige Details um InnerSource in Ihrem Team erfolgreich zu praktizieren.
