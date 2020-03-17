@@ -1,5 +1,6 @@
 == Welche Probleme löst InnerSource?
-InnerSource fördert und belohnt die Zusammenarbeit und die Wiederverwendung von Code mit jedem, unabhängig von seiner Position in der Organisationsstruktur eines Unternehmens. 
+InnerSource fördert und belohnt die Zusammenarbeit und die Wiederverwendung von Code.
+Jeder Mitarbeiter, unabhängig von seiner Position in der Organisationsstruktur eines Unternehmens, kann teilnehmen. 
 Dieser Ansatz unterscheidet sich von dem in traditionellen Organisationen, in denen Ideen und Produkte in der Regel innerhalb der Grenzen der internen Unternehmenshierarchie und ihrer Silos gefangen bleiben. 
 Lass uns eine Situation untersuchen, die ein Beispiel für diesen neuen Ansatz gibt.
 

@@ -13,34 +13,34 @@ Haben sich Gäste angekündigt, sorgen Gastgeber für eine einladende Atmosphär
 Die Besucher werden an der Tür begrüßt und herein gebeten.
 Sie können die Einrichtungen und Räume nutzen, die sich in den öffentlichen Bereichen des Zuhauses befinden.
 Es kann ein paar Regeln geben, um deren Befolgung Gäste gebeten werden.
-Ebenso wollen die meisten Gäste Respekt vor dem Zuhause und ihrem Gastgeber zeigen.
+Auf der anderen Seite wollen Gäste meist respektvoll und sorgsam mit dem Zuhause des Gastgeber umgehen.
 Sie sind vorsichtig mit den Gegenständen im Haus und folgen den Regeln für die Dauer ihres Aufenthalts.
-Sie können auf eine erneute Einladung hoffen, solange sie sich gut benommen haben und höflich waren.
-Diese Konzepte rund um einen Hausbesuch sind eine Metapher für die Einstellung und das Verhalten das Teams an den Tage legen sollten wenn der eine der Gastgeber (Host) ist, und der andere ein Gast (Contributor) ist der einen Gastbeitrag (Contribution) zur Codebasis leistet.
+Werden die Grenzen von Etikette und höflichen Umgangsformen überschritten, sollten diese Gäste sich nicht wundern, wenn sie keine erneute Einladung erhalten.
+Diese Konzepte rund um einen Besuch sind eine Metapher für Einstellung und Verhalten von Teams in den Rollen Gastgeber (Host) und Gast (Contributor).
 
 Werfen wir einen genaueren Blick darauf, wie der InnerSource-Prozess funktioniert.
-Befor wir in das Thema tiefer einsteigen, lassen sie uns einige wichtige Rollen in den Gast- und Gastgeberteams vorstellen.
-Zunächst bestimmt https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_], welche Funktionen das Hostteam als Beitrag zu akzeptieren bereit ist.
+Bevor wir in das Thema tiefer einsteigen, schauen wir uns einige wichtige Rollen in den Gast- und Gastgeberteams an.
+Zunächst legt der https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_] fest, welche Funktionen das Hostteam als Beitrag zu akzeptieren bereit ist.
 Der https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] ist die Person im Gastteam, die den Codebeitrag einreicht, welcher dann durch das Hostteam geprüft und ggf. akzeptiert wird.
 Der https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] steht dem Hostteam als zusätzliche Unterstützung für Review- und Mentoringaufgaben bei, um letztendlich den Contributor mit seinem Pullrequest zu unterstützen.
-Bei kleinen, eingfacheren Projekten füllt oft eine einzelne Person _sowohl_ die Rolle des Produktbesitzers als auch die des Trusted Committer aus.
+Bei kleinen, einfacheren Projekten füllt oft eine einzelne Person _sowohl_ die Rolle des Product Owners als auch die des Trusted Committer aus.
 
-Basierend auf diesen Definitionen folgt nun der eine grobe Skizze des InnerSource-Prozesses.
+Basierend auf diesen Rollen können wir nun den InnerSource-Prozesses grob skizzieren.
 
-* Gastteam oder ein Mitglied des Gastteams fragt eine Funktion vom Host-Team an.
-* Der Produktbesitzer stellt sicher, dass die Featureanforderungen gemaess des Entwicklungsprozzesses des Hostteams  erstellt werden, entweder von Mitgliedern des Gastteams oder Mitgliedern des Gastgeberteams. 
-Diese Documentation geschieht meist in der Form von Userstories, welche die gewünschte Funktion und Rahmenbedingungen beschreiben, die das Gastteam akzeptiert hat.
-Sie listet auch alle Details aus Sicht des Host-Teams auf, z.B. wie eine Funktion geschrieben und eingereicht werden soll damit der Code akzeptiert werden kann.
-Beispiele für solche Details sind Architektureinschränkungen, Codierungskonventionen, Abhängigkeitsverwendungen, Datenverträge usw.
-* Unterstützt vom vertrauenswürdigen Committer, sendet der Mitwirkende den PullRequest, um die angefragte Funktion zu implementieren.
+* Das Gastteam, beziehungsweise konkret ein Mitglied des Gastteams, fragt eine Funktion vom Host-Team an.
+* Der Product Owner stellt sicher, dass User Stories entsprechend dem Feature Request erstellt werden: Entweder vom Guest Team oder vom Host Team. 
+Diese Userstories beschreiben das gewünschte Feature so wie es sich das Gastteam vorstellt.
+Die User Stories enthalten auch all jene Details, auf die das Host Team vor Annahme der Änderung Wert legt.
+Beispiele für solche Details sind Besonderheiten in der Architektur, Coding Conventions, die Verwendung spezifischer Bibliotheken, Contracts hinsichtlich Daten usw.
+* Unterstützt vom Trusted Committer, sendet der Contributor den Pull-Request, um das angefragte Feature zu implementieren.
 
-Beachten Sie, dass bei diesen Schritten kein bestimmtes System für die allgemeine Organisation der Zeit oder der Prioritäten eines Teams angenommen wird. 
+Zu beachten ist, dass bei diesen Schritten kein bestimmter Prozess für Koordination oder Priorisierung der Teams vorrausgesetzt wird. 
 InnerSource geht davon aus, dass Teams bereits über vorhandene Organisationsmethoden verfügen, und bietet einen Rahmen für die Zusammenarbeit, wenn ein Gastteam Code zu einem Project beitragen möchte.
 
-Dieser Weg der Zusammenarbeit funktioniert gut für das Gastteam, da es die Funktionalität erhält die es benötigt, wenn sie sie benötigt, und ohne die Notwendigkeit die langfristige Wartung der Lösung zu übernehmen.
+Dieser Weg der Zusammenarbeit birgt Vorteile für das Gastteam. Es erhält die Funktionalität, die es benötigt zum rechten Zeitpunkt und ohne die Verpflichtung, die langfristige Wartung der Lösung zu übernehmen.
 Dieser Weg funktioniert für das Gastgeberteam, weil es in der Lage ist, besser zu skalieren und seine Kunden besser zu bedienen.
-Dies funktioniert für das Unternehmen in der Gesamtheit, weil Lösungen für gemeinsame Probleme an einem gemeinsamen, zentral gepflegten Ort jedem zur Verfuegung gestellt werden.
-Letzlich steht mehr Zeit für die Erstellung von Code zur Verfügung, der die wirklichen Unternehmensprobleme löst, anstatt sie zur Verhandlung über Features oder für Eskalationsprozesse zu verwenden.
+Dies funktioniert für das Unternehmen in der Gesamtheit, weil Lösungen für gemeinsame Probleme an einem gemeinsamen, zentral gepflegten Ort jedem zur Verfügung gestellt werden.
+In letzter Konsequenz fließt mehr Zeit in Code, der die eigentlichen Unternehmensprobleme löst, anstatt in Verhandlungen über Features oder in Eskalationsprozesse.
 
 === Zusätzliche Ressourcen
 
