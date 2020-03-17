@@ -2,7 +2,7 @@
 
 Jedes Unternehmen, Team, Projekt und Individuum ist verschieden.
 Aus diesem Grund variiert die genaue Anwendung der InnerSourcekonzepte von Situation zu Situation.
-Im Mittelpunkt stehen in jeden Fall jedoch vier Prinzipien, die das Fundament jeder erfolgreichen Anwendung von InnerSource bilden.
+Im Mittelpunkt stehen jedoch immer vier Prinzipien. Sie bilden das Fundament jeder erfolgreichen Anwendung von InnerSource.
 Diese Prinzipien sind inspiriert durch erfolgreiche Open Source-Projekte und sind erforderlich damit InnerSource die zuvor beschriebenen Vorteile erzielt.
 
 Die Prinzipien sind:
