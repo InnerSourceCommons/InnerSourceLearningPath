@@ -1,7 +1,7 @@
 == InnerSource-Prinzipien
 
 Jedes Unternehmen, Team, Projekt und Individuum ist verschieden.
-Aus diesem Grund variiert die genaue Anwendung der InnerSourcekonzepte von Situation zu Situation.
+Aus diesem Grund variiert die genaue Anwendung der InnerSource-Konzepte von Situation zu Situation.
 Im Mittelpunkt stehen jedoch immer vier Prinzipien. Sie bilden das Fundament jeder erfolgreichen Anwendung von InnerSource.
 Diese Prinzipien sind inspiriert durch erfolgreiche Open Source-Projekte und sind erforderlich damit InnerSource die zuvor beschriebenen Vorteile erzielt.
 
@@ -16,19 +16,19 @@ Schauen wir uns jedes dieser Prinzipien genauer an.
 
 === Offenheit
 
-Die Konfiguration eines offenen Projekts ermöglicht reibungslose Teilnahme.
+Die Offenheit eines Projekts ermöglicht reibungslose Teilnahme.
 Projekte sollten leicht auffindbar und gut über die Dateien README.md und CONTRIBUTING.md im Stammverzeichnis (Root) des Repos dokumentiert sein.
-Jeder innerhalb einer Organisation sollte in der Lage sein, ein gewünschtes Projekt zu finden und ohne übermäßige weitere Hilfe durch die Mitglieder des Hostteams mit der Arbiet zu beginnen.
-Die Kontaktinformationen des Hostteams sollten in allen Kanälen zur Verfügung stehen die für das Projekt sinnvoll sind.
-Die Absichten des Hostteams InnerSourcebeiträge zu seinem Projekt anzunehmen, sollten über relevante Organisationskanäle mitgeteilt werden, um das Bewusstsein darum to erhöhen.
-Insbesondere in kleineren Organizations möchten Sie möglicherweise regelmäßig über die InnerSourcearbeit Ihres Teams berichten.
-In größeren Unternehmen/Organizationen können solche Berichte/Nachrichten jedoch überwaltigend sein und es ist möglicherweise angemessener sicherzustellen, dass das Projekt z.B. in einem benutzerfreundlichen Tool leicht auffindbar ist.
+Jeder innerhalb einer Organisation sollte in der Lage sein, ein gewünschtes Projekt zu finden und ohne übermäßige weitere Hilfe durch die Mitglieder des Hostteams mit der Arbeit zu beginnen.
+Das Hostteam sollte über genau jene Kanäle erreichbar sein wie es für das Projekt sinnvoll ist.
+Die Absichten des Hostteams InnerSource-Beiträge zu seinem Projekt anzunehmen, sollten über relevante Organisationskanäle mitgeteilt werden, um das Bewusstsein dafür zu erhöhen.
+Insbesondere in kleineren Organizations möchten Sie möglicherweise regelmäßig über die InnerSource-Arbeit Ihres Teams berichten.
+In größeren Unternehmen/Organizationen können solche Berichte/Nachrichten jedoch überwaltigend sein und es ist möglicherweise angemessener, sicherzustellen, dass das Projekt z.B. in einem benutzerfreundlichen Tool leicht auffindbar ist.
 Denken Sie daran, das Ziel ist es, die Kanäle zu nutzen, die in IHREM Unternehmen am besten funktionieren.
 
 Die obige Liste ist keineswegs erschöpfend.
 Die Offenheit eines Projekts hängt in der Regel direkt davon ab wie erfolgreich ein Projekt in Bezug auf InnerSource ist.
 Je offener es ist, desto weniger Hindernisse werden für potenzielle Mitwirkende geschaffen.
-Je weniger offen es ist, desto schwieriger wird es für jemanden ausserhalb des Hostteams einen Beitrag zu leisten.
+Je weniger offen es ist, desto schwieriger wird es für jemanden ausserhalb des Hostteams, einen Beitrag zu leisten.
 
 === Transparenz
 
@@ -36,12 +36,12 @@ Damit Gastteams einen sinnvollen Beitrag zu einem Projekt leisten können, muss 
 Dies bedeutet, dass Gastteams in der Lage sein sollten, folgendes zu verstehen:
 
 * Das Projekt / Repo und seine Ziele
-* Noch offene Funktionsanforderungen
-* Fortschritte bei den Funktionentwicklungen
+* Noch offene Feature Requests
+* Fortschritte bei der Entwicklung von Features
 * Entscheidungsfindungsprozess des Hostteams
 
 Wenn möglich, sollte das obige klar und detailliert kommuniziert werden, von den internen Definitionen der verbleibenden Arbeit bis hin zu projektspezifischen Spezialszenarien.
-Diese Kommunikation sollte auf eine Weise erfolgen sodass die Information für diejenigen, die nicht Teil des Kernteams sind, leicht gefunden and nachvollzogen werden kann.
+Diese Kommunikation sollte auf eine Weise erfolgen, sodass die Information für diejenigen, die nicht Teil des Kernteams sind, leicht gefunden and nachvollzogen werden kann.
 
 === Priorisierte Betreuung
 
@@ -50,21 +50,21 @@ https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contri
 Dabei lernen sie die Software des Hostteams sowohl als genereller Nutzer als auch als Botschafter für das Projekt / die Software besser verstehen.
 Diese einzelnen Mitarbeiter können im Laufe der Zeit und mit wachsender Erfahrung eine breitere Rolle im Projekt als Trusted Committer zu übernehmen.
 
-Es ist wichtig, dass die Schulung für potentielle Contributors vom Hostteam priorisiert wird.
+Es ist wichtig, dass Mentoring für potentielle Contributoren vom Hostteam priorisiert wird.
 Das Hostteam sollte sich bemühen sich ausreichend Zeit für die Betreuung der Mitarbeiter des Gastteams zu nehmen - ganz speziell zu dem Zeitpunkt zu dem der Mitarbeiter es benötigt - und nicht, wenn es für das Hostteam bequem ist.
-Manchmal kann es für Ingenieure im Hostteam ein Kulturwandel sein, Zeit zu investiern um anderen beim Codieren zu helfen, anstatt selbst zu codieren.
-Diese Art der Schulung/Betreuung ist sowohl für den einzelnen Mitarbeiter des Gastteams als auch für den Gastgeber wertvoll, und es lohnt sich den Aufwand zu betreiben.
+Manchmal kann es für Entwickler im Hostteam ein Kulturwandel sein, Zeit zu investieren um anderen beim Schreiben von Quellecode zu helfen, anstatt selbst zu entwickeln.
+Diese Art des Mentorings ist sowohl für den einzelnen Mitarbeiter des Gastteams als auch für den Gastgeber wertvoll, und es lohnt sich den Aufwand zu betreiben.
 Es erweist sich auf lange Sicht als vorteilhaft für beide Seiten. 
-Durch die Verbesserung des Codes bildet oder verbessert der Mitarbeiter die Beziehungen innerhalb einer Organisation, die sonst möglicherweise nicht existiert hätten.
+Durch die Verbesserung des Quellcodes bildet oder verbessert der Mitarbeiter die Beziehungen innerhalb einer Organisation, die sonst möglicherweise nicht existiert hätten.
 Open Source erkennt diesen Punkt sofort und betrachtet es als eine Ehre, den Status eines Trusted Committers für ein Projekt zu erreichen.
 
 === Freiwilliger Codebeitrag
 
-Das erste Wort _Freiwillinger_ bedeutet, dass das Engagement von Gast- und Hostteams in InnerSource aus freiem Willen erfolgt.
+Das Wort _freiwillig_ bedeutet, dass das Engagement von Gast- und Hostteams in InnerSource aus freiem Willen erfolgt.
 Das Gastteam spendet freiwillig Code an das Hostteam und das Hostteam akzeptiert ihn freiwillig.
 Diese Opt-in-Natur bedeutet, dass jedes Team sicher sein muss, dass sein Engagement einen Mehrwert für die Ziele des anderen darstellt.
 Niemals muss ein Hostteam einen Beitrag annehmen, der nicht mit dem endgültigen Ziel übereinstimmt.
 Niemals muss ein Gastteam einen Beitrag einreichen, der letztendlich das Erreichen seiner eigenen Ziele und Prioritäten nicht fördert.
 
 Das Wort _Code_ betont, dass die Zusammenarbeit zwischen Gast und Host bis zum Code reicht.
-Die Beteiligung der Gäste am Öffnen von Problemenmeldungen, Aktualisieren von Anforderungen, Korrigieren von Dokumenten usw. ist eine gute Sache, jedoch muss die Zusammenarbeit im Endeffekt bis hin zur Code Entwicklung reichen um die oben diskutierten positiven Effekte zu erzielen.
+Die Beteiligung der Gäste in Form von Bug Reports, Aktualisieren von Anforderungen, Korrigieren von Dokumentation usw. sind sehr wertvoll. Jedoch muss die Zusammenarbeit letztlich bis hin zur Entwicklung reichen, um die oben diskutierten positiven Effekte zu erzielen.
