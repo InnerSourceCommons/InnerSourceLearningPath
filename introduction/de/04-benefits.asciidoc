@@ -10,7 +10,7 @@ Somit kann das Hostteam durch die Anwendung von InnerSourceprinzipien  *Hilfe be
 
 *InnerSource bietet dem Hostteam eine skalierbare Strategie* zur Erfüllung unterschiedlicher Funktionsanforderungen die von seinen verschiedenen Nutzern/Kunden vorgebracht werden.
 Angesichts der festen Arbeitskapazität der Vollzeitmitglieder des Hostteams ist es wahrscheinlich, dass die kombinierten Geschäftspläne der Nutzer zuweilen sehr (oder sogar unangemessen) viel zusätzliche Arbeit für das Hostteam bedeutet.
-Ohne InnerSource führt diese Situation leicht zu einem gestressten, überlasteten Team, das sich mit vielen (fremden) Featureanfragen befasst die ggf. über seine Führungskräfte eskaliert worden sind.
+Ohne InnerSource führt diese Situation leicht zu einem gestressten, überlasteten Team, das sich mit vielen (fremden) Featureanfragen befasst, die ggf. über seine Führungskräfte eskaliert worden sind.
 
 Wenn das Hostteam jedoch nach InnerSource Prinzipien arbeitet, werden die zum Erstellen dieser Funktionen erforderlichen technischen Lösungen in Form von Gastbeiträgen gemäss der Priorität des Gastteam erbracht.
 *InnerSource wird somit zu einem Multiplikator* mit dem das Hostteam in Zeiten hoher Nachfrage vorübergehend mehr Funktionalität liefern kann als seine eigentliche Teamgröße indiziert.
