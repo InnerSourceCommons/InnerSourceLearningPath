@@ -4,7 +4,7 @@ Angenommen, Team A verwendet Software, die von Team B produziert wird.
 Team A sendet eine Funktionsanforderung an Team B, aber Team B kann diese Funktion nicht rechtzeitig für Team A implementieren.
 In einer InnerSource Umgebung kann Team A anstatt einer Feature-Anforderung auch alternativ einen PullRequest an Team B zur Integration schicken.
 Das heißt, Team A implementiert die Funktion direkt in der Software von Team B und sendet einen PullRequest mit den Codeänderungen.
-In enger Partnerschaft überprüft Team B dann den übermittelten Code und ggf. akzeptiert die Aenderungen wenn sie den Anforderungen enpricht.
+Team B überprüft dann den übermittelten Code, überarbeitet ihn gegebenenfalls in enger Partnerschaft mit Team A und integriert die Änderungen sobald sie den Anforderungen entsprechen.
 
 In diesem Beispiel nennen wir Team A das _Guest_-Team und Team B das _Host_-Team.
 Die Begriffe _Guest_ und _Host_ legen eine Situation nahe, die dem Empfang eines Besuchers im Haus entspricht.
