@@ -2,7 +2,7 @@
 
 Diese Learningpath Serie bietet eine Einführung in InnerSource. 
 InnerSource ist die Anwendung von Open-Source Praktiken und -Prinzipien auf die Softwareentwicklung im Unternehmen. 
-Die InnerSource-Software bleibt dabei Eigentum des Unternehmens, kann jedoch von jedem Mitarbeiter des Unternehmens genutzt, verbessert und erweitert werden. 
+Die InnerSource-Software bleibt dabei Eigentum des Unternehmens. Jeder Mitarbeiter kann sie nutzen und Verbesserungen oder Erweiterungen beitragen.
 Diese Strategie ermöglicht eine breite und effektive Zusammenarbeit und produziert Software, die sich schnell auf die sich ändernden Anforderungen der verschiedenen internen 
 Stakeholder einstellen und anpassen lässt.
 
