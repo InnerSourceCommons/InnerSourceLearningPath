@@ -9,7 +9,7 @@ Team B überprüft dann den übermittelten Code, überarbeitet ihn gegebenenfall
 In diesem Beispiel nennen wir Team A das _Guest_-Team und Team B das _Host_-Team.
 Die Begriffe _Guest_ und _Host_ legen eine Situation nahe, die dem Empfang eines Besuchers im Haus entspricht.
 In dieser Situation wollen die meisten Menschen ein guter Gastgeber sein.
-In Erwartung der Ankunft ihrer Gäste, sorgen Sie dafür, dass die Dinge sauber in bester Ordnung sind.
+Haben sich Gäste angekündigt, sorgen Gastgeber für eine einladende Atmosphäre.
 Die Besucher werden an der Tür begrüßt und herein gebeten.
 Sie können die Funktionen und Räume nutzen, die sich in den öffentlichen Bereichen des Hauses befinden.
 Es kann ein paar Hausregeln geben, die Sie gebeten werden zu befolgen.
