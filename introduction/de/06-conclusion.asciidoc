@@ -8,6 +8,6 @@ Richtig betriebenes InnerSource bietet beiden teilnehmenden Teams viele Vorteile
 Die Schlüsselprinzipien, nach denen gut geführte InnerSource funktioniert, sind *freiwilliger Code-Beitrag* und *priorisierte Schulung/Betreuung*.
 
 Während diese Serie einen allgemeinen Überblick über InnerSource enthält, gibt es viele weitere wichtige Details, um InnerSource in Ihrem Team erfolgreich zu praktizieren.
-Wenn Sie mit den Entwicklungen in InnerSource und seine besten Praktiken auf dem laufenden bleiben möchten, laden wir Sie herzlich zu den http://innersourcecommons.org [dem InnerSource Commons] ein.
+Wenn Sie über Entwicklungen in InnerSource und die damit verbundenen Best Practices auf dem laufenden gehalten werden möchten, laden wir Sie herzlich zu den http://innersourcecommons.org [InnerSource Commons] ein.
 Weiterhin betreibt die InnerSource Commons einen Slack-Kanal, eine InnerSource Arbeitsgruppe die sich mit erfolgreichen Zusammenarbeitsmustern befasst, und veranstaltet jedes Jahr mehrere Treffen.
 Ihre Teilnahme an den InnerSource Commons ist eine großartige Möglichkeit, um mit den neuesten Entwicklungen in InnerSource auf dem laufenden zu bleiben.
