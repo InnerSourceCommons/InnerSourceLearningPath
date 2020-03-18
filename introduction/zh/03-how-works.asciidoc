@@ -44,3 +44,25 @@ More engineering time stays focused on producing code that solves company proble
 === Additional Resources
 
 * The https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.asciidoc[Trusted Committer] pattern.
+
+
+=== InnerSource是如何工作的?
+假设团队A使用的软件是由团队B生产的。团队A给团队B提交了一个特性需求，但团队B无法在团队A要求的时间内及时实现该功能。在InnerSource设置中，如果团队A不能得到这个特性请求，它会提一个提拉请求(Pull Request, 简称PR)代替。也就是说，团队A直接在团队B的软件中实现该功能，并提交一个带有代码更改的提拉请求。团队B合作伙伴审查并接受提交的代码。
+
+在这个例子中，我们称团队A为客人团队，称团队B为主人团队（主导团队）。客人和主人这两个术语暗示了一种类似于在家里接待客人的情况。在这种情况下，大多数人都想成为一个好主人。为了迎接客人的到来，他们确保所有的东西都保持整洁。来访者在门口受到欢迎并被邀请进来。他们可以使用家中公共区域的功能和公用设施。可能会有一些客人被要求遵守的家规。同样的，大多数客人也想表现出对家庭和主人的尊重。他们对房子里的东西很小心，在他们逗留期间遵守规则。只要他们有礼貌，他们就会希望收到回访邀请。这些围绕着家访的概念是一个隐喻，它是团队在一个宿主向另一个宿主贡献代码库时应该采取的态度和行为。
+
+让我们仔细看看InnerSource的流程机制是如何工作的。为了帮助解释，我们将列出客人和主人团队中的几个关键人物。首先，产品所有者 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_] 确定主人团队愿意接受哪些功能作为贡献。贡献者 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] 是客人团队中提交代码贡献以供主人团队评审的个人。受信任提交者 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] 代表主人团队在提供一个成功的提拉请求所需的任何及时支持和指导。在小规模的基层工作中，一个人通常同时担任产所有者和受信任的提交者的角色。
+
+有了这些定义，下面是一个InnerSource的贡献的基本概要。
+
+客人团队或贡献者向主人团队请求一个特性。
+产品所有者确保由客户团队或主机团队的成员创建表示功能请求的用户场景。这些描述应该以客人团队所同意的方式来描述所请求的特性。它们还列出了来自主机团队的关于如何交付功能以使工作被接受的所有细节。这些细节的例子包括架构约束、编码约定、依赖用法、数据契约等等。
+在受信任提交者的支持下，贡献者提交PR来实现所请求的特性。
+
+请注意，这些步骤并没有为团队的时间或优先级的一般组织假定一个特定的系统。InnerSource假设团队已经有了现有的组织方法，并提供了一个框架，用于在有客户团队希望向主机贡献代码时，如何使用这些方法进行协作。
+
+这个选项对客人团队很有效，因为他们在需要的时候获得了所需的功能，而无需承担解决方案的长期维护负担。这对于主机团队来说是有效的，因为他们能够更好地扩展和服务他们的消费者。它适用于整个公司，因为共享问题的解决方案最终都在共享的、集中维护的位置，任何人都可以使用它们。更多的工程时间集中于生成解决公司问题的代码，而不是特性协商和升级过程的机制。
+
+=== 额外的资源
+https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.asciidoc[受信提交者]模式。
+
