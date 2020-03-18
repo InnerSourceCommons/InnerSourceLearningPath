@@ -87,5 +87,5 @@ Invite interested viewers to participate in the InnerSource Commons.
 
 === 结论
 回顾这条学习路径的关键点，引导观众寻找下一个片段。邀请有兴趣的观众可加入InnerSource社区。
- 
+
 
