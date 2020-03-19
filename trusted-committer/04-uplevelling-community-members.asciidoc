@@ -36,4 +36,4 @@ In summary, Trusted Committers need to attract new https://github.com/InnerSourc
 ability to make contributions. This activity ultimately levels up the
 community’s ability to create better software faster. They do so by
 communicating opportunities to make contributions and by helping and
-mentoring contributors.
+mentoring Contributors enabling them to grow.
