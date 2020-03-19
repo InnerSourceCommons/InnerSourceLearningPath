@@ -17,7 +17,7 @@ often works well is if https://github.com/InnerSourceCommons/InnerSourceLearning
 benefits their department or role in the company. Development tools and automation are good examples.
 
 Finally, it is the Trusted Committer's responsibility to identify and support https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] with the potential to grow 
-by encouraging them to tackle challenging tasks and helping them complete them. This is, in our opinion, a Trusted Committer's
+by encouraging them to tackle challenging tasks and mentor them towards completion. This is, in our opinion, a Trusted Committer's
 noblest responsibility, and it is rewarding for both Trusted Committer and
 contributor. We've heard Trusted Committers say that mentoring and
 seeing people level up their abilities more than makes up for the fact
