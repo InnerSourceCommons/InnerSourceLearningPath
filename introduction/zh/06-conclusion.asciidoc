@@ -1,17 +1,3 @@
-== Conclusion
-
-In this learning path, we've given an introduction to InnerSource.
-InnerSource applies open source best practices and principles to internal software development.
-It gives an additional option to consumers when producing teams are not able to deliver a needed feature request.
-Successful InnerSource involves a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_product owner_] and https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_trusted committer_] from the *host team* as well as a https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributor_] from the *guest team*.
-Done effectively, InnerSource brings many benefits to both participating teams.
-They key principles upon-which effective InnerSource works are *voluntary code contribution* and *prioritized mentorship*.
-
-While this training contains a high-level overview of InnerSource, there are many more details useful in making InnerSource actually work for your team.
-If you want to stay connected to the ongoing conversation around InnerSource and its best practices, then join http://innersourcecommons.org[the InnerSource Commons].
-The commons sponsors a Slack channel, an InnerSource patterns working group, and multiple in-person summits each year.
-Participation in the commons is a great way to stay connected with the latest in InnerSource.
-
 === 结论
 在这个学习过程中，我们已经介绍了InnerSource。InnerSource将开放源码的最佳实践和原则应用于内部软件开发。当主人团队无法交付所需的特性请求时，它为使用者提供了一个额外的选项。成功的InnerSource包括来自主人团队的产品所有者 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_product owner_] 和受信任提交者 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_trusted committer_] ，以及来自客人团队的贡献者。如果处理有效，InnerSource将为参与团队带来很多好处。有效的内部资源工作是自愿的代码贡献和优先的指导。
 
