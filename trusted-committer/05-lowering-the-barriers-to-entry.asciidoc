@@ -8,21 +8,21 @@ Soliciting contributions in an InnerSource community is more challenging than it
 performance goals, so time spent working on InnerSource
 may seem to detract from achieving those goals.
 
-That's why it's important for TCs to make the processes for making
-contributions and onboarding contributors as frictionless as
+That's why it's important for Trusted Committers to make the processes for making
+contributions and onboarding https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] as frictionless as
 possible. There are a number of things that can help:
 
-* Have a good readme.md in each code repository. A good readme.md
+* Have a good README.md in each code repository. A good README.md
 explains what’s in the repository and what it can be used for. In
 addition, it should provide detailed instructions on how to get, build,
 test, and use the software in the repository, including information about
 the license.
-* Have a good contributing.md that outlines what is expected of the
-contributor. It should answer
+* Have a good CONTRIBUTING.md that outlines what is expected of the
+https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_]. It should answer
 common questions, such as:
 ** How do I submit a bug report or feature request?
-** Who do I contact if I have questions?
-** What are the conventions for code style, branching, or commit messages?
+** Who and how do I contact if I have questions?
+** What are the conventions for code style, branching or commit messages?
 ** What is the definition of "done" for a contribution?
 ** What are the process steps that govern contributions?
 ** What is expected of me in terms of supporting contributed code after
@@ -36,8 +36,9 @@ include a copy of that license _and_ an explanation of the rights and
 obligations in layman’s terms.
 
 In addition to these documentary tasks, similar to Open Source
-software development it should be easy and straightforward to 
-test their software so they can start implementing and validating it as soon as possible.
+software development it should be easy and straightforward to run and test the software
+being developed locally by potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_], so they can start implementing and validating their contribution with as little effort as
+possible.
 
 Your contributors will often have questions about the contribution process or about the community itself and someone has to be available to answer these questions. It is therefore important for any InnerSource community to
 have one or more contact persons that are available for answering such
