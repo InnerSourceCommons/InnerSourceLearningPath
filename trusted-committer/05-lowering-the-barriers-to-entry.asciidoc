@@ -2,10 +2,9 @@
 
 Soliciting contributions in an InnerSource community is more challenging than it is in an Open Source community for a number of reasons:
 
-* The sheer number of potential contributors is lower in InnerSource communities
-* Contributors will want to contribute during their work time, which
-means they are more time constrained.
-* Work in InnerSource might not necessarily be part of contributors' official
+* The sheer number of potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] is lower in InnerSource communities.
+* Contributors will want to contribute during their work time, which means they are more time constrained.
+* Work in InnerSource might not necessarily be part of Contributors' official
 performance goals, so time spent working on InnerSource
 may seem to detract from achieving those goals.
 
