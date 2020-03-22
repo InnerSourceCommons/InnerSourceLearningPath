@@ -49,14 +49,14 @@ It is therefore important for any InnerSource community to
 have one or more contact persons that are available for answering such
 questions. The Trusted Committer is usually that contact person, or else they need to make sure there is a community member "on call".
 
-It is also important to help potential contributors determine what
+It is also important to help potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] determine what
 contributions are needed. These can be code contributions but
 also noncode contributions, such as writing documentation, creating
 artwork, or organizing events. One common way to do this is to tag
 "newcomer tasks" in the issue tracker used by the community or
-to implement a marketplace for open tasks contributors can use.
+to implement a marketplace for open tasks Contributors can use.
 
 In summary, it is super important for InnerSource communities in a
 corporate environment to keep the barriers to contributing as low as
 possible to allow as many people as possible to contribute. That means providing both access to helpful
-documentation and people in the community to answer any questions and to encourage collaboration. In sum, TCs should make sure that onboarding and contributing are positive experiences. 
+documentation and people in the community to answer any questions and to encourage collaboration. In sum, Trusted Committers should make sure that onboarding and contributing are positive experiences. 
