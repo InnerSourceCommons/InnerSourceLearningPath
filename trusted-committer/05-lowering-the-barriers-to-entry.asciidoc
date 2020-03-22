@@ -1,75 +1,62 @@
-== Lowering the barriers to entry
+== Lowering the Barriers to Entry
 
-Soliciting contributions is one of the things that is more challenging in
-InnerSource compared to Open Source. There are a number of reasons for this.
+Soliciting contributions in an InnerSource community is more challenging than it is in an Open Source community for a number of reasons:
 
-* The sheer number of potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] is lower in InnerSource
-* Contributors will want to contribute during their work time. That means
-they are more time constrained compared to doing Open Source, which also
-happens after office hours.
-* Work in InnerSource might not necessarily be part of the official
-performance goals of Contributors so time spent working on InnerSource might
-detract from reaching these goals.
+* The sheer number of potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] is lower in InnerSource communities.
+* Contributors will want to contribute during their work time, which means they are more time constrained.
+* Work in InnerSource might not necessarily be part of Contributors' official
+performance goals, so time spent working on InnerSource
+may seem to detract from achieving those goals.
 
-It is therefore super important to make the process for making contributions
-and for onboarding https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] as frictionless as possible to avoid wasting a
-Contributor's time. This falls squarely into the responsibilities of Trusted Committers. There
-are a number of things Trusted Committers can do in this department.
+That's why it's important for Trusted Committers to make the processes for making
+contributions and onboarding https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] as frictionless as
+possible. There are a number of things that can help:
 
-* Have a good readme.asciidoc in each code repository. A good readme.md explains
-what's in the repository and what it can be used for. In addition, it should
-provide detailed instructions on how to get, build, test and use the software in
-the repository, including information about the license.
-* Have a good contributing.asciidoc which outlines what is expected of the
-https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] with respect to making a contribution. It should answer common
-questions, such as:
- ** How do I submit a bug report or feature request?
- ** Who do I contact in case of questions and how can I reach them?
- ** What are conventions for code style, branching or commit messages?
- ** What is the definition of done for a contribution?
- ** What are the process steps that govern contributions?
- ** What is expected of me in terms of supporting contributed code after
-the contribution was accepted?
- ** What is the code of conduct and what are the guidelines to how the
+* Have a good README.md in each code repository. A good README.md
+explains what’s in the repository and what it can be used for. In
+addition, it should provide detailed instructions on how to get, build,
+test, and use the software in the repository, including information about
+the license.
+* Have a good CONTRIBUTING.md that outlines what is expected of the
+https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_]. It should answer
+common questions, such as:
+** How do I submit a bug report or feature request?
+** Who and how do I contact if I have questions?
+** What are the conventions for code style, branching or commit messages?
+** What is the definition of "done" for a contribution?
+** What are the process steps that govern contributions?
+** What is expected of me in terms of supporting contributed code after
+the contribution is accepted?
+** What is the code of conduct and what are the guidelines to how the
 community operates?
 
 If you have an internal license attached to the software, which in some
-companies is a precondition to share software across legal entities, include a copy
-of that license *and* an explanation of the rights and obligations of that
-license in layman's terms.
+companies is a prerequisite for sharing software across legal entities,
+include a copy of that license _and_ an explanation of the rights and
+obligations in layman’s terms.
 
-In addition to these documentary tasks and similar to Open Source software
-development, it should be easy and straightforward to run and test the software
-being developed locally by potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_], so that they can start
-implementing and validating their contribution with as little effort as
+In addition to these documentary tasks, similar to Open Source
+software development it should be easy and straightforward to run and test the software
+being developed locally by potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_], so they can start implementing and validating their contribution with as little effort as
 possible.
 
-There are two common models for making contributions, today:
-_shared repository_ and _fork and join_. Both have advantages and as a Trusted Committer,
-you'll want to support both models to accommodate different needs of your
+There are two common models for making contributions:
+_shared repository_ and _fork and join_. Both have advantages, and as a Trusted Committer,
+you want to support both models to accommodate different needs of your
 potential and current https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_].
-Oftentimes, potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] will have questions they would like to
-have answered before they make a contribution. Those could be tech oriented
-questions, questions regarding contributions, or quite simply questions aimed at
-figuring out if there's somebody to talk to in the community. It is therefore
-important for any InnerSource community to have one or more contact persons
-that are available for answering such questions. It is the Trusted Committer's responsibility
-to make sure there is a community member "on call". Most commonly, the Trusted Committers
-themselves will fulfill that role, since onboarding new community members is
-one of their jobs.
+Your Contributors will often have questions about the contribution process or about the community itself, and someone has to be available to answer these questions. 
+It is therefore important for any InnerSource community to
+have one or more contact persons that are available for answering such
+questions. The Trusted Committer is usually that contact person, or else they need to make sure there is a community member "on call".
 
-It is also important to help potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_]
-to determine what contributions are welcome or needed. These can be code
-contributions but also non-code contributions, such as writing documentation,
-creating artwork or organizing events. One common way to do this is to tag
-"newcomer tasks" in the issue tracker used by the community or implement a
-marketplace for open tasks, that https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] can use.
+It is also important to help potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] determine what
+contributions are needed. These can be code contributions but
+also noncode contributions, such as writing documentation, creating
+artwork, or organizing events. One common way to do this is to tag
+"newcomer tasks" in the issue tracker used by the community or
+to implement a marketplace for open tasks Contributors can use.
 
-
-In summary, it is super important for InnerSource communities in a corporate
-environment to keep the barriers to contributing as low as possible to get as
-many https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] as possible. Trusted Committers therefore make sure that users and
-https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] have both access to helpful documentation and people in the
-community to answer any questions they might have and that they can get up
-and running in no time. Generally speaking, Trusted Committers should make sure that the
-the onboarding experience is a great one.
+In summary, it is super important for InnerSource communities in a
+corporate environment to keep the barriers to contributing as low as
+possible to allow as many people as possible to contribute. That means providing both access to helpful
+documentation and people in the community to answer any questions and to encourage collaboration. In sum, Trusted Committers should make sure that onboarding and contributing are positive experiences. 
