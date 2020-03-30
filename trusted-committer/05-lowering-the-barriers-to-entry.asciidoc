@@ -47,7 +47,7 @@ potential and current https://github.com/InnerSourceCommons/InnerSourceLearningP
 Your Contributors will often have questions about the contribution process or about the community itself, and someone has to be available to answer these questions. 
 It is therefore important for any InnerSource community to
 have one or more contact persons that are available for answering such
-questions. The Trusted Committer is usually that contact person, or else they need to make sure there is a community member "on call".
+questions. Someone from the group of Trusted Committers is usually that contact person, or else they need to make sure there is a community member "on call".
 
 It is also important to help potential https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] determine what
 contributions are needed. These can be code contributions but
