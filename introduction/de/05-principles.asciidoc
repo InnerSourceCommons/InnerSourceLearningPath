@@ -51,7 +51,7 @@ Dabei lernen sie die Software des Hostteams sowohl als genereller Nutzer als auc
 Diese einzelnen Mitarbeiter können im Laufe der Zeit und mit wachsender Erfahrung eine breitere Rolle im Projekt als Trusted Committer zu übernehmen.
 
 Es ist wichtig, dass Mentoring für potentielle Contributoren vom Hostteam priorisiert wird.
-Das Hostteam sollte sich bemühen sich ausreichend Zeit für die Betreuung der Mitarbeiter des Gastteams zu nehmen - ganz speziell zu dem Zeitpunkt zu dem der Mitarbeiter es benötigt - und nicht, wenn es für das Hostteam bequem ist.
+Das Hostteam sollte sich bemühen, sich ausreichend Zeit für die Betreuung der Contributor des Gastteams zu nehmen - ganz speziell zu dem Zeitpunkt zu dem der Contributor es benötigt - und nicht, wenn es für das Hostteam bequem ist.
 Manchmal kann es für Entwickler im Hostteam ein Kulturwandel sein, Zeit zu investieren um anderen beim Schreiben von Quellecode zu helfen, anstatt selbst zu entwickeln.
 Diese Art des Mentorings ist sowohl für den einzelnen Mitarbeiter des Gastteams als auch für den Gastgeber wertvoll, und es lohnt sich den Aufwand zu betreiben.
 Es erweist sich auf lange Sicht als vorteilhaft für beide Seiten. 
