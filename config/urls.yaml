@@ -31,3 +31,43 @@
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/02-problems-solved.asciidoc
     isc: ''
     oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321608
+    youtube: https://www.youtube.com/watch?v=E6VVv9S5aKw
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/03-how-works.asciidoc
+    isc: ''
+    oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321609
+    youtube: https://www.youtube.com/watch?v=8LErWYnMfeQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/04-benefits.asciidoc
+    isc: ''
+    oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321610
+    youtube: https://www.youtube.com/watch?v=8LErWYnMfeQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/05-principles.asciidoc
+    isc: ''
+    oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321611
+    youtube: https://www.youtube.com/watch?v=8LErWYnMfeQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/06-conclusion.asciidoc
+    isc: ''
+    oreilly: ''
