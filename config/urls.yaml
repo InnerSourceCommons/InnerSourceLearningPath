@@ -31,3 +31,243 @@
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/02-problems-solved.asciidoc
     isc: ''
     oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321608
+    youtube: https://www.youtube.com/watch?v=E6VVv9S5aKw
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/03-how-works.asciidoc
+    isc: ''
+    oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321609
+    youtube: https://www.youtube.com/watch?v=8LErWYnMfeQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/04-benefits.asciidoc
+    isc: ''
+    oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321610
+    youtube: https://www.youtube.com/watch?v=8LErWYnMfeQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/05-principles.asciidoc
+    isc: ''
+    oreilly: ''
+- section: introduction
+  video:
+    isc: http://innersourcecommons.org/resources/learningpath/introduction/
+    oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321611
+    youtube: https://www.youtube.com/watch?v=8LErWYnMfeQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/06-conclusion.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
+    youtube: https://www.youtube.com/watch?v=TKdqjkPJWNU
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/01-introduction.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323926
+    youtube: https://www.youtube.com/watch?v=06cVAAwgsZA
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/02-ensuring-product-quality.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323927
+    youtube: https://www.youtube.com/watch?v=930UIbjiXZc
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/03-keeping-the-community-healthy.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323928
+    youtube: https://www.youtube.com/watch?v=o7geZaX7i7I
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/04-uplevelling-community-members.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929
+    youtube: https://www.youtube.com/watch?v=Lnz54hlKC-I
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/05-lowering-the-barriers-to-entry.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323930
+    youtube: https://www.youtube.com/watch?v=ucQA8mp012Q
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323931
+    youtube: https://www.youtube.com/watch?v=jA1p01FEHj4
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/07-becoming-a-trusted-committer.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323932
+    youtube: https://www.youtube.com/watch?v=n982OcEfyQE
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/08-conclusion.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325229
+    youtube: https://www.youtube.com/watch?v=5DXUljspcA4
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325230
+    youtube: https://www.youtube.com/watch?v=qCGCNGHyx9I
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/02-how-difficult-it-is-to-be-a-middle-manager-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325231
+    youtube: https://www.youtube.com/watch?v=CuycPf1DTVQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/03-major-benefits-are-built-into-the-innersource-process-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325232
+    youtube: https://www.youtube.com/watch?v=35Ttvq1zEAA
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/04-new-roles-and-responsibilities-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325233
+    youtube: https://www.youtube.com/watch?v=Wxd-SiV5NSI
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/05-recap-takeaways-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325234
+    youtube: https://www.youtube.com/watch?v=qMGQVvoqrzo
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/06-closing-and-contact-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329499
+    youtube: https://www.youtube.com/watch?v=_LNtwShi_XI
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329500
+    youtube: https://www.youtube.com/watch?v=ofzSDF9EmPU
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/02-becoming-a-contributor-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329501
+    youtube: https://www.youtube.com/watch?v=PJEAQXcCh4o
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/03-contributor-ethos-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329502
+    youtube: https://www.youtube.com/watch?v=BxemepTtPz8
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329503
+    youtube: https://www.youtube.com/watch?v=6TGnjmX7zb0
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/05-benefits-of-contribution-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329504
+    youtube: https://www.youtube.com/watch?v=_DimaLMLkyk
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/06-conclusion-article.asciidoc
+    isc: ''
+    oreilly: ''
