@@ -71,3 +71,83 @@
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/06-conclusion.asciidoc
     isc: ''
     oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
+    youtube: https://www.youtube.com/watch?v=TKdqjkPJWNU
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/01-introduction.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323926
+    youtube: https://www.youtube.com/watch?v=06cVAAwgsZA
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/02-ensuring-product-quality.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323927
+    youtube: https://www.youtube.com/watch?v=930UIbjiXZc
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/03-keeping-the-community-healthy.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323928
+    youtube: https://www.youtube.com/watch?v=o7geZaX7i7I
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/04-uplevelling-community-members.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323929
+    youtube: https://www.youtube.com/watch?v=Lnz54hlKC-I
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/05-lowering-the-barriers-to-entry.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323930
+    youtube: https://www.youtube.com/watch?v=ucQA8mp012Q
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323931
+    youtube: https://www.youtube.com/watch?v=jA1p01FEHj4
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/07-becoming-a-trusted-committer.asciidoc
+    isc: ''
+    oreilly: ''
+- section: trusted committer
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323932
+    youtube: https://www.youtube.com/watch?v=n982OcEfyQE
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/08-conclusion.asciidoc
+    isc: ''
+    oreilly: ''
