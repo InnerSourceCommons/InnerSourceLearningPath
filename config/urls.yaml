@@ -151,3 +151,63 @@
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/08-conclusion.asciidoc
     isc: ''
     oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325229
+    youtube: https://www.youtube.com/watch?v=5DXUljspcA4
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325230
+    youtube: https://www.youtube.com/watch?v=qCGCNGHyx9I
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/02-how-difficult-it-is-to-be-a-middle-manager-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325231
+    youtube: https://www.youtube.com/watch?v=CuycPf1DTVQ
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/03-major-benefits-are-built-into-the-innersource-process-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325232
+    youtube: https://www.youtube.com/watch?v=35Ttvq1zEAA
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/04-new-roles-and-responsibilities-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325233
+    youtube: https://www.youtube.com/watch?v=Wxd-SiV5NSI
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/05-recap-takeaways-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: product owner
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325234
+    youtube: https://www.youtube.com/watch?v=qMGQVvoqrzo
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/06-closing-and-contact-article.asciidoc
+    isc: ''
+    oreilly: ''
