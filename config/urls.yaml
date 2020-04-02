@@ -211,3 +211,63 @@
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/06-closing-and-contact-article.asciidoc
     isc: ''
     oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329499
+    youtube: https://www.youtube.com/watch?v=_LNtwShi_XI
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329500
+    youtube: https://www.youtube.com/watch?v=ofzSDF9EmPU
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/02-becoming-a-contributor-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329501
+    youtube: https://www.youtube.com/watch?v=PJEAQXcCh4o
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/03-contributor-ethos-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329502
+    youtube: https://www.youtube.com/watch?v=BxemepTtPz8
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329503
+    youtube: https://www.youtube.com/watch?v=6TGnjmX7zb0
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/05-benefits-of-contribution-article.asciidoc
+    isc: ''
+    oreilly: ''
+- section: contributor
+  video:
+    isc: ''
+    oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329504
+    youtube: https://www.youtube.com/watch?v=_DimaLMLkyk
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/06-conclusion-article.asciidoc
+    isc: ''
+    oreilly: ''
