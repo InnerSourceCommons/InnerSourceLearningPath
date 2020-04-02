@@ -9,7 +9,7 @@ Die Prinzipien sind:
 
 * *Offenheit*
 * *Transparenz*
-* *Priorisierte Betreuung*
+* *Focus auf Mentoring*
 * *Freiwilliger Codebeitrag*
 
 Schauen wir uns jedes dieser Prinzipien genauer an.
