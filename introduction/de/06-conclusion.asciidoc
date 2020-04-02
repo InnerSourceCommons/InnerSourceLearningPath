@@ -9,5 +9,5 @@ Die Schlüsselprinzipien, nach denen gut geführte InnerSource Projekte funktion
 
 Während diese Serie einen allgemeinen Überblick über InnerSource enthält, gibt es viele weitere wichtige Details, um InnerSource in Ihrem Team erfolgreich zu praktizieren.
 Wenn Sie über Entwicklungen in InnerSource und die damit verbundenen Best Practices auf dem laufenden gehalten werden möchten, laden wir Sie herzlich zu den http://innersourcecommons.org [InnerSource Commons] ein.
-Weiterhin betreibt die InnerSource Commons einen Slack-Kanal, eine InnerSource Arbeitsgruppe die sich mit erfolgreichen Zusammenarbeitsmustern befasst, und veranstaltet jedes Jahr mehrere Treffen.
+Weiterhin betreibt die InnerSource Commons Foundation einen Slack-Kanal, sowie eine InnerSource Working Group die sich mit erfolgreichen InnerSource Patterns befasst, und veranstaltet jedes Jahr mehrere Treffen.
 Ihre Teilnahme an den InnerSource Commons ist eine großartige Möglichkeit, um mit den neuesten Entwicklungen in InnerSource auf dem laufenden zu bleiben.
