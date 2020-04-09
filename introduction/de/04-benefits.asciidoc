@@ -1,0 +1,31 @@
+== Worin liegen die Vorteile von InnerSource?
+
+Die Zusammenarbeit mit Hilfe von InnerSource bietet viele Vorteile.
+InnerSource bietet einem Unternehmen eine skalierbare Strategie für *Gastteams, um Features zu dem Zeitpunkt zu erhalten, zu dem sie diese benötigen*, ohne langfristig auch die Wartung übernehmen zu müssen.
+Das Unternehmen als Ganzes gewinnt, da die Gastteams die so gewonnene Zeit anderen Aufgaben widmen können. 
+
+Während dieses Ergebnis ein glänzender Vorteil von InnerSource ist, gibt es für Hosts, die regelmäßig InnerSource-Beiträge erhalten, ebenfalls viele Vorteile.
+Denken Sie daran, dass der Product Owner im Hostteam im Rahmen des InnerSource-Prozesses von Anfang an entscheidet, ob die bereitgestellten Funktionen gut und wünschenswert sind für das Project.
+Somit kann das Hostteam durch die Anwendung von InnerSource-Prinzipien  *Hilfe bei der Erstellung eines besseren Produkts* für seine Verbraucher erhalten!
+
+*InnerSource bietet dem Hostteam eine skalierbare Strategie* zur Erfüllung unterschiedlicher Funktionsanforderungen die von seinen verschiedenen Nutzern/Kunden vorgebracht werden.
+Angesichts der festen Arbeitskapazität der Vollzeitmitglieder des Hostteams ist es wahrscheinlich, dass die Roadmaps der Nutzer zuweilen sehr (oder sogar unangemessen) viel zusätzliche Arbeit für das Hostteam bedeutet.
+Ohne InnerSource führt diese Situation leicht zu einem gestressten, überlasteten Team, das sich mit vielen (fremden) Featureanfragen befasst, die ggf. über seine Führungskräfte eskaliert worden sind.
+
+Wenn das Hostteam jedoch nach InnerSource Prinzipien arbeitet, werden die, zum Erstellen dieser Funktionen erforderlichen, technischen Lösungen in Form von Gastbeiträgen, gemäß der Priorität des Gastteams, erbracht.
+*InnerSource wird somit zu einem Multiplikator* mit dem das Hostteam in Zeiten hoher Nachfrage vorübergehend mehr Funktionalität liefern kann als seine eigentliche Teamgröße indiziert.
+Wenn die Welle der Nachfragen beendet ist, reduziert sich der Teamdurchsatz auf ein normales Niveau ohne dass die Anzahl der Mitarbeiter oder die Arbeitsaufgaben im Team verändert werden müssen.
+Das bedeutet, mit InnerSource kann Entwicklungsenergie organisch dorthin fließen, wo das Unternehmen sie zu einem bestimmten Zeitpunkt benötigt.
+
+Neben der einfachen Verbesserung der Funktionalität die das Hostteam erzielen kann, bieten regelmäßige InnerSource-Beiträge dem Hostteam *bessere Einsicht in Anforderungen und eine bessere Ausrichtung der Prioritäten auf alle seine Nutzer*.
+Ein Hostteam kann mit größtem Aufwand Anforderungen für Ihr Produkt sammeln, wenn jedoch der Nutzer selbst die jeweilige Anforderung einreicht, sind die Chancen erheblich höher, dass die daraus resultierende Änderung genau auf die Bedürfnisse des Nutzers abgestimmt ist.
+Weiterhin gilt, während es möglicherweise nur ein einziges Gastteam die Änderung einreicht, ist dieses Team wahrscheinlich auch repräsentativ für andere Nutzer.
+
+Zusätzlich zu den oben aufgezeigten Vorteilen, bietet diese Art der Zusammenarbeit auch eine Chance zur Weiterbildung der https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[Contributors], während sie mit ihnen arbeiten und von ihnen als https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[Trusted Committers] lernen.
+Diese Interaktionen helfen den Mitwirkenden in zu lernen und zu wachsen, was zu letztendlich zu einer *höheren Arbeitszufriedenheit* führt.
+Weiterhin wird im Allgemeinen die Projektdokumentation schrittweise verbessert, um Gastbeiträge in großem Maßstab zu ermöglichen und zu fördern.
+Natürlich ist auch nicht zu vergessen, dass sich die Mitwirkenden am Projekt des Hostteams beteiligt fühlen.
+Diese positive Erfahrung führt dann dazu, dass sie ihren Kollegen oder anderen Teams dieses Projekt empfehlen.
+Die Mitarbeiter des Gastteams verstehen das Projekt besser und können Fragen dazu beantworten, wodurch das Hostteam von diesem Teil der Arbeit entlastet wird.
+All dies führt im Laufe der Zeit dazu, dass immer mehr Mitarbeiter nach Ideen aus dem gesamten Unternehmen suchen.
+Letztendlich hift dieses Verhalten und die teamübergreifende Ausrichtung im Laufe der Zeit die *traditionellen Silos in Unternehmen abzubauen*.
