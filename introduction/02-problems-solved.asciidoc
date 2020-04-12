@@ -9,12 +9,12 @@ An example could be a user experience that depends on an API service to retrieve
 This situation is common in a large enterprise where a single team producing software may have dozens or hundreds of consumers.
 
 When consuming teams need many features, producing teams normally have some sort of requirements and prioritization process to decide which features they will work on.
-For critical feature requests that are not prioritized for immediate work, the consuming team may commonly choose one of 3 options, each of which come with their own drawbacks.
+For critical feature requests that are not prioritized for immediate work, the consuming team may commonly choose one of 3 options, each of which comes with their own drawbacks.
 
 . *Wait it out*. The consuming team may do nothing and limp along without the requested functionality.
   This option requires the least amount of work on their side.
   Depending on the benefit of the feature request, waiting might be just fine.
-  However, it may come with real amounts of pain, especially if the requested functionalty is never delivered.
+  However, it may come with real amounts of pain, especially if the requested functionality is never delivered.
 . *Workaround*. A consuming team that doesn't want to wait may do extra work somewhere else to compensate for the absence of their requested feature.
   This extra work may come as change in the consuming project.
   Alternatively, they may create a new project that meets their needs and replaces their use of all or part of the producing team's system (code/project duplication).
@@ -26,10 +26,10 @@ For critical feature requests that are not prioritized for immediate work, the c
 This option sounds attractive for the consuming team because they get the requested feature without doing the work to implement or maintain it.
 It is still a drag on the team, though, because it necessarily diverts some of their attention and work to the non-engineering task of escalation.
 Additionally, this option does not scale as there are only so many times that a consumer can escalate feature requests before damaging their credibility.
-Escalation is similarly disruptive (even more so) for the producing team, who are taken out of their normal workflow and prioritization methods to deal with the escalated feature request.
+Escalation is similarly disruptive (even more so) for the members of the producing team, who are taken out of their normal workflow and prioritization methods to deal with the escalated feature request.
 
 This discussion sets the stage for InnerSource.
-InnerSource applies to the same type of situation where a consuming team is unable to get what needs via feature request.
+InnerSource applies to the same type of situation where a consuming team is unable to get what it needs via feature request.
 InnerSource provides a way for the teams to gain the benefits of _wait it out_, _workaround_, and _escalate_ without the associated drawbacks.
 
 InnerSource also provides a general improvement to engineering culture as engineers have the chance to work with a wider variety of new technologies and people.

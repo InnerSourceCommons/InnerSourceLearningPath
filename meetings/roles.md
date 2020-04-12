@@ -26,7 +26,6 @@ The _Scheduler_ sends the calendar invite for the meeting.
 
 ### Tips
 
-* You can use your favorite corporate conference call system or create a Google Hangout.
 * Check out this [writeup][gdoc sharing] if you need help creating a write-enabled link to the agenda document.
 
 <a name="crier"></a>

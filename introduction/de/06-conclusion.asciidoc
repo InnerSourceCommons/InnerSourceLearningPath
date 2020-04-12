@@ -1,0 +1,13 @@
+== Schlusswort
+
+In dieser Serie haben wir eine Einführung in InnerSource gegeben.
+InnerSource wendet Open Source Praktiken und Prinzipien auf die firmeninterne Softwareentwicklung an.
+Es bietet Nutzern eine zusätzliche Option, speziell wenn Produktionsteams nicht in der Lage sind, ein erforderliches Requirement im notwendigen Zeitraum zu liefern.
+Erfolgreiche InnerSource Projekte betreffen https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Produkt Owner_] und https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-Committer/01-Introduction.asciidoc [_Trusted Committer_] vom *Hostteam* sowie ein https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc [_Contributor_] vom *Gastteam*.
+Richtig betriebenes InnerSource bietet beiden teilnehmenden Teams viele Vorteile.
+Die Schlüsselprinzipien, nach denen gut geführte InnerSource Projekte funktionieren, sind *freiwilliger Code-Beitrag* und *Mentoring Fokus*.
+
+Während diese Serie einen allgemeinen Überblick über InnerSource enthält, gibt es viele weitere wichtige Details, um InnerSource in Ihrem Team erfolgreich zu praktizieren.
+Wenn Sie über Entwicklungen in InnerSource und die damit verbundenen Best Practices auf dem laufenden gehalten werden möchten, laden wir Sie herzlich zu den http://innersourcecommons.org [InnerSource Commons] ein.
+Weiterhin betreibt die InnerSource Commons Foundation einen Slack-Kanal, sowie eine InnerSource Working Group die sich mit erfolgreichen InnerSource Patterns befasst, und veranstaltet jedes Jahr mehrere Treffen.
+Ihre Teilnahme an den InnerSource Commons ist eine großartige Möglichkeit, um mit den neuesten Entwicklungen in InnerSource auf dem laufenden zu bleiben.
