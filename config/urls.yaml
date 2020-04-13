@@ -107,7 +107,7 @@
     oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323928
     youtube: https://www.youtube.com/watch?v=o7geZaX7i7I
   article:
-    anchor: ''
+    anchor: pass:[<a data-type="xref" href="upleveling" data-xrefstyle="chap-num-title">#upleveling</a>]
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/04-uplevelling-community-members.asciidoc
     isc: ''
     oreilly: ''
@@ -127,7 +127,7 @@
     oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323930
     youtube: https://www.youtube.com/watch?v=ucQA8mp012Q
   article:
-    anchor: ''
+    anchor: pass:[<a data-type="xref" href="advocating" data-xrefstyle="chap-num-title">#advocating</a>]
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc
     isc: ''
     oreilly: ''
