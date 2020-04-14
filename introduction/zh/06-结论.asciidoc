@@ -1,12 +1,12 @@
 === 结论
 在这个学习过程中，我们已经介绍了InnerSource。
 InnerSource将开放源码的最佳实践和原则应用于内部软件开发。
-当主人团队无法交付所需的特性请求时，它为使用者提供了一个额外的选项。
-成功的InnerSource包括来自 *主人团队* 的 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_产品所有者 product owner_] 产品所有者和 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_受信任提交者 trusted committer_] ，
-以及来自 *客人团队* 的 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_贡献者 contributor_] 。
+当主导团队(host team)无法交付所需的特性请求时，它为使用者提供了一个额外的选项。
+成功的InnerSource包括来自 *主导团队(host team)* 的 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_产品所有者 product owner_] 产品所有者和 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_受信任提交者 trusted committer_] ，
+以及来自 *协同团队(guest team)* 的 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_贡献者 contributor_] 。
 如果处理有效，InnerSource将为参与团队带来很多好处。有效的InnerSource可以带来 *自愿代码贡献* 和 *优先指导* 。
 
 虽然本培训包含了关于InnerSource的高级概述，但是在InnerSource真正为您的团队工作方面还有更多有用的细节。
-如果您想保持与正在进行的有关InnerSource及其最佳实践的对话的联系，那么请加入我们的社区（http://innersourcecommons.org[the InnerSource Commons]。
+如果您想保持与正在进行的有关InnerSource及其最佳实践的对话的联系，那么请加入我们的社区 http://innersourcecommons.org[the InnerSource Commons] 。
 本社区赞助了一个Slack渠道、一个内部开源模式工作组、以及每年的多次面对面的峰会。
-参与社区交流是获取InnerSource最新动态的非常棒的方式！
+参与社区交流是获取InnerSource最新动态最佳方式！
