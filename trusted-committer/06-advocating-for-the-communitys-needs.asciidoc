@@ -27,5 +27,5 @@ Another key responsibility of Trusted Committers is making sure https://github.c
 Getting time to contribute can be challenging, especially when the contribution is made to a project not relevant to the contributor's department. 
 In this case, the Trusted Committer should engage in discussion with the contributor’s manager and lobby for an alternative decision.
 
-In summary, there are many situations in which Trusted Committers need to advocate for the interests of individual contributors and for the community as a whole. 
+In summary, there are many situations in which Trusted Committers need to advocate for the interests of individual https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] and for the community as a whole. 
 Trusted Committers understand that the value the community can provide to the organization depends on the health and longevity of the community and ultimately on a trustworthy relationship between both.
