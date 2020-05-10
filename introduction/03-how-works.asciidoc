@@ -43,4 +43,4 @@ More engineering time stays focused on producing code that solves company proble
 
 === Additional Resources
 
-* The https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.asciidoc[Trusted Committer] pattern.
+* The https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.md[Trusted Committer] pattern.
