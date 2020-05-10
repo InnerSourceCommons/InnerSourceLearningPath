@@ -23,8 +23,8 @@ This can happen in companies not yet accustomed to the InnerSource working model
 A good Trusted Committer will engage with management and advocate for public credit. 
 Failure to give credit is almost never done in bad faith and is usually easy to fix.
 
-Another key responsibility of Trusted Committers is making sure https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] are given the time they need to make contributions. 
-Getting time to contribute can be challenging, especially when the contribution is made to a project not relevant to the contributor's department. 
+Another common case calling for the Trusted Committer’s advocacy is when  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] are not given time or permission to contribute. 
+This can happen when the community is working on a product outside of the contributor's department and thus not relevant for their manager’s goals. 
 In this case, the Trusted Committer should engage in discussion with the contributor’s manager and lobby for an alternative decision.
 
 In summary, there are many situations in which Trusted Committers need to advocate for the interests of individual https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] and for the community as a whole. 
