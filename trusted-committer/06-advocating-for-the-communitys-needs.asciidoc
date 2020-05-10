@@ -15,15 +15,15 @@ Trusted Committers build trust with the organization and, building on that trust
 They are responsible for communicating technical, as well as community-related, risks to management.
 At the same time, Trusted Committers need to be strategic and work within the degrees of freedom afforded by their companies.
 
-Trusted Committers also need to make sure that the community and individual contributors get public credit for their work. 
+Trusted Committers also need to make sure that the community and individual https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] get public credit for their work. 
 Public credit is the currency with which contributors are being paid, especially those who contribute voluntarily. 
 It is a good practice to commend valuable contributors publicly and to make sure their managers are aware of their contributions.
-Neglecting to give credit can be detrimental to the health of the community. 
+Neglecting to give credit can be frustrating for individual contributors and detrimental to the health of the community. 
 This can happen in companies not yet accustomed to the InnerSource working model, or when the software being developed by the InnerSource community runs _behind the scenes_ and managers were simply not aware of the community’s contribution. 
 A good Trusted Committer will engage with management and advocate for public credit. 
 Failure to give credit is almost never done in bad faith and is usually easy to fix.
 
-Another key responsibility of Trusted Committers is making sure contributors are given the time they need to make contributions. 
+Another key responsibility of Trusted Committers is making sure https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] are given the time they need to make contributions. 
 Getting time to contribute can be challenging, especially when the contribution is made to a project not relevant to the contributor's department. 
 In this case, the Trusted Committer should engage in discussion with the contributor’s manager and lobby for an alternative decision.
 
