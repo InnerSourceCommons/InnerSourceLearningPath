@@ -6,9 +6,9 @@ InnerSource communities exist in a corporate context and are thus more constrain
 business unit’s interests are at odds with those of the community.
 Trusted Committers take a long term perspective on their project. 
 They understand that a healthy community is a precondition for healthy code. 
-This is why many InnerSource initiatives were modeled in the Apache Way with it's http://theapacheway.com/community-over-code/["Community over Code"] motto. 
+This is why many InnerSource initiatives were modeled in the Apache Way with its http://theapacheway.com/community-over-code/["Community over Code"] motto. 
 Business units, on the other hand, are naturally more concerned with the products produced by an InnerSource community. 
-They prefer to see short- to medium-term results that help the bottom line.
+They prefer to see short to medium-term results that help the bottom line.
 
 It is in this potential area of conflict where the Trusted Committer plays a vital role. 
 Trusted Committers build trust with the organization and, building on that trust, act as advocates for the interests of the community and the long term health of the software in the company. 
@@ -21,7 +21,7 @@ It is a good practice to commend valuable contributors publicly and to make sure
 Neglecting to give credit can be frustrating for individual contributors and detrimental to the health of the community. 
 This can happen in companies not yet accustomed to the InnerSource working model, or when the software being developed by the InnerSource community runs _behind the scenes_ and managers were simply not aware of the community’s contribution. 
 A good Trusted Committer will engage with management and advocate for public credit. 
-Failure to give credit is almost never done in bad faith and is usually easy to fix.
+Failure to give credit is almost never done in bad faith and is easy to fix.
 
 Another common case calling for the Trusted Committer’s advocacy is when  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] are not given time or permission to contribute. 
 This can happen when the community is working on a product outside of the contributor's department and thus not relevant for their manager’s goals. 
