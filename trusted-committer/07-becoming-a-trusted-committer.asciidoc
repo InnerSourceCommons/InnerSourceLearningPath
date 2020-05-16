@@ -36,6 +36,6 @@ The Trusted Committer role is time consuming and not everyone is willing or able
 Because of this, some companies use a _Trusted Committer rotation_ system where multiple Trusted Committers share the workload of the Trusted Committer role and the Trusted Committers who are not _on duty_ can exclusively focus on tech-oriented work. 
 Having more than one Trusted Committer also makes it easier when someone leaves the company or moves on from the role to do something else.
 
-In summary, the Trusted Committer role has to be earned by making valuable contributions — both technical and social — for the benefit of the community. 
+In summary, the Trusted Committer role has to be earned by making valuable contributions - both technical and social - for the benefit of the community. 
 In a healthy community, you will have fellow Trusted Committers at your side. 
 As a Trusted Committer, you will have less time to code, but by acting as a force multiplier you will ultimately be able to boost your value contribution to the community and accelerate your own growth.
