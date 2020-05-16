@@ -6,10 +6,10 @@ If this learning path interests you, you might be wondering how to actually beco
 InnerSource communities follow the same principles Open Source communities do, one of which is meritocracy. 
 In a meritocracy, power is vested in individuals based on talent, effort, and achievements. 
 This means the power and privileges that come with the Trusted Committer role need to be earned. 
-Transparency, another Open Source value, also plays a vital role in that it makes the talent, effort, and achievements
+Transparency, another Open Source value, also plays a vital role in that it makes the talent, effort and achievements
 visible to the whole community.
 
-The process of officially becoming a Trusted Committer differs from community to community, depends on where you are in your InnerSource journey, and might evolve over time. 
+The process of officially becoming a Trusted Committer differs from community to community, depends on where you are in your InnerSource journey and might evolve over time. 
 In grassroots communities, the founders often assume the role of the Trusted Committer. 
 As a community grows, or in larger communities, Trusted Committers are usually nominated or voted in from the community https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[contributors].
 But the Trusted Committer role should be taken on voluntarily as it requires an immense amount of time and dedication to be successful in it.
