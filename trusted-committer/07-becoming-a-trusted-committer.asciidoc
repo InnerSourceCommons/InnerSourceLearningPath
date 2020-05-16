@@ -29,7 +29,7 @@ The Trusted Committer role might not appear all that attractive to some contribu
 Being nominated for the Trusted Committer role might even be perceived by some as a demotion or as negative feedback on their coding skills. 
 But the opposite is true. 
 Being nominated for the Trusted Committer role usually means someone has recognized your valuable contributions and sees in you the potential to grow and lead. 
-The Trusted Committer role will give you more influence over the evolution of the codebase and will unltimately make you a more complete
+The Trusted Committer role will give you more influence over the evolution of the codebase and will ultimately make you a more complete
 developer. Explaining to contributors how the software works more often than not leads to new insights on part of the Trusted Committer and will help to identify opportunities to improve the software.
 
 The Trusted Committer role is time consuming and not everyone is willing or able to make that type of commitment. 
