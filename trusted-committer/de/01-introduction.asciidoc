@@ -14,7 +14,7 @@ Wir werden uns die beiden Dimensionen in den folgenden Abschnitten genauer ansch
 
 Bevor wir aber in die Details gehen, was die eigentliche Aufgabe eines _Trusted Committers_ ist, wollen wir uns zunächst auf höherer Abtraktionsebene anschauen, 
 wie sich die Rolle des _Trusted Committers_ von den anderen Rollen in der _InnerSource_ unterscheidet und dabei erklären, warum wir glauben, dass die 
-Bezeichnung sowohl  passend als auch wichtig ist. Lasst uns beginnen mit der Rolle des https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_]. Ein 
+Bezeichnung sowohl  passend als auch wichtig ist. Lasst uns beginnen mit der Rolle des https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_]. Ein 
 _Contributor_ — wie schon der Name nahelegt — liefert Beiträge zu einer _InnerSource_-Organisationseinheit.
  Diese Beiträge können entweder _code_ oder andere Artefakte wie z.B. Fehlerreports, Änderungsanforderungen oder Dokumentation sein.  
 
@@ -27,7 +27,7 @@ _Trusted Committer_ sowohl für den Bau eines Hauses als auch für die Hausordnu
  miteinander arbeiten können. Verglichen mit den _Contributors_ haben _Trusted Committers_ sich die Verantwortlichkeit verdient, näher am produktiven Code zu
 arbeiten und sind grundsätzlich befugt, Aufgaben auszuführen, die mit einem höheren Riskio verbunden sind.
 
-Der https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_ (PO)] ist die dritte 
+Der https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_ (PO)] ist die dritte 
 Rolle bei _InnerSource_. Ähnlich wie bei agilen Prozessen ist der _PO_ verantwortlich für die Definition und Priorisierung von Anforderungen und User Stories,
 welche die jeweilige Organisationseinheit umsetzen soll. Der _PO_ arbeitet eng mit dem _Trusted Committer_ zusammen, z.B. um sicherzustellen, dass ein angefordertes oder bereitgestelltes Feature
  tatsächlich Bestandteil des Produkts sein soll. Speziell in kleineren _InnerSource_-Organisationen kann der _Trusted Committer_ meistens auch die Aufgaben des 
@@ -57,12 +57,12 @@ kurzen Blick auf die Verantwortlichkeiten eines _Trusted Committers_ werfen.
 
 _Trusted Committers_ haben verschiedene Verantwortlichkeiten, unter anderem:
 
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/02-ensuring-product-quality.asciidoc[Ensuring product quality]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/03-keeping-the-community-healthy.asciidoc[Keeping the community healthy]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.asciidoc[Reducing the barriers to making contributions]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/04-uplevelling-community-members.asciidoc[Upleveling the community]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc[Advocating the community's needs]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[Ensuring product quality]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[Keeping the community healthy]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Reducing the barriers to making contributions]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/04/[Upleveling the community]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/06/[Advocating the community's needs]
 
-Wir werden diese Verantwortlichkeiten in den folgenden Kapiteln weiter vertiefen, bitte schau Dir dazu auch das Kapitel https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/07-becoming-a-trusted-committer.asciidoc[07 becoming a Trusted Committer] am Ende an.
+Wir werden diese Verantwortlichkeiten in den folgenden Kapiteln weiter vertiefen, bitte schau Dir dazu auch das Kapitel https://innersourcecommons.org/resources/learningpath/trusted-committer/07/[07 becoming a Trusted Committer] am Ende an.
 [role="pagenumrestart"]
 

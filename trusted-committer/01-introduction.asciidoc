@@ -20,7 +20,7 @@ dimensions in the following sections.
 Before we go into the details of what a Trusted Committer actually does, let’s spend
 some time contrasting the Trusted Committer role with other roles in InnerSource at a
 high level of abstraction and explain why we think the name is both apt
-and important. Let’s start with the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] role. A
+and important. Let’s start with the https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributor_] role. A
 _Contributor_ — as the name implies—makes contributions to an InnerSource
 community. These contributions could be code or non-code artifacts, such
 as bug reports, feature requests, or documentation.
@@ -40,7 +40,7 @@ responsibility to push code closer to production and are generally
 allowed to perform tasks that have a higher level of risk associated
 with them.
 
-The https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_ (PO)] is the third role in InnerSource. Similar to
+The https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_ (PO)] is the third role in InnerSource. Similar to
 agile processes, the PO is responsible for defining and prioritizing
 requirements and stories for the community to implement. The PO
 interacts often with the Trusted Committer, (e.g., in making sure that a requested or
@@ -75,10 +75,10 @@ a quick look at the responsibilities of a Trusted Committer.
 
 Trusted Committers have various responsibilities, including:
 
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/02-ensuring-product-quality.asciidoc[Ensuring product quality]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/03-keeping-the-community-healthy.asciidoc[Keeping the community healthy]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.asciidoc[Reducing the barriers to making contributions]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/04-uplevelling-community-members.asciidoc[Upleveling the community]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc[Advocating the community's needs]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[Ensuring product quality]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[Keeping the community healthy]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Reducing the barriers to making contributions]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/04/[Upleveling the community]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/06/[Advocating the community's needs]
 
-We will look at these responsibilities in more depth in the following pages and also explore the path of https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/07-becoming-a-trusted-committer.asciidoc[becoming a Trusted Committer] at the end of this article.
+We will look at these responsibilities in more depth in the following pages and also explore the path of https://innersourcecommons.org/resources/learningpath/trusted-committer/07/[becoming a Trusted Committer] at the end of this article.
