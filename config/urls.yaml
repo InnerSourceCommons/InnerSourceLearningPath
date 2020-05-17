@@ -8,7 +8,7 @@
   # URLs of video locations.
   video:
     # URL on the innersourcecommons.org site.
-    isc: https://innersourcecommons.org/resources/learningpath/introduction/
+    isc: https://innersourcecommons.org/resources/learningpath/introduction/index
     # URL on the O'Reilly learning plarform.
     oreilly: https://learning.oreilly.com/videos/introduction-to-innersource/9781492041504/9781492041504-video321606
     # URL on YouTube.
@@ -19,7 +19,7 @@
     # URL in GitHub.
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/introduction/01-introduction.asciidoc
     # URL on the innersourcecommons.org site.
-    isc: https://innersourcecommons.org/resources/learningpath/introduction/
+    isc: https://innersourcecommons.org/resources/learningpath/introduction/index
     # URL on the O'Reilly learning plarform.
     oreilly: ''
 - section: introduction
@@ -74,13 +74,13 @@
     oreilly: ''
 - section: trusted committer
   video:
-    isc: https://innersourcecommons.org/resources/learningpath/trusted-committer/
+    isc: https://innersourcecommons.org/resources/learningpath/trusted-committer/index
     oreilly: https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925
     youtube: https://www.youtube.com/watch?v=TKdqjkPJWNU
   article:
     anchor: ''
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc
-    isc: https://innersourcecommons.org/resources/learningpath/trusted-committer/
+    isc: https://innersourcecommons.org/resources/learningpath/trusted-committer/index
     oreilly: ''
 - section: trusted committer
   video:
@@ -154,13 +154,13 @@
     oreilly: ''
 - section: product owner
   video:
-    isc: https://innersourcecommons.org/resources/learningpath/product-owner/
+    isc: https://innersourcecommons.org/resources/learningpath/product-owner/index
     oreilly: https://learning.oreilly.com/videos/innersource-product-owners/9781492046707/9781492046707-video325229
     youtube: https://www.youtube.com/watch?v=5DXUljspcA4
   article:
     anchor: ''
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc
-    isc: https://innersourcecommons.org/resources/learningpath/product-owner/
+    isc: https://innersourcecommons.org/resources/learningpath/product-owner/index
     oreilly: ''
 - section: product owner
   video:
@@ -214,13 +214,13 @@
     oreilly: ''
 - section: contributor
   video:
-    isc: https://innersourcecommons.org/resources/learningpath/contributor/
+    isc: https://innersourcecommons.org/resources/learningpath/contributor/index
     oreilly: https://learning.oreilly.com/learning-paths/learning-path-the/0636920338833/0636920338802-video329499
     youtube: https://www.youtube.com/watch?v=_LNtwShi_XI
   article:
     anchor: ''
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc
-    isc: https://innersourcecommons.org/resources/learningpath/contributor/
+    isc: https://innersourcecommons.org/resources/learningpath/contributor/index
     oreilly: ''
 - section: contributor
   video:
