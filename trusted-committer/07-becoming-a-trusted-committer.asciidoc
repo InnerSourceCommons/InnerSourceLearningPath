@@ -30,7 +30,8 @@ Being nominated for the Trusted Committer role might even be perceived by some a
 But the opposite is true. 
 Being nominated for the Trusted Committer role usually means someone has recognized your valuable contributions and sees in you the potential to grow and lead. 
 The Trusted Committer role will give you more influence over the evolution of the codebase and will ultimately make you a more complete
-developer. Explaining to contributors how the software works more often than not leads to new insights on part of the Trusted Committer and will help to identify opportunities to improve the software.
+developer. 
+Explaining to contributors how the software works more often than not leads to new insights on part of the Trusted Committer and will help to identify opportunities to improve the software.
 
 Whether you have one or multiple Trusted Committers depends on the size and the risk associated with the software developed by the InnerSource community. 
 The Trusted Committer role is time consuming, and not everyone is willing or able to make that type of commitment. 
