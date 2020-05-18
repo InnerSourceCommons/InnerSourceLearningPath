@@ -21,7 +21,7 @@ well community related risks to management. At the same time, Trusted Committers
 strategic and work within the degrees of freedom afforded by their companies.
 
 Related to this, Trusted Committers need to make sure that the community and individual
-https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] get public credit for their work, to make sure everyone is aware
+https://innersourcecommons.org/resources/learningpath/contributor/index[_contributors_] get public credit for their work, to make sure everyone is aware
 of the valuable contribution made. Public credit is kind of the currency in which
 contributors are being paid, especially those who contribute voluntarily. It is
 good practice to commend valuable contributors publicly and making sure their
@@ -35,7 +35,7 @@ good Trusted Committer will engage with management and advocate the need for
 public credit in this case. Failure to give credit is almost never done in bad
 faith, though, and Trusted Committers should be able to easily correct that.
 
-Another common example where the Trusted Committer's advocacy is needed is when https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_]
+Another common example where the Trusted Committer's advocacy is needed is when https://innersourcecommons.org/resources/learningpath/contributor/index[_contributors_]
 are not given time or permission to make a contribution.  This situation can can happen if
 the community is not working on a product that belongs to the domain of the contributor's
 department and thus not relevant for the respective manager's goals.
@@ -43,7 +43,7 @@ In this case, the Trusted Committer should engage in discussion with the contrib
 and lobby for an alternative decision.
 
 In summary, there are many situations in which Trusted Committers need to advocate the
-interests of individual https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_contributors_] and their community as a whole to the
+interests of individual https://innersourcecommons.org/resources/learningpath/contributor/index[_contributors_] and their community as a whole to the
 organization. They do this because they understand that the value that the
 community can provide to the organization depends on the health and longevity
 of the community and ultimately on a trustworthy relationship between both.

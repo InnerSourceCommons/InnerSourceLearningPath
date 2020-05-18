@@ -20,9 +20,9 @@ These concepts around a home visit are a metaphor for the attitude and behaviors
 
 Let's take a closer look at how the mechanics of the InnerSource process can work.
 To aid in this explanation, we'll name a few key individuals on the guest and host teams.
-First, the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_] determines what functionality the host team is willing to accept as a contribution.
-The https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] is the individual on the guest team that submits the code contribution for review by the host team.
-The https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[_Trusted Committer_] represents the host team in providing any timely support and mentorship that the contributor needs to successfully submit the pull request.
+First, the https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] determines what functionality the host team is willing to accept as a contribution.
+The https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributor_] is the individual on the guest team that submits the code contribution for review by the host team.
+The https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] represents the host team in providing any timely support and mentorship that the contributor needs to successfully submit the pull request.
 On small, grass roots efforts a single person often fills _both_ the product owner and trusted committer roles.
 
 With those definitions, here is the basic outline of an InnerSource contribution.
