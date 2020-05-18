@@ -45,8 +45,8 @@ This communication should be done in a manner that can be easily queried and und
 
 === Prioritized Mentorship
 
-_Mentorship_ from host team to guest team via https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[trusted committers] is a key aspect of InnerSource.
-https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[Contributors] on guest teams are upleveled so that they understand enough about the host team's project/repo to change it successfully.
+_Mentorship_ from host team to guest team via https://innersourcecommons.org/resources/learningpath/trusted-committer/index[trusted committers] is a key aspect of InnerSource.
+https://innersourcecommons.org/resources/learningpath/contributor/index[Contributors] on guest teams are upleveled so that they understand enough about the host team's project/repo to change it successfully.
 In the process of doing so, they come to better understand the host team's software system as a general consumer and ambassador for the project/software.
 This individual contributor can, over time and with experience, take on a broader role in the project as a trusted committer.
 

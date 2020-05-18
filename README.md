@@ -68,6 +68,10 @@ section-name/0n-last-topic-article.asciidoc
 section-name/0n-last-topic-script.asciidoc
 section-name/0n-last-topic-workbook.asciidoc
 . . .
+section-name/de   // Contains translations of the articles to German
+section-name/zh   // Contains translations of the articles to Chinese
+section-name/ll   // Contains translations of the articles to the two-letter language code
+. . .
 workbook/0n-section-name.asciidoc // Contains the part of the workbook matching the section's name.
 ```
 

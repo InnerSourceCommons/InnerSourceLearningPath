@@ -7,7 +7,7 @@
 * Summary of the roles of InnerSource and how each relates to _Contributor_.
 * Summary of the upcoming segments and what each covers.
 
-Outline for this section inspired by the https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323925[Trusted Committer introduction video].
+Outline for this section inspired by the https://innersourcecommons.org/resources/learningpath/trusted-committer/index[Trusted Committer introduction video].
 
 === Becoming an InnerSource Contributor
 
@@ -143,4 +143,4 @@ Review what we've learned/taught together.
 * Summary of the other sections in the learning path with invitation to watch.
 * Summary of the InnerSource Commons and invitation to join.
 
-Outline for this section inspired by the https://learning.oreilly.com/videos/the-trusted-committer/9781492047599/9781492047599-video323932[Trusted Committer conclusion].
+Outline for this section inspired by the https://innersourcecommons.org/resources/learningpath/trusted-committer/08/[Trusted Committer conclusion].
