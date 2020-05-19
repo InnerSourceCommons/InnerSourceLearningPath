@@ -7,31 +7,28 @@ If this learning path interests you, you might be wondering how to actually beco
 InnerSource communities follow the same principles Open Source communities do, one of which is meritocracy. 
 In a meritocracy, power is vested in individuals based on talent, effort, and achievements. 
 This means the power and privileges that come with the Trusted Committer role need to be earned. 
-Transparency, another Open Source value, also plays a vital role in that it makes the talent, effort and achievements
-visible to the whole community.
+Transparency, another Open Source value, also plays a vital role in that it makes the talent, effort and achievements visible to the whole community.
 
 The process of officially becoming a Trusted Committer differs from community to community, depends on where you are in your InnerSource journey and might evolve over time. 
 In grassroots communities, the founders often assume the role of the Trusted Committer. 
-As a community grows, or in larger communities, Trusted Committers are usually nominated or voted in from the community https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[contributors].
+As a community grows, or in larger communities, Trusted Committers are usually nominated or voted in from the community https://innersourcecommons.org/resources/learningpath/contributor/index[contributors].
 But the Trusted Committer role should be taken on voluntarily as it requires an immense amount of time and dedication to be successful in it.
 
-What are the criteria to apply in nominating https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[contributors] for a Trusted Committer role? 
+What are the criteria to apply in nominating https://innersourcecommons.org/resources/learningpath/contributor/index[contributors] for a Trusted Committer role? 
 What does it take to successfully fill the role of a Trusted Committer? 
 First off, potential Trusted Committers need to have demonstrated a deep technical competence during their work in the community. 
 In addition to that, they must have proven their ability to effectively communicate with peers in the community and ideally also with
 product owners and with management.
 
 In the same vein, they must have shown the willingness and patience to use their skills and spend intentional time upleveling contributors.
-Finally, fulfilling the Trusted Committer role requires a certain emotional maturity to deal with stressful social situations, which are
-bound to come up from time to time. 
+Finally, fulfilling the Trusted Committer role requires a certain emotional maturity to deal with stressful social situations, which are bound to come up from time to time. 
 Contributors who satisfy these criteria will be good potential Trusted Committers, in our opinion.
 
 The Trusted Committer role might not appear all that attractive to some contributors as it means spending less time coding. 
 Being nominated for the Trusted Committer role might even be perceived by some as a demotion or as negative feedback on their coding skills. 
 But the opposite is true. 
 Being nominated for the Trusted Committer role usually means someone has recognized your valuable contributions and sees in you the potential to grow and lead. 
-The Trusted Committer role will give you more influence over the evolution of the codebase and will ultimately make you a more complete
-developer. 
+The Trusted Committer role will give you more influence over the evolution of the codebase and will ultimately make you a more complete developer. 
 Explaining to contributors how the software works more often than not leads to new insights on part of the Trusted Committer and will help to identify opportunities to improve the software.
 
 Whether you have one or multiple Trusted Committers depends on the size and the risk associated with the software developed by the InnerSource community. 
@@ -42,4 +39,3 @@ Having more than one Trusted Committer also makes it easier when someone leaves 
 In summary, the Trusted Committer role has to be earned by making valuable contributions - both technical and social - for the benefit of the community. 
 In a healthy community, you will have fellow Trusted Committers at your side. 
 As a Trusted Committer, you will have less time to code, but by acting as a force multiplier you will ultimately be able to boost your value contribution to the community and accelerate your own growth.
-
