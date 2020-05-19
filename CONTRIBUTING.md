@@ -1,5 +1,15 @@
 Thanks for contributing.  A few tips:
 
+# Translations
+
+* All articles may be translated into any language of interest.
+* Translated articles should be storied next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
+* The filename of the article should be translated as well.
+* Issues tracking translations on the [project board](https://github.com/InnerSourceCommons/InnerSourceLearningPath/projects/1) should be labeled with the `Translations` tag as well as the tag of the section being translated (e.g. `Contributor`).
+Here is [an example](https://github.com/InnerSourceCommons/InnerSourceLearningPath/issues/255).
+* Here is the [status of translation efforts](https://github.com/InnerSourceCommons/InnerSourceLearningPath/wiki/Translations). 
+* Other mechanics of working on translations follow the guidelines below that apply to any file in the `InnerSourceLearningPath`.
+
 # Files
 
 * When submitting new files, follow the folder structure listed under **Repository Setup** in [the README](./README.md).

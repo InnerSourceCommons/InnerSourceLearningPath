@@ -34,8 +34,8 @@
 这种沟通应该以一种容易被非核心团队成员查询和理解的方式进行。
 
 === 优先辅导
-通过 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/01-introduction.asciidoc[受信任提交者 trusted committers] ，从维护团队到调用团队的指导是InnerSource的一个关键方面。
-调用团队中的 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[贡献者 Contributors] 被提升，这样他们就足够了解维护团队的项目/仓库，从而能够成功地更改它。
+通过 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[受信任提交者 trusted committers] ，从维护团队到调用团队的指导是InnerSource的一个关键方面。
+调用团队中的 https://innersourcecommons.org/resources/learningpath/contributor/index[贡献者 Contributors] 被提升，这样他们就足够了解维护团队的项目/仓库，从而能够成功地更改它。
 在这个过程中，他们作为项目/软件的一般用户和负责人，更好地理解了维护团队的软件系统。
 随着时间的推移和经验的积累，这个独立的贡献者可以在项目中扮演更广泛的角色，成为一个受信任提交者。
 

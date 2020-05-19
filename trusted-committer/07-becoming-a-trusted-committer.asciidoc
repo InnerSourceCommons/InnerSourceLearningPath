@@ -1,5 +1,6 @@
 == Becoming a Trusted Committer
 
+
 The Trusted Committer role is a demanding but fulfilling role. 
 If this learning path interests you, you might be wondering how to actually become a Trusted Committer and if you are the right person for the job. 
 
@@ -41,3 +42,4 @@ Having more than one Trusted Committer also makes it easier when someone leaves 
 In summary, the Trusted Committer role has to be earned by making valuable contributions - both technical and social - for the benefit of the community. 
 In a healthy community, you will have fellow Trusted Committers at your side. 
 As a Trusted Committer, you will have less time to code, but by acting as a force multiplier you will ultimately be able to boost your value contribution to the community and accelerate your own growth.
+

@@ -5,7 +5,7 @@ The Trusted Committer (TC) role is one of the key roles in an
 InnerSource community. Think of Trusted Committers as the people in a community that
 you trust with important technical decisions and with mentoring
 contributors to ultimately get contributions over the finish line.
-The Trusted Committer role is both demanding and rewarding. It is 
+The Trusted Committer role is both demanding and rewarding. It is
 more than just being an opinionated gatekeeper and is instrumental for
 the success of any InnerSource community.
 
@@ -13,14 +13,14 @@ Generally speaking, the Trusted Committer role is defined by its responsibilitie
 rather than by its privileges. On a very high level, Trusted Committers represent the
 interests of both their InnerSource community and the products the
 community is building. They are concerned with the health of both the
-community and the product. So as a Trusted Committer, you’ll have both 
+community and the product. So as a Trusted Committer, you’ll have both
 tech- and community-oriented responsibilities. We’ll explore both of these
 dimensions in the following sections.
 
 Before we go into the details of what a Trusted Committer actually does, let’s spend
 some time contrasting the Trusted Committer role with other roles in InnerSource at a
 high level of abstraction and explain why we think the name is both apt
-and important. Let’s start with the https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributor_] role. A
+and important. Let’s start with the https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributor_] role. A
 _Contributor_ — as the name implies—makes contributions to an InnerSource
 community. These contributions could be code or non-code artifacts, such
 as bug reports, feature requests, or documentation.
@@ -40,23 +40,23 @@ responsibility to push code closer to production and are generally
 allowed to perform tasks that have a higher level of risk associated
 with them.
 
-The https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owner_ (PO)] is the third role in InnerSource. Similar to
+The https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_ (PO)] is the third role in InnerSource. Similar to
 agile processes, the PO is responsible for defining and prioritizing
 requirements and stories for the community to implement. The PO
 interacts often with the Trusted Committer, (e.g., in making sure that a requested or
 contributed feature actually belongs to the product). Especially in
 smaller, grassroots InnerSource communities, the Trusted Committer usually also
-acts as a PO. Check out our https://learning.oreilly.com/videos/innersource-product-owners/9781492046707[Product Owner Learning Path segment]
+acts as a PO. Check out our https://innersourcecommons.org/resources/learningpath/product-owner/index[Product Owner Learning Path segment]
 for more detailed information.
 
 === Why Role Names Matter
 
 The role of the Trusted Committer is present in every successful InnerSource community
 but not every community uses that name. Some communities use the term
-Maintainer, but this term conflicts with other technical roles such as the 
+Maintainer, but this term conflicts with other technical roles such as the
 "Maintainer" role defined by GitHub, for instance. Apache uses the term
 _Committer_, too, but they attach fewer and mostly tech-oriented
-responsibilities to that role. With its additional community-oriented responsibilities, 
+responsibilities to that role. With its additional community-oriented responsibilities,
 the Trusted Committer role goes beyond that. The "Trusted" in Trusted Committer
 means this person is trusted and thus empowered by both their
 management and their community to do their job. By fostering openness
@@ -67,18 +67,18 @@ Similar to how naming is important in writing software, choosing the right names
 doing so consistently ensures that everyone has the same understanding about the roles played in the community.
 
 Now that you have a basic understanding of the role, why using the
-term Trusted Committer is appropriate, and know how a Trusted Committer 
-might interact with other common roles in a software project, let's take 
+term Trusted Committer is appropriate, and know how a Trusted Committer
+might interact with other common roles in a software project, let's take
 a quick look at the responsibilities of a Trusted Committer.
 
 === Responsibilities
 
 Trusted Committers have various responsibilities, including:
 
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/02-ensuring-product-quality.asciidoc[Ensuring product quality]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/03-keeping-the-community-healthy.asciidoc[Keeping the community healthy]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/05-lowering-the-barriers-to-entry.asciidoc[Reducing the barriers to making contributions]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/04-uplevelling-community-members.asciidoc[Upleveling the community]
-* https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/06-advocating-for-the-communitys-needs.asciidoc[Advocating the community's needs]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[Ensuring product quality]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[Keeping the community healthy]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Reducing the barriers to making contributions]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/04/[Upleveling the community]
+* https://innersourcecommons.org/resources/learningpath/trusted-committer/06/[Advocating the community's needs]
 
-We will look at these responsibilities in more depth in the following pages and also explore the path of https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-committer/07-becoming-a-trusted-committer.asciidoc[becoming a Trusted Committer] at the end of this article.
+We will look at these responsibilities in more depth in the following pages and also explore the path of https://innersourcecommons.org/resources/learningpath/trusted-committer/07/[becoming a Trusted Committer] at the end of this article.

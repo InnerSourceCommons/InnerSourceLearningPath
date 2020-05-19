@@ -29,3 +29,4 @@ In this case, the Trusted Committer should engage in discussion with the contrib
 
 In summary, there are many situations in which Trusted Committers need to advocate for the interests of individual https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[contributors] and for the community as a whole. 
 Trusted Committers understand that the value the community can provide to the organization depends on the health and longevity of the community and ultimately on a trustworthy relationship between both.
+
