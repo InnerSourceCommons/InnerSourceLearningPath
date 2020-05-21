@@ -6,4 +6,4 @@
 
 有了 InnerSource 项目，你将永远不必再为等待其他团队交付某些所需功能而困扰了。如果你没有从此项目中获取所需东西，则可以担任 InnerSource 的贡献者，直接在另一个团队的代码库中进行所需的更改。
 
-“贡献者”指为 InnerSource 社区项目代码库做贡献的人，这些人可以将自己视为社区的一部分。而对于大多数贡献者来说，都会经历这一系列过程：从了解社区，到使用社区的产品，再到与社区成员进行交互，最后开始做出贡献。最后，其中一些贡献者会成为[受信任提交者 Trusted Committer]( https://innersourcecommons.org/resources/learningpath/trusted-committer/index)
+“贡献者”指为 InnerSource 社区项目代码库做贡献的人，这些人可以将自己视为社区的一部分。而对于大多数贡献者来说，都会经历这一系列过程：从了解社区，到使用社区的产品，再到与社区成员进行交互，最后开始做出贡献。最后，其中一些贡献者会成为 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_受信任提交者 Trusted Committer_] 
