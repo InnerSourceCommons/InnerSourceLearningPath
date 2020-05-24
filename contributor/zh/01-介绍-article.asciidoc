@@ -22,7 +22,7 @@
 
 ### 产品所有者
 
- https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_]的角色与普通项目的产品所有者角色有些相似，但根据项目的大小会有所不同。此角色通常和受信任提交者是同一个人，但在大项目或部分通过使用 InnerSource 的贡献来满足需求的团队中，此角色可能与受信任提交者不是同一个人。
+https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_]的角色与普通项目的产品所有者角色有些相似，但根据项目的大小会有所不同。此角色通常和受信任提交者是同一个人，但在大项目或部分通过使用 InnerSource 的贡献来满足需求的团队中，此角色可能与受信任提交者不是同一个人。
 
 你需与产品所有者沟通你对通用产品和产品蓝图的一系列贡献及思考。你可与产品所有者一同以确保在合并你贡献的文档或UI / UX时都保持一致性。
 
