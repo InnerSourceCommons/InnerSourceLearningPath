@@ -4,11 +4,11 @@
 
 本文分为你可能会经历的三个步骤
 
-● https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#preparing-to-work[_争取你的贡献机会并准备开始工作_]
+.  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#preparing-to-work[_争取你的贡献机会并准备开始工作_]
 
-● https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#creating-the-pull-request[_实际创造贡献_]
+.  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#creating-the-pull-request[_实际创造贡献_]
 
-● https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#submitting-the-pull-request[_完善你的工作，并将其呈现给项目团队_]。
+.  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#submitting-the-pull-request[_完善你的工作，并将其呈现给项目团队_]。
 
 当你的贡献和目标越来越多，你可能会重复地经历其中一些步骤。很有可能当你这样做的时候，一切都会变得越来越自然——也许你甚至会奇怪你什么时候做过那些步骤。
 
