@@ -1,14 +1,21 @@
-贡献机制
+# 贡献机制
+
 你准备好开始为其他团队项目/回购做出贡献了吗？你是否希望通过协作而不是通过管理升级来减少阻碍？本节给出了实用的建议，并重点介绍了在 为InnerSource 做出贡献时要记住的问题。它使你和项目团队有尽可能的愉快的体验，为更多的贡献和伟大的合作奠定基础。
 
 本文分为你可能会经历的三个步骤
 
-● 争取你的贡献机会并准备开始工作
-● 实际创造贡献
-● 完善你的工作，并将其呈现给项目团队。
+● https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#preparing-to-work[_争取你的贡献机会并准备开始工作_]
+
+● https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#creating-the-pull-request[_实际创造贡献-]
+
+● https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/04-mechanics-of-contributing-article.asciidoc#submitting-the-pull-request[_完善你的工作，并将其呈现给项目团队_]。
+
 当你的贡献和目标越来越多，你可能会重复地经历其中一些步骤。很有可能当你这样做的时候，一切都会变得越来越自然——也许你甚至会奇怪你什么时候做过那些步骤。
-准备工作
-交付周期
+
+### 准备工作
+
+#### 交付周期
+
 一个关键的区别是项目周期。每当你有第一次贡献的时候，你都会加入一个新的（项目）团队。因此，你需要了解他们的代码、所使用的技术以及他们喜欢的开发环境（比如测试框架、构建系统）。即使在这种类型的工具已标准化的情况下，每个团队也会开发出一些单独的特性。除了技术方面，你可能面临沟通上的分歧（比如代码评审）。即使当你过一段时间再回来，团队的工作方式和成员可能已经改变了。你得花点时间去了解一个你很久没见的朋友，因为你现在正要去拜访他。
 
 给自己足够的准备时间。尽早开始，这样你的努力就可以在你需要的时候发挥作用。最好在先享受你的空闲时光——当你和项目团队一起工作时，你会对项目周期有更明显的感觉。通常，你会注意到，在为项目团队做出一些成功的贡献之后，项目团队的项目周期都会减少。在开源项目中也是一样，你可以在这里 here 阅读更多关于它的内容。
