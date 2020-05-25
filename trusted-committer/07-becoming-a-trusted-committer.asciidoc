@@ -35,6 +35,7 @@ Whether you have one or multiple Trusted Committers depends on the size and the 
 The Trusted Committer role is time consuming, and not everyone is willing or able to make that type of commitment. 
 Because of this, some companies use a _Trusted Committer rotation_ system where multiple Trusted Committers share the workload of the Trusted Committer role, and the Trusted Committers who are not _on duty_ can exclusively focus on tech-oriented work. 
 Having more than one Trusted Committer also makes it easier when someone leaves the company or moves on from the role to do something else.
+In that case, it is important that there are other Trusted Committers in place already, who can take over and ensure continuity in the community.
 
 In summary, the Trusted Committer role has to be earned by making valuable contributions - both technical and social - for the benefit of the community. 
 In a healthy community, you will have fellow Trusted Committers at your side. 
