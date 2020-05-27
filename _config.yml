@@ -14,7 +14,7 @@
 
 title: InnerSource Learning Path
 description: "Creating training articles and videos on InnerSource"
-baseurl: "/innersourcelearningpath" # the subpath of your site.
+baseurl: "/InnerSourceLearningPath" # the subpath of your site.
 url: "https://innersourcecommons.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # links will show up as reference links on each role page
