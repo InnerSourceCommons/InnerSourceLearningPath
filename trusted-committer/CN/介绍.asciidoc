@@ -14,10 +14,15 @@
 现在，您已经对角色有了基本的了解，为什么使用术语“受信任提交者”是适当的，并且知道“受信任提交者”如何与软件项目中的其他常见角色进行交流、互动，让我们快速了解一下“受信任提交者”的职责。
 职责范围
 受信任贡献者负有各种责任，包括：
-1、 https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[_确保产品质量 Ensuring product quality_]
-2、 https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[_保持社区健康 Keeping the community healthy]
-3、 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_减少贡献的障碍 Reducing the barriers to making contributions_]
-4、 https://innersourcecommons.org/resources/learningpath/trusted-committer/04/[_提升社区 Upleveling the community_]
-5、 https://innersourcecommons.org/resources/learningpath/trusted-committer/06/[_倡导社区的需求 Advocating the community’s needs_]
-我们将在接下来的章节中更深入地探讨这些职责，并在本文结尾处探索成为受信任贡献者的途径。
+
+1. https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[_确保产品质量 Ensuring product quality_]
+
+2. https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[_保持社区健康 Keeping the community healthy]
+
+3. https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_减少贡献的障碍 Reducing the barriers to making contributions_]
+
+4. https://innersourcecommons.org/resources/learningpath/trusted-committer/04/[_提升社区 Upleveling the community_]
+
+5. https://innersourcecommons.org/resources/learningpath/trusted-committer/06/[_倡导社区的需求 Advocating the community’s needs_]
+我们将在接下来的章节中更深入地探讨这些职责，并在本文结尾处探索成为受信任贡献者的途径.
 
