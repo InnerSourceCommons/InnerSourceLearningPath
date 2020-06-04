@@ -7,7 +7,7 @@
 在详细介绍受信任提交者（Trusted Committer）实际功能之前，让我们先从从高度抽象的角度将Trusted Committer角色与InnerSource中的其他角色进行对比，并解释为什么我们认为这个角色很重要。让我们从 https://innersourcecommons.org/resources/learningpath/contributor/index[_贡献者 Contributor_]角色开始。顾名思义，贡献者为InnerSource社区做出了贡献。这些贡献可能是代码或非代码工件，例如错误报告，功能请求或文档。
 贡献者可能是社区的一部分，也可能不是。它们可能是由另一个团队发送来开发团队所需的功能的。这就是为什么我们有时也将贡献者称为“来宾”或“来宾团队”的一部分。贡献者负责“适应”并达到社区的期望。
 受信任提交者始终是InnerSource社区的成员，该社区有时也称为宿主团队。我们这样比喻一下，受信任提交者既负责建造房屋，也负责制定房屋规则，以确保其客人舒适并可以进行有效的交流、合作。与贡献者相比，受信任提交者已经承担了将代码推向生产的责任，并且通常被允许执行更高风险性的任务。
-产品负责人(PO) https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_]是InnerSource中的第三个角色。与敏捷过程类似，PO负责定义和优先考虑社区要实施的需求和故事。 PO经常与受信任提交者进行交互（例如，确保所请求或提供的功能实际上属于该产品）。特别是在较小的草根InnerSource社区中，可信任提交者通常还充当PO。查看我们的产品负责人学习路径部分 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品负责人学习 Product Owner Learning Path segment_]，以获取更多详细信息。
+https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_]是InnerSource中的第三个角色。与敏捷过程类似，PO负责定义和优先考虑社区要实施的需求和故事。 PO经常与受信任提交者进行交互（例如，确保所请求或提供的功能实际上属于该产品）。特别是在较小的草根InnerSource社区中，可信任提交者通常还充当PO。查看我们的 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品负责人学习方法 Product Owner Learning Path segment_]，以获取更多详细信息。
 为什么角色名称很重要？
 每个成功的InnerSource社区中都存在受信任提交者的角色，但并非每个社区都使用该名称。一些社区使用术语“维护者”，但是该术语与其他技术角色（例如，GitHub定义的“维护者”角色）相冲突。 Apache也使用Committer一词，但是他们对该角色附加的责任很少，而且大多是面向技术的责任。在这里，由于受信任提交者还承担着其他面向社区的职责，此角色已不止于此。受信任提交者中的“受信任的”表示此人是受信任的，因此可以由其管理层和社区授权来完成工作。通过促进开放性和透明度，受信任提交者可以在流程以及所构建的产品中建立他人对他的信任。
 类似于命名在编写软件中的重要性一样，为角色选择正确的名称，并持续强调，可确保每个人对社区中扮演的​​角色有相同的理解。
