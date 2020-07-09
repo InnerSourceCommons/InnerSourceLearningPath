@@ -5,6 +5,9 @@ Thanks for contributing.  A few tips:
 * All articles may be translated into any language of interest.
 * Translated articles should be storied next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
 * The filename of the article should be changed to include two-character language code prefix.
+* The following are special terms and should not be translated:
+  * `InnerSource`
+  * `Trusted Committer`
 * Issues tracking translations on the [project board](https://github.com/InnerSourceCommons/InnerSourceLearningPath/projects/1) should be labeled with the `Translations` tag as well as the tag of the section being translated (e.g. `Contributor`).
 Here is [an example](https://github.com/InnerSourceCommons/InnerSourceLearningPath/issues/255).
 * Here is the [status of translation efforts](https://github.com/InnerSourceCommons/InnerSourceLearningPath/wiki/Translations). 
