@@ -30,7 +30,7 @@ Schliesslich gibt es Menschen, die sich in _InnerSource Communities_ engagieren,
 Dies trifft häufig auf große Unternehmen mit einem starken Fokus auf Prozesse zu. 
 Die Aufgabe der _Trusted Committer_ in diesem Zusammenhang ist es, sicherzustellen dass die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] sich auf ihre Projekte konzentrieren können, indem sie sinnvolle Richtlinien für die Mitarbeit kommunizieren und einsetzen.
 
-Ein wichtiger Aspekt dieser Richtlinien ist, was wir in Pull Requests  _signaling_ nennen: Wie soll ein Kommentar aussehen? 
+Ein wichtiger Aspekt dieser Guidelines ist, was wir in Pull Requests  _signaling_ nennen: Wie soll ein Kommentar aussehen? 
 Was bedeutet es, wenn ich einen Kommentar "_like_" oder "_+1_" vergebe? Wie unterscheidet sich beim _@mentioning_ die Verwendung eines _/CC_-Vorzeichens von einem _/FYI_-Vorzeichen? 
 Allgemein gesprochen müssen _Trusted Committer_ sicherstellen, dass der Prozess, im Projekt mitzuarbeiten, nicht mehr Probleme verursacht, sondern die Organisation unterstützt Probleme im Projekt zu identifizeren und zu lösen. 
 Schließlich sollten _Trusted Committer_ ihre Organisation dazu befähigen, prozessbezogene Probleme zu finden und diese so gut wie möglich selbst anzupassen und zu verbessern.
