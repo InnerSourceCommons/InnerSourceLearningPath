@@ -14,7 +14,7 @@ Dies schließt die _Trusted Committer_ mit ein.
 In einer erfolgreichen Community kommunizieren und behandeln sich die Mitglieder mit höchstem gegenseitigen Respekt. 
 Beiträge werden mehr als Geschenke oder Spenden denn als Ablenkungen behandelt, und sehr gute Beiträge (insbesondere erste) werden gelobt. 
 Die Aufgabe der _Trusted Committer_ besteht in erster Linie darin, ein Vorbild für andere zu sein, analog zu einem Vorbild bezüglich der erwarteten Softwarequalität. 
-Falls notwendig, sollten die _Trusted Committer_ einen Verhaltenskodex entwerfen und beschließen. 
+Falls notwendig, sollten die _Trusted Committer_ einen Code of Conduct beschließen und durchsetzen. 
 Falls sich Mitglieder der Organisation entgegen den Regeln der Organisation oder gar schädigend verhalten, ist es die Aufgabe der _Trusted Committer_, dies anzusprechen. _Trusted Committer_ sollten Möglichkeiten für Zusammenkünfte der Mitglieder bieten, dafür sorgen, sich gegenseitig kennenzulernen und auftretende Konflikte einvernehmlich zu lösen.
 
 Menschen neigen auch dazu sich an Projekten zu beteiligen, weil die Mitarbeit in einer _InnerSource Community_ eine hervorragende Gelegenheit bietet neue Fähigkeiten zu erlernen und als Person zu wachsen. 
