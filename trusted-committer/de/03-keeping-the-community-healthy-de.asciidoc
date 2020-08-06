@@ -6,7 +6,7 @@ Um auf lange Sicht erfolgreich zu sein, sollten _Trusted Committer_ auch danach 
 Was macht eine gute Community aus? Sehr einfach, eine gute Community motiviert die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] dazu dabeizubleiben, sie können den Großteil ihrer Zeit für die Entwicklung der Software einsetzen, und sind in der Lage, ihre Fähigkeiten zu verbessern. 
 Infolgedessen wird sich eine gute Community kontinuierlich wachsen.
 
-Warum schließen sich https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] einer Organisation an und bleiben dabei? Einige tun dies, weil sie sich dem Zweck oder der Mission der Organisation anschließen.
+Warum schließen sich https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] einer Community an und bleiben dabei? Einige tun dies, weil sie sich mit dem Zweck der Community identifizieren können.
 Es ist die Aufgabe der _Trusted Committer_, diesen Zweck klar zu formulieren und fördern. Dessen Bedeutung wird oft nicht erkannt, aber Marketing für die Community und ihrer Produkte ist tatsächlich entscheidend.
 
 Ein weiterer, offensichtlicher Grund für jemanden dabeizubleiben ist, dass diese die Zusammenarbeit mit anderen Mitgliedern der Organisation geniest. 
