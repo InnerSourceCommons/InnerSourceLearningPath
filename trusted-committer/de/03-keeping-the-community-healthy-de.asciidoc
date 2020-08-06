@@ -3,7 +3,7 @@
 In der Einführung wurde darauf hingewiesen, dass _Trusted Committer_ sowohl technikorientierte als auch organisationsorientierte Verantwortlichkeiten haben. Es ist nicht ausreichend, sich nur auf den _Code_ und den Zustand des _Codes_ zu konzentrieren. 
 Um auf lange Sicht erfolgreich zu sein, sollten _Trusted Committer_ auch danach streben, die Community, die die Software erstellt, gesund zu erhalten. Deshalb müssen sie sich um eine gute Balance zwischen dem Sicherstellen der Produktqualität und dem Wachstum der eigenen Community bemühen.
 
-Was macht eine gute Organisation aus? Sehr einfach, in einer guten Organisation neigen die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] dazu dabeizubleiben, sie können den Großteil ihrer Zeit nutzen, um Software zu entwickeln, und sind in der Lage, ihre Fähigkeiten zu verbessern. 
+Was macht eine gute Community aus? Sehr einfach, eine gute Community motiviert die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] dazu dabeizubleiben, sie können den Großteil ihrer Zeit für die Entwicklung der Software einsetzen, und sind in der Lage, ihre Fähigkeiten zu verbessern. 
 Infolgedessen wird sich eine gute Organisation kontinuierlich selbst verbessern.
 
 Warum schließen sich https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] einer Organisation an und bleiben dabei? Einige tun dies, weil sie sich dem Zweck oder der Mission der Organisation anschließen.
