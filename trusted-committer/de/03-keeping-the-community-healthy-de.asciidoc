@@ -9,7 +9,7 @@ Infolgedessen wird sich eine gute Community kontinuierlich wachsen.
 Warum schließen sich https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] einer Community an und bleiben dabei? Einige tun dies, weil sie sich mit dem Zweck der Community identifizieren können.
 Es ist die Aufgabe der _Trusted Committer_, diesen Zweck klar zu formulieren und fördern. Dessen Bedeutung wird oft nicht erkannt, aber Marketing für die Community und ihrer Produkte ist tatsächlich entscheidend.
 
-Ein weiterer, offensichtlicher Grund für jemanden dabeizubleiben ist, dass diese die Zusammenarbeit mit anderen Mitgliedern der Organisation geniest. 
+Ein weiterer, offensichtlicher Grund für jemanden dabeizubleiben ist die Zusammenarbeit mit anderen Community Mitgliedern. 
 Dies schließt die _Trusted Committer_ mit ein. 
 In einer erfolgreichen Organisation kommunizieren und behandeln sich die Mitglieder mit höchstem gegenseitigen Respekt. 
 Beiträge werden mehr als Geschenke oder Spenden denn als Ablenkungen behandelt, und sehr gute Beiträge (insbesondere erste) werden gelobt. 
