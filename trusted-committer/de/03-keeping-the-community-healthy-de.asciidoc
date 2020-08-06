@@ -35,7 +35,7 @@ Was bedeutet es, wenn ich einen Kommentar "_like_" oder "_+1_" vergebe? Wie unte
 Allgemein gesprochen müssen _Trusted Committer_ sicherstellen, dass der Prozess, im Projekt mitzuarbeiten, nicht mehr Probleme verursacht, sondern die Community unterstützt Probleme im Projekt zu identifizeren und zu lösen. 
 Schließlich sollten _Trusted Committer_ ihre Community dazu befähigen, prozessbezogene Probleme zu finden und diese so gut wie möglich selbst anzupassen und zu verbessern.
 
-Damit _Trusted Committer_ alle diese Verantwortlichkeiten erfüllen können, ist es wichtig, dass sie regelmäßig mit den Mitgliedern der Organisation kommunizieren und ein Gespür für die allgemeine Stimmung entwickeln. 
+Damit _Trusted Committer_ alle diese Verantwortlichkeiten erfüllen können, ist es wichtig, dass sie regelmäßig mit den Mitgliedern der Community kommunizieren und ein Gespür für die allgemeine Stimmung entwickeln. 
 Wir werden dies näher im Kapitel https://innersourcecommons.org/resources/learningpath/trusted-committer/06/["Advocating the Community's Needs"] betrachten.
 
 Zusammengefasst sollten _Trusted Committer_ sich bemühen ein einladendes und annerkennendes Umfeld für ihre https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] zu erzeugen, welches diesen erlaubt, sich auf das Schreiben von Software zu konzentrieren und ihre Persönlichkeit weiterzuentwickeln indem sie von anderen Mitgliedern der Organisation lernen.
