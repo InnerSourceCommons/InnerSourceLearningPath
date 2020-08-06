@@ -3,7 +3,7 @@
 Lasst uns mit der wohl am häufigsten mit der Rolle des _Trusted Committers_ in Verbindung gebrachten Verantwortung beginnen: Mit der Sicherung der Produktqualität
 
 In einer _InnerSource_-Organisation sind die _Trusted Committer_ verantwortlich für alle technologisch basierten Entscheidungen, speziell diejenigen, die sich auf die Produktqualität beziehen.
-Verantwortlichkeit in diesem Fall bedeutet die Notwendigkeit, sicherzustellen, dass diese Entscheidungen respektiert werden. 
+Ownership bedeutet hier, sicherzustellen, dass getroffene Entscheidungen umgesetzt werden. 
 Das schließt die Kommunikation dieser Entscheidungen und - falls notwendig - deren wirksame Vertretung innerhalb und außerhalb der Organisationseinheit mit ein. Das bedeutet aber nicht, dass infolge alle technologisch basierten Entscheidungen von den _Trusted Committer_ getroffen werden müssen, noch dass diese die komplette Implementierungsarbeit erledigen.
 
 Die Aufgabe eines _Trusted Committer_ ist es, die Qualitätsstandards innerhalb ihrer Organisation zu kommunizieren und zu erläutern, vor allem und sie so zu formulieren, dass sie für ihre https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] verständlich und anwendbar sind. 
