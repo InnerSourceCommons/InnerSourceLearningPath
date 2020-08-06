@@ -7,7 +7,7 @@ Was macht eine gute Community aus? Sehr einfach, eine gute Community motiviert d
 Infolgedessen wird sich eine gute Organisation kontinuierlich selbst verbessern.
 
 Warum schließen sich https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] einer Organisation an und bleiben dabei? Einige tun dies, weil sie sich dem Zweck oder der Mission der Organisation anschließen.
-Es ist die Aufgabe der _Trusted Committer_, diesen Zweck klar zu formulieren und voranzutreiben. Dessen Bedeutung wird oft nicht erkannt, aber die Pflege einer Organisation und ihrer Produkte ist tatsächlich entscheidend.
+Es ist die Aufgabe der _Trusted Committer_, diesen Zweck klar zu formulieren und fördern. Dessen Bedeutung wird oft nicht erkannt, aber Marketing für die Community und ihrer Produkte ist tatsächlich entscheidend.
 
 Ein weiterer, offensichtlicher Grund für jemanden dabeizubleiben ist, dass diese die Zusammenarbeit mit anderen Mitgliedern der Organisation geniest. 
 Dies schließt die _Trusted Committer_ mit ein. 
