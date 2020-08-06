@@ -13,7 +13,7 @@ Ein weiterer, offensichtlicher Grund für jemanden dabeizubleiben ist die Zusamm
 Dies schließt die _Trusted Committer_ mit ein. 
 In einer erfolgreichen Community kommunizieren und behandeln sich die Mitglieder mit höchstem gegenseitigen Respekt. 
 Beiträge werden mehr als Geschenke oder Spenden denn als Ablenkungen behandelt, und sehr gute Beiträge (insbesondere erste) werden gelobt. 
-Die Aufgabe der _Trusted Committer_ besteht in erster Linie darin, ein Vorbild für andere zu sein, analog zu einem Vorbild bezüglich der erwarteten Softwarequalität zu sein. 
+Die Aufgabe der _Trusted Committer_ besteht in erster Linie darin, ein Vorbild für andere zu sein, analog zu einem Vorbild bezüglich der erwarteten Softwarequalität. 
 Falls notwendig, sollten die _Trusted Committer_ einen Verhaltenskodex entwerfen und beschließen. 
 Falls sich Mitglieder der Organisation entgegen den Regeln der Organisation oder gar schädigend verhalten, ist es die Aufgabe der _Trusted Committer_, dies anzusprechen. _Trusted Committer_ sollten Möglichkeiten für Zusammenkünfte der Mitglieder bieten, dafür sorgen, sich gegenseitig kennenzulernen und auftretende Konflikte einvernehmlich zu lösen.
 
