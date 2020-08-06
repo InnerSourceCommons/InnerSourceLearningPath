@@ -28,7 +28,7 @@ Wir werden diesen Aspekt in https://innersourcecommons.org/resources/learningpat
 
 Schliesslich gibt es Menschen, die sich in _InnerSource Communities_ engagieren, weil sie sich dort auf das Entwickeln von Software konzentrieren können anstatt anderen Aufgaben nachzugehen, die häufig als überflüssig oder unnötig angesehen werden. 
 Dies trifft häufig auf große Unternehmen mit einem starken Fokus auf Prozesse zu. 
-Die Aufgabe der _Trusted Committer_ in diesem Zusammenhang ist es, sicherzustellen dass die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] sich auf ihre Projekte konzentrieren können, indem sie sinnvolle Richtlinien für die Mitarbeit kommunizieren und einsetzen.
+Die Aufgabe der _Trusted Committer_ in diesem Zusammenhang ist es, sicherzustellen dass die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] sich auf ihre Projekte konzentrieren können, indem sie sinnvolle Contribution Guidelines kommunizieren und einsetzen.
 
 Ein wichtiger Aspekt dieser Guidelines ist, was wir in Pull Requests  _signaling_ nennen: Wie soll ein Kommentar aussehen? 
 Was bedeutet es, wenn ich einen Kommentar "_like_" oder "_+1_" vergebe? Wie unterscheidet sich beim _@mentioning_ die Verwendung eines _/CC_-Vorzeichens von einem _/FYI_-Vorzeichen? 
