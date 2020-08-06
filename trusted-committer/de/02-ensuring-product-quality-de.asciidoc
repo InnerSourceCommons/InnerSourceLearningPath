@@ -1,39 +1,38 @@
-== Sicherstellung der Produktqualität
+== Sicherstellung der ProduktqualitÃ¤t
 
-Lasst uns mit der wohl am öftesten mit der Rolle des _Trusted Committers_ in Verbindung gebrachten Verantwortung beginnen: Sicherstellung der Produktqualität
+Lasst uns mit der wohl am hÃ¤ufigsten mit der Rolle des _Trusted Committers_ in Verbindung gebrachten Verantwortung beginnen: Mit der Sicherung der ProduktqualitÃ¤t
 
-In einer _InnerSource_-Organisation sind die _Trusted Committer_ verantwortlich für alle technologisch basierten Entscheidungen, speziell diejenigen, die sich auf die Produktqualität beziehen.
+In einer _InnerSource_-Organisation sind die _Trusted Committer_ verantwortlich fÃ¼r alle technologisch basierten Entscheidungen, speziell diejenigen, die sich auf die ProduktqualitÃ¤t beziehen.
 Verantwortlichkeit in diesem Fall bedeutet die Notwendigkeit, sicherzustellen, dass diese Entscheidungen respektiert werden. 
-Das schließt die Kommunikation dieser Entscheidungen und - falls notwendig - deren wirksame Vertretung innerhalb und außerhalb der Organisationseinheit mit ein. Das bedeutet aber nicht, dass infolge alle technologisch basierten Entscheidungen von den _Trusted Committer_ getroffen werden müssen, noch dass diese die komplette Implementierungsarbeit erledigen.
+Das schlieÃŸt die Kommunikation dieser Entscheidungen und - falls notwendig - deren wirksame Vertretung innerhalb und auÃŸerhalb der Organisationseinheit mit ein. Das bedeutet aber nicht, dass infolge alle technologisch basierten Entscheidungen von den _Trusted Committer_ getroffen werden mÃ¼ssen, noch dass diese die komplette Implementierungsarbeit erledigen.
 
-Die Aufgabe eines _Trusted Committer_ ist es, die Qualitätsstandards innerhalb ihrer Organisation zu kommunizieren und zu erläutern, vor allem und sie so zu formulieren, dass sie für ihre https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] verständlich und anwendbar sind. 
-Dies beinhaltet natürlich auch die schriftliche Dokumentation, und dies ist für eine _InnerSource_-Organisation der effektivste Weg diese Standards vorzuleben und Beispiele zu geben. 
-Wir glauben, dass es ein erstrebenswertes Ziel für eine _InnerSource_-Organisation sein sollte, sich nicht nur in der Arbeitsmethodik von einer klassischen Entwicklungsorganisation zu unterscheiden, sondern auch in der Qualität der Software, die sie entwickelt. 
-Softwarequalität auf höchstem Niveau ist eine Grundvoraussetzung, um Vertrauen seitens des Managements und der Benutzer in eine  _InnerSource_-Organisationeinheit aufzubauen und aufrecht zu erhalten. 
-Wir alle wissen, wie schnell dieses Vertrauen durch eine einzige fehlerhafte Auslieferung erschüttert werden kann.
+Die Aufgabe eines _Trusted Committer_ ist es, die QualitÃ¤tsstandards innerhalb ihrer Organisation zu kommunizieren und zu erlÃ¤utern, vor allem und sie so zu formulieren, dass sie fÃ¼r ihre https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] verstÃ¤ndlich und anwendbar sind. 
+Dies beinhaltet natÃ¼rlich auch die schriftliche Dokumentation, und dies ist fÃ¼r eine _InnerSource_-Organisation der effektivste Weg diese Standards vorzuleben und Beispiele zu geben. 
+Wir glauben, dass es ein erstrebenswertes Ziel fÃ¼r eine _InnerSource_-Organisation sein sollte, sich nicht nur in der Arbeitsmethodik von einer klassischen Entwicklungsorganisation zu unterscheiden, sondern auch in der QualitÃ¤t der Software, die sie entwickelt. 
+SoftwarequalitÃ¤t auf hÃ¶chstem Niveau ist eine Grundvoraussetzung, um Vertrauen seitens des Managements und der Benutzer in eine  _InnerSource_-Organisationeinheit aufzubauen und aufrecht zu erhalten. 
+Wir alle wissen, wie schnell dieses Vertrauen durch eine einzige fehlerhafte Auslieferung erschÃ¼ttert werden kann.
 
-_Trusted Committer_ stellen außerdem sicher, das in der Organisation die notwendige Infrastruktur und die notwendigen Tools vorhanden sind, welche zur Entwicklung qualitativ hochwertiger Software benötigt werden.
-Zur Sicherstellung der Qualität wird am häufigsten das _Peer Review_ genutzt, welches normalerweise Bestandteil der Pull Requests(PR's) ist.
-Während für gewöhnlich jedermann Pull Requests starten und daran teilnehmen kann indem er auf notwendige Verbesserungen hinweist, ist es normalerweise nur dem _Trusted Committer_ möglich Beiträge zu akzeptieren oder abzulehnen.
-Das ist es, was wir an anderer Stelle damit gemeint haben, wenn wir davon sprachen, dass "_Trusted Committer_ näher an der Freigabe des Codes sind". 
-_Trusted Committer_ sollten den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] auch während eines PR's helfen ihre Beiträge fertig zu stellen.
+_Trusted Committer_ stellen auÃŸerdem sicher, das in der Organisation die notwendige Infrastruktur und die notwendigen Tools vorhanden sind, welche zur Entwicklung qualitativ hochwertiger Software benÃ¶tigt werden.
+Zur Sicherstellung der QualitÃ¤t wird am hÃ¤ufigsten das _Peer Review_ genutzt, welches normalerweise Bestandteil der Pull Requests(PR's) ist.
+WÃ¤hrend fÃ¼r gewÃ¶hnlich jedermann Pull Requests starten und daran teilnehmen kann indem er auf notwendige Verbesserungen hinweist, ist es normalerweise nur dem _Trusted Committer_ mÃ¶glich BeitrÃ¤ge zu akzeptieren oder abzulehnen.
+Das ist es, was wir an anderer Stelle damit gemeint haben, wenn wir davon sprachen, dass "_Trusted Committer_ nÃ¤her an der Freigabe des Codes sind". 
+_Trusted Committer_ sollten den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] auch wÃ¤hrend eines PR's helfen ihre BeitrÃ¤ge fertig zu stellen.
 
 Dennoch ist es letztendlich die Aufgabe des _Contributors_, dies zu erreichen.
-Es ist nicht Aufgabe eines _Trusted Committer_, alle Beiträge grundsätzlich zu akzeptieren, sondern nur diejenigen, die die definierten Kriterien bezüglich Qualität, Umfang und Projektausrichtung erfüllen. 
-_Trusted Committer_ sollten vermeiden, den Code eines _Contributors_ umzuschreiben, um ihn passend zu machen, selbst wenn dadurch ein höherer Aufwand bei der Betreuung des https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] während eines PR's entsteht. 
-_Trusted Committer_ nehmen eine längerfristige Perspektive ein und verstehen, dass diese Art der Unterstützung eine Investition in die Langlebigkeit der Organisation darstellt und dies langfristig die Entwicklungsgeschwindigkeit der Organisation erhöht.
+Es ist nicht Aufgabe eines _Trusted Committer_, alle BeitrÃ¤ge grundsÃ¤tzlich zu akzeptieren, sondern nur diejenigen, die die definierten Kriterien bezÃ¼glich QualitÃ¤t, Umfang und Projektausrichtung erfÃ¼llen. 
+_Trusted Committer_ sollten vermeiden, den Code eines _Contributors_ umzuschreiben, um ihn passend zu machen, selbst wenn dadurch ein hÃ¶herer Aufwand bei der Betreuung des https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] wÃ¤hrend eines PR's entsteht. 
+_Trusted Committer_ nehmen eine lÃ¤ngerfristige Perspektive ein und verstehen, dass diese Art der UnterstÃ¼tzung eine Investition in die Langlebigkeit der Organisation darstellt und dies langfristig die Entwicklungsgeschwindigkeit der Organisation erhÃ¶ht.
 
-Manchmal sind Anforderungen und Einschränkungen des Projekts nicht von vorne herein bekannt, sondern werden erst während der Entwicklung erkannt.
-_Trusted Committer_ sind auch dafür verantwortlich, dass diese Ergebnisse erfasst und dokumentiert werden, so dass diese sowohl den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owners_] als auch den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] zugänglich sind.
+Manchmal sind Anforderungen und EinschrÃ¤nkungen des Projekts nicht von vorne herein bekannt, sondern werden erst wÃ¤hrend der Entwicklung erkannt.
+_Trusted Committer_ sind auch dafÃ¼r verantwortlich, dass diese Ergebnisse erfasst und dokumentiert werden, so dass diese sowohl den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/product-owner/01-opening-article.asciidoc[_Product Owners_] als auch den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] zugÃ¤nglich sind.
 
-Der Aufgabenbereich des _Trusted Committer_ in Bezug auf Qualität geht über Pull Requests hinaus. 
-_Trusted Committer_ betrachten Qualität als strategische Komponente und stellen die Langlebigkeit der zu erstellenden Software sicher. Dies beinhaltet codeorientierte Verantwortlichkeiten im Sinne von _clean code_ bis hin zur Wahrung der konzeptionellen Integrität der gesamten Software.
-Dazu gehören auch managementorientierte Aufgaben wie zum Beispiel sicherzustellen, dass die Organisation genügend Zeit für Pflege der Software hat, oder wenn nötig, die Verschiebung von Bereitstellungsterminen zugunsten der Verbesserung der Softwarequalität zu veranlassen.
-Die Effektivität des _Trusted Committers_ hängt stark von der Wartbarkeit des Code's ab.
+Der Aufgabenbereich des _Trusted Committer_ in Bezug auf QualitÃ¤t geht Ã¼ber Pull Requests hinaus. 
+_Trusted Committer_ betrachten QualitÃ¤t als strategische Komponente und stellen die Langlebigkeit der zu erstellenden Software sicher. Dies beinhaltet codeorientierte Verantwortlichkeiten im Sinne von _clean code_ bis hin zur Wahrung der konzeptionellen IntegritÃ¤t der gesamten Software.
+Dazu gehÃ¶ren auch managementorientierte Aufgaben wie zum Beispiel sicherzustellen, dass die Organisation genÃ¼gend Zeit fÃ¼r Pflege der Software hat, oder wenn nÃ¶tig, die Verschiebung von Bereitstellungsterminen zugunsten der Verbesserung der SoftwarequalitÃ¤t zu veranlassen.
+Die EffektivitÃ¤t des _Trusted Committers_ hÃ¤ngt stark von der Wartbarkeit des Code's ab.
 
-Fehlt letzteres, müssen die _Trusted Committer_ viel ihrer wertvollen Zeit investieren um Workarounds für Fehler oder anfällige Architektur zu validieren und zu dokumentieren. Dadurch haben sie nicht ausreichend Zeit, um https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] einzubeziehen und zu betreuen.
+Fehlt letzteres, mÃ¼ssen die _Trusted Committer_ viel ihrer wertvollen Zeit investieren um Workarounds fÃ¼r Fehler oder anfÃ¤llige Architektur zu validieren und zu dokumentieren. Dadurch haben sie nicht ausreichend Zeit, um https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] einzubeziehen und zu betreuen.
 
-Zusammengefasst ist das Sicherstellen der Produktqualität eine Schlüsselverantwortung der _Trusted Committer_.
-Sie bestimmen die Qualitätsstandards und gehen mit gutem Vorbild voran. Sie unterstützen bei Pull Requests und helfen den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] die Qualitätsstandards zu erfüllen. 
-Weiterhin übernehmen sie auch die Verantwortung für die langfristige Wartbarkeit und Qualität der Software. 
-
+Zusammengefasst ist das Sicherstellen der ProduktqualitÃ¤t eine SchlÃ¼sselverantwortung der _Trusted Committer_.
+Sie bestimmen die QualitÃ¤tsstandards und gehen mit gutem Vorbild voran. Sie unterstÃ¼tzen bei Pull Requests und helfen den https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[_Contributors_] die QualitÃ¤tsstandards zu erfÃ¼llen. 
+Weiterhin Ã¼bernehmen sie auch die Verantwortung fÃ¼r die langfristige Wartbarkeit und QualitÃ¤t der Software. 
