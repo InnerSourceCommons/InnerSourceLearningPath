@@ -20,7 +20,7 @@ Falls sich Mitglieder der Community schädigend verhalten, ist es die Aufgabe de
 Menschen neigen auch dazu sich an Projekten zu beteiligen, weil die Mitarbeit in einer _InnerSource Community_ eine hervorragende Gelegenheit bietet neue Fähigkeiten zu erlernen und als Person zu wachsen. 
 Dies ist ein weiterer Aspekt, in dem die Rolle des _Trusted Committers_ wirklich wichtig ist. 
 _Trusted Committer_ sind oft Mentoren für jüngere Entwickler, und verwenden Zeit während der Pull Requests, um nicht nur auf Verbesserungspotentiale hinzuweisen, sondern auch im Detail zu erklären, warum und wie etwas verbessert werden muss. 
-Sie liefern die Theorie oder das Hintergrundwissen zu Verbesserungen und schlagen die besten Möglichkeiten vor Änderungen oder Verbesserungen zu implementieren. Dadurch können _Trusted Committer_ die Lerngeschwindigkeit ihrer Organisation weit über die traditioneller Software-Entwicklungsorganisationen erhöhen.
+Sie liefern die Theorie oder das Erfahrung bei Quellcodeänderungen und schlagen Möglichkeiten wie Änderungen am besten implementiert werden können. Dadurch können _Trusted Committer_ die Lerngeschwindigkeit ihrer Community weit über die traditioneller Software-Entwicklung erhöhen.
 
 Wir glauben, dass _Trusted Committer_ das Anwerben und Betreuen während der Pull Requests über das Erreichen von Veröffentlichungsterminen stellen sollten, außer es sprechen triftige Gründe dagegen. 
 Gute Betreuung während eines Pull Requests führt zu höherem Vertrauen und Einbindung von https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_], was im Gegenzug zu mehr Mitarbeit führt. 
