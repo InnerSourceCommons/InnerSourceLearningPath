@@ -1,6 +1,6 @@
 # 介绍
 
-### InnerSource 的贡献者
+### InnerSource 的贡献者（contributor）
 
 你的工作计划是否曾经因为另一个团队没有做完你所依赖的功能而卡住？也许你不得不在项目中做一些额外的工作来解决这些缺少的功能。若能不再受这种问题困扰，那该有多美好呀？
 
@@ -14,13 +14,13 @@
 
 本节为你简要概述了其他两个角色，但我们想鼓励你去阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_“受信任提交者”的介绍文章introductory article of the Trusted Committer role_] ，也推荐你在深入研究本节的“贡献者”角色之前阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_] 一文，你也可以观看视频（ https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_介绍 introduction_]、 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_]）而无需阅读文章。
 
-### 受信任提交者
+### 受信任提交者（Trusted Committer）
 
-受信任提交者是社区的主人，他们对项目代码把关，审核你贡献的代码，并最快应用到生产环境。他们的职责是指引你如何为社区做贡献，直接帮助你，或者间接提供信息，例如社区审核规范、大规模修改建议，以及文档指引或者与你修改相关的代码片断。
+受信任提交者是社区的主人，他们对项目代码把关，审核你贡献的代码，并最快应用到生产环境。他们的职责是指引你如何为社区做贡献，直接帮助你，或者间接提供信息，例如社区审核规范、大规模修改建议，以及文档指引或者与你修改相关的代码片断等。
 
-他们还需要从技术和一般角度来关注产品质量、可持续性和项目发展，减少每个人为做出贡献所遇到的障碍，以及关注整个社区。关注社区包括保持社区健康，提升社区及其参与者的水平，并在组织中倡导社区的需求。
+他们还需要从技术和一般角度来关注产品质量、可持续性和项目发展，减少每个人为做出贡献所遇到的障碍，以及关注整个社区。关注社区包括保持社区健康，提升社区及其参与者的水平，并在组织中公示社区的需求。
 
-### 产品所有者
+### 产品所有者（Product Owner）
 
 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_]的角色与普通项目的产品所有者角色有些相似，但根据项目的大小会有所不同。此角色通常和受信任提交者是同一个人，但在大项目或部分通过使用 InnerSource 的贡献来满足需求的团队中，此角色可能与受信任提交者不是同一个人。
 
