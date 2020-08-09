@@ -1,4 +1,4 @@
-# 成为一名 InnerSource 贡献者
+# 成为一名 InnerSource 贡献者（Contributor ）
 
 InnerSource 贡献者在常规的团队边界之外运作，他们是跨越组织性孤岛的纽带。因此，他们需要了解一些使这项工作更有效的常见做法。
 
