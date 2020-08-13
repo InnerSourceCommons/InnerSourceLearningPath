@@ -1,20 +1,20 @@
 # 介绍
 
-### InnerSource 的贡献者（contributor）
+### InnerSource 的贡献者（Contributor）
 
-你的工作计划是否曾经因为另一个团队没有做完你所依赖的功能而卡住？也许你不得不在项目中做一些额外的工作来解决这些缺少的功能。若能不再受这种问题困扰，那该有多美好呀？
+你的工作计划是否曾经因为另一个团队没有做完你所依赖的功能而卡住？也许你不得不在项目中做一些额外的工作来补上这些缺失的功能。若能不再受这种问题困扰，那该有多美好呀？
 
 有了 InnerSource 项目，你将永远不必再为等待其他团队交付某些所需功能而困扰了。如果你没有从此项目中获取所需东西，则可以担任 InnerSource 的贡献者，直接在另一个团队的代码库中进行所需的更改。
 
-“贡献者”指为 InnerSource 社区项目代码库做贡献的人，这些人可以将自己视为社区的一部分。而对于大多数贡献者来说，都会经历这一系列过程：从了解社区，到使用社区的产品，再到与社区成员进行交互，最后开始做出贡献。最后，其中一些贡献者会成为 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_受信任提交者 Trusted Committer_] 
+“贡献者”指为 InnerSource 社区项目代码库做贡献的人，这些人可以将自己视为社区的一部分。而对于大多数贡献者来说，都会经历这一系列过程：从了解社区，到使用社区的产品，再到与社区成员进行交互，最后开始做出贡献。最后，其中一些贡献者会成为 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] 
 
 ### 与其他角色的关系
 
-作为 InnerSource 社区中的贡献者，你将与 InnerSource 的其他角色（例如 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_受信任提交者 Trusted Committer_] 或 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_] ）进行交互，也可能与其他贡献者进行交互。有时，这些角色可以由同一个人扮演，例如小型基础项目中的“受信任的提交者”和“产品所有者”。
+作为 InnerSource 社区中的贡献者，你将与 InnerSource 的其他角色（例如 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] 或 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_] ）进行交互，也可能与其他贡献者进行交互。有时，这些角色可以由同一个人扮演，例如小型基础项目中的“受信任的提交者”和“产品所有者”。
 
-本节为你简要概述了其他两个角色，但我们想鼓励你去阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_“受信任提交者”的介绍文章introductory article of the Trusted Committer role_] ，也推荐你在深入研究本节的“贡献者”角色之前阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_] 一文，你也可以观看视频（ https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_介绍 introduction_]、 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_]）而无需阅读文章。
+本节为你简要概述了其他两个角色，但我们想鼓励你去阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_“Trusted Committer”的介绍文章introductory article of the Trusted Committer role_] ，也推荐你在深入研究本节的“贡献者”角色之前阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_] 一文，你也可以观看视频（ https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_介绍 introduction_]、 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_]）而无需阅读文章。
 
-### 受信任提交者（Trusted Committer）
+### Trusted Committer
 
 受信任提交者是社区的主人，他们对项目代码把关，审核你贡献的代码，并最快应用到生产环境。他们的职责是指引你如何为社区做贡献，直接帮助你，或者间接提供信息，例如社区审核规范、大规模修改建议，以及文档指引或者与你修改相关的代码片断等。
 
@@ -28,7 +28,7 @@ https://innersourcecommons.org/resources/learningpath/product-owner/index[_产�
 
 最后重要的一点，有些原本可能涉及该项目的产品所有者，你需关注他带来的收益和对社区的影响。
 
-如果你想更深入的了解这些其他角色，我们也鼓励你这样做，为此我们准备了有关 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_受信任提交者 Trusted Committer_]
+如果你想更深入的了解这些其他角色，我们也鼓励你这样做，为此我们准备了有关 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_]
 或 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_] 的单独部分。
 
 ### 概述
