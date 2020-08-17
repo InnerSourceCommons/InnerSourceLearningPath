@@ -1,0 +1,47 @@
+# 介绍
+
+### InnerSource 的贡献者（Contributor）
+
+你的工作计划是否曾经因为另一个团队没有做完你所依赖的功能而卡住？也许你不得不在项目中做一些额外的工作来补上这些缺失的功能。若能不再受这种问题困扰，那该有多美好呀？
+
+有了 InnerSource 项目，你将永远不必再为等待其他团队交付某些所需功能而困扰了。如果你没有从此项目中获取所需东西，则可以担任 InnerSource 的贡献者，直接在另一个团队的代码库中进行所需的更改。
+
+“贡献者”指为 InnerSource 社区项目代码库做贡献的人，这些人可以将自己视为社区的一部分。而对于大多数贡献者来说，都会经历这一系列过程：从了解社区，到使用社区的产品，再到与社区成员进行交互，最后开始做出贡献。最后，其中一些贡献者会成为 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] 
+
+### 与其他角色的关系
+
+作为 InnerSource 社区中的贡献者，你将与 InnerSource 的其他角色（例如 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] 或 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_] ）进行交互，也可能与其他贡献者进行交互。有时，这些角色可以由同一个人扮演，例如小型基础项目中的“受信任的提交者”和“产品所有者”。
+
+本节为你简要概述了其他两个角色，但我们想鼓励你去阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_“Trusted Committer”的介绍文章introductory article of the Trusted Committer role_] ，也推荐你在深入研究本节的“贡献者”角色之前阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_] 一文，你也可以观看视频（ https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_介绍 introduction_]、 https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_降低准入门槛 Lowering the barriers to entry_]）而无需阅读文章。
+
+### Trusted Committer
+
+受信任提交者是社区的主人，他们对项目代码把关，审核你贡献的代码，并最快应用到生产环境。他们的职责是指引你如何为社区做贡献，直接帮助你，或者间接提供信息，例如社区审核规范、大规模修改建议，以及文档指引或者与你修改相关的代码片断等。
+
+他们还需要从技术和一般角度来关注产品质量、可持续性和项目发展，减少每个人为做出贡献所遇到的障碍，以及关注整个社区。关注社区包括保持社区健康，提升社区及其参与者的水平，并在组织中公示社区的需求。
+
+### 产品所有者（Product Owner）
+
+https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_]的角色与普通项目的产品所有者角色有些相似，但根据项目的大小会有所不同。此角色通常和受信任提交者是同一个人，但在大项目或部分通过使用 InnerSource 的贡献来满足需求的团队中，此角色可能与受信任提交者不是同一个人。
+
+你需与产品所有者沟通你对通用产品和产品蓝图的一系列贡献及思考。你可与产品所有者一同以确保在合并你贡献的文档或UI / UX时都保持一致性。
+
+最后重要的一点，有些原本可能涉及该项目的产品所有者，你需关注他带来的收益和对社区的影响。
+
+如果你想更深入的了解这些其他角色，我们也鼓励你这样做，为此我们准备了有关 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_]
+或 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_] 的单独部分。
+
+### 概述
+
+在接下来5段文字中，你将详细了解到各方面的介绍。
+
+下一部分将详细介绍怎样的心态和习惯有助于你成为 InnerSource 的贡献者。
+
+在第三部分中，我们将研究贡献者的精神-即行为方面，这些行为方面将为你和团队带来愉快的高产时间，并有可能激发更多的协作。前面的视频提到的“宾至如归”就是一个生动的例子。
+
+第四部分描述了为使你的贡献成功所需做的实际工作——贡献的机制。当你准备贡献时、在开发期间和贡献代码时，我们将提供实用的技巧。
+
+在我们讨论了贡献者角色的个人、交互和技术方面之后，第五部分介绍了努力贡献的好处。我们将从不同的角度展示好处：你的，你的团队的，和整个公司的视角。
+
+最后的部分将回顾我们所学到的关于成为 InnerSource 的贡献者的相关知识。我们将分享如何通过其他在线视频、文章及参与在线 InnerSource 社区来继续学习InnerSource。
+
