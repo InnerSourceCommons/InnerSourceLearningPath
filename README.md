@@ -50,6 +50,9 @@ workbook/0n-section-name.asciidoc // Contains the part of the workbook matching 
 ```
 
 After material is finished the scripts will be used to film videos.
+Each video should be about 5min in length.
+Each article should be about a page long.
+The idea is that a person could receive a link to an article or video and watch or read it without having to set aside time in advance to do so. 
 Videos, articles, and workbooks will be published at _learning.oreilly.com_ and also at _innersourcecommons.org_.
 
 ## How to Get Involved
