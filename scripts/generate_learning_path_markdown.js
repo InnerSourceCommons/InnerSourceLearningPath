@@ -91,7 +91,8 @@ sections.forEach(({ learning_path_group, dirName, workbook, renderArticles }) =>
     learning_path_article: `workbook/${workbook}`,
     learning_path_group,
     learning_path_menu_title: `${learning_path_group} Workbook`,
-    learning_path_position: articles.length - articles.filter(Array.isArray).length + 1
+    learning_path_position: articles.length - articles.filter(Array.isArray).length + 1,
+    no_video: true
   }
 
   writeMarkdownFile(workbookFileName, workbookFrontMatter)
