@@ -1,4 +1,15 @@
-Thanks for contributing.  A few tips:
+Thanks for contributing.
+Here's the overall contribution process for a segment in the InnerSource Learning Path.
+The output of each step should be reviewed in the [#learning-path] working group before it is considered "done"
+
+1. Create an outline.
+1. Create a written article.
+1. Film the video.
+1. Create assessment questions.
+
+The [#learning-path] community has professional-grade filming equipment that you may borrow for the video portion of your segment.
+
+Here's a few tips as you go along:
 
 # Translations
 
@@ -57,3 +68,5 @@ then those comments/suggestions should be made against the source text _GitHub_.
   * Addition of superimposed banner text.
 * Adjustments to respond to comments will be released as a new video in the same folder.
 The new video will have a version number in the title.
+
+[#learning-path]: https://app.slack.com/client/T04PXKRM0/CARTU4XV2
