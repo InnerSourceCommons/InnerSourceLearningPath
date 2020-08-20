@@ -1,3 +1,5 @@
+== New Roles and Responsibilities
+
 Being an InnerSource leader comes with new roles and responsibilities.
  One of the first one of those is supporting your TCs. TCs are the https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committers_].
 One of the first things that you're going to be doing is probably helping to choose who those new TCs are going to be and supporting them in their job.
