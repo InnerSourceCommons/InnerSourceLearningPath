@@ -69,7 +69,7 @@ sections.forEach(({ learning_path_group, dirName, workbook, renderArticles }) =>
       const articleTitle = article.asciiDoc.match(/== (.*)/)[1]
       const articleNumber = article.filePath.split('/').pop().split('-')[0]
       const fileName = articleNumber === '01' ? `${writePath}/index.md` : `${writePath}/${articleNumber}.md`
-      let frontMatter = {
+      const frontMatter = {
         layout: 'learning-path-page',
         show_meta: false,
         title: `Learning Path - ${learning_path_group} - ${articleTitle}`,
