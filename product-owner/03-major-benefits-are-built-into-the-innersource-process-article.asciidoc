@@ -1,3 +1,5 @@
+== Major Benefits are Built into the InnerSource Process
+
 In the http://innersourcecommons.org/[InnerSource Commons], we talk about the concept of _open_ in the lessons we've learned in open source, and how we might reuse what we know or have learned in an enterprise environment.
 Let me step through a few of those from a manager's perspective. I'll talk about how they've benefited me as a director, and my product managers - that's what we call product owners at PayPal.
 

@@ -11,3 +11,15 @@ For example, to point all links to innersourcecommons.org:
 ```
 node substitute_article_urls.js isc
 ```
+
+## generate_learning_path_markdown.js
+
+A node script to generate markdown files required for hosting Learning Path on innersourcecommons.org.
+
+### Usage:
+```
+npm ci
+node generate_learning_path_markdown.js
+
+cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/
+```
