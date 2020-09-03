@@ -20,4 +20,6 @@ A node script to generate markdown files required for hosting Learning Path on i
 ```
 npm ci
 node generate_learning_path_markdown.js
+
+cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/
 ```

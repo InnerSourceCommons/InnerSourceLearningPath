@@ -1,7 +1,4 @@
 
 \.DS_Store
 scripts/node_modules
-scripts/introduction
-scripts/trusted-committer
-scripts/contributor
-scripts/product-owner
+scripts/learningpath
