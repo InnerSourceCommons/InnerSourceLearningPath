@@ -2,7 +2,7 @@ Thanks for contributing.
 Here's the overall contribution process for a segment in the InnerSource Learning Path.
 The output of each step should be reviewed in the [#learning-path] working group before it is considered "done"
 
-1. Create an outline.
+1. Create an [outline](./outline-template.md).
 1. Create a written article.
 1. Film the video.
 1. Create assessment questions.
