@@ -51,9 +51,15 @@ const sections = [
   },
 ]
 
+try {
+  fs.mkdirSync('./learningpath')
+} catch (e) {
+  console.log(e)
+}
+
 sections.forEach(({ learning_path_group, dirName, workbook, renderArticles }) => {
   const readPath = `../${dirName}`
-  const writePath = `./${dirName}`
+  const writePath = `./learningpath/${dirName}`
   const articles = getArticleFiles(readPath)
 
   try {
