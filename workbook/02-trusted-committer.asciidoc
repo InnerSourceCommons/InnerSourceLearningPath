@@ -209,6 +209,8 @@ Why 3 is correct: Each team may use different tools and repositories. A reposito
 
 Why 4 is incorrect: One of the great benefits of InnerSource is the ability of all teams to use the features designed and coded by other teams. Companies adopt InnerSource largely in order to maximize the value of each code contribution by giving access to the code to every relevant user.
 .
+
+
 ===== Question 2. Guidelines for contributing can be conveyed through:
 
 . The README file
