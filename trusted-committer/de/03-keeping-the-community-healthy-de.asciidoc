@@ -4,23 +4,23 @@ In der Einführung wurde darauf hingewiesen, dass _Trusted Committer_ sowohl tec
 Um auf lange Sicht erfolgreich zu sein, sollten _Trusted Committer_ auch danach streben, die Community, die die Software erstellt, gesund zu erhalten. Deshalb müssen sie sich um eine gute Balance zwischen dem Sicherstellen der Produktqualität und dem Wachstum der eigenen Community bemühen.
 
 Was macht eine gute Community aus? Sehr einfach, eine gute Community motiviert die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] dazu dabeizubleiben, sie können den Großteil ihrer Zeit für die Entwicklung der Software einsetzen, und sind in der Lage, ihre Fähigkeiten zu verbessern. 
-Infolgedessen wird sich eine gute Community kontinuierlich wachsen.
+Infolgedessen wird eine gute Community kontinuierlich wachsen.
 
 Warum schließen sich https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] einer Community an und bleiben dabei? Einige tun dies, weil sie sich mit dem Zweck der Community identifizieren können.
 Es ist die Aufgabe der _Trusted Committer_, diesen Zweck klar zu formulieren und fördern. Dessen Bedeutung wird oft nicht erkannt, aber Marketing für die Community und ihrer Produkte ist tatsächlich entscheidend.
 
-Ein weiterer, offensichtlicher Grund für jemanden dabeizubleiben ist die Zusammenarbeit mit anderen Community Mitgliedern. 
+Ein weiterer, offensichtlicher Grund für eine Person dabeizubleiben ist die Zusammenarbeit mit anderen Community Mitgliedern. 
 Dies schließt die _Trusted Committer_ mit ein. 
 In einer erfolgreichen Community kommunizieren und behandeln sich die Mitglieder mit höchstem gegenseitigen Respekt. 
 Beiträge werden mehr als Geschenke oder Spenden denn als Ablenkungen behandelt, und sehr gute Beiträge (insbesondere erste) werden gelobt. 
 Die Aufgabe der _Trusted Committer_ besteht in erster Linie darin, ein Vorbild für andere zu sein, analog zu einem Vorbild bezüglich der erwarteten Softwarequalität. 
 Falls notwendig, sollten die _Trusted Committer_ einen Code of Conduct beschließen und durchsetzen. 
-Falls sich Mitglieder der Community schädigend verhalten, ist es die Aufgabe der _Trusted Committer_, dies zu adressieren. _Trusted Committer_ sollen regelmäßige Treffen für Mitglieder anbieten (entweder persönlich oder virtuell). Dabei können sich Teilnehmergegenseitig kennenlernen und auftretende Konflikte einvernehmlich zu lösen sobald sie auftreten.
+Falls sich Mitglieder der Community schädigend verhalten, ist es die Aufgabe der _Trusted Committer_, dies zu adressieren. _Trusted Committer_ sollen regelmäßige Treffen für Mitglieder anbieten (entweder persönlich oder virtuell). Dabei können sich Teilnehmer gegenseitig kennenlernen und auftretende Konflikte einvernehmlich lösen, sobald sie auftreten.
 
-Menschen neigen auch dazu sich an Projekten zu beteiligen, weil die Mitarbeit in einer _InnerSource Community_ eine hervorragende Gelegenheit bietet neue Fähigkeiten zu erlernen und als Person zu wachsen. 
+Menschen neigen dazu sich an Projekten zu beteiligen, weil die Mitarbeit in einer _InnerSource Community_ eine hervorragende Gelegenheit bietet neue Fähigkeiten zu erlernen und als Person zu wachsen. 
 Dies ist ein weiterer Aspekt, in dem die Rolle des _Trusted Committers_ wirklich wichtig ist. 
 _Trusted Committer_ sind oft Mentoren für jüngere Entwickler, und verwenden Zeit während der Pull Requests, um nicht nur auf Verbesserungspotentiale hinzuweisen, sondern auch im Detail zu erklären, warum und wie etwas verbessert werden muss. 
-Sie liefern die Theorie oder das Erfahrung bei Quellcodeänderungen und schlagen Möglichkeiten wie Änderungen am besten implementiert werden können. Dadurch können _Trusted Committer_ die Lerngeschwindigkeit ihrer Community weit über die traditioneller Software-Entwicklung erhöhen.
+Sie liefern die Theorie oder die Erfahrung bei Quellcodeänderungen und schlagen Möglichkeiten, wie Änderungen am besten implementiert werden können, vor. Dadurch können _Trusted Committer_ die Lerngeschwindigkeit ihrer Community weit über die traditioneller Software-Entwicklung erhöhen.
 
 Wir glauben, dass _Trusted Committer_ das Onboarding und Mentoring während der Pull Requests über das Erreichen von Releaseterminen stellen sollten, außer es sprechen triftige Gründe dagegen. 
 Gute Betreuung während eines Pull Requests führt zu höherem Vertrauen und Bindung von https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_], was im Gegenzug zu mehr Mitarbeit führt. 
