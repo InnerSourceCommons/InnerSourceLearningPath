@@ -1,13 +1,14 @@
-# 调节社区的需求
+# 公示社区需求
 
-InnerSource社区存在于公司环境中，因此比开放社区更受限制。有时，业务部门的利益与社区的利益不一致。受信任提交者对他的项目会有长期的打算。他们了解健康的社区是健康代码的前提。这就是为什么许多InnerSource计划都以Apache Way的座右铭: http://theapacheway.com/community-over-code/[_Community over code._
-]为模型的原因。另一方面，业务部门自然会更关注InnerSource社区生产的产品。他们希望看到短期或中期内产品能够帮助企业提高利润。
+InnerSource社区存在于协作的环境中，因此比开放源社区更受限制。有时，人们业务部门的利益与社区的利益并不一致。Trusted Committer对项目应有长远的安排和打算，他们了解健康的社区是健康代码的前提。这就是为什么许多InnerSource计划都以Apache Way的座右铭http://theapacheway.com/community-over-code/[_Community over code._
+]为指引的原因。另一方面，业务部门也会自然地关注InnerSource社区生产的产品。他们希望看到在短期或中期内，这能帮助企业提高利润。
 
-在此潜在的冲突区域中，受信任提交者将发挥至关重要的作用。受信任提交者与组织建立了信任，并在此信任的基础上，他们引导着社区利益和公司软件的长期健康。他们负责传达技术风险以及与社区有关的管理风险。同时，受信任提交者需要具有战略目光，并在其公司允许的范围内内工作。
+在此潜在的冲突中，Trusted Committer将发挥至关重要的作用。Trusted Committer与组织建立了信任，并在此信任的基础上，倡导维护社区利益和保持公司软件的长期健康。他们负责传达技术风险以及与社区有关的管理风险。同时，Trusted Committer需要具有战略性，并在其公司的容忍度、自由度内工作。
 
-受信任提交者还需要确保社区和个人贡献者的工作获得公众认可。公共信用是用来给 https://innersourcecommons.org/resources/learningpath/contributor/index[_贡献者 Contributor_]的，特别是对自愿贡献者。优良作法是公开表彰有价值的贡献者，并确保其经理了解他们的贡献。忽视给予信用可能会打击个人贡献者的激情，并损害社区的健康。这可能发生在尚未习惯InnerSource工作模式的公司中，或者当InnerSource社区开发的软件在后台运行且管理人员不了解社区的贡献时。一个好的受信任提交者将与管理层合作并倡导公共信誉。公共信用几乎不可能失败，且容易修复。
+【Trusted Committer还需要确保社区和个人贡献者的工作获得公众认可。公共信贷是用来支付捐助者，特别是自愿捐助者的货币。好的办法是公开表彰有价值的贡献者，并确保他的领导了解他们的贡献。忽视给予信贷可能会使个人贡献者感到沮丧，并损害社区的健康。这可能发生在尚未习惯InnerSource工作模式的公司中，或者当InnerSource社区开发的软件在后台运行，但管理人员根本不了解社区的贡献时。一个好的Trusted Committer将与管理层合作并倡导公共信誉。信用失败几乎永远不会出于恶意，而且很容易解决。】？
 
-另一个需要受信任提交者进行积极引导的常见情况是，没有给 https://innersourcecommons.org/resources/learningpath/contributor/index[_贡献者 Contributor_]足够的时间或权限。当社区正在贡献者部门以外的产品上工作，因此与他们经理的目标无关时，就会发生这种情况。在这种情况下，受信任提交者应与贡献者的经理和游说者进行讨论，以做出其他有利的方案。
+另一个需要Trusted Committer去重视的常见情况是，没有给https://innersourcecommons.org/resources/learningpath/contributor/index[_贡献者 Contributor_]足够的时间或权限。当社区正在贡献者部门以外的产品上工作，因此与他们的工作目标无关时，就会发生这种情况。在这种情况下，Trusted Committer应与贡献者（contributor）的工作领导和游说者进行讨论，以相应的措施去解决。
 
-总之，在许多情况下，受信任提交者需要调节个人贡献者和整个社区的利益。受信任提交者了解社区可以为组织提供的价值取决于社区的健康和寿命，并最终取决于两者之间的信任关系。
+总之，在许多情况下，Trusted Committer需要平衡个人贡献者和整个社区的利益。Trusted Committer应该清楚认识到，社区可以为组织提供的价值取决于社区的健康和寿命，并最终取决于两者之间的相互信赖关系。
+
 
