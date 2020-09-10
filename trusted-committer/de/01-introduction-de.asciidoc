@@ -1,5 +1,5 @@
 [role="pagenumrestart"]
-== Einführung der Rolle des _Trusted Committers_
+== Einführung der Rolle des Trusted Committers
 
 Die Rolle des _Trusted Committers_ (TC) ist eine der Schlüsselrollen einer
 _InnerSource_-Organisation. Stell Dir einen _Trusted Committer_ als jemanden im Team vor, auf den Du bei wichtigen technischen Entscheidungen

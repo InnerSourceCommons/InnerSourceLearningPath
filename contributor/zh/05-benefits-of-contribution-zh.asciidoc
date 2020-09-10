@@ -1,4 +1,4 @@
-# 成为InnerSource贡献者（Contributor）的好处
+== 成为InnerSource贡献者（Contributor）的好处
 
 贡献者是InnerSource项目的生命之源。每个InnerSource的项目，都有最终目标，就是超越最初的创始人，扩大他们的组织 和 调动用户之间更进一步合作的潜在性。
 

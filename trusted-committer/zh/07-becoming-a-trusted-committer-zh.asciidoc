@@ -1,4 +1,4 @@
-# 如何成为受信任贡献者
+== 如何成为受信任贡献者
 
 社区对于Trusted Committer的要求是非常高的，但作为一个Trusted Committer，会让人非常有成就感。如果你想通过成为一个Trusted Committer得到成长，您可能会问：我要怎样成为一个Trusted Committer，我会是合适的人选吗？
 

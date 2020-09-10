@@ -1,4 +1,4 @@
-# 结论
+== 结论
 
 在上面的章节中，我们了解了Trusted Committer的职责，包括有：确保产品质量、保持社区健康、减少贡献障碍，以及提升社区等级并且在公司组织中宣传社区。我们还讨论了如何成为一个Trusted Committer，以及担任该角色需要做什么。作为一个Trusted Committer，这将是一项艰巨的任务，但也是非常有成就感的，会帮助你扩大你的价值。 从这个意义上讲，我们希望本节可以启发到你，让你迈出成为Trusted Committer的第一步。我们也希望这一部分可以帮助你的组织了解到，拥有强大的Trusted Committer对于任何inner source计划成功的重要性。 我们想要邀请您通过InnerSource学习路径中的其他文章和视频来了解有关InnerSource的更多信息。欢迎您访问http://innersourcecommons.org/[_InnerSource Commons_]。
 
