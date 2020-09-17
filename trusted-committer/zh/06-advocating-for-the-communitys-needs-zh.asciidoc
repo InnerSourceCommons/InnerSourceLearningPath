@@ -1,4 +1,4 @@
-# 公示社区需求
+== 公示社区需求
 
 InnerSource社区存在于协作的环境中，因此比开放源社区更受限制。有时，人们业务部门的利益与社区的利益并不一致。Trusted Committer对项目应有长远的安排和打算，他们了解健康的社区是健康代码的前提。这就是为什么许多InnerSource计划都以Apache Way的座右铭http://theapacheway.com/community-over-code/[_Community over code._
 ]为指引的原因。另一方面，业务部门也会自然地关注InnerSource社区生产的产品。他们希望看到在短期或中期内，这能帮助企业提高利润。
