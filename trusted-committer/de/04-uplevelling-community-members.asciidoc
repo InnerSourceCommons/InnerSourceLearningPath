@@ -12,7 +12,7 @@ Sie sollten also Gelegentheiten kommunizieren, eigene Beiträge für _Consumer_ 
 Als gute Praxis hat sich dabei bewährt, wenn https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] an etwas arbeiten können, was ihnen bei ihrer täglichen Arbeit oder ihrer Rolle im Unternehmen hilft. Gute Beispiele dafür sind Entwicklungswerkzeuge oder die Automatisierung von Abläufen.
 
 Letztendlich sind die _Trusted Committers_ dafür verantwortlich, https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] mit dem Potential zu wachsen zu indentifizieren und zu unterstützen, indem sie sie ermutigen, herausfordernde Aufgaben zu übernehmen und sie dabei bis ins Ziel unterstützen.
-Dies ist unserer Meinung nach die edleste Aufgabe eines _Trusted Committers_, und diese Aufgabe lohnt sich sowohl für den _Trusted Committer_ als auch für den _Contributor_.
+Dies ist unserer Meinung nach die edelste Aufgabe eines _Trusted Committers_, und diese Aufgabe lohnt sich sowohl für den _Trusted Committer_ als auch für den _Contributor_.
 _Trusted Committer_ berichten, dass Mentoring und zu sehen, wie Menschen lernen und zur Community beitragen, mehr als genug Ersatz dafür ist, dass die _Trusted Committer_ weniger Zeit haben, selbst Software zu schreiben.
 
 Wie in https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[previous section] erwähnt, sind Lernen und persönliches Wachstum wesentliche Gründe für Menschen, einer InnerSoure Community beizutreten und dabei zu bleiben. 
