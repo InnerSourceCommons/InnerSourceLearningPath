@@ -1,0 +1,23 @@
+
+[[upleveling]]
+== Weiterbildung von Community Mitgliedern
+
+Es gibt ein Kontinuum bei der Teilnahme in einer InnerSource Community. Es gibt Menschen, denen die Community nicht bekannt ist. Neulinge könnten interessiert an der Community und deren Produkt sein, aber bisher noch nicht damit gearbeitet haben. _Consumer_ nutzen die Software, aber haben bisher noch nicht selbst dazu beigetragen.
+Dann gibt es da die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_], die mindestens einen Beitrag geleistet haben, und schlussendlich die _Trusted Committers_, welche Verantwortung sowohl für die Software als auch die Community übernehmen.
+Als ein _Trusted Committer_ bist du verantwortlich, Individuen innerhalb dieses Kontinuums zu bewegen und deren Fähigkeiten zu verbessern, Beiträge zu liefern.
+In diesem Sinne agieren _Trusted Committer_ als Multiplikatoren in ihrer Community.
+
+Es ist wichtig für _Trusted Committer_ ihr Produkt und ihre Community zu vermarkten um Neueinsteiger und _Consumer_ der Community zu vermehren.
+Sie sollten also Gelegentheiten kommunizieren, eigene Beiträge für _Consumer_ zu erstellen und versuchen, die Interessen von möglichen https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] zu ermitteln und mit denen der Community in Einklang zu bringen.
+Als gute Praxis hat sich dabei bewährt, wenn https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] an etwas arbeiten können, was ihnen bei ihrer täglichen Arbeit oder ihrer Rolle im Unternehmen hilft. Gute Beispiele dafür sind Entwicklungswerkzeuge oder Automatisierung von Abläufen.
+
+Letztendlich ist der _Trusted Committer_ dafür verantwortlich, https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] mit dem Potential zu wachsen zu indentifizieren und zu unterstützen, indem er sie ermutigt, herausfordernde Aufgaben zu übernehmen und sie dabei bis ins Ziel unterstützt.
+Dies ist unserer Meinung nach die edleste Aufgabe eines _Trusted Committer_, und dies lohnt sich sowohl für den _Trusted Committer_ als auch für den _Contributor_.
+_Trusted Committer_ berichten, dass Mentoring und zu sehen, wie Menschen lernen und zur Community beitragen, mehr als genug wett macht, dass die _Trusted Committer_ weniger Zeit haben, selbst Software zu schreiben.
+
+Wie in https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[previous section] erwähnt, sind Lernen und persönliches Wachstum wesentliche Gründe für Menschen eine InnerSoure Community beizutreten und dabei zu bleiben. 
+Die Weiterbildung ihrer https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] ist eines der stärksten Werkzeuge, welches _Trusted Committer_ zur Verfügung haben, um die Geschwindigkeit, den Output und die Langlebigkeit ihrer Communitiy zu erhöhen.
+Es ist auch eines der Hauptargumente, um das Management eines Unternehmens zu überzeugen, ihren Mitarbeitern zu erlauben an einer _InnerSource Community_ teilzunehmen, da dies ihre Mitarbeiter für das Unternehmen wertvoller macht und dem Unternehmen hilft, seine Top-Talente zu halten.
+
+Zusammengefasst ist es eine Aufgabe der  _Trusted Committer_, ständig neue https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] zu werben und deren Fähigkeiten, Beiträge zu liefern, weiterzubilden.
+Diese Aktivität erhöht letztendlich die Fähigkeit der Community, schneller bessere Software zu erstellen. Dies geschicht durch Kommunikation von Möglichkeiten, Beiträge zu leisten, und durch Hilfestellungen und Mentoring von _Contributors_, um deren Wachstum zu fördern.
