@@ -11,7 +11,7 @@ Es ist wichtig für _Trusted Committer_ ihr Produkt und ihre Community zu vermar
 Sie sollten also Gelegentheiten kommunizieren, eigene Beiträge für _Consumer_ zu erstellen und versuchen, die Interessen von möglichen https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] zu ermitteln und mit denen der Community in Einklang zu bringen.
 Als gute Praxis hat sich dabei bewährt, wenn https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] an etwas arbeiten können, was ihnen bei ihrer täglichen Arbeit oder ihrer Rolle im Unternehmen hilft. Gute Beispiele dafür sind Entwicklungswerkzeuge oder die Automatisierung von Abläufen.
 
-Letztendlich ist der _Trusted Committer_ dafür verantwortlich, https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] mit dem Potential zu wachsen zu indentifizieren und zu unterstützen, indem er sie ermutigt, herausfordernde Aufgaben zu übernehmen und sie dabei bis ins Ziel unterstützt.
+Letztendlich sind die _Trusted Committers_ dafür verantwortlich, https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] mit dem Potential zu wachsen zu indentifizieren und zu unterstützen, indem sie sie ermutigen, herausfordernde Aufgaben zu übernehmen und sie dabei bis ins Ziel unterstützen.
 Dies ist unserer Meinung nach die edleste Aufgabe eines _Trusted Committers_, und diese Aufgabe lohnt sich sowohl für den _Trusted Committer_ als auch für den _Contributor_.
 _Trusted Committer_ berichten, dass Mentoring und zu sehen, wie Menschen lernen und zur Community beitragen, mehr als genug Ersatz dafür ist, dass die _Trusted Committer_ weniger Zeit haben, selbst Software zu schreiben.
 
