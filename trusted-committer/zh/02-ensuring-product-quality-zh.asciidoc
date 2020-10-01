@@ -4,7 +4,7 @@
 
 在InnerSource社区中，Trusted Committer拥有所有与技术有关的决策权，尤其是与产品质量有关的决策权。这意味着他们需要确保社区内成员在遵循这些决策。这包括在社区内部和外部进行交流，并在必要时公示这些决策。但是，Trusted Committer并不一定要自己做出所有与技术相关的决定，也不一定要负责所有的执行工作。
 
-Trusted Committer的工作是在其社区中交流和阐明质量标准，并以 https://innersourcecommons.org/resources/learningpath/contributor/index[_贡献者（Contributor）_]可理解和可操作的方式制定这些标准。这其中当然会包括书写文档，但是我们认为可信提交者传达这些质量标准的最有效方法是举例子。我们认为，InnerSource社区尝试将自己与传统软件开发项目区分开来，不仅在于他们组织开发的方式，而且还包括他们生产的软件的质量，这是一个非常有价值的目标。高水平的软件质量对于在InnerSource社区中建立和维持部分用户及其管理层的信任至关重要。我们都知道低质量的发布是会打击人们对社区的信任感的。
+Trusted Committer的工作是在其社区中交流和阐明质量标准，并以 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]可理解和可操作的方式制定这些标准。这其中当然会包括书写文档，但是我们认为可信提交者传达这些质量标准的最有效方法是举例子。我们认为，InnerSource社区尝试将自己与传统软件开发项目区分开来，不仅在于他们组织开发的方式，而且还包括他们生产的软件的质量，这是一个非常有价值的目标。高水平的软件质量对于在InnerSource社区中建立和维持部分用户及其管理层的信任至关重要。我们都知道低质量的发布是会打击人们对社区的信任感的。
 
 Trusted Committer还需要确保社区拥有生产高质量软件所需的基础结构和工具。同行评审通常会作为拉取请求（PRs）的一部分，通常用于确保质量。尽管每个人都可以通过提出重要的进展来启动和参与项目，但是通常只有Trusted Committer才能最终接受、合并或拒绝贡献。这就是我们早先所说的“Trusted Committer可以将代码推向生产环境”的意思。Trusted Committer还应该在PR期间确认贡献者不要超过截止日期进行贡献。
 
@@ -17,4 +17,3 @@ Trusted Committer还需要确保社区拥有生产高质量软件所需的基础
 如果没有后者，则Trusted Committer将不得不花费大量宝贵的时间记录错误或脆弱的体系结构和验证解决办法，并且将会没有足够的时间花在发展和指导贡献者（Contributor）上。
 
 总而言之，确保产品质量是Trusted Committer的关键责任。他们设定质量标准并以身作则。他们参与PR并帮助贡献者（Contributor）达到质量标准。并且还需要负责软件的长期运行状况。
-
