@@ -13,7 +13,7 @@ Per le richieste di funzionalità critiche che non hanno una priorità tale da r
 . *Aspetta*. I team di consumo potrebbero non fare nulla e zoppicano senza la funzionalità richiesta.
   Questa opzione richiede la minima quantità di lavoro da parte loro.
   A seconda dell'utilità della richiesta di funzionalità, l'attesa potrebbe andare bene.
-  Comunque, può comportare un importante quantità di sofferenza, specialmente se la funzionalità richiesta non venisse mai espletata. 
+  Comunque, può comportare un'importante quantità di sofferenza, specialmente se la funzionalità richiesta non venisse mai espletata. 
 . *Soluzione alternativa*. Un team di consumo che non vuole aspettare potrebbe fare un lavoro extra per compensare l'assenza della funzionalità richiesta.   
   Questo lavoro extra può arrivare come un cambiamento nel progetto per chi ne usufruisce.
   Alternativamente, potrebbero creare un nuovo progetto che include le loro esigenze e che sostituisce il loro utilizzo di tutte o alcune parti del sistema creato dal team di produzione (duplicazione del codice/progetto)
@@ -24,7 +24,7 @@ Per le richieste di funzionalità critiche che non hanno una priorità tale da r
 . *Escalation* . Il team di consumo potrebbe non accettare un "no" come risposta e, invece, potrebbe avvalersi di qualcuno tra i manager di produzione per influenzare (o forzare) il team di produzione a realizzare il lavoro.
 Questa opzione sembra attraente per il team di consumo perché otterrebbero la funzionalità richiesta senza fare il lavoro di implementazione o mantenimento.
 Tuttavia, è ancora un ostacolo per il team, perché devia necessariamente parte della loro attenzione e del lavoro sul compito non ingegneristico dell'escalation.
-Ioltre, questa opzione non è scalabile in quanto non potrebbe capitare molte volte che un consumatore possa richiedere l'escalation su richieste di funzionalità prima di danneggiare la loro credibilità
+Inoltre, questa opzione non è scalabile in quanto potrebbe non capitare molte volte che un consumatore possa richiedere l'escalation su richieste di funzionalità prima di danneggiare la loro credibilità
 L'escalation è dirompente nello stesso modo (ancora di più) per i membri del team di produzione, che sono portati fuori dai loro normali metodi di workflow e assegnazione delle priorità per gestire la richiesta di funzionalità in escalation.
 
 Questa discussione pone le basi per l'InnerSource.
@@ -32,5 +32,5 @@ InnerSource si applica allo stesso tipo di situazione dove un team di consumo no
 InnerSource fornisce un modo per i team di incrementare i benefici di _attesa_, _workaround_, ed _escalation_ senza gli inconvenienti associati.
 
 InnerSource fornisce anche un miglioramento generale alla cultura ingegneristica poiché gli ingegneri hanno la possibilità di lavorare con un'ampia varietà di nuove tecnologie e persone.
-Gli sviluppatori fanno da mentore e imparano gli uni dagli altri condividendo idee e soluzioni in tutti i silos organizzativi.
+Gli sviluppatori fanno da mentori e imparano gli uni dagli altri condividendo idee e soluzioni in tutti i silos organizzativi.
 Gli ingegneri ed i team possono riusare le soluzioni interne ai problemi di prodotto, permettendo loro di focalizzarsi su flussi di lavoro di più alto valore per l'organizzazione.

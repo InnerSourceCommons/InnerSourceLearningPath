@@ -59,8 +59,8 @@ L'open source riconosce prontamente questo punto e considera un onore ottenere l
 La seconda parola _volontaria_ significa l'impegno nell'InnerSource da entrambi guest e host team avviene di loro spontanea volontà.
 Il guest team dona volontariamente il codice all'host team e l'host team volontariamente lo accetta.
 Questa natura di partecipazione significa che ogni team deve essere sicuro che il loro coinvolgimento aggiunga valore agli obiettivi degli altri.
-Mai sarà richiesto ad un host team di accettare una contribuzione che non sia in linea con la missione complessiva.
-Mai sarà richiesto ad un guest team di inviare un contribuzione che alla fine non favorisce la loro missione e le loro priorità.
+Mai sarà richiesto ad un host team di accettare un contributo che non sia in linea con la missione complessiva.
+Mai sarà richiesto ad un guest team di inviare un contributo che alla fine non favorisce la loro missione e le loro priorità.
 
 La parola _codice_ enfatizza che la collaborazione tra il guest e l'host team arriva fino al codice.
 Il coinvolgimento del guest team nell'apertura delle issue, nell'aggiornamento dei requisiti, nel correggere la documentazione, etcc... è un bene, ma la collaborazione deve arrivare fino all'invio del codice per ottenere tutti i vantaggi di cui abbiamo discusso.

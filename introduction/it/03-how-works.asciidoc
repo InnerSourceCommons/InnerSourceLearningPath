@@ -1,11 +1,11 @@
 == Come funziona l'InnerSource?
 Diciamo che il team A usa il software prodotto dal team B.
-Il team A sottomette una richiesta di funzionalità al team B, ma il team B non è in grado di implementare quella funzionalità in tempo per il team A.
-In un contesto InnerSource, se il team A non può ottenere questa richiesta di funzionalità allora può sottomettere invece una pull request.
+Il team A invia una richiesta di funzionalità al team B, ma il team B non è in grado di implementare quella funzionalità in tempo per il team A.
+In un contesto InnerSource, se il team A non può ottenere questa richiesta di funzionalità allora può inviare invece una pull request.
 Vale a dire che il team A implementa la funzionalità direttamente all'interno del software del team B ed esegue il submit di una pull request con le modifiche al codice.
 I partner del team B esaminano ed accettano il codice inviato.
 
-In questo esempio, identifichiamo il team A come _Guest_ team ed il team B come _Host team.
+In questo esempio, identifichiamo il team A come _Guest_ team ed il team B come _Host_ team.
 I termini _Guest_ e _Host_ suggeriscono una situazione analoga al ricevere un ospita a casa.
 In quella situazione, la maggior parte delle persone vogliono essere un buon padrone di casa.
 Garantiscono che ogni cosa sia tenuta pulita ed in ordine in previsione dell'arrivo dei loro ospiti.

@@ -8,6 +8,6 @@ Fatto in modo efficare, l'InnerSource porta molti vantaggi ad entrambi i team pa
 I principi chiave su cui si basa l'InnerSource sono *contribuzione volontaria al codice* ed il *tutoraggio prioritizzato*.
 
 Sebbene questo testo formativo contenga una panoramica ad alto livello dell'InnerSource, esistono molti più dettagli utili per farlo funzionare effettivamente per il tuo team.
-Se vuoi rimanere connesso alla conversazione in corso sull'InnerSource e alle sue best practice, allora unisciti a http://innersourcecommons.org[the InnerSource Commons].
-The commons sponsorizzano un canale Slack, un gruppo di lavoro sui modelli InnerSource, e più summit di persona ogni anno.
+Se vuoi rimanere connesso alla conversazione in corso sull'InnerSource e alle sue best practice, allora unisciti a http://innersourcecommons.org[InnerSource Commons].
+InnerSource Commons mette a disposizione un canale Slack, un gruppo di lavoro sui modelli InnerSource, e più summit di persona ogni anno.
 La partecipazione ai commons è un fantastico modo per rimanere connesso con le ultime novità in ambito InnerSource.

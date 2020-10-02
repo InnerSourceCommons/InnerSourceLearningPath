@@ -3,9 +3,9 @@
 Questa sezione del Learning Path contiene un'introduzione al concetto di InnerSource.
 Innersource è l'applicazione di pratiche e principi open source per lo sviluppo software all'interno dell'azienda.
 Il software InnerSource rimane di proprietà dell'azienda, ma internamente è aperto per chiunque lo voglia utilizzare e per chiunque voglia contribuire ad esso.
-Questa strategia consente una collaborazione ampia ed efficace, producendo software reattivo e agile alle mutevoli esigenze dei suoi numerosi stakeholder interni.
+Questa strategia consente una collaborazione ampia ed efficace, producendo software agile e reattivo alle mutevoli esigenze dei suoi numerosi stakeholder interni.
 
-Questo Learning Path illustra come riconoscere quelle situazioni che si possono considerare buoni candidati per l'InnerSource.
+Questo Learning Path illustra come riconoscere quelle situazioni che possono essere considerate buone candidate per l'InnerSource.
 Descriveremo ad alto livello come l'InnerSource può aiutare in quelle situazioni.
 Acquisirai familiarità con i termini condivisi utilizzati quando si discute di InnerSource.
 Elencheremo anche i principi chiave su cui si basa InnerSource ed i vantaggi riscontrati quando viene applicato in modo efficace.

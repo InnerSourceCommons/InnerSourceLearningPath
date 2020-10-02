@@ -14,7 +14,7 @@ Senza InnerSource, questa situazione facilmente ad avere un team strettato, ober
 Comunque, se l'host team opera attraverso l'InnserSource, le risorse di ingegneria richieste per costruire queste funzionalità appariranno in proporzione alla loro importanza nella forma di contributori ospiti.
 *InnerSource diventa un moltiplicatore di forza*  che consente all'host team di agire temporaneamente in maniera più ampia rispetto alle dimensioni effettive durante i periodi di forte esigenza.
 Quando l'esigenza è finita, il rendimento del team torna a livelli normali, il tutto senza nessuna microgestione dell'organico del team o degli elementi del lavoro.
-InnerSource permette al tempo dell'engineering di fluire organicamente dove le necessità dell'organizzazione lo necessita in un dato momento.
+InnerSource permette al tempo dell'engineering di essere spalmato organicamente dove le necessità dell'organizzazione lo necessita in un dato momento.
 
 Oltre la lavoro grezzo che l'host team è in grado di svolgere nel proprio sistema, le contribuzioni regolari tramite InnerSource forniscono all'host team *requisiti migliori e l'allineamento delle priorità con tutti i suoi utenti*.
 Un host team può soddisfare al meglio la raccolta dei requisiti nel lavoro che produce, ma quando è l'utente stesso a presentare il lavoro, le possibilità sono molto più alte che il cambiamento risultante sia allineato a ciò di cui l'utente ha bisogno.
