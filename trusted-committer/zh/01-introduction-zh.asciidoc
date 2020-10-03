@@ -1,22 +1,22 @@
 == 介绍
 
-###Trusted Committer
+### Trusted Committer
 
-Trusted Committer角色是InnerSource社区中的关键角色之一。将Trusted Committe视为你所在的社区中所信任的对象，他们可以通过重要的技术决策和指导贡献者来最终获得收益。我们对Trusted Committer的要求很高，同时这个岗位也会得到很高的回报。这个角色并不是一个自以为是的把关者，甚至他对任何InnerSource社区的成功都至关重要。
+Trusted Committer角色是InnerSource社区中的关键角色之一。将Trusted Committer视为你所在的社区中所信任的对象，他们可以通过重要的技术决策和指导贡献者来最终获得收益。我们对Trusted Committer的要求很高，同时这个岗位也会得到很高的回报。这个角色并不是一个自以为是的把关者，甚至他对任何InnerSource社区的成功都至关重要。
 
 一般而言，Trusted Committer角色是由其职责而不是其特权定义的。在很高程度上，可信任提交者代表其InnerSource社区和该社区正在开发的产品的利益。他们关心社区和产品的健康。因此，作为Trusted Committer，您将同时承担面向技术和社区的责任。我们将在以下各章节中探讨这两个方面。
 
-在详细介绍Trusted Committer实际功能之前，让我们花一些时间从高度抽象的角度将Trusted Committer角色与InnerSource中的其他角色进行对比，并解释为什么我们认为该名称既恰当又重要。让我们从https://innersourcecommons.org/resources/learningpath/contributor/index[_贡献者 Contributor_]角色开始。顾名思义，贡献者（contributor）为InnerSource社区做出了贡献。这些贡献可能是代码或非代码工件，例如错误报告，功能请求或文档。
+在详细介绍Trusted Committer实际功能之前，让我们花一些时间从高度抽象的角度将Trusted Committer角色与InnerSource中的其他角色进行对比，并解释为什么我们认为该名称既恰当又重要。让我们从 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]角色开始。顾名思义， https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]为InnerSource社区做出了贡献。这些贡献可能是代码或非代码工件，例如错误报告，功能请求或文档。
 
-贡献者（contributor）可能是社区的一部分，也可能不是。他们可能是由其他团队过来一些开发团队所需功能的。这就是为什么我们有时也将贡献者（contributor）称为“调用者”或“调用团队”的一部分。贡献者（contributor）负责遵循并符合社区的要求。
+https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]可能是社区的一部分，也可能不是。他们可能是由其他团队过来一些开发团队所需功能的。这就是为什么我们有时也将 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]称为“调用者”或“调用团队”的一部分。 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]负责遵循并符合社区的要求。
 
-Trusted Committer始终是InnerSource社区的成员，该社区有时也称为维护团队。我们用比喻来形容一下，Trusted Committer既负责建造房屋，也负责制定房屋规则，以确保其客人感到舒适，并可以进行有效的合作。与贡献者（contributor）相比，Trusted Committer已经承担了将代码推向生产的责任，并且通常被允许执行更高风险的任务。
+Trusted Committer始终是InnerSource社区的成员，该社区有时也称为维护团队。我们用比喻来形容一下，Trusted Committer既负责建造房屋，也负责制定房屋规则，以确保其客人感到舒适，并可以进行有效的合作。与 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]相比，Trusted Committer已经承担了将代码推向生产的责任，并且通常被允许执行更高风险的任务。
 
-https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者 Product Owner_]是InnerSource中的第三个角色。与敏捷过程类似，产品负责人负责定义和优先考虑社区要实施的需求和故事。 产品负责人经常与Trusted Committer进行交互（例如，确保所请求或提供的功能实际上属于该产品）。特别是在较小的草根InnerSource社区中，Trusted Committer通常还充当产品负责人。查看我们的https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品负责人学习方法 Product Owner Learning Path segment_]，以获取更多详细信息。
+https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者（Product Owner）_]是InnerSource中的第三个角色。与敏捷过程类似，产品负责人负责定义和优先考虑社区要实施的需求和故事。 产品负责人经常与Trusted Committer进行交互（例如，确保所请求或提供的功能实际上属于该产品）。特别是在较小的草根InnerSource社区中，Trusted Committer通常还充当产品负责人。查看我们的 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品负责人学习方法（Product Owner Learning Path segment）_]，以获取更多详细信息。
 
 为什么角色名称很重要？
 
-每个成功的InnerSource社区中都存在Trusted Committer，但并非每个社区都使用该名称。一些社区使用术语“维护者”，但是该术语与其他技术角色（例如，GitHub定义的“维护者”角色）相冲突。 Apache也使用Committer一词，但是他们对该角色附加的责任很少，而且大多是面向技术的责任。由于承担着其他面向社区的职责，Trusted Committe的责任已不止于此。Trusted Committer中的“Trusted ”表示此人是受到信任的，因此可以由其管理层和社区授权来完成工作。通过促进开放性和透明度，Trusted Committer可以在流程以及所构建的产品中建立信任。
+每个成功的InnerSource社区中都存在Trusted Committer，但并非每个社区都使用该名称。一些社区使用术语“维护者”，但是该术语与其他技术角色（例如，GitHub定义的“维护者”角色）相冲突。 Apache也使用Committer一词，但是他们对该角色附加的责任很少，而且大多是面向技术的责任。由于承担着其他面向社区的职责，Trusted Committer的责任已不止于此。Trusted Committer中的“Trusted ”表示此人是受到信任的，因此可以由其管理层和社区授权来完成工作。通过促进开放性和透明度，Trusted Committer可以在流程以及所构建的产品中建立信任。
 
 类似于命名在编写软件中的重要性一样，为角色选择正确的名称并持续进行贯彻，可确保每个人对社区中此角色都有相同的理解。
 
@@ -26,15 +26,13 @@ https://innersourcecommons.org/resources/learningpath/product-owner/index[_产�
 
 Trusted Committer负有各种责任，包括：
 
-1. https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[_确保产品质量 Ensuring product quality_]
+1. https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/02/[_确保产品质量（Ensuring product quality）_]
 
-2. https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[_保持社区健康 Keeping the community healthy]
+2. https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/03/[_保持社区健康（Keeping the community healthy）_]
 
-3. https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_减少贡献的障碍 Reducing the barriers to making contributions_]
+3. https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/05/[_减少贡献的障碍（Reducing the barriers to making contributions）_]
 
-4. https://innersourcecommons.org/resources/learningpath/trusted-committer/04/[_提升社区 Upleveling the community_]
+4. https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/04/[_提升社区（Upleveling the community）_]
 
-5. https://innersourcecommons.org/resources/learningpath/trusted-committer/06/[_倡导社区的需求 Advocating the community’s needs_]
+5. https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/06/[_倡导社区的需求 （Advocating the community’s needs）_]
 我们将在接下来的章节中更深入地探讨这些职责，并在本文结尾处探索成为Trusted Committer的途径.
-
-
