@@ -4,7 +4,7 @@
 
 Es gibt ein Kontinuum bei der Teilnahme an einer InnerSource Community. Es gibt Menschen, denen die Community nicht bekannt ist. Neulinge könnten sich für die Community und deren Produkt interessieren, haben aber bisher noch nicht damit gearbeitet. _Consumer_ nutzen die Software, haben aber bisher noch nicht selbst dazu beigetragen.
 Dann gibt es die https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_], die schon mindestens einen Beitrag geleistet haben, und schließlich die _Trusted Committer_, welche Verantwortung sowohl für die Software als auch die Community übernehmen.
-Als ein _Trusted Committer_ bist du verantwortlich, Individuen innerhalb dieses Kontinuums zu bewegen und deren Fähigkeiten zu verbessern, Beiträge zu liefern.
+Als _Trusted Committer_ bist du verantwortlich, Individuen zu helfen sich innerhalb dieses Kontinuums weiterzuentwickeln und ihre Fähigkeiten zu verbessern, Beiträge zu liefern.
 In diesem Sinne agieren _Trusted Committer_ als Multiplikatoren in ihrer Community.
 
 Es ist wichtig für _Trusted Committer_ ihr Produkt und ihre Community zu vermarkten, um weitere Neueinsteiger und _Consumer_ der Community zu werben.
