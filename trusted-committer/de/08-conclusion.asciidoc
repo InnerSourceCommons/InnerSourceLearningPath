@@ -1,11 +1,11 @@
 == Fazit
 
 In den vorherigen Kapiteln haben wir die Verantwortlichkeiten des _Trusted Committers_ kennengelernt.
-Zu diesen Verantwortlichkeiten gehört es, die Produktqualität sicherzustellen, die Community funktionsfähig zu halten, Einstiegshürden herabsetzen, die Gemeinschaft weiter zu entwickeln und sich für ihre Bedürfnisse innerhalb des Unternehmens einzusetzen. Wir haben auch darüber gesprochen, wie man ein _Trusted Committer_ wird, und was notwendig ist, um die Rolle zu auszufüllen. Als _Trusted Committer_ zu arbeiten ist anspruchsvoll, aber es wird definitiv deinen Wertbeitrag im Unternehmen erhöhen.
+Zu diesen Verantwortlichkeiten gehört es die Produktqualität sicherzustellen, die Community funktionsfähig zu halten, Einstiegshürden herabsetzen, die Gemeinschaft weiter zu entwickeln und sich für ihre Bedürfnisse innerhalb des Unternehmens einzusetzen. Wir haben auch darüber gesprochen, wie man ein _Trusted Committer_ wird, und was notwendig ist, um die Rolle zu auszufüllen. Als _Trusted Committer_ zu arbeiten ist anspruchsvoll, aber es wird definitiv deinen Wertbeitrag im Unternehmen erhöhen.
 
 Wir hoffen, wir haben dich dazu inspiriert, dich auf den Weg zu einem Trusted Committer zu machen.
-Genauso hoffen wir, dass wir deinem Unternehmen geholfen haben zu verstehen, wie wichtig es für den Erfolg einer InnerSource Community ist, fähige _Trusted Committer_ mit dem für die Rolle notwendige Maß an Bevollmächtigung zu haben.
+Genauso hoffen wir, dass wir deinem Unternehmen geholfen haben zu verstehen, wie wichtig es für den Erfolg einer InnerSource Community ist, kompetente _Trusted Committer_ mit dem für die Rolle notwendige Maß an Bevollmächtigung zu haben.
 
-Wir möchten dich einladen, die weitern Artikel und Vidos im InnerSource Learning Path anzuschauen, um mehr über InnerSource zu lernen. Und selbstverständlich sind wir darauf gespannt dich in der http://www.innersourcecommons.org/[the InnerSource Commons Community] willkommen zu heißen. 
+Wir möchten dich einladen, die weitern Artikel und Vidos im InnerSource Learning Path anzuschauen um mehr über InnerSource zu lernen. Und selbstverständlich sind wir darauf gespannt dich in http://www.innersourcecommons.org/[the InnerSource Commons Community] willkommen zu heißen. 
 
 May the source be with you.
