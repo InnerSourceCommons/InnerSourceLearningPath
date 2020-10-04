@@ -16,10 +16,10 @@ their purview?
 The most obvious motivation is what typically draws early contributors into open
 source as well.
 
-Rememember that annoying bug you've been working around for so long? The time
+Remember that annoying bug you've been working around for so long? The time
 and energy that maintainting those workarounds costs? What if instead of waiting for
 the upstream team to fix that issue sometime in the future, you could go ahead
-and fix it yourself? In this "scratch your own itch" situation first-time contributors 
+and fix it yourself? In this "scratch your own itch" situation first-time contributors
 often start with fixing issues in projects they depend on for their
 daily work to reduce the number of workarounds in their own codebase.
 
@@ -46,7 +46,7 @@ sharing your experience and knowledge on project tooling and setup. This sharing
 help the upstream project improve and accelerate development cycles.
 
 Aside from all of these objective criteria there is a component that is very
-hard to meassure, but has been reported both in InnerSource and in Open Source
+hard to measure, but has been reported both in InnerSource and in Open Source
 projects alike: people participate because they find work on those projects
 personally fulfilling and fun. Most likely, the aspect of being in a position
 to truly self select tasks to work on does play an important role.
@@ -75,7 +75,7 @@ balancing reimplementing versus reuse becomes easier.
 === Company motivation
 
 Remember that functionality that's specific to your company domain - but that
-is maintained in mutiple implementations across the entire company? What if
+is maintained in multiple implementations across the entire company? What if
 there were a way to avoid a dozen buggy implementations and merge them into a
 shared asset? What if the development process for this shared asset ran without the usual
 drain of energy that central dependencies bring to the table? Many open source
