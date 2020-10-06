@@ -1,0 +1,66 @@
+== I principi dell'InnerSource
+Ogni azienda, team, progetto ed individuo è differente.
+Per questo motivo, il modo esatto con cui funziona il concetto di InnerSource varierà da una situazione all'altra.
+Al suo interno, comunque, sono quattro i principi su cui si fonda la base di qualsiasi caso di successo di InnerSource.
+Questi principi traggono ispirazione da progetti Open Source di successo e sono richiesti affinché l'InnerSource possa ottenere i vantaggi descritti in precedenza.
+
+I principi sono:
+
+* *Apertura*
+* *Trasparenza*
+* *Tutoraggio prioritizzato*
+* *Contribuzione volontaria al codice*
+
+Andiamo a dare un'occhiata ad ognuno di questi principi con maggiore dettaglio.
+
+=== Apertura
+La configurazione di un progetto open abilita una contribuzione senza attriti.
+I progetti dovrebbero essere ispezionabili e ben documentati attraverso i file il README.md e CONTRIBUTING.md. 
+Chiunque all'interno dell'organizzazione dovrebbe poter trovare un determinato progetto e proseguire senza una quantità eccessiva di guida diretta da parte dei membri dell'host team.
+Le informazioni per contattare l'host team dovrebbero essere diffuse su tutti i canali che hanno senso per il progetto. 
+Le intenzioni dell'host team di accettare contribuzioni InnerSource al loro progetto dovrebbero essere condivise attraverso i canali aziendali opportuni per sensibilizzare.
+In particolare in contesti più piccoli potresti voler impostare un "broadcast" regolare riguardo il lavoro InnerSource che il tuo team sta facendo. 
+In contesti più larghi, comunque, tale broadcast potrebbe creare molto rumore, e potrebbe essere più appropriato essere sicuri che il progetto sia accessibile attraverso uno strumento di facile da usare.
+Ricorda, l'obiettivo è la consapevolezza all'utilizzo di canali appropriati che funzionano nella TUA azienda.
+
+In nessun modo quanto sopra descritto si deve considerare come una lista esaustiva.
+L'apertura di un progetto sarà direttamente correlata al successo di un progetto in termini di InnerSource.
+Più è aperto, meno barriere ci saranno per i potenziali contributori.
+Meno è aperto, più difficile sarà contribuire per chiunque.
+
+=== Trasparenza
+
+Al fine di mettere nelle condizioni il guest team a contribuire significatamente al progetto, l'host team deve essere _trasparente_.
+Questo significa che il guest team dovrebbe essere in grado di comprendere:
+
+* Il progetto/repository e la sua direzione
+* Requisiti di funzionalità eccezionali
+* I progressi sui requisiti delle funzionalità
+* Il processo decizionale dell'host team
+
+Quanto possibile, quanto descritto sopra dovrebbe essere comunicato chiaramente ed in dettaglio, dalle definizioni interne degli elementi dei team a specifici scenari di casi speciali del progetto.
+Questa comunicazione dovrebbe essere fatta in maniera tale che possa essere facilmente ricercata e compresa a tutti quelli che non fanno parte del core team.
+
+=== Tutoraggio prioritizzato
+
+Il _tutoraggio_ dall'host team al guest team attraverso i https://innersourcecommons.org/resources/learningpath/trusted-committer/index[trusted committers] è un aspetto chiave dell'InnerSource.
+I https://innersourcecommons.org/resources/learningpath/contributor/index[Contributors] nel guest team vengono allineati contestualmente in modo tale da far loro capire abbastanza il progetto/repository dell'host team al fine di poterlo modificare con successo.
+Nel fare ciò, arrivano a capire meglio il sistema software dell'host team come un utente e ambasciatore del progetto/software.
+Questo singolo contributore può, con il passare del tempo e con l'esperienza, assumere un ruolo più alto nel progegtto com quello di trusted committer.
+
+E' fondamentale che questo tutoraggio per i contributori sia _Prioritizzato_ dall'host team.
+L'host team dovrebbe sforzarsi di dedicare del tempo per fare da mentore ai contributori del guest team _nel momento in cui il contributore ne ha bisogno_ al contrario invece di quando è conveniente per l'host team.
+A volte potrebbe richiedere un cambiamento culturare per gli ingegneri dell'host team investire del tempo aiutando gli altri a scrivere codice piuttosto che scrivere codice da soli.
+Questo tutoraggio ha un valore per entrabi i singoli contributori che per l'host team, e vale la pena farlo bene.
+Si rivela reciprocamente vantaggioso nel lungo periodo. Migliorando il codice, il contributore forgia o migliora le relazioni all'interno dell'organizzazione che altrimenti non sarebbero potute esistere.
+L'open source riconosce prontamente questo punto e considera un onore ottenere lo stato di trusted committer su un progetto.
+
+=== Contribuzione volontaria al codice
+La seconda parola _volontaria_ significa l'impegno nell'InnerSource da entrambi guest e host team avviene di loro spontanea volontà.
+Il guest team dona volontariamente il codice all'host team e l'host team volontariamente lo accetta.
+Questa natura di partecipazione significa che ogni team deve essere sicuro che il loro coinvolgimento aggiunga valore agli obiettivi degli altri.
+Mai sarà richiesto ad un host team di accettare un contributo che non sia in linea con la missione complessiva.
+Mai sarà richiesto ad un guest team di inviare un contributo che alla fine non favorisce la loro missione e le loro priorità.
+
+La parola _codice_ enfatizza che la collaborazione tra il guest e l'host team arriva fino al codice.
+Il coinvolgimento del guest team nell'apertura delle issue, nell'aggiornamento dei requisiti, nel correggere la documentazione, etcc... è un bene, ma la collaborazione deve arrivare fino all'invio del codice per ottenere tutti i vantaggi di cui abbiamo discusso.

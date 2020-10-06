@@ -1,0 +1,13 @@
+== Conclusione
+
+In questo percorso formativo, abbiamo introdotto l'InnerSource.
+L'InnerSource applica principi e best practice dell'open source allo sviluppo software interno.
+Questo approccio rende disponibile un'opzione ulteriore agli utenti quando i team di produzione non sono in grado di consegnare una richiesta di funzionalità necessaria.
+L'InnerSource di successo coinvolge un https://innersourcecommons.org/resources/learningpath/product-owner/index[_product owner_] e un https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_trusted committer_] dell'*host team* così come un https://innersourcecommons.org/resources/learningpath/contributor/index[_contributor_] del *guest team*.
+Fatto in modo efficare, l'InnerSource porta molti vantaggi ad entrambi i team partecipanti.
+I principi chiave su cui si basa l'InnerSource sono *contribuzione volontaria al codice* ed il *tutoraggio prioritizzato*.
+
+Sebbene questo testo formativo contenga una panoramica ad alto livello dell'InnerSource, esistono molti più dettagli utili per farlo funzionare effettivamente per il tuo team.
+Se vuoi rimanere connesso alla conversazione in corso sull'InnerSource e alle sue best practice, allora unisciti a http://innersourcecommons.org[InnerSource Commons].
+InnerSource Commons mette a disposizione un canale Slack, un gruppo di lavoro sui modelli InnerSource, e più summit di persona ogni anno.
+La partecipazione ai commons è un fantastico modo per rimanere connesso con le ultime novità in ambito InnerSource.
