@@ -8,4 +8,4 @@
 
 如 https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[_上一章节_]所述，学习和个人成长是人们加入并坚持留在InnerSource社区的原因。而提升 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]的质量和数量是让他们留下的最有效方式之一，Trusted Committer可以使用它们来提高其社区的发展速度、产出和寿命。这也是说服管理层让其员工参与InnerSource社区的主要论据之一，因为这将使他们的员工对公司整体更有价值，并帮助他们保留顶尖人才。
 
-总而言之，Trusted Committer需要吸引新的贡献者（Contributor），并提高其贡献能力。这可以让社区更快更好地产出。Trusted Committer通过交流做出贡献，以及帮助 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]成长来实现这一点。
+总而言之，Trusted Committer需要吸引新的 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]，并提高其贡献能力。这可以让社区更快更好地产出。Trusted Committer通过交流做出贡献，以及帮助 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]成长来实现这一点。
