@@ -24,7 +24,7 @@ Per primo, il https://innersourcecommons.org/resources/learningpath/product-owne
 Il https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributor_] è l'individuo nel guest team che invia il codice della contribuzione in revisione da parte dell'host team.
 Il https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] rappresenta l'host team nel fornire supporto tempestivo e mentoring di cui il contributore ha bisogno per inviare con successo la pull request.
 
-Con piccoli sforzi dal basso, una singola persona spesso ricopre _entrambi_ i ruoli di product owner e trusted committer. 
+Con piccoli sforzi dal basso, una singola persona spesso ricopre _entrambi_ i ruoli di product owner e trusted committer.
 
 Con queste definizioni, ecco lo schema di base di una contribuzione InnerSource.
 
@@ -43,4 +43,4 @@ Più tempo di progettazione rimane focalizzato sulla produzione del codice che r
 
 === Additional Resources
 
-* Il pattern del https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/project-roles/trusted-committer.md[Trusted Committer].
+* Il pattern del https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[Trusted Committer].
