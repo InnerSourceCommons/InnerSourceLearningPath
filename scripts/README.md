@@ -27,14 +27,19 @@ node generate_learning_path_markdown.js
 
 ## How to update innersourcecommons.org with new articles
 
-Anytime there are _new_ articles written, you need to run the script that generates the new pages on the _innersourcecommons.org_ site.
+Anytime there are _new_ articles written, you need to run the script that generates the new pages on the [innersourcecommons.org] site.
 
+1. Clone the [InnerSourceCommons/InnerSourceLearningPath] and [InnerSourceCommons/innersourcecommons.org] repos.
 1. Is this the first time that articles have been written for this section in this language?
-If so, then update
+If so, then update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/generate_learning_path_markdown.js#L37) with the language code of the articles for the appropriate section.
+Open a pull request for the change.
+1. Run **generate_learning_path_markdown.js** as described above.
+1. `cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/`.
+1. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
 
+Note that these steps only needs to happen when there are new articles written.
+Changes to existing articles will automatically show up on the [innersourcecommons.org] site.
 
-
-Create branch
-
-cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/
-```
+[innersourcecommons.org]: http://www.innersourcecommons.org/
+[InnerSourceCommons/InnerSourceLearningPath]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/
+[InnerSourceCommons/innersourcecommons.org]: https://github.com/InnerSourceCommons/innersourcecommons.org
