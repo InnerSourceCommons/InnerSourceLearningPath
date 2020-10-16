@@ -31,11 +31,15 @@ Anytime there are _new_ articles written, you need to run the script that genera
 
 1. Clone the [InnerSourceCommons/InnerSourceLearningPath] and [InnerSourceCommons/innersourcecommons.org] repos.
 1. Is this the first time that articles have been written for this section in this language?
-If so, then update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/generate_learning_path_markdown.js#L37) with the language code of the articles for the appropriate section.
+If so, then do both of the following:
+
+  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/generate_learning_path_markdown.js#L37) with the language code of the articles for the appropriate section.
 Open a pull request for the change.
-1. Run **generate_learning_path_markdown.js** as described above.
-1. `cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/`.
-1. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
+  * update the [Learning Path landing page](https://github.com/InnerSourceCommons/innersourcecommons.org/blob/master/resources/learningpath/index.md) with a link to your new language pages.
+  
+3. Run **generate_learning_path_markdown.js** as described above.
+3. `cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/`.
+3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
 
 Note that these steps only needs to happen when there are new articles written.
 Changes to existing articles will automatically show up on the [innersourcecommons.org] site.
