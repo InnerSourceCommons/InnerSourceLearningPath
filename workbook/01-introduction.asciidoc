@@ -90,6 +90,7 @@ Why 2 is incorrect: The goal of InnerSource is to empower outsiders to contribut
 Why 3 is correct: A contributor’s code is an excellent starting point for training the contributor. Mentoring can produce educational and personal growth that is even more beneficial than the code contribution itself. And contributors, even if competent and knowledgeable about the code base and team’s goals, can benefit from guidance to bring their contributions in line with a team’s goals and standards.
 
 Why 4 is correct: The trusted committer, along with educational and mentoring responsibilities, plays the typical role of a committer on a project, ensuring that the code works well and does not break something else in the application.
+
 ==== SEGMENT:  What Are the Benefits of InnerSource?
 
 TIP:
