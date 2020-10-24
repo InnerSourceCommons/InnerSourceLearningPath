@@ -126,7 +126,8 @@ Why 1 is incorrect: InnerSource has no effect on funding for a team. It’s true
 
 Why 2 is incorrect: InnerSource is not open source. The code is not published outside the company. However, some companies choose to open their code at some point, turning an InnerSource project into an open source one.
 
-Why 3 is correct: InnerSource invites company staff outside the host team to work on the host team’s code. The host team benefits from the outsiders’ understanding of their users’ or consumers’ needs, as well as from the new features added. 
+Why 3 is correct: InnerSource invites company staff outside the host team to work on the host team’s code. The host team benefits from the outsiders’ understanding of their users’ or consumers’ needs, as well as from the new features added.
+
 Why 4 is incorrect: InnerSource can be a valuable force multiplier during time crunches, bringing people from many teams together to complete high-priority code quickly. But after the crunch, people go back to working on projects within their own teams.
 
 ===== Question 3. InnerSource encourages companies to:
