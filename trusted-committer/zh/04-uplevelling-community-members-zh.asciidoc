@@ -1,8 +1,8 @@
-== 升级社区成员
+== 牵引社区成员
 
 在InnerSource社区中会存在有一个深入参与的过程。期间一定会有不了解这个社区的阶段。首先，新手可能对社区和社区内的产品感兴趣，但尚未使用过它。然后会有使用过产品但没有贡献过的用户。然后是至少做出过一次贡献的 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]，最后是负责整体软件和社区的Trusted Committer。作为Trusted Committer，您有责任令社区成员沿着这一连续性前进，并提升他们的贡献能力。从这个意义上讲，Trusted Committer在其社区中充当力量倍增器。
 
-对于Trusted Committer而言，营销其产品和社区以增加新用户和消费者数量非常重要。他们还应该通过与消费者保持交流去引导他们做出贡献，并尝试引起潜在 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]的利益，并使之与社区的利益保持一致。通常，有效的办法是，让 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]参与贡献的是有益于其部门或公司角色的工作。开发工具和自动化就是很好的例子。
+对于Trusted Committer而言，产品营销和社区增加新用户和消费者数量非常重要。他们还应该通过与消费者保持交流去引导他们做出贡献，并尝试牵引潜在 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]的利益，并使之与社区的利益保持一致。通常，有效的办法是，让 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]参与贡献的是有益于其部门或公司角色的工作。开发工具和自动化就是很好的例子。
 
 最后，Trusted Committer有责任在鼓励大家完成挑战性任务、指导他们完成工作的过程中，来识别和支持有成长潜力的贡献者。我们认为，这是Trusted Committer的最高责任，对于Trusted Committer和 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]来说都是非常有价值的。我们听过一些Trusted Committer说，指导和推动人们去提升自己的能力，比花时间在编写软件上更重要。
 
