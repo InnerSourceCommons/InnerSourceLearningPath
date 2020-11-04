@@ -19,6 +19,11 @@ node substitute_article_urls.js isc
 
 A node script to generate markdown files required for hosting Learning Path on innersourcecommons.org.
 
+This script requires a [GitHub access token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token), as it uses the GitHub API to get Learning Path contributors. Your token does not require any scopes, as the Learning Path is Open Source. To provide this, create a `.env` file in this directory in the following format:
+```
+TOKEN=<your_github_token>
+```
+
 ### Usage:
 ```
 npm ci
@@ -36,7 +41,7 @@ If so, then do both of the following:
   * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/generate_learning_path_markdown.js#L37) with the language code of the articles for the appropriate section.
 Open a pull request for the change.
   * update the [Learning Path landing page](https://github.com/InnerSourceCommons/innersourcecommons.org/blob/master/resources/learningpath/index.md) with a link to your new language pages.
-  
+
 3. Run **generate_learning_path_markdown.js** as described above.
 3. `cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/`.
 3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
