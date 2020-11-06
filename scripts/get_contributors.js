@@ -18,6 +18,10 @@ module.exports = async function (filepath) {
               nodes {
                 author {
                   name
+                  user {
+                    name
+                    url
+                  }
                 }
               }
             }
@@ -33,5 +37,12 @@ module.exports = async function (filepath) {
     throw Error('This script needs updating to handle >100 commits')
   }
 
-  return [...new Set(history.nodes.map(node => node.author.name))]
+  return Object.values(history.nodes.reduce((acc, { author }) => {
+    const name = (author.user && author.user.name) || author.name
+    acc[name] = {
+      name,
+      url: author.user && author.user.url
+    }
+    return acc
+  }, {}))
 }
