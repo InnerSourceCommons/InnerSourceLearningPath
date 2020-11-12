@@ -24,6 +24,11 @@ Here is [an example](https://github.com/InnerSourceCommons/InnerSourceLearningPa
 * Here is the [status of translation efforts](https://github.com/InnerSourceCommons/InnerSourceLearningPath/wiki/Translations). 
 * Other mechanics of working on translations follow the guidelines below that apply to any file in the `InnerSourceLearningPath`.
 
+# Subtitles
+
+* All videos may have subtitles in any language.
+* See [this video](https://drive.google.com/file/d/1IaAH8Zmp2ggBtelexhaZUqia5yS8mUjE/view?usp=sharing) for how to add them.
+
 # Files
 
 * When submitting new files, follow the folder structure listed under **Repository Setup** in [the README](./README.md).

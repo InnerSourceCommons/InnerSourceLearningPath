@@ -62,8 +62,8 @@
       learning_path_group: 'Product Owner',
       dirName: 'product-owner',
       workbook: '03-product-owner.asciidoc',
-      translations: [],
-      renderArticles: false
+      translations: ['zh'],
+      renderArticles: true
     },
   ]
 
