@@ -1,8 +1,8 @@
-== 如何成为受信任贡献者
+== 如何成为Trusted Committer
 
 社区对于Trusted Committer的要求是非常高的，但作为一个Trusted Committer，会让人非常有成就感。如果你想通过成为一个Trusted Committer得到成长，您可能会问：我要怎样成为一个Trusted Committer，我会是合适的人选吗？
 
-Inner Source社区遵循一些与开源社区相同的原则，其中之一就是精英制度。在精英制度中，权力取决于个人的才能、努力和成就。换句话说，就等同于是Trusted Committer角色附带的责任和特权是需要通过做贡献赢得的。透明度是另一个开源价值，它也发挥了至关重要的作用，因为它使人才的努力和成就对整个社区可见。
+InnerSource 社区遵循一些与开源社区相同的原则，其中之一就是精英制度。在精英制度中，权力取决于个人的才能、努力和成就。换句话说，就等同于是Trusted Committer角色附带的责任和特权是需要通过做贡献赢得的。透明度是另一个开源价值，它也发挥了至关重要的作用，因为它使人才的努力和成就对整个社区可见。
 
 正式成为Trusted Committer的过程每个社区都会有不同，主要取决于你在InnerSource中所处的社区，并且规则可能在不断变化。在基层社区中，创始人通常也自动承担Trusted Committer的角色。随着社区的发展，社区或现有的Trusted Committer可能会提名，并以投票的方式发展一名 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]成为Trusted Committer。理想情况下，被提名的贡献者需要自愿担任Trusted Committer角色，因为它需要大量的时间和奉献精神才能成功。
 

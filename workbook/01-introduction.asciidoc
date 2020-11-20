@@ -90,6 +90,7 @@ Why 2 is incorrect: The goal of InnerSource is to empower outsiders to contribut
 Why 3 is correct: A contributor’s code is an excellent starting point for training the contributor. Mentoring can produce educational and personal growth that is even more beneficial than the code contribution itself. And contributors, even if competent and knowledgeable about the code base and team’s goals, can benefit from guidance to bring their contributions in line with a team’s goals and standards.
 
 Why 4 is correct: The trusted committer, along with educational and mentoring responsibilities, plays the typical role of a committer on a project, ensuring that the code works well and does not break something else in the application.
+
 ==== SEGMENT:  What Are the Benefits of InnerSource?
 
 TIP:
@@ -125,7 +126,8 @@ Why 1 is incorrect: InnerSource has no effect on funding for a team. It’s true
 
 Why 2 is incorrect: InnerSource is not open source. The code is not published outside the company. However, some companies choose to open their code at some point, turning an InnerSource project into an open source one.
 
-Why 3 is correct: InnerSource invites company staff outside the host team to work on the host team’s code. The host team benefits from the outsiders’ understanding of their users’ or consumers’ needs, as well as from the new features added. 
+Why 3 is correct: InnerSource invites company staff outside the host team to work on the host team’s code. The host team benefits from the outsiders’ understanding of their users’ or consumers’ needs, as well as from the new features added.
+
 Why 4 is incorrect: InnerSource can be a valuable force multiplier during time crunches, bringing people from many teams together to complete high-priority code quickly. But after the crunch, people go back to working on projects within their own teams.
 
 ===== Question 3. InnerSource encourages companies to:
