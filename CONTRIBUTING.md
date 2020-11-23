@@ -14,7 +14,7 @@ Here's a few tips as you go along:
 # Translations
 
 * All articles may be translated into any language of interest.
-* Translated articles should be storied next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
+* Translated articles should be stored next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
 * The filename of the article should be changed to include two-character language code prefix.
 * The following are special terms and should not be translated:
   * `InnerSource`
