@@ -170,7 +170,7 @@ Why 4 is correct: Contributing to an InnerSource project gives you the best chan
 ===== Question 3.  What are the benefits for your company as a whole when you contribute to InnerSource projects?
 
 . Fewer developers are needed to complete projects on time.
-. Increased documentation helps you determine afterward why decisions were made, and helps new developers come up to speed
+. Increased documentation helps you determine afterward why decisions were made, and helps new developers come up to speed.
 . Broader spreading of knowledge encourages learning outside the immediate area of work and eliminates expert silos about important projects.
 . Shared projects lead to overall better alignment between teams and company-wide cross-collaboration. 
 
