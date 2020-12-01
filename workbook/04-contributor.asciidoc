@@ -155,7 +155,7 @@ Why 4 is correct: Interacting with other engineers from different teams will bro
 . A contribution to another team’s code base requires typically less maintenance from you than a change to your own code base.
 . A broader spread of key knowledge reduces the risk of losing organizational memory as people leave.
 . Because others depend on your contributions, you can make sure the dependent teams support your team’s mission.
-. You can influence and help direct shared projects in support of support your usage scenarios.
+. You can influence and help direct shared projects in support of your usage scenarios.
 
 ====== Correct answers 1, 2, and 4
 
