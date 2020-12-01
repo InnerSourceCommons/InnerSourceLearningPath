@@ -28,7 +28,7 @@ Why 3 is correct: Shared solutions develop out of contributions from interested 
 
 Why 4 is correct: Contributions go beyond just code. There are many aspects that help to keep a solution healthy and thus make it successful, different aspects require different skills, though don’t make one more important than another. If the code is the machine, then think of these areas of contributions as the grease that keeps the machine running smoothly.
 
-===== Question 3.  What is a productive assumption for a contributor to make when joining an InnerSource project?
+===== Question 2.  What is a productive assumption for a contributor to make when joining an InnerSource project?
 
 . I need to make sure to communicate my intent when adding or changing the project.
 . I need to make sure my code serves the hosting teams goals.
