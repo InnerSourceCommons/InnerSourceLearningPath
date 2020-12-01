@@ -101,7 +101,7 @@ More than one answer may be correct in some questions.
 
 ====== Correct answer: 2 and 4
 
-Why 1 is incorrect: For many reasons, contributions to an open and shared solution will likely take more time than changes to a closed, single-team project. For example, coordination with the host may not be straightforward as it is with your immediate team. Your interests and the hosts’ interests may not easily align, and compromises may need to be found. Logistics may also add overhead, such as simply working in different timezones.To mitigate against these delays, plan with additional time. This will alleviate stress and tension and increase your chances of a successful engagement.
+Why 1 is incorrect: For many reasons, contributions to an open and shared solution will likely take more time than changes to a closed, single-team project. For example, coordination with the host may not be straightforward as it is with your immediate team. Your interests and the hosts’ interests may not easily align, and compromises may need to be found. Logistics may also add overhead, such as simply working in different timezones. To mitigate against these delays, plan with additional time. This will alleviate stress and tension and increase your chances of a successful engagement.
 
 Why 2 is correct: Through communication, you allow everyone to understand your intent and give advice where needed. Communication ensures that you understand the plans and goals of others and can work together optimally for the greatest impact.
 
