@@ -37,7 +37,7 @@ Why 4 is correct: Contributions go beyond just code. There are many aspects that
 
 ====== Correct answer: 1
 
-Why 1 is correct: If your contribution isn’t understood by the host team or the community at large, so they may reverse your hard work or make other changes that weaken the value of your contribution. Open and early communication with the community and the hosting team will help you to drive successful contributions.
+Why 1 is correct: If your contribution isn’t understood by the host team or the community at large, then they may reverse your hard work or make other changes that weaken the value of your contribution. Open and early communication with the community and the hosting team will help you to drive successful contributions.
 
 Why 2 is incorrect: You should make sure that your goals do not conflict with those of the hosting team, but beyond that you can still promote your own team’s goals.
 
