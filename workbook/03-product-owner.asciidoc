@@ -20,7 +20,7 @@ Why 2 is correct: The video highlighted the invisibility of many activities of m
 
 Why 3 is correct: Middle managers feel that they are responsible for carrying out choices made by upper management, but can’t influence those choices. In contrast, InnerSource brings the managers into communication with other teams, thus providing a chance to broaden their own influence and participate more active in shaping the goals and vision behind their projects.
 
-Why 4 is incorrect: InnerSource does not have a direct impact on funding, so funding is not discussed in this video segment. However, the adoption of InnerSource does have an indirect on funding, because now the work on a project is shared by multiple teams, and management must recognize that resources are spent differently. Specifically, the amount of coding per team member will slightly shrink in favor of communication and documentation, while the overall project output should increase thanks to the collaboration.
+Why 4 is incorrect: InnerSource does not have a direct impact on funding, so funding is not discussed in this video segment. However, the adoption of InnerSource does have an indirect impact on funding, because now the work on a project is shared by multiple teams, and management must recognize that resources are spent differently. Specifically, the amount of coding per team member will slightly shrink in favor of communication and documentation, while the overall project output should increase thanks to the collaboration.
 
 ==== SEGMENT: Major Benefits are Built into the InnerSource Process
 
@@ -69,7 +69,7 @@ Why 1 is incorrect: Each team should have the staff and resources it needs to me
 
 Why 2 is incorrect: Requirement definition, code development, testing, code vetting, and deployment--the various parts of the application life cycle--are still as important as they always were. Trusted committers make sure that outsiders respect the life cycle and follow team standards to ensure quality.
 
-Why 3 is correct: Contributors, trusted committers, and product owners all hold more discussions on InnerSource projects in order to collaborate on finding solutions. The input from other product owners embodies valuable knowledge about their users the history of their projects, stumbling blocks to watch for, and other things. These make the extra communication well worthwhile.
+Why 3 is correct: Contributors, trusted committers, and product owners all hold more discussions on InnerSource projects in order to collaborate on finding solutions. The input from other product owners embodies valuable knowledge about their users, the history of their projects, stumbling blocks to watch for, and other things. These make the extra communication well worthwhile.
 
 Why 4 is incorrect: InnerSource fosters communication between teams so that everybody has a consistent view of what needs to be done. Although teams may have different goals and work on a project to meet those goals, they should be unified in their view of the product.
 
@@ -84,7 +84,7 @@ Why 4 is incorrect: InnerSource fosters communication between teams so that ever
 
 Why 1 is incorrect: Collaboration and negotiation become more important than ever in InnerSource. Contributors explain what they want to change and why. Trusted committers work with them to make sure the project is successful and works well in the code base.
 
-Why 2 is correct: Technical staff generally come out of college or other training programs with skill is programming, and perhaps engineering and project management. But such programs rarely recognize or teach the value of training and mentoring, which are key to InnerSource. Companies should consider filling in the gap with their own training.
+Why 2 is correct: Technical staff generally come out of college or other training programs with skills in programming, and perhaps engineering and project management. But such programs rarely recognize or teach the value of training and mentoring, which are key to InnerSource. Companies should consider filling in the gap with their own training.
 
 Why 3 is correct: Because middle managers can participate in, and help fashion, the decision of other teams, they can achieve their team’s own goals more easily.
 
@@ -129,7 +129,7 @@ Why 3 is correct: The point of InnerSource is to bring everyone who is intereste
 
 Why 4 is incorrect: Most communication between trusted committers and contributors is written and asynchronous, because they are often in different locations. Furthermore, written communication stays around as a record of what was done and why. It can be useful for training future contributors. There are many ways besides email to record written communications, but email remains a popular and useful medium.
 
-===== Question 4.  The most important people that a product owner needs to support for an InnerSource project are:
+===== Question 3.  The most important people that a product owner needs to support for an InnerSource project are:
 
 . Upper management.
 . Outside contributors.
@@ -146,7 +146,7 @@ Why 3 is incorrect: Scrum may or may not be in use on InnerSource projects, and 
 
 Why 4 is correct: Trusted committers make InnerSource work on-the-ground. They are key in facilitating the changes other teams make to the code base in a way that works for both teams.
 
-===== Question 5.  When marketing your project for InnerSource contributions, what are some common reasons that others might want to contribute?
+===== Question 4.  When marketing your project for InnerSource contributions, what are some common reasons that others might want to contribute?
 
 . They need an update in your project in order for their own project to proceed forward.
 . They see how important your project is to the company and want to help it out.
