@@ -14,7 +14,7 @@ Here's a few tips as you go along:
 # Translations
 
 * All articles may be translated into any language of interest.
-* Translated articles should be storied next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
+* Translated articles should be stored next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
 * The filename of the article should be changed to include two-character language code prefix.
 * The following are special terms and should not be translated:
   * `InnerSource`
@@ -23,6 +23,11 @@ Here's a few tips as you go along:
 Here is [an example](https://github.com/InnerSourceCommons/InnerSourceLearningPath/issues/255).
 * Here is the [status of translation efforts](https://github.com/InnerSourceCommons/InnerSourceLearningPath/wiki/Translations). 
 * Other mechanics of working on translations follow the guidelines below that apply to any file in the `InnerSourceLearningPath`.
+
+# Subtitles
+
+* All videos may have subtitles in any language.
+* See [this video](https://drive.google.com/file/d/1IaAH8Zmp2ggBtelexhaZUqia5yS8mUjE/view?usp=sharing) for how to add them.
 
 # Files
 
