@@ -39,7 +39,7 @@ const sections = [
     learning_path_group: 'Introduction',
     dirName: 'introduction',
     workbook: '01-introduction.asciidoc',
-    translations: ['de', 'ja', 'zh'],
+    translations: ['de', 'ja', 'zh', 'ru'],
     renderArticles: true
   },
   {
