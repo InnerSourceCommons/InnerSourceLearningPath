@@ -1,0 +1,157 @@
+== Meccaniche della contribuzione
+
+Sei pronto per iniziare a contribuire a progetti/repo di altri team?
+Non vedi l'ora di ridurre i tuoi blocchi non tramite la gestione dell'escalation ma tramite la collaborazione?
+Questa sezione mostra consigli pratici e evidenzia i trucchi da ricordare quando si realizza un contributo InnerSource. Consente a te ed all'host team di vivere un'esperienza il più piacevole possibile, ponendo le basi per ulteriori contributi e grandiosa collaborazione.
+
+Questo articolo è diviso in tre passi che probabilmente sperimenterai
+
+* <<preparing-to-work,Sollecitare la tua opportunità di contribuzione e preparare a lavorarci>>
+* <<creating-the-pull-request,Creare realmente il contributo>>
+* <<submitting-the-pull-request,Lucidare e incartare bene il dono e presentarlo all'host team>>.
+
+Se il tuo contributo è più grande, probabilmente eseguirai ripetutamente (alcuni) di questi passaggi mentre itererai verso il tuo obiettivo comune. 
+E' molto probabile che, mentre lo fai, il tutto sembrerà sempre più naturale - forse ti chiederai anche perché stavi facendo qualcos'altro prima.
+
+=== Prepararsi a lavorare
+
+==== Tempi di consegna
+
+Una differenza fondamentale è il tempo di consegna.
+
+Con ogni primo contributo per la prima volta arrivi in un nuovo (host) team.
+Di conseguenza, dovrai conoscere la loro code base, le tecnologie usate, e anche il loro ambiente preferito di sviluppo (pensa al framework di test, al sistema di build).
+Anche nei casi in cui questo tipo di tool è standardizzato, ogni team avrà sviluppato alcune peculiarità individuali.
+Oltre al lato tecnico, potresti trovarti di fronte a differenze nella comunicazione (pensa alle revisioni del codice).
+Anche se torni dopo un pò di tempo, le modalità ed i membri del team potrebbero essere cambiati.
+Prenditi il tuo tempo come se vorresti incontrare un amico che non vedi da un pò e che stai visitando ora.
+
+Datevi tempo sufficiente.
+
+Inizia abbastanza presto, in modo che il tuo lavoro sia disponibile per farti leva nel momento in cui ne hai bisogno.
+E' meglio aggiungere più tempo di pausa inizialmente - avrai un'idea dei tempi di consegna una volta che lavorerai con l'host team.
+Spesso noterai una riduzione del tempo di consegna per l'host team dopo aver fornito alcuni contributi di successo a quell'host team.
+Questo effetto può essere osservato anche con l'Open Source, puoi leggere di più a riguardo <<buildup-of-trust-through-collaboration,quì>>.
+
+==== Gestione delle aspettative
+
+Nei tuoi team classici tutti avevano un'idea dei tempi di consegna previsti.
+All'interno del contesto InnerSource questo potrebbe non essere il caso, a causa di grandi differenze di fuso orario (ad esempio Seattle, USA con PDT contro Berlin, Germania con CEST) o non sei disponibile a tempo pieno come il tuo team originale, anche se sono nella stessa posizione fisica in cui ti trovi.
+Pertanto, per prevenire la frustazione da entrambe le parti, come l'impazienza e altri effetti che non incentivano la fiducia, dovrai quindi gestire esplicitamente le aspettative per quanto riguarda i tempi di reazione previsti.
+Un approccio consiste nel reagire rapidamente con un "Lo analizzerò, mi serviranno alcuni giorni" ad un feedback del https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer's_] se sai che potrai lavorarci in pochi giorni.
+Idealmente, puoi fornire loro una stima di massima di quando avrai il tempo per visionare il loro contributo.
+Facendo in questo modo costruisci fiducia per affidabilità anche per contatti non fisici, distanze maggiori o canali altrimenti asincroni.
+La fiducia stabilita ti permetterà di superare i momenti di incertezza nella strada collaborativa che hai da percorrere.
+
+==== Costruire fiducia
+
+InnerSource attribuisce un enorme peso alla comunicazione scritta - in particolare quando si tratta di decisioni del progetto.
+Questo implica che la comunicazione di persona è vietata?
+
+Chiaramente no: mentre la comunicazione scritta funziona molto bene quando si tratta di archiviazione e ricercabilità, la comunicazione di persona funziona quando si tratta di larghezza di banda di comunicazione.
+Cerca di investire tempo ad incontrare le persone dietro i nomi. Se possibile, cerca di incontrarle davanti alla tua bevanda o cibo preferito.
+Quando sei in grado di sentire le persone parlare, quando conosci le loro idiosincrasie, la collaborazione remota diventerà più facile.
+
+==== Evitare il rifiuto
+
+Hai una grande funzionalità su cui vuoi contribuire?
+Eccellente!
+Non sarebbe terribile se tutto il tuo lavoro fosse sprecato?
+Può accadere quando l'host team sta già costruendo qualcosa di molto simile, sta pianificando di deprecare il software, o non vede quello che stai proponendo per essere un qualcosa di adatto per il loro progetto.
+Questa sfida è frequente e molte relazioni nel team hanno sofferto per non aver concordato in anticipo che un contributo è adatto.
+
+Rendi felici te stesso e l'host team (e possibilmente risparmia un pò di lavoro) ottenendo un accordo dall'host team sulla progettazione tecnica / utente del contributo _prima_ di lavorare sulle modifiche ed inviare la pull request.
+Devi capire come l'host team vorrebbe che ti mettessi in contatto per questo.
+La cosa migliore è chiedere al https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] come discutere al meglio la tua proposta.
+
+E' saggezza provata più volte nell'area Open Source che, se puoi scegliere come discutere la tua proposta, dovresti provare a selezionare un modo scritto.
+Idealmente, scegli la modalità dove gli artefacci sono pubblici, ricercabili e con link unici per consentire di fare riferimento alla tua proposta nelle discussioni successive su questo contributo futuro o su altri contributi a venire tuoi o di altri.
+
+Questo tipo di accordo anticipato di alto livello farà risparmiare tempo nella rielaborazione o nel rifiuto della tua pull request.
+
+=== Creazione della pull request
+
+==== Comunicazione e sbloccare se stessi
+
+Fantastico, hai preso familiarità con l'approccio dell'host team, e non vedono l'ora di ricevere la tua pull request.
+Quali trucchi ti stanno aspettando adesso?
+
+Innanzitutto, sarai in contatto meno diretto con loro. In secondo luogo, non ci si aspetta che tu abbia la conoscenza e sia competente come potresti essere nei progetti a tempo pieno di proprietà del tuo team.
+Come puoi affrontarlo al meglio?
+
+Prova ad esaminare la loro documentazione, le conversazioni negli archivi e gli artefatti nel codice del team per sbloccarti.
+Questo è simile alla situazione in cui ti trovi tu e probabilmente la maggior parte delle persone quando utilizza uno dei progetti popolari OSS.
+Proprio come nei progetti Open Source, chiedi all'host team se le cose non stanno andando avanti anche dopo aver provato a sbloccarti.
+Le domande che tu fai e le risposte che ricevi aiuteranno altri che arriveranno dopo che avrai risolto gli stessi problemi.
+Assicurati che la tua comunicazione finisca in un archivio ricercabile che sia strettamente collegato al progetto stesso.
+Dovresti vedere facili opportunità di miglioramento per raggiungere l'obiettivo se non è stato ancora raggiunto, puoi provare - molto edicatamente - a suggerire un miglioramento al tuo host team.
+A volte lo status quo nasce da pura casualità e rimane tale perché nessuno aveva un'idea diversa o se ne curava abbastanza.
+I suggerimenti al miglioramento potrebbero essere i benvenuti in questi casi.
+Non giova a nessuna delle due parti girare attorno per sempre al problema che potrebbe essere risolto in una conversazione di pochi minuti con qualcuno più informato sul progetto.
+Va bene chiedere aiuto.
+
+C'è una differenza fondamentale tuttavia, che porterà vantaggi a te e ad altre persone in futuro:
+In quasi tutti i casidovresti preferire i canali di comunicazioni ufficiali dei progetti - può essere una maliling list, una chat room, un issue tracker o qualcosa di simile, a seconda dello scopo di avere una modalità di comunicazione sincrona o asincrona, o a seconda delle esigenze che variano per la struttura di comunicazione.
+Tutte queste modalità hanno in comunune che sono basate su testo, archiviate, ricercabili e dotate di collegamenti stabili - questo significa che la tua domanda e la risposta saranno scritte, e le referenze che tu menzioni nelle risposte saranno mantenute raggiungibili.
+In questo modo puoi beneficiare di questa conoscenza documentata passivamente nella tua ricerca E aiutare i futuri contributori ad avere lo stesso vantaggio.
+Tale documentazione passiva potrebbe anche servire per arricchire la documentazione 'ufficiale', qualcosa dovesse contenere gemme particolarmente preziose - come definizioni importanti che create ad-hoc.
+
+Mentre lavori, se trovi documentazione mancante (o non aggiornata), fai un favore al prossimo Contributore e aggiornala con ciò che hai scoperto.
+I team di progetto sono spesso felici di ricevere aggiunte, aggiornamenti o correzioni per la loro documentazione attuale - hai appena trovato un'altra opportunità per contribuire!
+(Oppure fornisci educatamente un feedback sulla tua esperienza, e su cosa ti avrebbe aiutato.)
+
+==== Creazione del codice
+
+Tutti noi abbiamo le nostre preferenze e opinioni sullo stile del codice, l'identazione, ecc.
+Anche il progetto dell'host team ne ha.
+Cerca di adattare ed abbinare queste preferenze anche se non sono quello che tu avresti normalmente fatto, e anche se non è specificato nel file https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[_`CONTRIBUTING.md`_].
+Se non siete sicuri, potete sempre chiedere educatamente. Tuttavia, per un contributo di una funzionalità o per un bug fix non è il momento di introdurre un nuovo modo di struttrare o formattare il codice del progetto.
+
+=== Invio della pull request
+
+Hai completato tutto il lavoro essenziale, capito tutte le stranezze del problema e il progetto a cui stai contribuendo, il momento che avevi pianificato per la nuova funzionalità si avvicina, e vuoi assicurarti che il tuo contributo venga usato tramite merge nel modo più veloce e fluido possibile.
+Ecco quì quello che puoi fare per rendere la revisione ed il merging più facile possibile per il https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] e l'host team.
+Questo potrebbe attualmente essere abbastanza simile a quello che potresti già fare sul tuo progetto per far accettare le tue modifiche. Se è così - fantastico, ti verrà naturale!
+
+==== Test e automazione
+
+Il punto fondamentale quì è abilitare il https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] a validare il contributo senza la tua presenza e assicurare una facile manutenibilità.
+Immagina di aver creato una funzionalità o la gestione di una stranezza irrisolvibile, o di un'importante modifica delle prestazioni ed il tuo codice non è del tutto ovvio (o potrebbe persino sembrare orrendo / sbagliato a prima vista).
+Se l'hai coperta con un test - ed idealmente hai scritto due parole sul razionale che c'è dietro in un commento - ad un futuro editor verrà ricordato lo scopo del codice, ed i test assicureranno che il valore realizzato del tuo codice sarà mantenuto, anche nelle nuove implementazioni.
+Per ottenere ciò, procedi nel seguente modo:
+
+* Aggiungi i test per il codice del tuo contributo, così che la validazione della funzione della tua contribuzione possa funzionare bene anche per altri, anche dopo un pò di tempo, quando lavorerai in altri progetti o nell'eventualità tu abbia smesso di contribuire a questo progetto.
+ ** Spesso i progetti avranno dei controlli automatici sulle richieste di pull request usando questi test ed il livello di copertura del codice. Cerca di soddisfare i criteri imposti da questi test.
+* Molti progetti forniranno script per eseguire la build e la validazione che ti permetterà di testare localmente le tue modifiche.
+ ** Usa questi script per assicurarti che il tuo contributo funzioni al meglio prima di aprire una pull request.
+ ** Dover revisionare le richieste di pull request con errori facili da risolvere spesso infastidisce i trusted committer. Non correggeranno il tuo codice ma chiederanno a te di farlo. Questo potrebbe creare più cicli e rallentare il merge.
+ ** Tuttavia nessuno è perfetto. Fai del tuo meglio, usa gli script di validazione preparati se ce ne sono, e dai il meglio di te con una pull request!
+ ** Se la tua pull request continua a rompere i test, e tu non capisci il perché dopo aver dato il meglio di te: prova ad evidenziare questi test in un commento della pull request, illustra la tua attuale comprensione del problema e chiedi aiuto.
+* Non dimenticare il tuo progetto che ha scatenato il tuo contributo in primo luogo. Crea una build modificata del progetto condiviso con le tue modifiche e provalo nel tuo progetto che lo usa.
+
+==== Documentazione e revisione
+
+Vuoi essere sicuro che la tua pull request includa ogni aggiornamento della documentazione che sia rilevante per le tue modifiche.
+Se la documentazione risiede in un posto diverso, assicurati che sia aggiunta lì e sia collegata nella tua pull request.
+
+Per rendere la revisione del codice attuale quanto più semplice possibile per il trusted committer o altre persone che lo revisioneranno, cerca di seguire questi suggerimenti:
+
+* Assicurati che la tua pull request includa solamente le modifiche attinenti per la issue che stai completando.
+* Prova ad evitare di fare commit di grandi dimensioni, commit con messaggi non chiari, miliardi di file, modifiche non coerenti (ad esempio toccando più argomenti).
+* Fornisci una descrizione chiara di cosa viene modificato da questa pull request, perché lo fa in questo modo, e a quale issue e documenti di progettazione (se ce ne sono) fa riferimento.
+* Se c'è qualcosa di non comune o inaspettato nella pull request, sottolinealo e fornisci una spiegazione. Questo renderà più facile ragionarci sopra e risolvere potenziali domande bloccanti che un reviewer potrebbe avere durante la revisione.
+ ** Lo stesso vale per lo scenario dove non eri sicuro dell'implementazione o del tuo approccio - sottolinealo e chiedi un approfondimento.
+ ** Sii civile e aspettati civiltà dalla revisione del https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer's_].
+* Fare pull request troppo ampie e grandi le rende più difficile da revisionare, quindi sarà necessario molto più tempo prima che vengano accettate.
+ ** Se hai una funzionalità più grande che stai per contribuire, spesso aiuta dividerla in più pull request che sono da inviare, revisionare e accettare sequenzialmente.
+Puoi ancora raccoglierle insieme in una issue a cui fai riferimento.
+  *** Alcuni tool hanno anche la funzionalità di pull request per Draft / WIP che puoi usare per marchiare esplicitamente un lavoro non finito e non finalizzato e ricevi ancora un feedback immediato dal https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[_Trusted Committers_] dell'host team.
+  *** Questo ti permette di assicurare che stai procedendo verso un percorso che il tuo host team è felice di accogliere una volta fatto, aderendo all'approccio "rilascia presto, rilascia spesso".
+  *** La responsabilità dell'host team è quella di creare un'atmosfera dove la condivisione e la discussione sul lavoro non del tutto finalizzato è possibile e benvenuta. Se non puoi fallire al sicuro, non puoi innovare, e la collaborazione diventa molto difficile.
+  *** Cerca di trovare un equilibrio tra il chiedere per una revisione in anticipo e fornire modifiche significative alla revisione.
+
+=== Articoli aggiuntivi
+Alcune di queste risorse potrebbero essere nascoste dietro i paywall.
+A volte il tuo datore di lavoro ha un abbonamento che consente l'accesso, altrimenti le biblioteche delle università pubbliche spesso consentono l'accesso anche agli ospiti.
+
+==== https://doi.org/10.1109/MS.2013.95[Buildup of trust through collaboration]

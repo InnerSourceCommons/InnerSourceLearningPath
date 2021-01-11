@@ -55,7 +55,7 @@
       learning_path_group: 'Contributor',
       dirName: 'contributor',
       workbook: '04-contributor.asciidoc',
-      translations: ['ja', 'zh'],
+      translations: ['it', 'ja', 'zh'],
       renderArticles: true
     },
     {

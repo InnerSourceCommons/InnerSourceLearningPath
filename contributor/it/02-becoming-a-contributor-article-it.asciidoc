@@ -1,0 +1,38 @@
+== Diventare un Contributor InnerSource
+
+I contributori InnerSource operano al di fuori dei confini regolari del team, sono i collegamenti tra tutti i silos aziendali. Come tali, hanno bisogno di essere a conoscenza di alcune pratiche comuni che rendano questo lavoro più efficace.
+
+=== Condivisione della mentalità
+
+Così - stai implementando una nuova funzionalità per il prodotto del tuo team. Hai bisogno di alcune funzionalità per far funzionare questa caratteristica. Invece di saltare direttamente all'implementazione, rallenta per un momento: questa funzionalità riflette un problema generale? E' qualcosa che altri team nell'azienda devono affrontare anche a causa del dominio aziendale condiviso? Questa funzionalità è ortogonale rispetto al dominio del tuo progetto? Se una di queste condizioni si avvera, allora inizia a guardare oltre il tuo team: esiste una soluzione condivisa che puoi usare o migliorare per soddisfare le tue esigenze? Dovrebbe essercene una?
+
+=== I vantaggi alla condivisione delle soluzioni
+
+C'è un proverbio Africano che dice "`Se vuoi andare veloce, vai da solo. Se vuoi andare lontano, vai insieme.`" Lo stesso è vero per i team di sviluppo software:
+
+Se vuoi muoverti velocemente, è una fantastica idea quella di interrompere le dipendenze. Il rovescio della medaglia può essere un effort duplicato. In particolare quando si reimplementa una logica core, c'è un reale rischio di duplicazione superando il vantaggio dell'indipendenza.
+
+Collaborando con altri team permetti di condividere il costo dello sviluppo. Proprio come nei progetto Open Source, può consentire al tuo team di costruire qualcosa di più grande di quanto tu da solo avresti potuto realizzare.
+
+Ma ogni team ha una roadmap diversa! Ho già provato ad usare componenti condivisi - hanno richiesto sempre più tempo per l'integrazione di quanto ce ne avessi messo io reimplementandoli. Questi componenti erano sempre mancanti in alcuni aspetti o altri - e le mie richieste di funzionalità non hanno mai avuto priorità nella roadmap dell'altro team!
+
+In contrasto rispetto ad un progetto tradizionale, i progetti InnerSource hanno il ruolo di un Contributore. Si, ci saranno volte che tu vorrai che la soluzione condivisa abbia una nuova funzionalità. Come Contributore, hai la libertà di controllare il codice sorgente del componente, apportare le dovute modifiche ed utilizzare la versione miglirata risultante.
+
+Si, ci saranno volte in cui avrai bisogno urgentemente di una fix di un bug nella tua timeline che non ha la stessa priorità dell'host team. Diventare un Contributore ti permette di agire da solo e supportare l'host team risolvendo quel bug.
+
+Questo modo di lavorare richiede un cambiamento nella mentalità per molti: invece di aspettare che le funzionalità siao implementate o aggiustate, invece di lavorare aggirando il problema, adesso c'è una terza soluzione. Investi il tuo tempo e le tue energie a ricontrollare con il progetto InnerSource quali siano le tue esigenze - e dopo applica i cambiamenti direttamente nel progetto condiviso. Quindi oltre alle tue competenze di programmazione, hai anche bisogno di capacità di comunicazione per avere successo in un progetto InnerSource - per chiaramente articolare le tue esigenze ed arrivare ad una soluzione che funziona sia per il tuo team che per l'host team. 
+ 
+"Ma potrei semplicemente eseguire il fork del progetto, fare i dovuti cambiamenti lì e salvarmi da tutto questo sovraccarico del coordinamento!". Sicuro - eseguendo il fork del progetto è un modo per fare il tuo lavoro. Tranne a lungo termine questo significa che starà a te mantenere quella versione forkata per il tuo team - e portare i tuoi cambiamenti in avanti per qualsiasi nuova versione venga fatta dall'host team. Contribuendo con le tue modifiche all'host team significa anche che tu ottieni il beneficio della loro conoscenza approfondita del componente. Potrebbero individuare problemi nella tua patch che altrimenti sarebbero diventati evidenti solamente in produzione. 
+
+Un buon Contributore può comodamente effettuare una chiamata per quando ha senso sia sul tecnico che sul business per introdurre una dipendenza e riusare un componente invece di duplicare il lavoro. Possono parlare con il management per spiegare i vantaggi dei contributi InnerSource.
+
+=== Portata delle contribuzioni InnerSource
+
+Quindi l'Inner__Source__ riguarda solamente il __Codice__Sorgente? Naturalmente no. Se l'attività del tuo team dipende da un componente esterno, vuoi essere sicuro che sia ben mantenuto e gestito. Come un Contributore InnerSource, puoi aiutare l'host team in più modi. Segnalando problemi che vedi quando usi il componente è un contributo di valore. Creare o aggiustare i casi di test che mostrano che il codice non sta funzionando come atteso è di valore. Quindi allo stesso modo è migliorare la documentazione, così altri potranno spendere meno tempo utilizzandola e contribuendo ad essa. Supportare altri utenti, aiutando con l'identificazione di un bug può essere un prezioso contributo. Migliorare le build è un altro esempio di contribuzione di valore.
+
+Per riassumere nessun contributo è troppo piccolo per contribuire. Eccone uno che ho fatto 
+su https://github.com/tensorflow/models/pull/4784[tensorflow/models]. Un semplice aggiornamento di una label in un grafo.
+
+=== Riepilogo di questo articolo
+
+In questo articolo hai imparato quello che serve per diventare un Contributor. Abbiamo visto la mentalità di condivisione. Siamo andati ad approfondire i vantaggi delle soluzioni condivise. Infine abbiamo dato un'occhiata all'aspetto tipico dello scope delle contribuzioni InnerSource.
