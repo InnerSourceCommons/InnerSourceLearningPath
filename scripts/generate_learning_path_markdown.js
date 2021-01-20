@@ -41,7 +41,7 @@
       learning_path_group: 'Introduction',
       dirName: 'introduction',
       workbook: '01-introduction.asciidoc',
-      translations: ['de', 'it', 'ja', 'zh'],
+      translations: ['de', 'it', 'ja', 'zh', 'ru'],
       renderArticles: true
     },
     {
