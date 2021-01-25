@@ -6,7 +6,7 @@
 
 * <<preparing-to-work,争取你的贡献机会并准备开始工作>>
 * <<creating-the-pull-request,实际创造贡献>>
-* <<submitting-the-pull-request,并将其呈现给项目团队>>
+* <<submitting-the-pull-request,完善你的工作,并将其呈现给项目团队>>
 
 当你的贡献和目标越来越多，你可能会重复地经历其中一些步骤。很有可能当你这样做的时候，一切都会变得越来越自然——也许你甚至会奇怪你什么时候做过那些步骤。
 
