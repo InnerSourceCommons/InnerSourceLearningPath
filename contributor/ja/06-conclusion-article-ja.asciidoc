@@ -18,4 +18,4 @@ InnerSourceラーニングパス、コントリビュータセグメントをご
 
 オンラインのInnerSourceグループ http://innersourcecommons.org[InnerSource Commons] をチェックすることをお勧めします。自由に議論に参加して、あなたの組織で学んだり経験したことを共有してください。
 
-プロジェクトを盛上げていきましょう！
+プロジェクトを盛り上げていきましょう！
