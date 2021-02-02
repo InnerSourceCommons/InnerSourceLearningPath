@@ -5,8 +5,7 @@
 
 如果您还没有看过其他视频，还应该观看。
 它们包含在公司中实施InnerSource流程所需的一些第一步。
-他们还负责一些角色，例如trusted
- committee，还有一些文档，例如创建您的第一个贡献协议。
+他们还负责一些角色，例如trusted committee，还有一些文档，例如创建您的第一个贡献协议。
 
 如果您想阅读我的书，请访问 http://innersourcecommons.org/checklist/[innersourcecommons.org/checklist]。
 对于您的所有产品负责人而言，本书的后半部分将涉及很多事情，并且需要执行和实施。
