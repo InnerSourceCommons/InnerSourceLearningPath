@@ -60,34 +60,38 @@
       dirName: 'introduction',
       workbook: '01-introduction.asciidoc',
       translations: ['de', 'it', 'ja', 'zh', 'ru'],
-      image: "images/learn/LP_thumbnail_introduction.jpg"
+      image: "images/learn/LP_thumbnail_introduction.jpg",
+      renderArticles: true
     },
     {
       learning_path_group: 'Trusted Committer',
       dirName: 'trusted-committer',
       workbook: '02-trusted-committer.asciidoc',
       translations: ['de', 'zh'],
-      image: "images/learn/LP_thumbnail_trustedcommitter.jpg"
+      image: "images/learn/LP_thumbnail_trustedcommitter.jpg",
+      renderArticles: true
     },
     {
       learning_path_group: 'Contributor',
       dirName: 'contributor',
       workbook: '04-contributor.asciidoc',
       translations: ['ja', 'zh'],
-      image: "images/learn/LP_thumbnail_contributor.jpg"
+      image: "images/learn/LP_thumbnail_contributor.jpg",
+      renderArticles: true
     },
     {
       learning_path_group: 'Product Owner',
       dirName: 'product-owner',
       workbook: '03-product-owner.asciidoc',
       translations: ['zh'],
-      image: "images/learn/LP_thumbnail_productowner.jpg"
+      image: "images/learn/LP_thumbnail_productowner.jpg",
+      renderArticles: false
     },
   ]
 
   mkdirSync('./newsite')
 
-  sections.forEach(({ learning_path_group, dirName, workbook, translations, image }) => {
+  sections.forEach(({ learning_path_group, dirName, workbook, translations, image, renderArticles }) => {
     const baseReadPath = `../${dirName}`
     const baseWritePath = `./newsite/${dirName}`
     mkdirSync(baseWritePath)
@@ -113,7 +117,9 @@
           youtubeCode: getYouTubeCode(learning_path_group, weight)
         }
 
-        writeMarkdownFile(fileName, frontMatter, asciidoctor.convert(article.asciiDoc))
+        const body = renderArticles ? asciidoctor.convert(article.asciiDoc) : ''
+
+        writeMarkdownFile(fileName, frontMatter, body)
       })
 
       // Workbooks not translated.
