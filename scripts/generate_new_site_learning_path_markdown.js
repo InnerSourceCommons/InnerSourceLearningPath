@@ -2,9 +2,12 @@
 // TODO: Refactor this and the old script for re-use
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
 // TODO: Is rendering to HTML, rather than Markdown, acceptable?
-// TODO: New site always renders video - current site only renders video for English pages
+// TODO: Translations
 // TODO: How to handle new _index pages?
 // TODO: Add docs around generating for new site
+// TODO: Article links go to old website
+// TODO: Article title is duplicated above and below the video - do we want this?
+// TODO: Just path.join everywhere for cross-platform compaibility
 
 (async() => {
   const fs = require('fs')
@@ -102,6 +105,8 @@
       const readPath = join(baseReadPath, translation)
       const articles = getArticleFiles(readPath)
       articles.forEach(async (article) => {
+        if (isTranslation) return
+
         const articleTitle = article.asciiDoc.match(/== (.*)/)[1]
         const articleNumber = article.filePath.split('/').pop().split('-')[0]
         const fileName = isTranslation ? join(baseWritePath, [articleNumber, translation, 'md'].join('.')) : join(baseWritePath, [articleNumber, 'md'].join('.'))
@@ -134,7 +139,10 @@
           weight: articles.length + 2
         }
 
-        writeMarkdownFile(workbookFileName, workbookFrontMatter)
+        const workbookReadPath = join('..', 'workbook', workbook)
+        const body = asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
+
+        writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
       }
     })
   })
