@@ -1,4 +1,4 @@
-// TODO: Get thumnails for each video
+// TODO: Get thumbnails for each video
 // TODO: Refactor this and the old script for re-use
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
 // TODO: Is rendering to HTML, rather than Markdown, acceptable?
