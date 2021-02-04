@@ -2,4 +2,5 @@
 \.DS_Store
 scripts/node_modules
 scripts/learningpath
+scripts/newsite
 scripts/.env
