@@ -60,5 +60,4 @@ Wir geben praktische Tipps, die dir bei der Vorbereitung auf die Arbeit an einem
 Nachdem wir die persönlichen Aspekte, die der Zusammenarbreit und die technischen Aspekte der Contributor Rolle betrachtet haben, gehen wir im fünften Kaptiel darauf ein welcher Nutzen dem Aufwand beim Mitwirken gegenüber steht. Wir zeigen den Nutzen aus verschiedenen Sichten, deiner, die deines Teams und aus der Sicht des gesamten Unternehmens.
 
 Das letzte Kapitel wird nochmal zusammenfassen, was es bedeutet, ein InnerSource Contributor zu sein.
-Wir zeigen auf, wie du deine Kenntnisse über InnerSource sowohl mit unseren online Videos und Artikeln, als auch durch direkte Einbindung in die InnerSource Community selbst, vertiefen kannst
-
+Wir zeigen auf, wie du deine Kenntnisse über InnerSource sowohl mit unseren online Videos und Artikeln, als auch durch direkte Einbindung in die InnerSource Community selbst, vertiefen kannst.
