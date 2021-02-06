@@ -3,8 +3,8 @@
 === Der Contributor in InnerSource
 
 Wurdest Du schon einmal an Deiner nächsten Programmieraufgabe gehindert, weil ein anderes Team noch nicht die Zeit hatte ein Feature umzusetzen, von dem Du abhängig warst?
-Vielleicht hattest du sogar Zusatzaufwand in deinem Projekt um einen Workaround für das fehlende Feature zu erstellen.
-Wäre es nicht schön, wenn du nie wieder auf diese Weise behindert werden würdest?
+Vielleicht hattest Du sogar Zusatzaufwand in Deinem Projekt um einen Workaround für das fehlende Feature zu erstellen.
+Wäre es nicht schön, wenn Du nie wieder auf diese Weise behindert werden würdest?
 
 In Projekten, die InnerSource Prinzipien anwenden, wirst du nie mehr blockiert werden, weil du darauf wartest, dass ein anderes Team ein notwendiges Feature bereit stellt.
 Wenn Du nicht bekommst, was du benötigst, kannst du die notwendige Änderung direkt im Repository des anderen Teams erstellen, indem du als Contributor handelst.
