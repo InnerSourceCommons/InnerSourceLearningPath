@@ -2,7 +2,7 @@
 
 === Der Contributor in InnerSource
 
-Wurdest du schon einmal an deiner nächsten Programmieraufgabe gehindert, weil ein anderes Team noch nicht die Zeit hatte, ein Feature umzusetzen, von dem du abhängig warst?
+Wurdest Du schon einmal an Deiner nächsten Programmieraufgabe gehindert, weil ein anderes Team noch nicht die Zeit hatte ein Feature umzusetzen, von dem Du abhängig warst?
 Vielleicht hattest du sogar Zusatzaufwand in deinem Projekt um einen Workaround für das fehlende Feature zu erstellen.
 Wäre es nicht schön, wenn du nie wieder auf diese Weise behindert werden würdest?
 
