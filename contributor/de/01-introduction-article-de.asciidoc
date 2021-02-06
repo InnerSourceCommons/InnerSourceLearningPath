@@ -6,8 +6,8 @@ Wurdest Du schon einmal an Deiner nächsten Programmieraufgabe gehindert, weil e
 Vielleicht hattest Du sogar Zusatzaufwand in Deinem Projekt um einen Workaround für das fehlende Feature zu erstellen.
 Wäre es nicht schön, wenn Du nie wieder auf diese Weise behindert werden würdest?
 
-In Projekten, die InnerSource Prinzipien anwenden, wirst du nie mehr blockiert werden, weil du darauf wartest, dass ein anderes Team ein notwendiges Feature bereit stellt.
-Wenn Du nicht bekommst, was du benötigst, kannst du die notwendige Änderung direkt im Repository des anderen Teams erstellen, indem du als Contributor handelst.
+In Projekten, die InnerSource Prinzipien anwenden, wirst Du nie mehr blockiert werden, weil Du darauf wartest, dass ein anderes Team ein notwendiges Feature bereit stellt.
+Wenn Du nicht bekommst, was Du benötigst, kannst Du die notwendige Änderung direkt im Repository des anderen Teams erstellen, indem Du als Contributor handelst.
 
 Die Rolle des Contributors beschreibt eine Person, die zu den Repositories einer InnerSource Community beiträgt.
 Diese Person kann, muss aber nicht, Teil der Communitiy sein.
