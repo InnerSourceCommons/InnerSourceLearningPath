@@ -37,7 +37,7 @@ Sich um die Community zu kümmern beinhaltet es, die Community attraktiv zu halt
 
 Die Rolle des https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] ähnelt der Rolle des Product Owners im klassischen Sinn. 
 Trotzdem gibt es Unterschiede - abhängig von der Größe des Projekts hat diese Rolle oft die gleiche Person inne, die auch als Trusted Committer agiert.
-In größeren Projekten oder in Teams, die InnerSource nur teilweise als Ansatz verwenden, um ihre Anforderungen durch das Akzeptieren von Beiträgen zu erfüllen, werden die Rollen des Product Owners und des Trusted Committers in der Regel von unterschiedlichen Personen wahrgenommen.
+In größeren Projekten oder in Teams, die InnerSource nur teilweise als Ansatz verwenden um ihre Anforderungen durch das Akzeptieren von Beiträgen zu erfüllen, werden die Rollen des Product Owners und des Trusted Committers in der Regel von unterschiedlichen Personen wahrgenommen.
 
 Deine Zusammenarbeit mit dem Product Owner wird sich wahrscheinlich darauf konzentrieren, dass dein Beitrag in die generelle Produktstrategie und Roadmap passt. Du kannst mit dem Produkt Owner zusammenarbeiten, um sicherzustellen, dass allgemeine Aspekte der Dokumentation oder die Konsistenz von UI / UX beim mergen deines Beitrags erhalten bleiben.
 
