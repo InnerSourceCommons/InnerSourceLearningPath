@@ -20,9 +20,9 @@ Als Contributor in einer InnerSource Community interagiert man mit Personen in a
 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] oder dem https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] und wahrscheinlich mit anderen Contributoren. 
 Manchmal übernimmt eine Person mehrere Rollen, z. B. die des Trusted Committer und des Product Owner speziell in kleineren Projekten.
 
-Im Folgenden findest du einen sehr kurzen Überblick über die anderen Rollen, aber wir möchten dich ermutigen, die weiterführenden Artikel 
-https://innersourcecommons.org/resources/learningpath/trusted-committer/index[introductory article of the Trusted Committer role] und https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Lowering the barriers to entry] zu lesen, bevor du dich tiefer in die Details der Contributor Rolle in diesem Abschnitt einarbeitest.
-Alternativ kannst du dir auch unsere Videos zu den Themen anschauen: https://innersourcecommons.org/resources/learningpath/trusted-committer/index[introduction], https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[lowering the barriers to entry].
+Im Folgenden findest Du einen sehr kurzen Überblick über die anderen Rollen, aber wir möchten Dich ermutigen, die weiterführenden Artikel 
+https://innersourcecommons.org/resources/learningpath/trusted-committer/index[introductory article of the Trusted Committer role] und https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Lowering the barriers to entry] zu lesen, bevor Du Dich tiefer in die Details der Contributor Rolle in diesem Abschnitt einarbeitest.
+Alternativ kannst Du Dir auch unsere Videos zu den Themen anschauen: https://innersourcecommons.org/resources/learningpath/trusted-committer/index[introduction], https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[lowering the barriers to entry].
 
 ==== Trusted Committer
 
