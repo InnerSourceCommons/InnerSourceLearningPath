@@ -51,13 +51,13 @@ In den folgenden 5 Abschnitten wirst Du weitere Details über die hier vorgestel
 
 Im nächste Kapitel wird im Detail auf die _Denkweise und die Gewohnheiten_ eingegangen, die Gelegentheiten erzeugen, ein _InnerSource Contributor zu werden_.
 
-Im dritten Kapitel werden wir uns die _Grundhaltung eines Contributors_ anschauen, z.B. der Aspekt, welches Verhalten eine angenehme und produktive Zeit für dich und die Community fördert und damit hoffentlich zu noch mehr Zusammenarbeit führt.
+Im dritten Kapitel werden wir uns die _Grundhaltung eines Contributors_ anschauen, z.B. der Aspekt, welches Verhalten eine angenehme und produktive Zeit für Dich und die Community fördert und damit hoffentlich zu noch mehr Zusammenarbeit führt.
 Ein anschauliches Beispiel dafür ist die im Einführungsvideo gezeigte Gast/Gastgeber Analogie.
 
-Das vierte Kapitel beschreibt die praktischen Dinge, die getan werden müssen um deinen Beitrag zum Erfolg zu führen - die _Mechanik des Mitwirkens_.
-Wir geben praktische Tipps, die dir bei der Vorbereitung auf die Arbeit an einem Beitrag, während der Entwicklung und auch bei der Pull-Anfrage nützen.
+Das vierte Kapitel beschreibt die praktischen Dinge, die getan werden müssen um Deinen Beitrag zum Erfolg zu führen - die _Mechanik des Mitwirkens_.
+Wir geben praktische Tipps, die Dir bei der Vorbereitung auf die Arbeit an einem Beitrag, während der Entwicklung und auch bei der Pull-Anfrage nützen.
 
-Nachdem wir die persönlichen Aspekte, die der Zusammenarbreit und die technischen Aspekte der Contributor Rolle betrachtet haben, gehen wir im fünften Kaptiel darauf ein welcher Nutzen dem Aufwand beim Mitwirken gegenüber steht. Wir zeigen den Nutzen aus verschiedenen Sichten, deiner, die deines Teams und aus der Sicht des gesamten Unternehmens.
+Nachdem wir die persönlichen Aspekte, die der Zusammenarbreit und die technischen Aspekte der Contributor Rolle betrachtet haben, gehen wir im fünften Kaptiel darauf ein welcher Nutzen dem Aufwand beim Mitwirken gegenüber steht. Wir zeigen den Nutzen aus verschiedenen Sichten, deiner, die Deines Teams und aus der Sicht des gesamten Unternehmens.
 
 Das letzte Kapitel wird nochmal zusammenfassen, was es bedeutet, ein InnerSource Contributor zu sein.
-Wir zeigen auf, wie du deine Kenntnisse über InnerSource sowohl mit unseren online Videos und Artikeln, als auch durch direkte Einbindung in die InnerSource Community selbst, vertiefen kannst.
+Wir zeigen auf, wie Du Deine Kenntnisse über InnerSource sowohl mit unseren online Videos und Artikeln, als auch durch direkte Einbindung in die InnerSource Community selbst, vertiefen kannst.
