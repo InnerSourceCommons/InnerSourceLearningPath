@@ -41,7 +41,7 @@ In größeren Projekten oder in Teams, die InnerSource nur teilweise als Ansatz 
 
 Deine Zusammenarbeit mit dem Product Owner wird sich wahrscheinlich darauf konzentrieren, dass Dein Beitrag in die generelle Produktstrategie und Roadmap passt. Du kannst mit dem Produkt Owner zusammenarbeiten, um sicherzustellen, dass allgemeine Aspekte der Dokumentation oder die Konsistenz von UI / UX beim mergen Deines Beitrags erhalten bleiben.
 
-Möglicherweise ist der Product Owner auch daran beteiligt, dich auf das Projekt, auf seine Vorteile und auf die Cummunity selbst aufmerksam zu machen.
+Möglicherweise ist der Product Owner auch daran beteiligt, Dich auf das Projekt, auf seine Vorteile, und auf die Cummunity selbst aufmerksam zu machen.
 
 Falls du mehr über die anderen Rollen lernen willst, was wir dir gerne nahelegen würden, haben wir weitere Artikel für den https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] und den https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] vorbereitet.
 
