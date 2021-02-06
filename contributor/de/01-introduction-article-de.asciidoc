@@ -43,7 +43,7 @@ Deine Zusammenarbeit mit dem Product Owner wird sich wahrscheinlich darauf konze
 
 Möglicherweise ist der Product Owner auch daran beteiligt, Dich auf das Projekt, auf seine Vorteile, und auf die Cummunity selbst aufmerksam zu machen.
 
-Falls du mehr über die anderen Rollen lernen willst, was wir dir gerne nahelegen würden, haben wir weitere Artikel für den https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] und den https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] vorbereitet.
+Wir emutigen Dich mehr über die anderen Rollen zu lernen, und haben deshalb weitere Artikel über den https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] und den https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] für Dich vorbereitet.
 
 === Kapitel Übersicht
 
