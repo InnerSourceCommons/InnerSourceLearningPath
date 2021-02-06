@@ -47,7 +47,7 @@ Wir emutigen Dich mehr über die anderen Rollen zu lernen, und haben deshalb wei
 
 === Kapitel Übersicht
 
-In den folgenden 5 Abschnitten wirst du weitere Deteils über die hier vorgestellten Aspekte erfahren.
+In den folgenden 5 Abschnitten wirst Du weitere Details über die hier vorgestellten Aspekte erfahren.
 
 Im nächste Kapitel wird im Detail auf die _Denkweise und die Gewohnheiten_ eingegangen, die Gelegentheiten erzeugen, ein _InnerSource Contributor zu werden_.
 
