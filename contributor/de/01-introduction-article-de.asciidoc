@@ -27,7 +27,7 @@ Alternativ kannst Du Dir auch unsere Videos zu den Themen anschauen: https://inn
 ==== Trusted Committer
 
 Die Trusted Committer übernehmen die Rolle des Gastgebers innerhalb der Community für die Zeit, in der Du Beiträge für die Community erstellst.
-Sie sind die Hüter des Code Repositories der Community und sie sorgen dafür, dass dein Beitrag näher zur Produktion gebracht wird, nachdem Sie ihn akzeptiert haben.
+Sie sind die Hüter des Code Repositories und sorgen dafür, dass Dein, von ihnen akzeptierter, Beitrag näher zur Produktion gebracht wird.
 Ihre Rolle ist es, dich auf dem Weg ein Contributor zu werden zu betreuen und ermutigen. Dabei können sie dich direkt unterstützen oder die notwendigen Informationen liefern, mit denen du dann selbst vorankommst. Diese Informationen können Review Guidelines, Themenvorschläge für größere Beiträge, Verweise auf Dokumentationen oder Codeabschnitte sein, die für deinen Beitrag relevant sind.
 
 Trusted Committer müssen sich auch um die Produktqualität, Nachhaltigkeit und Projektentwicklung aus technischer und allgemeiner Sicht kümmern, die Barriere für Beiträge für alle verringern und sich allgemein um die Community kümmern.
