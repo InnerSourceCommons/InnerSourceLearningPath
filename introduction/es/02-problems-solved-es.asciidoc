@@ -8,7 +8,7 @@ Imagina dos equipos de la misma compañía que producen dos productos finales di
 Un ejemplo podría ser una aplicación final de usuario que depende de una API que recoge datos que después son visualizados. Esta situación es en realidad relativamente común dentro de las grandes corporaciones, donde un solo equipo produce un software que puede tener docenas o centenares de usuarios finales.
 
 Cuando esos consumidores finales necesitan añadir funcionalidades, los equipos que desarrollan generalmente tienen procesos internos donde priorizan y gestionan los requisitos y así deciden en qué funcionalidades trabajarán.
-En el caso de funcionalidades críticas para los equipos que consumen ese software hay generalmente tres opciones, aunque cada una tiene sus propios problemas.
+En el caso de funcionalidades críticas para los equipos que consumen ese software y que no hayan sido priorizadas para realizarse de manera inmediata, hay generalmente tres opciones aunque cada una tiene sus propios problemas.
 
 . *Esperar*. El equipo que recibe el software no hace nada y continúa como puede sin la funcionalidad.
   Esta opción no requiere ningún tipo de esfuerzo extra.
@@ -19,7 +19,7 @@ En el caso de funcionalidades críticas para los equipos que consumen ese softwa
   Alternativamente, el equipo consumidor puede crear un nuevo proyecto que se adecúe a sus necesidades y reemplace el uso de la herramienta original en parte o totalmente (duplicación de código/proyecto y esfuerzos).
   Esta estrategia permite que el equipo que consume el software obtenga su nueva funcionalidad deseada a través de sus propios esfuerzos, aunque esto venga con ciertos inconvenientes.
  ..Cualquier tipo de trabajo que realice el equipo que consume el software no va a poder ser reutilizado por otros equipos que necesiten la misma funcionalidad.
- ..El equipo consumidor acaba de firmar un contrato no escrito donde van a tener que mantener dicho código en el largo plazo, lo cual no es parte de sus funciones y quizá ni siquiera sea parte de sus competencias.
+ ..El equipo que consume el software acaba de firmar un contrato no escrito donde van a tener que mantener dicho código en el largo plazo, lo cual no es parte de sus funciones y quizá ni siquiera sea parte de sus competencias.
  ..La compañía tiene una serie de proyectos duplicados que trabajan dentro del mismo dominio.
 
 . *Escalar el problema*. El equipo consumidor puede que no acepte un “no” por respuesta, que intente influenciar o forzar la situación a través de la jerarquía de la compañía y que finalmente el equipo de desarrollo haga el trabajo.
