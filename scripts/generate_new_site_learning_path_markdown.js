@@ -1,4 +1,3 @@
-// TODO: Get thumbnails for each video
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
 // TODO: Translations
 // TODO: Add docs around generating for new site
@@ -28,14 +27,15 @@
 
     const fileName = isTranslation ? join(baseWritePath, [articleNumber, translation, 'md'].join('.')) : join(baseWritePath, [articleNumber, 'md'].join('.'))
     const weight = parseInt(articleNumber)
+    const youtubeCode = getYouTubeCode(section.learning_path_group, weight)
 
     const frontMatter = {
       title: articleTitle,
       contributors,
-      image: section.image,
+      image: `https://img.youtube.com/vi/${youtubeCode}/mqdefault.jpg`,
       featured: weight === 1,
       weight,
-      youtubeCode: getYouTubeCode(section.learning_path_group, weight)
+      youtubeCode
     }
 
     const body = section.renderArticles ? asciidoctor.convert(article.asciiDoc) : ''
