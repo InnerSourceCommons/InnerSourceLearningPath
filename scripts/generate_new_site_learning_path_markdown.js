@@ -1,9 +1,6 @@
 // TODO: Get thumbnails for each video
-// TODO: Refactor this and the old script for re-use
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
-// TODO: Is rendering to HTML, rather than Markdown, acceptable?
 // TODO: Translations
-// TODO: How to handle new _index pages?
 // TODO: Add docs around generating for new site
 // TODO: Article links go to old website
 // TODO: Article title is duplicated above and below the video - do we want this?
