@@ -1,6 +1,5 @@
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
 // TODO: Translations
-// TODO: Add docs around generating for new site
 // TODO: Article links go to old website
 // TODO: Article title is duplicated above and below the video - do we want this?
 // TODO: Use path.join everywhere for cross-platform compatibility

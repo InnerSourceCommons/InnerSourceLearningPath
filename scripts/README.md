@@ -49,6 +49,23 @@ Open a pull request for the change.
 Note that these steps only needs to happen when there are new articles written.
 Changes to existing articles will automatically show up on the [innersourcecommons.org] site.
 
-[innersourcecommons.org]: http://www.innersourcecommons.org/
+## How to update innersourcecommons.net
+
+Anytime there are _any changes_, you need to run the script that generates the updated pages on the [innersourcecommons.net] site.
+
+1. Clone the [InnerSourceCommons/InnerSourceLearningPath] and [InnerSourceCommons/innersourcecommons.net] repos.
+1. Is this the first time that articles have been written for this section in this language?
+If so, then do both of the following:
+
+  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/section_data.json) with the language code of the articles for the appropriate section.
+Open a pull request for the change.
+
+3. Run **generate_new_site_learning_path_markdown.js** as described above.
+3. `cp -r newsite/ <path-to-innersourcecommons.net-repo>/content/learn/learning-path/`.
+3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.net] repo.
+
+[innersourcecommons.org]: https://innersourcecommons.org/
+[innersourcecommons.net]: https://innersourcecommons.net/
 [InnerSourceCommons/InnerSourceLearningPath]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/
 [InnerSourceCommons/innersourcecommons.org]: https://github.com/InnerSourceCommons/innersourcecommons.org
+[InnerSourceCommons/innersourcecommons.net]: https://github.com/InnerSourceCommons/innersourcecommons.net
