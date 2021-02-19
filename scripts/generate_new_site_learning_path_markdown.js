@@ -17,22 +17,9 @@
   const getContributors = require('./get_contributors')
   const asciidoctor = require('asciidoctor')()
   const mkdirSync = require('./mkdir_sync')
+  const getArticleFiles = require('./get_article_files')
 
   const urls = YAML.parse(fs.readFileSync('../config/urls.yaml', 'utf-8'))
-
-  const getArticleFiles = (path) => {
-    return fs.readdirSync(path).reduce((articles, filename) => {
-      const filePath = `${path}/${filename}`
-      if (filePath.match(/\d\d/) && !filePath.includes('-script.asciidoc')) {
-        return [...articles, {
-          filePath,
-          asciiDoc: fs.readFileSync(filePath, 'utf-8')
-        }]
-      } else {
-        return articles
-      }
-    }, [])
-  }
 
   const writeMarkdownFile = (filePath, frontMatter, body) => {
     const frontMatterTerminator = '---'

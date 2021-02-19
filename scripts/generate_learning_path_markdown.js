@@ -5,20 +5,7 @@
   const { join } = require('path')
   const getContributors = require('./get_contributors')
   const mkdirSync = require('./mkdir_sync')
-
-  const getArticleFiles = (path) => {
-    return fs.readdirSync(path).reduce((articles, filename) => {
-      const filePath = `${path}/${filename}`
-      if (filePath.match(/\d\d/) && !filePath.includes('-script.asciidoc')) {
-        return [...articles, {
-          filePath,
-          asciiDoc: fs.readFileSync(filePath, 'utf-8')
-        }]
-      } else {
-        return articles
-      }
-    }, [])
-  }
+  const getArticleFiles = require('./get_article_files')
 
   const writeMarkdownFile = (filePath, frontMatter) => {
     const frontMatterTerminator = '---'
