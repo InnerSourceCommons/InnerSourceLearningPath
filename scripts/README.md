@@ -15,7 +15,7 @@ For example, to point all links to innersourcecommons.org:
 node substitute_article_urls.js isc
 ```
 
-## generate_learning_path_markdown.js
+## generate_old_site_learning_path_markdown.js
 
 A node script to generate markdown files required for hosting Learning Path on innersourcecommons.org.
 
@@ -27,7 +27,7 @@ TOKEN=<your_github_token>
 ### Usage:
 ```
 npm ci
-node generate_learning_path_markdown.js
+node generate_old_site_learning_path_markdown.js
 ```
 
 ## How to update innersourcecommons.org with new articles
@@ -38,11 +38,11 @@ Anytime there are _new_ articles written, you need to run the script that genera
 1. Is this the first time that articles have been written for this section in this language?
 If so, then do both of the following:
 
-  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/generate_learning_path_markdown.js#L37) with the language code of the articles for the appropriate section.
+  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/section_data.json) with the language code of the articles for the appropriate section.
 Open a pull request for the change.
   * update the [Learning Path landing page](https://github.com/InnerSourceCommons/innersourcecommons.org/blob/master/resources/learningpath/index.md) with a link to your new language pages.
 
-3. Run **generate_learning_path_markdown.js** as described above.
+3. Run **generate_old_site_learning_path_markdown.js** as described above.
 3. `cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/`.
 3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
 
