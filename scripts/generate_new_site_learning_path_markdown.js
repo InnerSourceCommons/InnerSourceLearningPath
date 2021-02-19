@@ -13,13 +13,10 @@
   const fs = require('fs')
   const YAML = require('yaml')
   const { join } = require('path')
-  const getContributors = require('./get_contributors')
   const asciidoctor = require('asciidoctor')()
-  const mkdirSync = require('./mkdir_sync')
-  const getArticleFiles = require('./get_article_files')
   const writeMarkdownFile = require('./write_markdown_file')
+  const generate = require('./generate_learning_path_markdown')
 
-  const sections = require('./section_data.json')
   const urls = YAML.parse(fs.readFileSync('../config/urls.yaml', 'utf-8'))
 
   const getYouTubeCode = (section, articleNumber) => {
@@ -29,58 +26,39 @@
     return youtubeUrl.replace('https://www.youtube.com/watch?v=', '')
   }
 
-  mkdirSync('./newsite')
+  const generatorFn = ({ isTranslation, baseWritePath, articleNumber, translation, articleTitle, contributors, image, section, article}) => {
+    if (isTranslation) return // TODO: New site translations
 
-  sections.forEach(({ learning_path_group, dirName, workbook, translations, image, renderArticles }) => {
-    const baseReadPath = `../${dirName}`
-    const baseWritePath = `./newsite/${dirName}`
-    mkdirSync(baseWritePath)
+    const fileName = isTranslation ? join(baseWritePath, [articleNumber, translation, 'md'].join('.')) : join(baseWritePath, [articleNumber, 'md'].join('.'))
+    const weight = parseInt(articleNumber)
 
-    translations.concat('' /* The English original */).forEach(async (translation) => {
-      const isTranslation = translation !== ''
+    const frontMatter = {
+      title: articleTitle,
+      contributors,
+      image: section.image,
+      featured: weight === 1,
+      weight,
+      youtubeCode: getYouTubeCode(section.learning_path_group, weight)
+    }
 
-      const readPath = join(baseReadPath, translation)
-      const articles = getArticleFiles(readPath)
-      articles.forEach(async (article) => {
-        if (isTranslation) return
+    const body = section.renderArticles ? asciidoctor.convert(article.asciiDoc) : ''
 
-        const articleTitle = article.asciiDoc.match(/== (.*)/)[1]
-        const articleNumber = article.filePath.split('/').pop().split('-')[0]
-        const fileName = isTranslation ? join(baseWritePath, [articleNumber, translation, 'md'].join('.')) : join(baseWritePath, [articleNumber, 'md'].join('.'))
-        const contributors = await getContributors(article.filePath.replace('../', ''))
-        const weight = parseInt(articleNumber)
+    writeMarkdownFile(fileName, frontMatter, body)
+  }
 
-        const frontMatter = {
-          title: articleTitle,
-          contributors,
-          image,
-          featured: weight === 1,
-          weight,
-          youtubeCode: getYouTubeCode(learning_path_group, weight)
-        }
+  const workbookFn = ({ workbookFileName, contributors, section, workbookPosition }) => {
+    const workbookFrontMatter = {
+      title: 'Workbook',
+      contributors,
+      image: section.image,
+      weight: workbookPosition
+    }
 
-        const body = renderArticles ? asciidoctor.convert(article.asciiDoc) : ''
+    const workbookReadPath = join('..', 'workbook', section.workbook)
+    const body = asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
 
-        writeMarkdownFile(fileName, frontMatter, body)
-      })
+    writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
+  }
 
-      // Workbooks not translated.
-      if (!isTranslation) {
-        const workbookFileName = join(baseWritePath, 'workbook.md')
-        const contributors = await getContributors(`workbook/${workbook}`)
-        console.log('workbookFileName', workbookFileName)
-        const workbookFrontMatter = {
-          title: 'Workbook',
-          contributors,
-          image,
-          weight: articles.length + 2
-        }
-
-        const workbookReadPath = join('..', 'workbook', workbook)
-        const body = asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
-
-        writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
-      }
-    })
-  })
+  generate('newsite', generatorFn, workbookFn, false)
 })()

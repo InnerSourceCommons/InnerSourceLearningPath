@@ -1,67 +1,58 @@
-(async() => {
-  const { join } = require('path')
-  const getContributors = require('./get_contributors')
-  const mkdirSync = require('./mkdir_sync')
-  const getArticleFiles = require('./get_article_files')
-  const writeMarkdownFile = require('./write_markdown_file')
+const { join } = require('path')
+const getContributors = require('./get_contributors')
+const mkdirSync = require('./mkdir_sync')
+const getArticleFiles = require('./get_article_files')
 
-  const sections = require('./section_data.json')
+const sections = require('./section_data.json')
 
-  mkdirSync('./learningpath')
+module.exports = async (writeDir, generatorFn, workbookFn, createTranslationFolder) => {
+  mkdirSync(`./${writeDir}`)
 
-  sections.forEach(({ learning_path_group, dirName, workbook, translations, renderArticles }) => {
+  sections.forEach(section => {
+    const { dirName, translations } = section
+
     const baseReadPath = `../${dirName}`
-    const baseWritePath = `./learningpath/${dirName}`
+    const baseWritePath = `./${writeDir}/${dirName}`
     mkdirSync(baseWritePath)
 
     translations.concat('' /* The English original */).forEach(async (translation) => {
       const isTranslation = translation !== ''
       const writePath = join(baseWritePath, translation)
-      mkdirSync(writePath)
+      if (createTranslationFolder) mkdirSync(writePath)
 
       const readPath = join(baseReadPath, translation)
       const articles = getArticleFiles(readPath)
       articles.forEach(async (article) => {
         const articleTitle = article.asciiDoc.match(/== (.*)/)[1]
         const articleNumber = article.filePath.split('/').pop().split('-')[0]
-        const fileName = articleNumber === '01' ? `${writePath}/index.md` : `${writePath}/${articleNumber}.md`
         const contributors = await getContributors(article.filePath.replace('../', ''))
-        const frontMatter = {
-          layout: 'learning-path-page',
-          show_meta: false,
-          title: `Learning Path - ${learning_path_group} - ${articleTitle}`,
-          learning_path_article: renderArticles || isTranslation ? article.filePath.replace('../', '') : undefined,
-          learning_path_group,
-          learning_path_menu_title: `${articleNumber} - ${articleTitle}`,
-          learning_path_position: parseInt(articleNumber),
-          learning_path_translation: translation,
-          no_video: isTranslation, // Videos not available translated.
-          contributors
-        }
 
-        writeMarkdownFile(fileName, frontMatter)
+        generatorFn({
+          section,
+          articleTitle,
+          articleNumber,
+          isTranslation,
+          article,
+          translation,
+          contributors,
+          writePath,
+          baseWritePath
+        })
       })
 
       // Workbooks not translated.
       if (!isTranslation) {
-        const workbookFileName = `${writePath}/workbook.md`
-        const contributors = await getContributors(`workbook/${workbook}`)
-        console.log('workbookFileName', workbookFileName)
-        const workbookFrontMatter = {
-          layout: 'learning-path-page',
-          show_meta: false,
-          title: `Learning Path - ${learning_path_group} - Workbook`,
-          learning_path_article: `workbook/${workbook}`,
-          learning_path_group,
-          learning_path_menu_title: `${learning_path_group} Workbook`,
-          learning_path_position: articles.length - articles.filter(Array.isArray).length + 1,
-          learning_path_translation: translation,
-          no_video: true,
-          contributors
-        }
+        const workbookFileName = join(baseWritePath, 'workbook.md')
+        const contributors = await getContributors(`workbook/${section.workbook}`)
+        const workbookPosition = articles.length + 1
 
-        writeMarkdownFile(workbookFileName, workbookFrontMatter)
+        workbookFn({
+          section,
+          workbookFileName,
+          contributors,
+          workbookPosition
+        })
       }
     })
   })
-})()
+}
