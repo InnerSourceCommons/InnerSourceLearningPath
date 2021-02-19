@@ -1,15 +1,16 @@
 (async() => {
   const writeMarkdownFile = require('./write_markdown_file')
   const generate = require('./generate_learning_path_markdown')
+  const path = require('path')
 
   const generatorFn = ({ isTranslation, writePath, articleNumber, translation, articleTitle, contributors, section, article}) => {
-    const fileName = articleNumber === '01' ? `${writePath}/index.md` : `${writePath}/${articleNumber}.md`
+    const fileName = articleNumber === '01' ? path.join(writePath, 'index.md') : path.join(writePath, `${articleNumber}.md`)
 
     const frontMatter = {
       layout: 'learning-path-page',
       show_meta: false,
       title: `Learning Path - ${section.learning_path_group} - ${articleTitle}`,
-      learning_path_article: section.renderArticles || isTranslation ? article.filePath.replace('../', '') : undefined,
+      learning_path_article: section.renderArticles || isTranslation ? path.relative('..', article.filePath) : undefined,
       learning_path_group: section.learning_path_group,
       learning_path_menu_title: `${articleNumber} - ${articleTitle}`,
       learning_path_position: parseInt(articleNumber),

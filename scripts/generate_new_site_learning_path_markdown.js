@@ -1,6 +1,5 @@
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
 // TODO: Translations
-// TODO: Use path.join everywhere for cross-platform compatibility
 
 (async() => {
   const fs = require('fs')
@@ -10,7 +9,7 @@
   const writeMarkdownFile = require('./write_markdown_file')
   const generate = require('./generate_learning_path_markdown')
 
-  const urls = YAML.parse(fs.readFileSync('../config/urls.yaml', 'utf-8'))
+  const urls = YAML.parse(fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf-8'))
 
   const getYouTubeCode = (section, articleNumber) => {
     const firstEntryOfGroupIndex = urls.findIndex(entry => entry.section === section.toLowerCase())

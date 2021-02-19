@@ -1,4 +1,4 @@
-const { join } = require('path')
+const { join, basename, relative } = require('path')
 const getContributors = require('./get_contributors')
 const mkdirSync = require('./mkdir_sync')
 const getArticleFiles = require('./get_article_files')
@@ -6,13 +6,13 @@ const getArticleFiles = require('./get_article_files')
 const sections = require('./section_data.json')
 
 module.exports = async (writeDir, generatorFn, workbookFn, createTranslationFolder) => {
-  mkdirSync(`./${writeDir}`)
+  mkdirSync(join('.', writeDir))
 
   sections.forEach(section => {
     const { dirName, translations } = section
 
-    const baseReadPath = `../${dirName}`
-    const baseWritePath = `./${writeDir}/${dirName}`
+    const baseReadPath = join('..', dirName)
+    const baseWritePath = join('.', writeDir, dirName)
     mkdirSync(baseWritePath)
 
     translations.concat('' /* The English original */).forEach(async (translation) => {
@@ -24,8 +24,8 @@ module.exports = async (writeDir, generatorFn, workbookFn, createTranslationFold
       const articles = getArticleFiles(readPath)
       articles.forEach(async (article) => {
         const articleTitle = article.asciiDoc.match(/== (.*)/)[1]
-        const articleNumber = article.filePath.split('/').pop().split('-')[0]
-        const contributors = await getContributors(article.filePath.replace('../', ''))
+        const articleNumber = basename(article.filePath).split('-')[0]
+        const contributors = await getContributors(relative('..', article.filePath))
 
         generatorFn({
           section,

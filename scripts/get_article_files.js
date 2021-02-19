@@ -1,8 +1,9 @@
 const fs = require('fs')
+const { join } = require('path')
 
 module.exports = getArticleFiles = (path) => {
   return fs.readdirSync(path).reduce((articles, filename) => {
-    const filePath = `${path}/${filename}`
+    const filePath = join(path, filename)
     if (filePath.match(/\d\d/) && !filePath.includes('-script.asciidoc')) {
       return [...articles, {
         filePath,

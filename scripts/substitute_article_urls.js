@@ -1,14 +1,15 @@
 const fs = require('fs')
 const YAML = require('yaml')
+const { join } = require('path')
 
 const target = process.argv[2]
 
-const urlsFile = fs.readFileSync('../config/urls.yaml', 'utf8')
+const urlsFile = fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf8')
 const urls = YAML.parse(urlsFile).map(({ video, article }) => [video, article]).flat()
 
 const getArticleFiles = (path) => {
   return fs.readdirSync(path).map((filename) => {
-    const filePath = `${path}/${filename}`
+    const filePath = join(path, filename)
     if (fs.lstatSync(filePath).isDirectory()) {
       return getArticleFiles(filePath)
     } else {
@@ -19,7 +20,7 @@ const getArticleFiles = (path) => {
     }
   }).flat()
 }
-const articleFiles = [getArticleFiles('../introduction'), getArticleFiles('../product-owner'), getArticleFiles('../trusted-committer'), getArticleFiles('../contributor')].flat()
+const articleFiles = [getArticleFiles(join('..', 'introduction')), getArticleFiles(join('..', 'product-owner')), getArticleFiles(join('..', 'trusted-committer')), getArticleFiles(join('..', 'contributor'))].flat()
 
 const substituted = articleFiles.map((articleFile) => {
   let asciiDoc = articleFile.asciiDoc
