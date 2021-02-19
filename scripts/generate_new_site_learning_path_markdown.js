@@ -1,6 +1,5 @@
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
 // TODO: Translations
-// TODO: Article links go to old website
 // TODO: Use path.join everywhere for cross-platform compatibility
 
 (async() => {
