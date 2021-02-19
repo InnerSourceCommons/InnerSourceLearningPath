@@ -15,11 +15,11 @@ For example, to point all links to innersourcecommons.org:
 node substitute_article_urls.js isc
 ```
 
-## generate_old_site_learning_path_markdown.js
+## generate_old_site_learning_path_markdown.js, generate_new_site_learning_path_markdown.js
 
-A node script to generate markdown files required for hosting Learning Path on innersourcecommons.org.
+Node scripts to generate markdown files required for hosting Learning Path on innersourcecommons.org and innersourcecommons.net.
 
-This script requires a [GitHub access token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token), as it uses the GitHub API to get Learning Path contributors. Your token does not require any scopes, as the Learning Path is Open Source. To provide this, create a `.env` file in this directory in the following format:
+These scripts require a [GitHub access token](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token), as they use the GitHub API to get Learning Path contributors. Your token does not require any scopes, as the Learning Path is Open Source. To provide this, create a `.env` file in this directory in the following format:
 ```
 TOKEN=<your_github_token>
 ```
@@ -28,6 +28,7 @@ TOKEN=<your_github_token>
 ```
 npm ci
 node generate_old_site_learning_path_markdown.js
+node generate_new_site_learning_path_markdown.js
 ```
 
 ## How to update innersourcecommons.org with new articles
