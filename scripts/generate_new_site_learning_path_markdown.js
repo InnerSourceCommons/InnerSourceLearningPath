@@ -19,6 +19,7 @@
   const getArticleFiles = require('./get_article_files')
   const writeMarkdownFile = require('./write_markdown_file')
 
+  const sections = require('./section_data.json')
   const urls = YAML.parse(fs.readFileSync('../config/urls.yaml', 'utf-8'))
 
   const getYouTubeCode = (section, articleNumber) => {
@@ -27,41 +28,6 @@
     const youtubeUrl = urls[firstEntryOfGroupIndex + currentPageIndexOffset].video.youtube
     return youtubeUrl.replace('https://www.youtube.com/watch?v=', '')
   }
-
-  const sections = [
-    {
-      learning_path_group: 'Introduction',
-      dirName: 'introduction',
-      workbook: '01-introduction.asciidoc',
-      translations: ['de', 'it', 'ja', 'zh', 'ru'],
-      image: "images/learn/LP_thumbnail_introduction.jpg",
-      renderArticles: true
-    },
-    {
-      learning_path_group: 'Trusted Committer',
-      dirName: 'trusted-committer',
-      workbook: '02-trusted-committer.asciidoc',
-      translations: ['de', 'zh'],
-      image: "images/learn/LP_thumbnail_trustedcommitter.jpg",
-      renderArticles: true
-    },
-    {
-      learning_path_group: 'Contributor',
-      dirName: 'contributor',
-      workbook: '04-contributor.asciidoc',
-      translations: ['ja', 'zh'],
-      image: "images/learn/LP_thumbnail_contributor.jpg",
-      renderArticles: true
-    },
-    {
-      learning_path_group: 'Product Owner',
-      dirName: 'product-owner',
-      workbook: '03-product-owner.asciidoc',
-      translations: ['zh'],
-      image: "images/learn/LP_thumbnail_productowner.jpg",
-      renderArticles: false
-    },
-  ]
 
   mkdirSync('./newsite')
 

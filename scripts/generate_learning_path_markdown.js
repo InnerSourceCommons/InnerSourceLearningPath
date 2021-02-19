@@ -5,36 +5,7 @@
   const getArticleFiles = require('./get_article_files')
   const writeMarkdownFile = require('./write_markdown_file')
 
-  const sections = [
-    {
-      learning_path_group: 'Introduction',
-      dirName: 'introduction',
-      workbook: '01-introduction.asciidoc',
-      translations: ['de', 'it', 'ja', 'zh', 'ru'],
-      renderArticles: true
-    },
-    {
-      learning_path_group: 'Trusted Committer',
-      dirName: 'trusted-committer',
-      workbook: '02-trusted-committer.asciidoc',
-      translations: ['de', 'zh'],
-      renderArticles: true
-    },
-    {
-      learning_path_group: 'Contributor',
-      dirName: 'contributor',
-      workbook: '04-contributor.asciidoc',
-      translations: ['ja', 'zh'],
-      renderArticles: true
-    },
-    {
-      learning_path_group: 'Product Owner',
-      dirName: 'product-owner',
-      workbook: '03-product-owner.asciidoc',
-      translations: ['zh'],
-      renderArticles: true
-    },
-  ]
+  const sections = require('./section_data.json')
 
   mkdirSync('./learningpath')
 
@@ -59,7 +30,7 @@
           layout: 'learning-path-page',
           show_meta: false,
           title: `Learning Path - ${learning_path_group} - ${articleTitle}`,
-          learning_path_article: renderArticles ? article.filePath.replace('../', '') : undefined,
+          learning_path_article: renderArticles || isTranslation ? article.filePath.replace('../', '') : undefined,
           learning_path_group,
           learning_path_menu_title: `${articleNumber} - ${articleTitle}`,
           learning_path_position: parseInt(articleNumber),
