@@ -16,18 +16,9 @@
   const { join } = require('path')
   const getContributors = require('./get_contributors')
   const asciidoctor = require('asciidoctor')()
+  const mkdirSync = require('./mkdir_sync')
 
   const urls = YAML.parse(fs.readFileSync('../config/urls.yaml', 'utf-8'))
-
-  const mkdirSync = (dir) => {
-    try {
-      fs.mkdirSync(dir)
-    } catch (e) {
-      if (e.code !== 'EEXIST') {
-        console.log(e)
-      }
-    }
-  }
 
   const getArticleFiles = (path) => {
     return fs.readdirSync(path).reduce((articles, filename) => {

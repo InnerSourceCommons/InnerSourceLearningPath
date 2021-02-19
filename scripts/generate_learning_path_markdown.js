@@ -4,16 +4,7 @@
   const { EOL } = require('os')
   const { join } = require('path')
   const getContributors = require('./get_contributors')
-
-  const mkdirSync = (dir) => {
-    try {
-      fs.mkdirSync(dir)
-    } catch (e) {
-      if (e.code !== 'EEXIST') {
-        console.log(e)
-      }
-    }
-  }
+  const mkdirSync = require('./mkdir_sync')
 
   const getArticleFiles = (path) => {
     return fs.readdirSync(path).reduce((articles, filename) => {
