@@ -30,6 +30,7 @@
       learning_path_group: section.learning_path_group,
       learning_path_menu_title: `${section.learning_path_group} Workbook`,
       learning_path_position: workbookPosition,
+      learning_path_translation: '',
       no_video: true,
       contributors
     }
