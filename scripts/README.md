@@ -58,9 +58,10 @@ Anytime there are _any changes_, you need to run the script that generates the u
 1. Is this the first time that articles have been written for this section in this language?
 If so, then do both of the following:
 
-  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/section_data.json) with the language code of the articles for the appropriate section.
-Open a pull request for the change.
+  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/section_data.json) with the language code of the articles for the appropriate section and open a pull request for the change
+  * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there are the relevant [index pages](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/content/learn/_index.ru.md)
 
+3. Run `node substitute_article_urls.js isc.net` as described above. This changes the asciidoc source files' links to point at [innnersourcecommons.net] - do not commit this change!
 3. Run **generate_new_site_learning_path_markdown.js** as described above.
 3. `cp -r newsite/ <path-to-innersourcecommons.net-repo>/content/learn/learning-path/`.
 3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.net] repo.
