@@ -1,5 +1,4 @@
 // TODO: GitHub Actions - more pertinent now article is rendered at build time not run time
-// TODO: Translations
 
 (async() => {
   const fs = require('fs')
@@ -19,8 +18,6 @@
   }
 
   const generatorFn = ({ isTranslation, baseWritePath, articleNumber, translation, articleTitle, contributors, image, section, article}) => {
-    if (isTranslation) return // TODO: New site translations
-
     const fileName = isTranslation ? join(baseWritePath, [articleNumber, translation, 'md'].join('.')) : join(baseWritePath, [articleNumber, 'md'].join('.'))
     const weight = parseInt(articleNumber)
     const youtubeCode = getYouTubeCode(section.learning_path_group, weight)
@@ -35,7 +32,7 @@
     }
 
     const titleStripped = article.asciiDoc.replace(/== (.*)/, '')
-    const body = section.renderArticles ? asciidoctor.convert(titleStripped) : ''
+    const body = section.renderArticles || isTranslation ? asciidoctor.convert(titleStripped) : ''
 
     writeMarkdownFile(fileName, frontMatter, body)
   }
