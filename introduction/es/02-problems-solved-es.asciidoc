@@ -18,9 +18,9 @@ En el caso de funcionalidades críticas para los equipos que consumen ese softwa
   Este trabajo extra puede que traiga cambios en el equipo que usa el software.
   Alternativamente, el equipo consumidor puede crear un nuevo proyecto que se adecúe a sus necesidades y reemplace el uso de la herramienta original en parte o totalmente (duplicación de código/proyecto y esfuerzos).
   Esta estrategia permite que el equipo que consume el software obtenga su nueva funcionalidad deseada a través de sus propios esfuerzos, aunque esto venga con ciertos inconvenientes.
- ..Cualquier tipo de trabajo que realice el equipo que consume el software no va a poder ser reutilizado por otros equipos que necesiten la misma funcionalidad.
- ..El equipo que consume el software acaba de firmar un contrato no escrito donde van a tener que mantener dicho código en el largo plazo, lo cual no es parte de sus funciones y quizá ni siquiera sea parte de sus competencias.
- ..La compañía tiene una serie de proyectos duplicados que trabajan dentro del mismo dominio.
+ .. Cualquier tipo de trabajo que realice el equipo que consume el software no va a poder ser reutilizado por otros equipos que necesiten la misma funcionalidad.
+ .. El equipo que consume el software acaba de firmar un contrato no escrito donde van a tener que mantener dicho código en el largo plazo, lo cual no es parte de sus funciones y quizá ni siquiera sea parte de sus competencias.
+ .. La compañía tiene una serie de proyectos duplicados que trabajan dentro del mismo dominio.
 
 . *Escalar el problema*. El equipo consumidor puede que no acepte un “no” por respuesta, que intente influenciar o forzar la situación a través de la jerarquía de la compañía y que finalmente el equipo de desarrollo haga el trabajo.
 Esta opción puede resultar atractiva debido a que la petición de nueva funcionalidad se lleva a cabo sin el trabajo extra de desarrollarlo o mantenerlo.
