@@ -60,7 +60,7 @@ Non sarebbe terribile se tutto il tuo lavoro fosse sprecato?
 Può accadere quando l'host team sta già costruendo qualcosa di molto simile, sta pianificando di deprecare il software, o non vede quello che stai proponendo per essere un qualcosa di adatto per il loro progetto.
 Questa sfida è frequente e a molte relazioni tra team è capitato di incrinarsi per non aver concordato in anticipo che un contributo fosse adatto.
 
-Rendi felici te stesso e l'host team (e possibilmente risparmia un pò di lavoro) ottenendo un accordo dall'host team sulla progettazione tecnica / utente del contributo _prima_ di lavorare sulle modifiche ed inviare la pull request.
+Rendi felici te stesso e l'host team (e possibilmente risparmia un po' di lavoro) ottenendo un accordo dall'host team sulla progettazione tecnica / utente del contributo _prima_ di lavorare sulle modifiche ed inviare la pull request.
 Devi capire come l'host team vorrebbe che ti mettessi in contatto per questo.
 La cosa migliore è chiedere al https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] come discutere al meglio la tua proposta.
 
