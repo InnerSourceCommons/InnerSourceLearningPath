@@ -16,7 +16,7 @@ Collaborando con altri team permetti di condividere il costo dello sviluppo. Pro
 
 Ma ogni team ha una roadmap diversa! Ho già provato ad usare componenti condivisi - hanno richiesto sempre più tempo per l'integrazione di quanto ce ne avessi messo io reimplementandoli. Questi componenti erano sempre mancanti in alcuni aspetti o altri - e le mie richieste di funzionalità non hanno mai avuto priorità nella roadmap dell'altro team!
 
-In contrasto rispetto ad un progetto tradizionale, i progetti InnerSource hanno il ruolo di un Contributore. Si, ci saranno volte che tu vorrai che la soluzione condivisa abbia una nuova funzionalità. Come Contributore, hai la libertà di controllare il codice sorgente del componente, apportare le dovute modifiche ed utilizzare la versione miglirata risultante.
+In contrasto rispetto ad un progetto tradizionale, i progetti InnerSource hanno il ruolo di un Contributore. Si, ci saranno volte che tu vorrai che la soluzione condivisa abbia una nuova funzionalità. Come Contributore, hai la libertà di controllare il codice sorgente del componente, apportare le dovute modifiche ed utilizzare la versione migliorata risultante.
 
 Si, ci saranno volte in cui avrai bisogno urgentemente di una fix di un bug nella tua timeline che non ha la stessa priorità dell'host team. Diventare un Contributore ti permette di agire da solo e supportare l'host team risolvendo quel bug.
 
