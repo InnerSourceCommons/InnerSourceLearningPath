@@ -11,7 +11,7 @@ Se non ottieni quello di cui hai bisogno, puoi apportare le modifiche richieste 
 
 Il ruolo del Contributore descrive una persona che dà contributi ai repository di un progetto comunitario InnerSource.
 Questa persona può o non può far parte o vedersi come parte della comunità.
-Tuttavia, per un bel pò di persone inizia una specie di viaggio che i contributori possono fare a partire dalla semplice conoscenza della comunità all'utilizzo del prodotto della comunità fino all'interazione con i membri della comunità e infine iniziare a contribuire.
+Tuttavia, per un bel po' di persone inizia una specie di viaggio che i contributori possono fare a partire dalla semplice conoscenza della comunità all'utilizzo del prodotto della comunità fino all'interazione con i membri della comunità e infine iniziare a contribuire.
 Infine, alcuni di loro possono diventare https://innersourcecommons.org/resources/learningpath/trusted-committer/index[Trusted Committers].
 
 === Relazione con gli altri ruoli
