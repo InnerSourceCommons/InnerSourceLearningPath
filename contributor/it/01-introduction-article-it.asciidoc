@@ -57,7 +57,7 @@ La quarta parte descrive le cose pratiche da fare per rendere il tuo contributo 
 Daremo consigli pratici per fare leva quando si prepara un lavoro in un contributo, durante lo sviluppo, e anche durante la pull request.
 We'll give practical tips to leverage when preparing to work on a contribution, during development, and also in the pull request.
 
-Dopo che abbiamo affrontato il peronsale, la focalizzazione sull'interazione, e gli aspetti tecnici del ruolo del contributore, la quinta parte presenta i vantaggi dello sforzo di contribuzione.
+Dopo che abbiamo affrontato il personale, la focalizzazione sull'interazione, e gli aspetti tecnici del ruolo del contributore, la quinta parte presenta i vantaggi dello sforzo di contribuzione.
 Mostreremo i vantaggi da varie prospettive: la tua, quella del tuo team, e la prospettiva dell'azienda in generale.
 
 L'ultima parte ricapitolerà cosa abbiamo imparato sull'essere un contributore InnerSource.
