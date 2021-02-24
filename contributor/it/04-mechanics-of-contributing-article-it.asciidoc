@@ -24,7 +24,7 @@ Di conseguenza, dovrai conoscere la loro code base, le tecnologie usate, e anche
 Anche nei casi in cui questo tipo di tool è standardizzato, ogni team avrà sviluppato alcune peculiarità individuali.
 Oltre al lato tecnico, potresti trovarti di fronte a differenze nella comunicazione (pensa alle revisioni del codice).
 Anche se torni dopo un pò di tempo, le modalità ed i membri del team potrebbero essere cambiati.
-Prenditi il tuo tempo come se vorresti incontrare un amico che non vedi da un pò e che stai visitando ora.
+Prenditi il tuo tempo come se vorresti incontrare un amico che non vedi da un po' e che stai visitando ora.
 
 Datevi tempo sufficiente.
 
