@@ -26,7 +26,7 @@ Questo modo di lavorare richiede un cambiamento nella mentalità per molti: inve
 
 Un buon Contributore può comodamente effettuare una chiamata per quando ha senso sia sul tecnico che sul business per introdurre una dipendenza e riusare un componente invece di duplicare il lavoro. Possono parlare con il management per spiegare i vantaggi dei contributi InnerSource.
 
-=== Portata delle contribuzioni InnerSource
+=== Portata dei contributi InnerSource
 
 Quindi l'Inner__Source__ riguarda solamente il __Codice__Sorgente? Naturalmente no. Se l'attività del tuo team dipende da un componente esterno, vuoi essere sicuro che sia ben mantenuto e gestito. Come un Contributore InnerSource, puoi aiutare l'host team in più modi. Segnalando problemi che vedi quando usi il componente è un contributo di valore. Creare o aggiustare i casi di test che mostrano che il codice non sta funzionando come atteso è di valore. Quindi allo stesso modo è migliorare la documentazione, così altri potranno spendere meno tempo utilizzandola e contribuendo ad essa. Supportare altri utenti, aiutando con l'identificazione di un bug può essere un prezioso contributo. Migliorare le build è un altro esempio di contribuzione di valore.
 
