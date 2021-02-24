@@ -30,7 +30,6 @@ Il loro ruolo è quello di guidarti verso il tuo percorso di contribuzione alla 
 
 Devono anche preoccuparsi della qualità del prodotto, la sostenibilità e dell'evoluzione del progetto dal punto di vista tecnico e generale, di ridurre la barriera a dare contributi per tutti, così come prendersi cura della loro comunità in generale.
 Prendersi cura della comunità implica mantenerla in salute, migliorarla insieme ai suoi partecipanti, sostenendo le sue necessità nella loro organizzazione.
-Caring for the community involves keeping it healthy, upleveling it and its participants, and advocating its needs in their organization.
 
 ==== Product Owner
 
