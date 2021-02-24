@@ -106,7 +106,7 @@ Essere un Contributore essenzialmente significa essere più vicino all'host team
 che sta richiedendo una funzionalità. Tuttavia, i Contributori non sono responsabili del progetto 
 software in cui stanno contribuendo.
 
-Di conseguenza, l'ultima chiamata su come deve essere il contributo è con 
+Di conseguenza, l'ultimo confronto su come deve essere il contributo è con 
 l'host team. Questo aiuta ad approcciare l'host team con una 
 mentalità umile, con l'assunzione che tutti sono collaboratori verso lo scopo 
 dell'organizzazione condivisa. Questo aiuta ad essere aperti e trasparenti - non solo su
