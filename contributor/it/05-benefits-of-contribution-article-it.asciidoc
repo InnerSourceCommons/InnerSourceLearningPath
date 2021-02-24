@@ -80,7 +80,7 @@ loro progettazione e sviluppo. Incoraggiare la collaborazione tra team nei proge
 a livello aziendale significa che puoi guidare l'innovazione centrale dai confini della tua organizzazione.
 
 In generale è ben noto che progetti con un https://en.wikipedia.org/wiki/Bus_factor[bus
-factor] di una o due persone rappresenta un rischio per l'organizzazione, tanto più quando quel progetto 
+factor] di una o due persone rappresentano un rischio per l'organizzazione, tanto più quando quel progetto 
 si rivela centrale per lo scopo aziendale. L'InnerSource aiuta non solo a rendere trasparenti tali
 progetti, mafornisce anche strumenti per migliorare quella situazione 
 concentrandosi sul tutoraggio e ampliando la base dei contributori.
