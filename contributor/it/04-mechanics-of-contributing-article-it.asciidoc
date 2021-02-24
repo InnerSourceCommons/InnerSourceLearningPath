@@ -91,7 +91,7 @@ Non giova a nessuna delle due parti girare attorno per sempre al problema che po
 Va bene chiedere aiuto.
 
 C'è una differenza fondamentale tuttavia, che porterà vantaggi a te e ad altre persone in futuro:
-In quasi tutti i casidovresti preferire i canali di comunicazioni ufficiali dei progetti - può essere una maliling list, una chat room, un issue tracker o qualcosa di simile, a seconda dello scopo di avere una modalità di comunicazione sincrona o asincrona, o a seconda delle esigenze che variano per la struttura di comunicazione.
+In quasi tutti i casi dovresti preferire i canali di comunicazioni ufficiali dei progetti - può essere una maliling list, una chat room, un issue tracker o qualcosa di simile, a seconda dello scopo di avere una modalità di comunicazione sincrona o asincrona, o a seconda delle esigenze che variano per la struttura di comunicazione.
 Tutte queste modalità hanno in comunune che sono basate su testo, archiviate, ricercabili e dotate di collegamenti stabili - questo significa che la tua domanda e la risposta saranno scritte, e le referenze che tu menzioni nelle risposte saranno mantenute raggiungibili.
 In questo modo puoi beneficiare di questa conoscenza documentata passivamente nella tua ricerca E aiutare i futuri contributori ad avere lo stesso vantaggio.
 Tale documentazione passiva potrebbe anche servire per arricchire la documentazione 'ufficiale', qualcosa dovesse contenere gemme particolarmente preziose - come definizioni importanti che create ad-hoc.
