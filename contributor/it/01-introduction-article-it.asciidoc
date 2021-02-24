@@ -7,7 +7,7 @@ Forse dopo un pò di tempo hai anche dovuto fare del lavoro aggiuntivo nel tuo p
 Quanto sarebbe bello non dover mai essere bloccati in questo modo?
  
 Con i progetti che incorporano i prinicpi InnerSource, non sarai mai più bloccato in attesa di un altro team che consegni la funzionalità richiesta.
-Se non ottieni quello di cui hai bisogno, puoi approntare le modifiche richieste direttamente nel repository del codice dell'altro team agendo come un Contributore InnerSource.
+Se non ottieni quello di cui hai bisogno, puoi apportare le modifiche richieste direttamente nel repository del codice dell'altro team agendo come un Contributore InnerSource.
 
 Il ruolo del Contributore descrive una persona che dà contributi ai repository di un progetto comunitario InnerSource.
 Questa persona può o non può far parte o vedersi come parte della comunità.
