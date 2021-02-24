@@ -12,7 +12,7 @@ C'è un proverbio Africano che dice "`Se vuoi andare veloce, vai da solo. Se vuo
 
 Se vuoi muoverti velocemente, è una fantastica idea quella di interrompere le dipendenze. Il rovescio della medaglia può essere un effort duplicato. In particolare quando si reimplementa una logica core, c'è un reale rischio di duplicazione superando il vantaggio dell'indipendenza.
 
-Collaborando con altri team permetti di condividere il costo dello sviluppo. Proprio come nei progetto Open Source, può consentire al tuo team di costruire qualcosa di più grande di quanto tu da solo avresti potuto realizzare.
+Collaborando con altri team permetti di condividere il costo dello sviluppo. Proprio come nei progetti Open Source, può consentire al tuo team di costruire qualcosa di più grande di quanto tu da solo avresti potuto realizzare.
 
 Ma ogni team ha una roadmap diversa! Ho già provato ad usare componenti condivisi - hanno richiesto sempre più tempo per l'integrazione di quanto ce ne avessi messo io reimplementandoli. Questi componenti erano sempre mancanti in alcuni aspetti o altri - e le mie richieste di funzionalità non hanno mai avuto priorità nella roadmap dell'altro team!
 
