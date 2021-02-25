@@ -1,0 +1,37 @@
+== ¿Qué problemas soluciona InnerSource?
+
+InnerSource fomenta y reconoce la reusabilidad del código y la colaboración con cualquier persona independientemente de la estructura de la organización.
+Este enfoque es diferente respecto a lo visto hasta ahora en organizaciones con estructuras más tradicionales donde ideas y producto se generan en forma de silos y quedan limitadas por la jerarquía corporativa. Vamos a explorar un ejemplo de esta situación.
+
+
+Imagina dos equipos de la misma compañía que producen dos productos finales diferentes donde uno depende del otro.
+Un ejemplo podría ser una aplicación final de usuario que depende de una API que recoge datos que después son visualizados. Esta situación es en realidad relativamente común dentro de las grandes corporaciones, donde un solo equipo produce un software que puede tener docenas o centenares de usuarios finales.
+
+Cuando esos consumidores finales necesitan añadir funcionalidades, los equipos que desarrollan generalmente tienen procesos internos donde priorizan y gestionan los requisitos y así deciden en qué funcionalidades trabajarán.
+En el caso de funcionalidades críticas para los equipos que consumen ese software y que no hayan sido priorizadas para realizarse de manera inmediata, hay generalmente tres opciones aunque cada una tiene sus propios problemas.
+
+. *Esperar*. El equipo que recibe el software no hace nada y continúa como puede sin la funcionalidad.
+  Esta opción no requiere ningún tipo de esfuerzo extra.
+  Dependiendo del beneficio que traiga la nueva funcionalidad, puede que esperar sea suficiente.
+  Sin embargo esta situación puede frustrar y traer problemas en el medio o largo plazo si esa funcionalidad nunca se lleva a cabo.
+. *Buscar otra solución*. El equipo que necesita esa funcionalidad no puede o no quiere esperar y realiza trabajo extra para compensar la ausencia de dicha mejora.
+  Este trabajo extra puede que traiga cambios en el equipo que usa el software.
+  Alternativamente, el equipo consumidor puede crear un nuevo proyecto que se adecúe a sus necesidades y reemplace el uso de la herramienta original en parte o totalmente (duplicación de código/proyecto y esfuerzos).
+  Esta estrategia permite que el equipo que consume el software obtenga su nueva funcionalidad deseada a través de sus propios esfuerzos, aunque esto venga con ciertos inconvenientes.
+ .. Cualquier tipo de trabajo que realice el equipo que consume el software no va a poder ser reutilizado por otros equipos que necesiten la misma funcionalidad.
+ .. El equipo que consume el software acaba de firmar un contrato no escrito donde van a tener que mantener dicho código en el largo plazo, lo cual no es parte de sus funciones y quizá ni siquiera sea parte de sus competencias.
+ .. La compañía tiene una serie de proyectos duplicados que trabajan dentro del mismo dominio.
+
+. *Escalar el problema*. El equipo consumidor puede que no acepte un “no” por respuesta, que intente influenciar o forzar la situación a través de la jerarquía de la compañía y que finalmente el equipo de desarrollo haga el trabajo.
+Esta opción puede resultar atractiva debido a que la petición de nueva funcionalidad se lleva a cabo sin el trabajo extra de desarrollarlo o mantenerlo.
+Sin embargo sigue siendo un problema puesto que ha sido necesario invertir esfuerzos y parte del trabajo en temas no relacionados con ingeniería y más de política interna.
+Además, esta opción no escala con el tiempo puesto que no se puede llevar a cabo muchas veces sin dañar la credibilidad del equipo que pide esa funcionalidad.
+De hecho el escalar el problema rompe con el flujo de trabajo del equipo de desarrollo que tiene que llevar a cabo esa nueva funcionalidad. Les llega una nueva petición de desarrollo que tienen que priorizar y llevar a cabo dentro de su flujo de trabajo normal.
+
+
+Y aquí llegamos a InnerSource.
+Es en este tipo de situaciones donde InnerSource ayuda. InnerSource es una forma de trabajo que ofrece a los equipos los beneficios de _esperar_, _buscar otra solución_ y _escalar el problema_ sin las desventajas asociadas.
+
+InnerSource además ayuda a generar una mejora de la cultura ingenieril ya que los desarrolladores tienen la oportunidad de trabajar con una mayor variedad de proyectos, tecnologías y personas.
+Los ingenieros y los equipos pueden reutilizar las soluciones internas para problemas básicos permitiendo que se enfoquen en problemas que sean de alto valor añadido para la organización.
+
