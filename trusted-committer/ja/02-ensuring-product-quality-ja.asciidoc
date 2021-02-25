@@ -25,7 +25,7 @@ Trusted Committerの仕事は、デフォルトですべてのコントリビュ
 Trusted Committerは、長期的な視点を持ち、このような支援がコミュニティの寿命への投資で、長期的にはコミュニティの開発速度を向上させることを理解しています。
 
 時々、プロジェクトの要件や制限が事前にわからず、開発中に発見されることがあります。
-Trusted Committerは、これらの発見が捕捉されドキュメント化されたことを https://innersourcecommons.org/resources/learningpath/product-owner/index[_プロダクトオーナー_] と https://innersourcecommons.org/resources/learningpath/contributor/index[_コントリビューター_] の両方に確認する責任もあります。
+Trusted Committerは、これらの発見を https://innersourcecommons.org/resources/learningpath/product-owner/index[_プロダクトオーナー_] と https://innersourcecommons.org/resources/learningpath/contributor/index[_コントリビューター_] のために捕捉し、ドキュメントにすることを確認する責任もあります。
 
 しかし、Trusted Committerの品質に関する権限は、プルリクエストの範囲を越えています。
 Trusted Committersは品質を戦略レベルで考え、構築中のソフトウェアの寿命を確保します。
