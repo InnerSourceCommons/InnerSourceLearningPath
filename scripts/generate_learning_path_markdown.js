@@ -41,21 +41,21 @@
       learning_path_group: 'Introduction',
       dirName: 'introduction',
       workbook: '01-introduction.asciidoc',
-      translations: ['de', 'it', 'ja', 'zh', 'ru'],
+      translations: ['de', 'it', 'ja', 'zh', 'ru', 'es'],
       renderArticles: true
     },
     {
       learning_path_group: 'Trusted Committer',
       dirName: 'trusted-committer',
       workbook: '02-trusted-committer.asciidoc',
-      translations: ['de', 'zh'],
+      translations: ['de', 'zh', 'ja'],
       renderArticles: true
     },
     {
       learning_path_group: 'Contributor',
       dirName: 'contributor',
       workbook: '04-contributor.asciidoc',
-      translations: ['it', 'ja', 'zh'],
+      translations: ['ja', 'zh', 'it', 'de'],
       renderArticles: true
     },
     {
