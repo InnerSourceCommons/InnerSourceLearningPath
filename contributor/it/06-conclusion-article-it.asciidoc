@@ -1,0 +1,18 @@
+== Conclusione
+
+Grazie per aver esaminato il capitolo del Contributore del percorso di apprendimento InnerSource Commons. Con questa sezione hai imparato a conoscere il ruolo del Collaboratore, la linfa vitale dei progetti InnerSource. i contributori sono esterni al team dei proprietari dei componenti e apportano ulteriori preziosi input al progetto.
+
+In questa sezione hai imparato come diventare un collaboratore trovando opportunità per contribuire.
+Abbiamo esaminato la mentalità e le abitudini necessarie per trovare o creare tali opportunità.
+Abbiamo anche discusso l'etica del ruolo ed un approccio suggerito che probabilmente porterà a contributi di successo.
+
+Data la giuta mentalità, le abitudini e l'etica, ci sono ancora alcuni dettagli che potrebbero impedirti di contribuire con successo - quindi, abbiamo discusso questi dadi e bulloni in modo più dettagliato.
+Ultimo ma non meno importante, convincere i tuoi compagni di squadra e la tua organizzazione a vari livelli può essere difficile, quindi abbiamo discusso i vantaggi del contributo da varie prospettive per semplificarti questo processo.
+
+Ci auguriamo che ti sia piaciuto guardare i video e/o leggere gli articoli e che sarai in grado di portarti via alcune nuove interessanti intuizioni per il tuo viaggio verso l'InnerSource e di essere un buon collaboratore.
+
+Se non l'hai già fatto, vorremmo invitarti a saperne di più sugli altri aspetti di InnerSource nel nostro percorso di apprendimento InnerSource: http://innersourcecommons.org/learningpath/
+
+Ti invitiamo a visitare online il gruppo InnerSource http://innersourcecommons.org[InnerSource Commons] - sentiti libelo di partecipare alla discussione e condividere le tue esperienze e lezioni apprese nella tua organizzazione.
+
+Vivi a lungo e che tu abbia progetti prosperi!
