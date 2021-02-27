@@ -10,7 +10,6 @@ module.exports = async (writeDir, generatorFn, workbookFn, createTranslationFold
 
   sections.forEach(section => {
     const { dirName, translations } = section
-
     const baseReadPath = join('..', dirName)
     const baseWritePath = join('.', writeDir, dirName)
     mkdirSync(baseWritePath)
