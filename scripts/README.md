@@ -15,7 +15,7 @@ For example, to point all links to innersourcecommons.org:
 node substitute_article_urls.js isc
 ```
 
-## generate_old_site_learning_path_markdown.js, generate_new_site_learning_path_markdown.js
+## generate_jekyll_learning_path_markdown.js, generate_hugo_learning_path_markdown.js
 
 Node scripts to generate markdown files required for hosting Learning Path on innersourcecommons.org and innersourcecommons.net.
 
@@ -27,8 +27,8 @@ TOKEN=<your_github_token>
 ### Usage:
 ```
 npm ci
-node generate_old_site_learning_path_markdown.js
-node generate_new_site_learning_path_markdown.js
+node generate_jekyll_learning_path_markdown.js
+node generate_hugo_learning_path_markdown.js
 ```
 
 ## How to update innersourcecommons.org with new articles
@@ -43,7 +43,7 @@ If so, then do both of the following:
 Open a pull request for the change.
   * update the [Learning Path landing page](https://github.com/InnerSourceCommons/innersourcecommons.org/blob/master/resources/learningpath/index.md) with a link to your new language pages.
 
-3. Run **generate_old_site_learning_path_markdown.js** as described above.
+3. Run **generate_jekyll_learning_path_markdown.js** as described above.
 3. `cp -r learningpath/* <path-to-innersourcecommons.org-repo>/resources/learningpath/`.
 3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
 
@@ -62,7 +62,7 @@ If so, then do both of the following:
   * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there are the relevant [index pages](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/content/learn/_index.ru.md)
 
 3. Run `node substitute_article_urls.js isc.net` as described above. This changes the asciidoc source files' links to point at [innnersourcecommons.net] - do not commit this change!
-3. Run **generate_new_site_learning_path_markdown.js** as described above.
+3. Run **generate_hugo_learning_path_markdown.js** as described above.
 3. `cp -r newsite/ <path-to-innersourcecommons.net-repo>/content/learn/learning-path/`.
 3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.net] repo.
 
