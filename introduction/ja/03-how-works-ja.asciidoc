@@ -44,4 +44,4 @@ https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_�
 
 === その他のリソース
 
-* https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[トラステッドコミッター] パターン
+* https://patterns.innersourcecommons.org/p/trusted-committer[トラステッドコミッター] パターン

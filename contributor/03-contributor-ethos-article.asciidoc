@@ -72,7 +72,7 @@ host team. Articulate the value that the contribution will bring to their
 ecosystem.
 
 The host team will be the one taking over maintenance for your changes. It makes
-sense to offer to fulfill a https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md[30-day
+sense to offer to fulfill a https://patterns.innersourcecommons.org/p/30-day-warranty[30-day
 warranty]
 on your submission. This can
 alleviate the host team's fear of the Contributors not being available for

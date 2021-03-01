@@ -17,4 +17,4 @@
 这个选项对调用团队很有效，因为他们在需要的时候获得了所需的功能，而无需承担解决方案的长期维护负担。这对于维护团队来说是有效的，因为他们能够更好地拓展和服务他们的消费者。它适用于整个公司，因为共享问题的解决方案最终都在共享的、集中维护的位置，任何人都可以使用它们。更多的工程时间集中于生成解决公司问题的代码，而不是花费在特性协商和问题升级过程中。
 
 === 额外的资源
- * https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[Trusted Committer] 的模式。
+ * https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer] 的模式。

@@ -44,4 +44,4 @@ In letzter Konsequenz fließt mehr Zeit in Code, der die eigentlichen Unternehme
 
 === Zusätzliche Ressourcen
 
-* Die Mustervorlage https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[Trusted Committer].
+* Die Mustervorlage https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer].

@@ -48,7 +48,7 @@ Yonikの https://cwiki.apache.org/confluence/display/solr/HowToContribute[未完
 コントリビューションがホストチームのエコシステムにもたらす価値を明確にしてください。
 
 ホストチームが、あなたの変更に対するメンテナンスを引継ぐことになります。
-あなたの投稿に対して、 https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md[「30日間保証」] を付けることは理にかなっています。
+あなたの投稿に対して、 https://patterns.innersourcecommons.org/p/30-day-warranty[「30日間保証」] を付けることは理にかなっています。
 こうすることで、コントリビューションから時間が経過した後に、バグ修正のサポートをコントリビュータから受けられなくなるというホストチームの不安を軽減することができます。
 
 === ハウスルールを予測して従う

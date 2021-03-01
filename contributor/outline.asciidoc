@@ -54,7 +54,7 @@ A simple label change in a graph.
 In the same way that real-life hosts don't always appreciate a stranger knocking on their door, some InnerSource hosts appreciate some heads-up before seeing a pull request get opened to their repo.
   *** In all of these interactions, be prepared to "sell" your contribution to the host team.
    **** Articulate the value that the contribution will bring to their ecosystem.
-   **** Offer to fulfill a https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md[30-day warranty] on your submission.
+   **** Offer to fulfill a https://patterns.innersourcecommons.org/p/30-day-warranty[30-day warranty] on your submission.
     ***** This can alleviate the host teams' fear of the contributors not being available for support with fixing bugs after the time on contribution.
  ** Many InnerSource projects outline how they like to be approached by potential _Contributors_ in their `README.md` or `CONTRIBUTING.md` files.
 * Following the rules

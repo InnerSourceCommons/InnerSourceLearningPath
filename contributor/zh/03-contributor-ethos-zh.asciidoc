@@ -28,7 +28,7 @@
 
 在所有这些互动中，都要准备好向项目团队“推销”你的贡献。阐明贡献将给他们的生态系统带来价值。
 
-项目团队将接管你的代码进行维护。你得保证有 https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md[_30天保修 _] 在你的提交记录里。这将缓解项目团队对于贡献者贡献代码以后不进行后续的bug修复的担心。
+项目团队将接管你的代码进行维护。你得保证有 https://patterns.innersourcecommons.org/p/30-day-warranty[_30天保修 _] 在你的提交记录里。这将缓解项目团队对于贡献者贡献代码以后不进行后续的bug修复的担心。
 
 ### 预测并遵守内部规则
 

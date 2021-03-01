@@ -42,4 +42,4 @@ InnerSource предполагает, что в команде существу�
 
 === Дополнительные ресурсы
 
-* https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[Trusted Committer] паттерн.
+* https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer] паттерн.
