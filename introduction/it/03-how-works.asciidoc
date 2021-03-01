@@ -43,4 +43,4 @@ Più tempo di progettazione rimane focalizzato sulla produzione del codice che r
 
 === Additional Resources
 
-* Il pattern del https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[Trusted Committer].
+* Il pattern del https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer].
