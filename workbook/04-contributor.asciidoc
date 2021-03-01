@@ -68,7 +68,7 @@ Why 3 is correct: InnerSource stresses the creation of documentation, both as ba
 
 Why 4 is incorrect: Getting your contribution accepted is an achievement to be celebrated.
 However, your involvement does not end there. 
-You should plan to be available at a minimum to fulfil a https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/30-day-warranty.md[30-day warranty] on your changes (and their impact), or even better: stay close to the community and help out with additional contributions. 
+You should plan to be available at a minimum to fulfil a https://patterns.innersourcecommons.org/p/30-day-warranty[30-day warranty] on your changes (and their impact), or even better: stay close to the community and help out with additional contributions.
 
 ===== Question 2.  Which of the following attitudes helps a contributor build a positive relationship with the community?
 
