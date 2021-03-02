@@ -5,6 +5,7 @@
   "main": "substitute_article_urls.js",
   "dependencies": {
     "@octokit/graphql": "^4.5.7",
+    "asciidoctor": "^2.2.1",
     "dotenv": "^8.2.0",
     "yaml": "^1.10.0"
   },
