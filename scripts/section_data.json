@@ -3,7 +3,7 @@
     "learning_path_group": "Introduction",
     "dirName": "introduction",
     "workbook": "01-introduction.asciidoc",
-    "translations": ["de", "it", "ja", "zh", "ru"],
+    "translations": ["de", "it", "ja", "zh", "ru", "es"],
     "image": "images/learn/LP_thumbnail_introduction.jpg",
     "renderArticles": true
   },
@@ -11,7 +11,7 @@
     "learning_path_group": "Trusted Committer",
     "dirName": "trusted-committer",
     "workbook": "02-trusted-committer.asciidoc",
-    "translations": ["de", "zh"],
+    "translations": ["de", "zh", "ja"],
     "image": "images/learn/LP_thumbnail_trustedcommitter.jpg",
     "renderArticles": true
   },
@@ -19,7 +19,7 @@
     "learning_path_group": "Contributor",
     "dirName": "contributor",
     "workbook": "04-contributor.asciidoc",
-    "translations": ["it", "ja", "zh"],
+    "translations": ["it", "ja", "zh", "de"],
     "image": "images/learn/LP_thumbnail_contributor.jpg",
     "renderArticles": true
   },
