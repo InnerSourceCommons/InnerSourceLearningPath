@@ -8,7 +8,7 @@ const graphqlWithAuth = graphql.defaults({
 })
 
 module.exports = async function (filepath) {
-  const contributors = await graphqlWithAuth(
+  const { repository: { object: { history }}} = await graphqlWithAuth(
     `{
       repository(owner: "InnerSourceCommons", name: "InnerSourceLearningPath") {
         object(expression: "master") {
@@ -16,11 +16,13 @@ module.exports = async function (filepath) {
             history(first: 100, path: "${filepath}") {
               totalCount
               nodes {
-                author {
-                  name
-                  user {
+                authors(first: 100) {
+                  nodes {
                     name
-                    url
+                    user {
+                      name
+                      url
+                    }
                   }
                 }
               }
@@ -31,18 +33,22 @@ module.exports = async function (filepath) {
     }`
   )
 
-  const history = contributors.repository.object.history
-
   if (history.totalCount > 100) {
     throw Error('This script needs updating to handle >100 commits')
   }
 
-  return Object.values(history.nodes.reduce((acc, { author }) => {
-    const name = (author.user && author.user.name) || author.name
-    acc[name] = {
-      name,
-      url: author.user && author.user.url
-    }
-    return acc
-  }, {}))
+  return Object.values(
+    history.nodes.flatMap(({ authors }) => {
+      return authors.nodes.map(author => {
+        return {
+          name: (author.user && author.user.name) || author.name,
+          url: author.user && author.user.url
+        }
+      })
+    }).reduce((accumulator, user) => {
+      // Dedupe users
+      accumulator[user.name] = user
+      return accumulator
+    }, {})
+  )
 }
