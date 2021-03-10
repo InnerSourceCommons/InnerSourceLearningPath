@@ -32,7 +32,7 @@ Trusted Committers は多くの場合、ジュニア開発者のメンターと�
 プルリクエスト中に優れた指導を行うことは、 https://innersourcecommons.org/resources/learningpath/contributor/index[_コントリビューター_] の信頼と関与のレベルを高め、より多くのコントリビューションにつながります。
 これについては、 https://innersourcecommons.org/resources/learningpath/trusted-committer/04/["コミュニティのレベル向上"] で詳しく説明します。
 
-最後に、InnerSource のコミュニティに留まる人たちもいますが、それは彼らがオーバーヘッドや無駄と考えられる活動の代わりにソフトウェアの開発に集中するようになったからで、これはプロセスに重点を置いている大企業では特によく見られるものです。
+最後に、特にプロセスに重点を置いている大企業で、彼らがオーバーヘッドや無駄と考える活動の代わりに、ソフトウェアの開発に集中できるのでInnerSource のコミュニティに留まる人たちもいます。
 このコンテキストでの Trusted Committer の仕事は、有用なコントリビューションガイドラインを伝えて制定することにより、 https://innersourcecommons.org/resources/learningpath/contributor/index[_コントリビューター_] が実際にプロジェクトに集中できるようにすることです。
 
 これらのガイドラインの重要な側面の1つは、私たちがプルリクエストで _シグナリング_ と呼ぶものを説明することです。コメントはどのように見えるべきか?
