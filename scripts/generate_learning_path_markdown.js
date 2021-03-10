@@ -12,7 +12,7 @@ const sections = require('./section_data.json')
 module.exports = async (writeDir, generatorFn, workbookFn, isJekyllSite) => {
   mkdirSync(join('.', writeDir))
 
-  sections.forEach(section => {
+  sections.forEach((section, sectionDataIndex) => {
     const { dirName, translations } = section
     const baseReadPath = join('..', dirName)
     const baseWritePath = join('.', writeDir, dirName)
@@ -38,6 +38,7 @@ module.exports = async (writeDir, generatorFn, workbookFn, isJekyllSite) => {
         let { indexContent, ...indexFrontMatter } = yamlFront.loadFront(fs.readFileSync(indexReadPath, 'utf-8'), { contentKeyName: 'indexContent' })
         indexFrontMatter.image = section.image
         indexFrontMatter.contributors = await getContributors(relative('..', readPath))
+        indexFrontMatter.weight = sectionDataIndex
 
         writeMarkdownFile(indexWritePath, indexFrontMatter, indexContent)
       }
