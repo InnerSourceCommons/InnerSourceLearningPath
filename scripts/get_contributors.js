@@ -34,7 +34,8 @@ module.exports = async function (filepath) {
   )
 
   if (history.totalCount > 100) {
-    throw Error('This script needs updating to handle >100 commits')
+    // Needs addressing properly, but deferring to avoid merge conflicts with https://github.com/InnerSourceCommons/InnerSourceLearningPath/pull/380
+    console.warn('This script needs updating to handle >100 commits')
   }
 
   return Object.values(
