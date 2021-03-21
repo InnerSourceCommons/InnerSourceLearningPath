@@ -1,0 +1,39 @@
+== Wie werde Ich ein InnerSource Contributor
+
+Contributoren im Sinne von InnerSource arbeiten außerhalb der üblichen Grenzen des Teams, Sie dienen als Bindeglied für das Überbrücken von organisatorischen Silos. Um hierbei effektiver zu sein, sollten Ihnen ein paar allgemeine Grundsätze bewusst sein. 
+
+=== Gemeinsames Mindset
+
+So - Du implementierst ein neues Feature für dein Produkt. Um Dein Feature realisieren zu können, benötigst Du dafür eine bestimmte Funktionalität. Bevor Du jetzt direkt mit der Implementierung startest, warte einen Moment: Ist diese benötigte Funktionalität ein allgemeines Problem? Sind auch andere Teams in Deiner Organisation von diesem Feature betroffen? Steht diese Funktionalität vielleicht im Widerspruch zu den bisherigen Inhalten Deines Projekts? Falls eine der Fragen zutrifft, dann schau über Dein eigenes Team hinaus: Gibt es irgendwo eine allgemeine Lösung, die Du nutzen kannst oder so verbessern kannst, dass sie zu Deinen Anforderungen passt? Sollte es überhaupt eine allgemeine Lösung geben?
+
+=== Vorteile von gemeinsamen Lösungen
+
+Ein afrikanisches Sprichwort sagt "`Wenn du schnell sein willst, geh alleine. Aber wenn Du weit kommen willst, geh zusammen`". Das gleiche gilt für Software Entwicklungsteams:
+
+Falls Du schnell sein willst, ist es sinnvoll sich von Abhängigkeiten frei zu machen. Der Nachteil kann sein, dass man Aufwände vervielfacht. Speziell wenn man an zentralen Bestandteilen des Codes arbeitet besteht ein hohes Risiko, dass die Kosten der Vervielfältigung den Vorteil der Unabhängigkeit überwiegen.
+
+Die Zusammenarbeit mit anderen Teams ermöglicht es, Entwicklungskosten zu teilen. Genauso wie in Open Source Projekten kann die Zusammenarbeit es Deinem Team ermöglichen, etwas Größeres aufzubauen, als es das Team alleine gekonnt hätte.
+
+Aber - jedes Team hat seine eigene Roadmap! Ich habe schon vorher versucht gemeinsame Komponenten zu nutzen - jedes Mal hat die Integration länger gedauert als wenn ich es selbst neu implementiert hätte. Den gemeinsamen Komponenten fehlt immer ein Stück an der einen oder anderen Stelle - und das von mir angeforderte Feature hat auf der Roadmap des anderen Teams nie die notwendige Priorität bekommen.
+
+Im Gegensatz zu einem konventionellen Projekt gibt es daher in InnerSource Projekten die Rolle des Contributors. Ja, es wird Zeiten geben, in denen Du wünschst, eine gemeinsam genutzte Lösung hätte ein neues Feature. Als Contributor hast Du die Freiheit, den Sourcecode der gemeinsam genutzten Lösung auszuchecken, ihn zu modifizieren und die verbesserte, neue gemeinsam genutzte Lösung zu verwenden.
+
+Ja, es wird Zeiten geben, in denen Du auf Deiner Zeitschiene dringen einen Bug Fix benötigst, welcher nicht die gleiche hohe Priorität in dem Team hat, welches den gemeinsamen Code hostet. Durch Übernahme der Rolle eines Contributors kannst Du selbst aktiv werden und das Host Team beim Fixen des Bugs unterstützen.
+
+Für viele erfordert diese Art zu Arbeiten eine Änderung im Mindset: Anstatt auf die Implementierung von Features oder Bug Fixes zu warten, anstatt Workarounds zu erstellen, gibt es nun eine dritte Lösung. Verwende Deine Zeit und Energie um mit dem InnerSource Projekt gemeinsam deine Anforderungen zu prüfen - und dann erstelle die Änderung direkt im gemeinsamen Projekt. Dafür benötigst Du zusätzlich zu Deinen Codierfähigkeiten auch Kommunikationsfähigkeiten um in InnerSource Projekten erfolgreich zu sein - um präzise Deine Anforderungen aufzeigen zu können und einen Weg zu finden, der sowohl für Dein Team als auch für das Host Team funktioniert.  
+
+"Aber Ich könnte das Projekt einfach kopieren, meine Änderungen dort machen und mir die ganze Kommunikation und Koordination sparen!". Klar - einfach das Projekt kopieren ist eine Möglichkeit. Allerdings bedeutet das für die Zukunft, dass die Wartung des kopierten Projekts jetzt bei Dir und Deinem Team liegt - und Du Deine Änderungen in jedes neue Release des Host Teams aufs Neue implementieren musst. Deine Features direkt in das Host Team beizutragen bedeutet auch, dass Du von deren tieferem Wissen der Komponente profitierst. Sie können Probleme in Deinem Patch erkennen, die anderenfalls vielleicht erst in der Produktion erkannt werden.
+
+Ein guter Contributor kann einfach beim Host Team anrufen und, wenn es sowohl technisch als auch geschäftlich sinnvoll ist, eine Abhängigkeit und Wiederverwendung einer Komponente anzustreben, anstatt die Arbeit zu duplizieren. Contibutoren können auch dem Management die Vorteile von InnerSource Beiträgen erklären.
+
+
+=== Der Umfang von InnerSource Beiträgen
+
+Geht es bei Inner__Source__ nur um __Source__Code? Natürlich nicht. Falls die Aufgabe Deines Teams von äußeren Komponenten abhängt, möchtest Du sicher sein, dass diese gut gewartet sind und funktionieren. Als ein InnerSource Contributor kannst Du das Host Team auf viele Arten unterstützen. Das Melden von Fehlern oder Auffälligkeiten beim Benutzen der Komponenten ist ein wertvoller Beitrag. Ebenso das Erstellen oder das Fixen von Testfällen, die zeigen das der Code nicht funktioniert wie erwartet. Auch die Verbesserung der Dokumentation, damit andere diese besser verstehen und dazu beitragen können. Auch andere zu unterstützen oder Hilfe beim Fixen von Bugs können wertvolle Beiträge sein. Ein weiteres Beispiel für einen wertvollen Beitrag ist die Verbesserung von Builds.
+
+Kurz gesagt, kein Beitrag ist zu klein, um ein nützlicher Beitrag zu sein. Hier ist ein Beispiel, welches ich in  
+https://github.com/tensorflow/models/pull/4784[tensorflow/models] gemacht habe. Die Änderung eines Labels in einem Graph.
+
+=== Zusammenfassung
+
+In diesem Kapitel haben wir gezeigt, wie man ein Contributor wird. Wir haben das gemeinsame Mindset betrachtet und wir haben die Vorteile von gemeinsamen Lösungen vertieft. Zum Schluss haben wir beschrieben, welchen Umfang InnerSource Beiträgen typischerweise haben.
