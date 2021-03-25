@@ -16,7 +16,8 @@ Die Zusammenarbeit mit anderen Teams ermöglicht es, Entwicklungskosten zu teile
 
 Aber - jedes Team hat seine eigene Roadmap! Ich habe schon vorher versucht gemeinsame Komponenten zu nutzen - jedes Mal hat die Integration länger gedauert als wenn ich es selbst neu implementiert hätte. Den gemeinsamen Komponenten fehlt immer ein Stück an der einen oder anderen Stelle - und das von mir angeforderte Feature hat auf der Roadmap des anderen Teams nie die notwendige Priorität bekommen.
 
-Im Gegensatz zu einem konventionellen Projekt gibt es daher in InnerSource Projekten die Rolle des Contributors. Ja, es wird Zeiten geben, in denen Du wünschst, eine gemeinsam genutzte Lösung hätte ein neues Feature. Als Contributor hast Du die Freiheit, den Sourcecode der gemeinsam genutzten Lösung auszuchecken, ihn zu modifizieren und die verbesserte, neue gemeinsam genutzte Lösung zu verwenden.
+Im Gegensatz zu einem konventionellen Projekt gibt es daher in InnerSource Projekten die Rolle des Contributors. 
+Ja, es wird Zeiten geben, in denen Du wünschst, eine gemeinsam genutzte Lösung hätte ein neues Feature. Als Contributor hast Du die Freiheit, den Sourcecode der gemeinsam genutzten Lösung auszuchecken, ihn zu modifizieren und die verbesserte, neue gemeinsam genutzte Lösung zu verwenden.
 
 Ja, es wird Zeiten geben, in denen Du auf Deiner Zeitschiene dringen einen Bug Fix benötigst, welcher nicht die gleiche hohe Priorität in dem Team hat, welches den gemeinsamen Code hostet. Durch Übernahme der Rolle eines Contributors kannst Du selbst aktiv werden und das Host Team beim Fixen des Bugs unterstützen.
 
