@@ -19,7 +19,7 @@ Aber - jedes Team hat seine eigene Roadmap! Ich habe schon vorher versucht gemei
 Im Gegensatz zu einem konventionellen Projekt gibt es daher in InnerSource Projekten die Rolle des Contributors. 
 Ja, es wird Zeiten geben, in denen Du wünschst, eine gemeinsam genutzte Lösung hätte ein neues Feature. Als Contributor hast Du die Freiheit, den Sourcecode der gemeinsam genutzten Lösung auszuchecken, ihn zu modifizieren und die verbesserte, neue gemeinsam genutzte Lösung zu verwenden.
 
-Ja, es wird Zeiten geben, in denen Du auf Deiner Zeitschiene dringen einen Bug Fix benötigst, welcher nicht die gleiche hohe Priorität in dem Team hat, welches den gemeinsamen Code hostet. Durch Übernahme der Rolle eines Contributors kannst Du selbst aktiv werden und das Host Team beim Fixen des Bugs unterstützen.
+Ja, es wird Zeiten geben, in denen Du auf Deiner Zeitschiene dringend einen Bug Fix benötigst, welcher nicht die gleiche hohe Priorität in dem Team hat, welches den gemeinsamen Code hostet. Durch Übernahme der Rolle eines Contributors kannst Du selbst aktiv werden und das Host Team beim Fixen des Bugs unterstützen.
 
 Für viele erfordert diese Art zu Arbeiten eine Änderung im Mindset: Anstatt auf die Implementierung von Features oder Bug Fixes zu warten, anstatt Workarounds zu erstellen, gibt es nun eine dritte Lösung. Verwende Deine Zeit und Energie um mit dem InnerSource Projekt gemeinsam deine Anforderungen zu prüfen - und dann erstelle die Änderung direkt im gemeinsamen Projekt. Dafür benötigst Du zusätzlich zu Deinen Codierfähigkeiten auch Kommunikationsfähigkeiten um in InnerSource Projekten erfolgreich zu sein - um präzise Deine Anforderungen aufzeigen zu können und einen Weg zu finden, der sowohl für Dein Team als auch für das Host Team funktioniert.  
 
