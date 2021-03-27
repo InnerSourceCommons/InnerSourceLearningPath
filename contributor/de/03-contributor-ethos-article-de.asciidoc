@@ -32,38 +32,17 @@ Sei bei allen Interaktionen mit dem Hostteam vorbereitet, das Team von den Vorte
 Das Hostteam wird die Pflege und Wartung für Deine Änderungen übernehmen. Es macht Sinn, für deinen Beitrag eine https://patterns.innersourcecommons.org/p/30-day-warranty[30-day warranty] anzubieten. Dies kann die Angst des Hostteams mildern, nicht in der Lage zu sein, dass der Contributor nach der Änderung nicht mehr zur Behebung von Fehlern zur Verfügung steht.
 
 
-=== Anticipate and follow house rules
+=== Erwarte und folge den Regeln
 
-When you are visiting your neighbors, they will likely help you around in their
-apartment: they'll show you the way to their living room and where the restroom
-is located. If you're staying longer, they will probably
-give you more details: in my case an example would be to avoid turning on
-the dishwasher and the electric kettle at the same time to avoid blowing the
-fuse.
+Wenn Du Deine Nachbarn besuchst, werden sie Dir die Räumlichkeiten zeigen, wie geht es zum Wohnzimmer und wo ist die Toilette. Wenn Du länger bleibst, werden sie dir vermutlich mehr Details geben, in meinen Fall wäre es zu Beispiel, dass man nie den Geschirrspüler und den Wasserkocher gleichzeitig einschalten darf, weil ansonsten die Sicherung fliegt. 
 
-Similarly, every software system comes with its own quirks and intricacies.
-Often the most obvious ones are well documented. In smaller projects this
-documentation can be found in the README.md. In larger ones, contribution
-specific documentation can often be found in the CONTRIBUTING.md document.
+Ebenso hat jedes Softwaresystem seine eigenen Macken und Feinheiten. Oft sind die offensichtlichsten gut dokumentiert. Bei kleineren Projekten können diese im README.md gefunden werden. In größeren Projekten ist die Dokumentation für Contributors oft in einem eigenen CONTRIBUTING.md Dokument gespeichert.
 
-In these files you can expect to find information on how to
-check out and build the project, how to run the test suite, how to submit changes
-to the project. It may point you to further documentation if it
-deviates largely from standard tooling - or if there are things you should keep
-in mind when making changes.
+Hier solltest Du alle notwendigen Informationen finden, wie man das Projekt auschecked und baut, wie die Testsuite gestartet wird und wie man Änderungen am Projekt hinzufügt. Möglicherweise sind dort Verweise auf weitere Dokumentationen zu finden, z.B. wenn das Projekt stark von üblichen Toolings abweicht, oder wenn es spezielle Dinge zu beachten gibt, wenn Du Änderungen vornehmen willst.
 
-Going through that documentation usually turns out to be a huge time saver as it
-stops you from going down the wrong path and warns you about dead ends. If you
-find that things are missing from it based on your experience - patches to that
-documentation are typically very welcome: there's nobody better suited to
-improve it than a new contributor who sees the project for the first time.
+Normalerweise beweist sich das Lesen der Dokumentation als sehr zeitsparend für deine weitere Arbeit, bewahrt es Dich doch falsch abzubiegen oder vor Sackgassen. Falls Du aus Deiner Erfahrung in der Dokumentation fehlende Aspekte findest - Ergänzungen für die Dokumentation sind typischerweise sehr willkommen: Niemand ist besser geeignet die Dokumentation zu verbessern als ein Contributor der das Projekt das erste Mal sieht.
 
-Try to figure out together with the project in their preferred communication
-channel if the changes you have in mind make sense overall. At the beginning it
-can be scary to have these conversations in a company public medium that is
-archived and searchable. The benefit here is with others coming after you with
-similar proposals: instead of walking the exact same path again, they can learn
-what was already discussed, and start from there.
+Versuche gemeinsam mit dem Projekt den besten Kommunikationskanal zu finden, in dem die Sinnhaftigkeit Deiner Änderungswünsche besprochen werden können. Am Anfang kann es beängstigend sein, diese in einem öffentlichen Unternehmenskanal, der archiviert und durchsuchbar ist, zu führen. Der Vorteil hierbei ist allerdings, dass auch andere nach Dir mit ähnlichen Vorschlägen kommen werden, anstatt das gleich nochmal vorzuschlagen können sie aus dem was bereits diskutiert wurde lernen und von dort aus starten.
 
 === Understand they are not the home owner and act accordingly.
 
