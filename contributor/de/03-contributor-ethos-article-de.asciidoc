@@ -1,7 +1,7 @@
 == Das Ethos eines Contributors
 
-Im vorangegangenen Kapitel haben wir beschrieben warum es sinnvoll ist, Komponenten wiederzuverwenden und als Contributor aktiv zu werden.
-Die besten Methoden, um Deine Änderungen erfolgreich im Projekt des Hostteams einzubringen, beschreiben wir in diesem Kapitel. 
+Im vorangegangenen Kapitel haben wir beschrieben, warum es sinnvoll ist, Komponenten wiederzuverwenden und als Contributor aktiv zu werden.
+Die besten Methoden um Deine Änderungen erfolgreich im Projekt des Hostteams einzubringen beschreiben wir in diesem Kapitel. 
 
 Wenn ein Contributor im Sinne von InnerSource zum Projekt des Hostteams beiträgt, ist er im Prinzip ein Gast im Hostteam. Im Allgemeinen wird von einem guten Gast erwartet, dass er sich entsprechend verhält:
 
@@ -13,59 +13,47 @@ Wie nun werden diese Erwartungen in InnerSource Projekten angewandt?
 
 === Wie fange Ich an?
 
-Wenn Du Deine Nachbarn besuchst wirst Du wahrscheinlich ihr Haus nicht betreten, ohne geklopft zu haben oder an der Tür zu läuten, selbst wenn die Tür offen steht. Ebenso wirst Du in einem InnerSource Projekt nicht direkt im Code Repository Änderungen machen können oder dazu eingeladen werden.
+Wenn Du Deine Nachbarn besuchst, wirst Du wahrscheinlich ihr Haus nicht betreten, ohne geklopft zu haben oder an der Tür zu läuten, selbst wenn die Tür offen steht. Ebenso wirst Du in einem InnerSource Projekt nicht direkt im Code Repository Änderungen machen können oder dazu eingeladen werden.
 
-Stattdessen musst Du Deine Änderungen am Projektcode mit einem Pull-Request übermitteln. Ähnlich wie Du nicht einfach beim Nachbarn anfängst, große Umbauten vorzunehmen oder was Du für Verbesserungen hältst, solltest Du Dir die Zusammenarbeitsregeln vorher angeschaut haben und befolgen. Im Gegenzug werden Dir die Gastgeber den Weg zeigen - im Kontext von InnerSource Projekten bedeutet das, dass die dort benannten Trusted Committer als Mentoren für die Contributoren bereit stehen.
+Stattdessen musst Du Deine Änderungen am Projektcode mit einem Pull-Request übermitteln. Ähnlich wie Du nicht einfach beim Nachbarn anfängst, große Umbauten vorzunehmen oder was Du für Verbesserungen hältst, solltest Du Dir die Zusammenarbeitsregeln vorher angeschaut haben und befolgen. Im Gegenzug werden Dir die Gastgeber den Weg zeigen - im Kontext von InnerSource Projekten bedeutet das, dass sich die dort benannten Trusted Committer Zeit nehmen, um für Dich als Mentoren  bereit zu stehen.
 
-Stell Dir eine gelungene Gartenparty vor. Dabei fällt für gewöhnlich im Vorfeld einiges an Planung an, z.B. um das richtige Datum zu finden, für ausreichend Essen und Trinken zu sorgen, oder dafür, dass die Gäste dazu z.B. mit Salaten beitragen. Das Gleiche geschieht bei größeren Änderungen in InnerSource Projekten: Das Projekt wird Dich aller Voraussicht nach vor einer größeren Änderung um eine genauere Beschreibung bitten, was du benötigst und wie Deine vorgeschlagene Lösung aussieht. Der Contributor spart sich viele Iterationen, wenn man sich das Zieldesign zuerst genauer anschaut, anstatt direkt in die Implementierung zu springen. Eine frühzeitige gemeinsame Abstimmung - selbst wenn noch nicht alle Fragen geklärt sind - hilft dem Hostteam den Contributor dabei zu unterstützen, eine bessere Lösung zu entwickeln. Ähnlich wie es in https://cwiki.apache.org/confluence/display/solr/HowToContribute[Yonik's law of unfinished
+Stell Dir eine gelungene Gartenparty vor. Dabei fällt für gewöhnlich im Vorfeld einiges an Planung an, z.B. um das richtige Datum zu finden, für ausreichend Essen und Trinken zu sorgen, oder dafür, dass die Gäste dazu z.B. mit Salaten beitragen. Das Gleiche geschieht bei größeren Änderungen in InnerSource Projekten: Das Projekt wird Dich aller Voraussicht nach vor einer größeren Änderung um eine genauere Beschreibung bitten, was Du benötigst und wie Deine vorgeschlagene Lösung aussieht. Der Contributor spart sich viele Iterationen, wenn man sich das Zieldesign zuerst genauer anschaut, anstatt direkt in die Implementierung zu springen. Eine frühzeitige gemeinsame Abstimmung - selbst wenn noch nicht alle Fragen geklärt sind - hilft dem Hostteam den Contributor dabei zu unterstützen, eine bessere Lösung zu entwickeln. Ähnlich wie es in https://cwiki.apache.org/confluence/display/solr/HowToContribute[Yonik's law of unfinished
 patches] erklärt wird: "Ein halbgarer Patch in Jira ohne Dokumentation, ohne Tests und ohne Abwärtskompatibilität ist besser als überhaupt kein Patch"
 
-Heißt das, dass in InnerSource Projekten kein Wert auf persönliche Gespräche gelegt wird? Nicht ganz: persönliche Gespräche sind wichtig. Jedweder geschriebener Kommunikation fehlt eine ganze Menge an Informationen im Vergleich zu einem persönlichen Treffen: Man sieht keine Geste oder Mimik und auch die Tonlage geht verloren. Persönliche Treffen sind insbesondere wichtig für zwischenmenschliche Aufgaben, Konflikte und Missverständnisse aufzulösen. Trotzdem sollten die Kommunikation von Projektentscheidungen in schriftlicher Form erfolgen, so dass auch andere teilhaben und Einfluss nehmen können und damit es sogar Jahre später möglich ist, nachzuverfolgen, warum bestimmte Entscheidungen getroffen wurden. 
+Heißt das, dass in InnerSource Projekten kein Wert auf persönliche Gespräche gelegt wird? Nicht ganz: persönliche Gespräche sind wichtig. Jedweder geschriebener Kommunikation fehlt eine ganze Menge an Informationen im Vergleich zu einem persönlichen Treffen: Man sieht keine Geste oder Mimik und auch die Tonlage geht verloren. Persönliche Treffen sind insbesondere wichtig für zwischenmenschliche Aufgaben, oder um Konflikte und Missverständnisse aufzulösen. Trotzdem sollten die Kommunikation von Projektentscheidungen in schriftlicher Form erfolgen, so dass auch andere teilhaben und Einfluss nehmen können und damit es sogar Jahre später möglich ist, nachzuverfolgen, warum bestimmte Entscheidungen getroffen wurden. 
 
-Hier unsere allgemeine Daumenregel: Trefft Euch von Zeit zu Zeit bei einem Kaffee. Das hilft ein stärkeres Gemeinschaftsgefühl zu entwickeln, insbesondere wenn das Team auf verschiedene Standorte verteilt ist. Stellt sicher, dass alle Entscheidungen für jeden transparent und asynchron getroffen werden, so dass jeder, eingeschlossen derer, die nur nebenbei zuhören (https://en.wikipedia.org/wiki/Lurker[lurking]), jederzeit aktiv und Contributor werden kann. Ein Beispiel dafür, wie weit diese Entscheidungsfindung getrieben werden kann, findet man in mehreren Übungen in https://opensource.com/open-organization/resources/workbook[Open Organization
+Hier unsere allgemeine Faustregel: Trefft Euch von Zeit zu Zeit bei einem Kaffee. Das hilft ein stärkeres Gemeinschaftsgefühl zu entwickeln, insbesondere wenn das Team auf verschiedene Standorte verteilt ist. Stellt sicher, dass alle Entscheidungen für jeden transparent und asynchron getroffen werden, so dass jeder, eingeschlossen derer, die nur nebenbei zuhören (https://en.wikipedia.org/wiki/Lurker[lurking]), jederzeit aktiv und Contributor werden kann. Ein Beispiel dafür, wie weit diese Entscheidungsfindung gehen werden kann, findet man in mehreren Übungen in https://opensource.com/open-organization/resources/workbook[Open Organization
 Workbook].
 
-Wie aber findest Du die zukünftige Richtung eines Projekts heraus, und ob ein InnerSource Projekt bereit ist Änderungen zu diskutieren? Viele InnerSource Projekte beschreiben in ihrem README.md wie sie sich die ersten Schritte in der Zusammenarbeit mit möglichen Contributoren vorstellen. Falls das README.md darüber zu groß wird, werden die Richtlinien für Contributoren oft in ein File namens CONTRIBUTING.md ausgelagert. Das Befolgen dieser Richtlinien hilft Contributoren ungemein dabei, Ihre Ideen dem Projekt nahe zu bringen.
+Wie aber findest Du die zukünftige Richtung eines Projekts heraus und ob ein InnerSource Projekt bereit ist Änderungen zu diskutieren? Viele InnerSource Projekte beschreiben in ihrem README.md wie sie sich die ersten Schritte in der Zusammenarbeit mit möglichen Contributoren vorstellen. Falls das README.md darüber zu groß wird, werden die Richtlinien für Contributoren oft in ein File namens CONTRIBUTING.md ausgelagert. Das Befolgen dieser Richtlinien hilft Contributoren ungemein dabei, Ihre Ideen dem Projekt nahe zu bringen.
 
-Sei bei allen Interaktionen mit dem Hostteam vorbereitet, das Team von den Vorteilen deines Beitrags zu überzeugen. Formuliere den Wert, der Dein Beitrags für das Ökosystem bringt. 
+Sei bei allen Interaktionen mit dem Hostteam vorbereitet, das Team von den Vorteilen Deines Beitrags zu überzeugen. Formuliere den Wert, der Dein Beitrags für das Ökosystem bringt. 
 
-Das Hostteam wird die Pflege und Wartung für Deine Änderungen übernehmen. Es macht Sinn, für deinen Beitrag eine https://patterns.innersourcecommons.org/p/30-day-warranty[30-day warranty] anzubieten. Dies kann die Angst des Hostteams mildern, nicht in der Lage zu sein, dass der Contributor nach der Änderung nicht mehr zur Behebung von Fehlern zur Verfügung steht.
+Das Hostteam wird die Pflege und Wartung für Deine Änderungen übernehmen. Es macht Sinn für Deinen Beitrag eine https://patterns.innersourcecommons.org/p/30-day-warranty[30-day warranty] anzubieten. Dies kann die Angst des Hostteams mildern, dass der Contributor nach der Änderung nicht mehr zur Behebung von Fehlern zur Verfügung steht.
 
 
-=== Erwarte und folge den Regeln
+=== Frage nach den Regeln und handle entsprechend
 
-Wenn Du Deine Nachbarn besuchst, werden sie Dir die Räumlichkeiten zeigen, wie geht es zum Wohnzimmer und wo ist die Toilette. Wenn Du länger bleibst, werden sie dir vermutlich mehr Details geben, in meinen Fall wäre es zu Beispiel, dass man nie den Geschirrspüler und den Wasserkocher gleichzeitig einschalten darf, weil ansonsten die Sicherung fliegt. 
+Wenn Du Deine Nachbarn besuchst, werden sie Dir die Räumlichkeiten zeigen, wie es zum Wohnzimmer geht und wo die Toilette ist. Wenn Du länger bleibst, werden sie Dich vermutlich mehr Details einweihen, in meinen Fall wäre es zu Beispiel, dass man nie den Geschirrspüler und den Wasserkocher gleichzeitig einschalten darf, weil ansonsten die Sicherung fliegt. 
 
 Ebenso hat jedes Softwaresystem seine eigenen Macken und Feinheiten. Oft sind die offensichtlichsten gut dokumentiert. Bei kleineren Projekten können diese im README.md gefunden werden. In größeren Projekten ist die Dokumentation für Contributors oft in einem eigenen CONTRIBUTING.md Dokument gespeichert.
 
 Hier solltest Du alle notwendigen Informationen finden, wie man das Projekt auschecked und baut, wie die Testsuite gestartet wird und wie man Änderungen am Projekt hinzufügt. Möglicherweise sind dort Verweise auf weitere Dokumentationen zu finden, z.B. wenn das Projekt stark von üblichen Toolings abweicht, oder wenn es spezielle Dinge zu beachten gibt, wenn Du Änderungen vornehmen willst.
 
-Normalerweise beweist sich das Lesen der Dokumentation als sehr zeitsparend für deine weitere Arbeit, bewahrt es Dich doch falsch abzubiegen oder vor Sackgassen. Falls Du aus Deiner Erfahrung in der Dokumentation fehlende Aspekte findest - Ergänzungen für die Dokumentation sind typischerweise sehr willkommen: Niemand ist besser geeignet die Dokumentation zu verbessern als ein Contributor der das Projekt das erste Mal sieht.
+Normalerweise beweist sich das Lesen der Dokumentation als sehr zeitsparend für Deine weitere Arbeit, bewahrt es Dich doch davor falsch abzubiegen oder vor Sackgassen. Falls Du aus Deiner Erfahrung in der Dokumentation fehlende Aspekte findest - Ergänzungen für die Dokumentation sind typischerweise sehr willkommen: Niemand ist besser geeignet die Dokumentation zu verbessern als ein Contributor, der zum erstem Mal verisucht sich in dem Projekt zurecht zu finden.
 
-Versuche gemeinsam mit dem Projekt den besten Kommunikationskanal zu finden, in dem die Sinnhaftigkeit Deiner Änderungswünsche besprochen werden können. Am Anfang kann es beängstigend sein, diese in einem öffentlichen Unternehmenskanal, der archiviert und durchsuchbar ist, zu führen. Der Vorteil hierbei ist allerdings, dass auch andere nach Dir mit ähnlichen Vorschlägen kommen werden, anstatt das gleich nochmal vorzuschlagen können sie aus dem was bereits diskutiert wurde lernen und von dort aus starten.
+Versuche gemeinsam mit dem Projekt den besten Kommunikationskanal zu finden, in dem die Sinnhaftigkeit Deiner Änderungswünsche besprochen werden können. Am Anfang kann es beängstigend sein, diese in einem öffentlichen Unternehmenskanal, der archiviert und durchsuchbar ist, zu führen. Der Vorteil hierbei ist allerdings, dass auch andere nach Dir mit ähnlichen Vorschlägen kommen werden, anstatt das Gleiche nocheinmal vorzuschlagen, können sie aus dem was bereits diskutiert wurde lernen und von dort aus starten.
 
-=== Understand they are not the home owner and act accordingly.
+=== Verstehe dass Du nicht der Eigentümer bist und verhalte Dich entsprechend
 
-Being a Contributor essentially means being closer to the host team than
-someone merely requesting a feature. Still, Contributors are not accountable for
-the software project to which they are contributing.
+Ein Contributor zu sein bedeutet enger mit dem Hostteam zusammen zu arbeiten als jemand, der nur ein Feature anfragt. Trotzdem ist man als Contributor nicht verantwortlich für das Softwareprojekt, zu dem man beiträgt.
 
-As a result, the final call on what the contribution must look like is with the
-host team. It helps to approach the host team with a humble
-mindset, with the assumption that all are collaborating towards the purpose of
-the shared organisation. It helps to be open and transparent - not only about
-what was implemented and how, but also why the change was needed.
+Infolgedessen hat das Hostteam das letzte Wort bezüglich der Umsetzung des Beitrags. Es ist besser bescheiden an die Sache heranzugehen, immer in dem Glauben daran, dass letztendlich alle zum Nutzen des gemeinsamen Projekts zusammenarbeiten. Es hilft offen und transparent zu sein, nicht nur bzgl. was implementiert wurde und wie, sondern auch warum die Änderung benötigt wird.
 
-Treat any feedback as a gift: others are trying to improve your solution, saving
-you from trouble further down the road.
+Nimm jedes Feedback als ein Geschenk an: Andere versuchen Deine Lösung zu verbessern, um Dich vor vorhersehbaren Probleme zu bewahren.
 
-There is a chance that the host team does not accept your contribution at all.
-In that case it helps to work with the team, figure out if there is a sub aspect
-of your need that can be solved in their project.  Collaborate on that sub
-aspect, and then find another way to solve the remaining issues on your end.
+Natürlich kann es auch passieren, dass das Hostteam Deinen Beitrag nicht akzeptiert. In diesem Fall hilft es, mit dem Team zusammenzuarbeiten und herauszufinden, ob es nicht vielleicht einen Teilaspekt gibt, der im Hostprojekt umgesetzt werden kann. Arbeite mit dem Team zusammen, um den Teilaspekt zu implementieren, und finde dann einen Weg den fehlenden Part in Deinem Projekt zu lösen. 
 
-## Summary of this segment
+## Was haben wir in diesem Kapitel gelernt?
 
-In this segment we have learned how to best approach an InnerSource project as a
-Contributor. We also looked at how to best communicate our need for the change
-and work on the solution together with the host team.
+In diesem Kapitel haben wir die besten Ansätze beschrieben, wie man als Contributor in einem InnerSoure Projekt teilnimmt. Wir haben auch betrachtet, wie wir unseren Änderungsbedarf am besten kommunizieren und gemeinsam mit dem Hostteam eine Lösung erarbeiten.
