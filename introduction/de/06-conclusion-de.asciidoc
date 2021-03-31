@@ -3,7 +3,7 @@
 In dieser Serie haben wir eine Einführung in InnerSource gegeben.
 InnerSource wendet Open Source Praktiken und Prinzipien auf die firmeninterne Softwareentwicklung an.
 Es bietet Nutzern eine zusätzliche Option, speziell wenn Produktionsteams nicht in der Lage sind, ein erforderliches Requirement im notwendigen Zeitraum zu liefern.
-Erfolgreiche InnerSource Projekte betreffen https://innersourcecommons.org/resources/learningpath/product-owner/index[_Produkt Owner_] und https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-Committer/01-Introduction.asciidoc [_Trusted Committer_] vom *Hostteam* sowie ein https://innersourcecommons.org/resources/learningpath/contributor/index [_Contributor_] vom *Gastteam*.
+Erfolgreiche InnerSource Projekte betreffen https://innersourcecommons.org/learn/learning-path/product-owner/01[_Produkt Owner_] und https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/trusted-Committer/01-Introduction.asciidoc [_Trusted Committer_] vom *Hostteam* sowie ein https://innersourcecommons.org/learn/learning-path/contributor/01 [_Contributor_] vom *Gastteam*.
 Richtig betriebenes InnerSource bietet beiden teilnehmenden Teams viele Vorteile.
 Die Schlüsselprinzipien, nach denen gut geführte InnerSource Projekte funktionieren, sind *freiwilliger Code-Beitrag* und *Mentoring Fokus*.
 

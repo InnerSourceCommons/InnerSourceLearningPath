@@ -3,7 +3,7 @@
 == Upleveling Community Members
 
 There is a continuum of participation in an InnerSource community. 
-There are people who are not aware of the community. _Newcomers_ might be interested in the community and its product, but have not yet used it. _Consumers_ use the software but may not have made a contribution. Then there are the https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] who have made at least one contribution, and finally the _Trusted Committers_, who are taking responsibility for both the software and the community.
+There are people who are not aware of the community. _Newcomers_ might be interested in the community and its product, but have not yet used it. _Consumers_ use the software but may not have made a contribution. Then there are the https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] who have made at least one contribution, and finally the _Trusted Committers_, who are taking responsibility for both the software and the community.
 As a Trusted Committer, you are responsible for moving individuals along this continuum
 and upleveling their ability to make contributions. In this sense, Trusted Committers
 act as force multipliers in their community.
@@ -12,27 +12,27 @@ It is important for Trusted Committers to market their
 product and communities to increase the number of
 newcomers and consumers. They should also communicate opportunities to
 make contributions to consumers and try to elicit and align the
-interests of potential https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] with that of the community. What
-often works well is if https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] are able to work on something that
+interests of potential https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] with that of the community. What
+often works well is if https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] are able to work on something that
 benefits their department or role in the company. Development tools and automation are good examples.
 
-Finally, it is the Trusted Committer's responsibility to identify and support https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] with the potential to grow 
+Finally, it is the Trusted Committer's responsibility to identify and support https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] with the potential to grow 
 by encouraging them to tackle challenging tasks and mentor them towards completion. This is, in our opinion, a Trusted Committer's
 noblest responsibility, and it is rewarding for both Trusted Committer and
 contributor. We've heard Trusted Committers say that mentoring and
 seeing people level up their abilities more than makes up for the fact
 that they have less time to actually spend writing software.
 
-As mentioned in the https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[previous section], learning and personal growth are
+As mentioned in the https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[previous section], learning and personal growth are
 reasons people join and stick around in an InnerSource community.
-Upleveling their https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] is one of the most powerful tools Trusted Committers have
+Upleveling their https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] is one of the most powerful tools Trusted Committers have
 at their disposal to increase the speed, output and longevity of their
 communities. It is also one of the key arguments with which to convince
 management to allow their employees to participate in an InnerSource
 community, as that will make their employees more valuable to 
 the company overall and help them retain top talent.
 
-In summary, Trusted Committers need to attract new https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributors_] and level up their
+In summary, Trusted Committers need to attract new https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] and level up their
 ability to make contributions. This activity ultimately levels up the
 community’s ability to create better software faster. They do so by
 communicating opportunities to make contributions and by helping and

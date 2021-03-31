@@ -20,9 +20,9 @@ Diese Konzepte rund um einen Besuch sind eine Metapher für Einstellung und Verh
 
 Werfen wir einen genaueren Blick darauf, wie der InnerSource-Prozess funktioniert.
 Bevor wir in das Thema tiefer einsteigen, schauen wir uns einige wichtige Rollen in den Gast- und Gastgeberteams an.
-Zunächst legt der https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] fest, welche Funktionen das Hostteam als Beitrag zu akzeptieren bereit ist.
-Der https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributor_] ist die Person im Gastteam, die den Codebeitrag einreicht, welcher dann durch das Hostteam geprüft und ggf. akzeptiert wird.
-Der https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] steht dem Hostteam als zusätzliche Unterstützung für Review- und Mentoringaufgaben bei, um letztendlich den Contributor mit seinem Pullrequest zu unterstützen.
+Zunächst legt der https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] fest, welche Funktionen das Hostteam als Beitrag zu akzeptieren bereit ist.
+Der https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributor_] ist die Person im Gastteam, die den Codebeitrag einreicht, welcher dann durch das Hostteam geprüft und ggf. akzeptiert wird.
+Der https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] steht dem Hostteam als zusätzliche Unterstützung für Review- und Mentoringaufgaben bei, um letztendlich den Contributor mit seinem Pullrequest zu unterstützen.
 Bei kleinen, einfacheren Projekten füllt oft eine einzelne Person _sowohl_ die Rolle des Product Owners als auch die des Trusted Committer aus.
 
 Basierend auf diesen Rollen können wir nun den InnerSource-Prozesses grob skizzieren.
