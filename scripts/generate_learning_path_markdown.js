@@ -9,6 +9,15 @@ const writeMarkdownFile = require('./write_markdown_file')
 
 const sections = require('./section_data.json')
 
+const languageMap = {
+  de: 'German',
+  ja: 'Japanese',
+  zh: 'Mandarin',
+  es: 'Spanish',
+  it: 'Italian',
+  ru: 'Russian'
+}
+
 module.exports = async (writeDir, generatorFn, workbookFn, isJekyllSite) => {
   mkdirSync(join('.', writeDir))
 
@@ -29,7 +38,8 @@ module.exports = async (writeDir, generatorFn, workbookFn, isJekyllSite) => {
         mkdirSync(writePath)
       } else {
         let indexReadPath = join(readPath, 'index.md')
-        if (!fs.existsSync(indexReadPath)) {
+        const indexTranslated = fs.existsSync(indexReadPath)
+        if (!indexTranslated) {
           // Default to English index page content
           indexReadPath = join(baseReadPath, 'index.md')
         }
@@ -39,6 +49,11 @@ module.exports = async (writeDir, generatorFn, workbookFn, isJekyllSite) => {
         indexFrontMatter.image = section.image
         indexFrontMatter.contributors = await getContributors(relative('..', readPath))
         indexFrontMatter.weight = sectionDataIndex
+
+        if (!indexTranslated) {
+          // Add placeholder text if index is not translated
+          indexContent = `This text will be translated soon to ${languageMap[translation]}.${indexContent}`
+        }
 
         writeMarkdownFile(indexWritePath, indexFrontMatter, indexContent)
       }
