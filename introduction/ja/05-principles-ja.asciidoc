@@ -45,8 +45,8 @@ InnerSourceのコントリビューションを彼らのプロジェクトに受
 
 === 優先的なメンターシップ
 
-https://innersourcecommons.org/resources/learningpath/trusted-committer/index[トラステッドコミッター] によるホストチームからゲストチームへの _メンターシップ_ は、InnerSourceの重要な点になります。
-ゲストチームの https://innersourcecommons.org/resources/learningpath/contributor/index[コントリビューター] は、ホストチームのプロジェクト/リポジトリについて十分理解し、成功裏に変更できるようにレベルアップされます。
+https://innersourcecommons.org/learn/learning-path/trusted-committer/01[トラステッドコミッター] によるホストチームからゲストチームへの _メンターシップ_ は、InnerSourceの重要な点になります。
+ゲストチームの https://innersourcecommons.org/learn/learning-path/contributor/01[コントリビューター] は、ホストチームのプロジェクト/リポジトリについて十分理解し、成功裏に変更できるようにレベルアップされます。
 この過程で、彼らはプロジェクト/ソフトウェアの一般的な利用者かつアンバサダーとして、ホストチームのソフトウェアシステムをより良く理解するようになります。
 この個人のコントリビューターは、経験を重ねることで、トラステッドコミッターとしてプロジェクトでより広範な役割を果たすことができます。
 

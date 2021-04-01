@@ -12,15 +12,15 @@ Se non ottieni quello di cui hai bisogno, puoi apportare le modifiche richieste 
 Il ruolo del Contributore descrive una persona che dà contributi ai repository di un progetto comunitario InnerSource.
 Questa persona può o non può far parte o vedersi come parte della comunità.
 Tuttavia, per un bel po' di persone inizia una specie di viaggio che i contributori possono fare a partire dalla semplice conoscenza della comunità all'utilizzo del prodotto della comunità fino all'interazione con i membri della comunità e infine iniziare a contribuire.
-Infine, alcuni di loro possono diventare https://innersourcecommons.org/resources/learningpath/trusted-committer/index[Trusted Committers].
+Infine, alcuni di loro possono diventare https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committers].
 
 === Relazione con gli altri ruoli
 
-Come Contributore all'interno di una comunità InnerSource andrai ad interagire con persone che ricoprono altri ruoli InnerSource, come il https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] o il https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] e possibilmente con altri contributori.
+Come Contributore all'interno di una comunità InnerSource andrai ad interagire con persone che ricoprono altri ruoli InnerSource, come il https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] o il https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] e possibilmente con altri contributori.
 A volte, questi ruoli possono essere ricoperti dalla stessa persona, come ad esempio il Trusted Committer ed il Product Owner in piccole basi di progetti.
 
-Questa sezione illustra una panoramica molto breve degli altri due ruoli, ma vorremmo incoraggiarti a leggere l'https://innersourcecommons.org/resources/learningpath/trusted-committer/index[articolo di introduzione del ruolo del Trusted Committer], e raccomandiamo anche di leggere l'articolo su come https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Abbassare le barriere di ingresso], prima che tu approfondisca i dettagli del ruolo del Contributore in questa sezione.
-Puoi anche guardare i video (https://innersourcecommons.org/resources/learningpath/trusted-committer/index[introduzione], https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[abbassare le barriere di ingresso]) invece di leggere gli articoli.
+Questa sezione illustra una panoramica molto breve degli altri due ruoli, ma vorremmo incoraggiarti a leggere l'https://innersourcecommons.org/learn/learning-path/trusted-committer/01[articolo di introduzione del ruolo del Trusted Committer], e raccomandiamo anche di leggere l'articolo su come https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Abbassare le barriere di ingresso], prima che tu approfondisca i dettagli del ruolo del Contributore in questa sezione.
+Puoi anche guardare i video (https://innersourcecommons.org/learn/learning-path/trusted-committer/01[introduzione], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[abbassare le barriere di ingresso]) invece di leggere gli articoli.
 
 ==== Trusted Committer
 
@@ -33,7 +33,7 @@ Prendersi cura della comunità implica mantenerla in salute, migliorarla insieme
 
 ==== Product Owner
 
-Il ruolo del https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] ha qualche somiglianza con il ruolo del product owner del tuo progetto di media dimensione.
+Il ruolo del https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] ha qualche somiglianza con il ruolo del product owner del tuo progetto di media dimensione.
 Comunque, ci sono delle differenze - che dipendono dalla dimensione del progetto, questo ruolo è spesso ricoperto dalla stessa persona che agisce come truster committer.
 In progetti più grandi, o nei team che usano InnerSource solo parzialmente come approccio per coprire le loro necessità di accettazione di contributi, questo ruolo è probabilmente ricoperto da una persona diversa dal truster committer.
 
@@ -42,7 +42,7 @@ Potresti lavorare con il ruolo del product owner per assicurarti che gli aspetti
 
 Ultimo ma non meno importante, qualcuno che agisce come product owner potrebbe essere stato coinvolto nel portare alla tua attenzione il progetto, i suoi benefici e la community.
 
-Se vuoi sapere con maggior dettaglio di cosa trattano questi altri ruoli, e ti incoraggiamo a farlo, abbiamo preparato sezioni riguardo il https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] e sul https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_].
+Se vuoi sapere con maggior dettaglio di cosa trattano questi altri ruoli, e ti incoraggiamo a farlo, abbiamo preparato sezioni riguardo il https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] e sul https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_].
 
 === Panoramica della sezione
 

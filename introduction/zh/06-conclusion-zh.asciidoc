@@ -2,8 +2,8 @@
 在这个学习过程中，我们已经介绍了InnerSource。
 InnerSource将开放源码的最佳实践和原则应用于内部软件开发。
 当维护团队（Host Team）无法交付所需的特性请求时，它为使用者提供了一个额外的选项。
-成功的InnerSource包括来自 *维护团队* 的 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者（Product Owner）_] 产品所有者和 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_] ，
-以及来自 *调用团队(Guest Team)* 的 https://innersourcecommons.org/resources/learningpath/contributor/index[_贡献者（Contributor）_] 。
+成功的InnerSource包括来自 *维护团队* 的 https://innersourcecommons.org/learn/learning-path/product-owner/01[_产品所有者（Product Owner）_] 产品所有者和 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_] ，
+以及来自 *调用团队(Guest Team)* 的 https://innersourcecommons.org/learn/learning-path/contributor/01[_贡献者（Contributor）_] 。
 如果处理有效，InnerSource将为参与团队带来很多好处。有效的InnerSource可以带来 *自愿代码贡献* 和 *优先指导* 。
 
 虽然本培训包含了关于InnerSource的高级概述，但是在InnerSource真正为您的团队工作方面还有更多有用的细节。

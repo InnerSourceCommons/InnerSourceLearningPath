@@ -42,8 +42,8 @@ This section teaches the mindset, the habits, technical approaches and other det
 ==== Prerequisites
 
 * Please watch the https://www.safaribooksonline.com/videos/introduction-to-innersource/9781492041504[Intro to InnerSource Video]
-* Also watch the https://innersourcecommons.org/resources/learningpath/trusted-committer/index[Introduction] to the Trusted Committer role.
-* The https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Lowering the Barriers to Entry] video of the Trusted Committer role can be a good addition to understand more of why the Trusted Committer might ask for different things.
+* Also watch the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Introduction] to the Trusted Committer role.
+* The https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Lowering the Barriers to Entry] video of the Trusted Committer role can be a good addition to understand more of why the Trusted Committer might ask for different things.
 
 ==== Materials or downloads needed in advance
 

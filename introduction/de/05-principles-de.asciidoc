@@ -45,8 +45,8 @@ Diese Kommunikation sollte auf eine Weise erfolgen, sodass die Information für 
 
 === Priorisierte Betreuung
 
-_Mentorship_ vom Hostteam zum Gastteam durch https://innersourcecommons.org/resources/learningpath/trusted-committer/index[Trusted Committers] ist ein Schlüsselaspekt von InnerSource.
-https://innersourcecommons.org/resources/learningpath/contributor/index[Contributors] in Gastteams sind auf dem neuesten Stand, sodass sie genug über das Projekt / Repo des Host-Teams wissen um es erfolgreich verändern zu können.
+_Mentorship_ vom Hostteam zum Gastteam durch https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committers] ist ein Schlüsselaspekt von InnerSource.
+https://innersourcecommons.org/learn/learning-path/contributor/01[Contributors] in Gastteams sind auf dem neuesten Stand, sodass sie genug über das Projekt / Repo des Host-Teams wissen um es erfolgreich verändern zu können.
 Dabei lernen sie die Software des Hostteams sowohl als genereller Nutzer als auch als Botschafter für das Projekt / die Software besser verstehen.
 Diese einzelnen Mitarbeiter können im Laufe der Zeit und mit wachsender Erfahrung eine breitere Rolle im Projekt als Trusted Committer zu übernehmen.
 

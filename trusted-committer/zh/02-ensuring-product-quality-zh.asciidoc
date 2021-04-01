@@ -10,7 +10,7 @@ Trusted Committer还需要确保社区拥有生产高质量软件所需的基础
 
 也就是说，实现这一目标最终是 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]的工作。Trusted Committer的工作不是默认接受所有贡献，而仅接受在质量和范围方面符合定义标准的贡献。Trusted Committer应避免重写贡献者的代码去让它们尽可能符合规定，即使这意味着要花费更多时间在PR中为 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]提供支持。Trusted Committer应具有长远的眼光，并了解这种支持是对社区的一种长期投资，从长远来看，它将提高社区的发展速度。
 
-有时项目需求或限制不是都能预先设计的，而是在开发过程中被发现的。Trusted Committer还会负责为 https://innersourcecommons.org/resources/learningpath/product-owner/index[_产品所有者（Product Owner）_]和贡献者（Contributor）捕获并记录这些发现。
+有时项目需求或限制不是都能预先设计的，而是在开发过程中被发现的。Trusted Committer还会负责为 https://innersourcecommons.org/learn/learning-path/product-owner/01[_产品所有者（Product Owner）_]和贡献者（Contributor）捕获并记录这些发现。
 
 但是，Trusted Committer在控制质量方面的权限超出了普通PR的范围。Trusted Committer从战略角度考虑质量，并确保所构建软件的长期生命力。从确保代码的整洁到维护整个软件的概念完整性，这涉及到面向整体代码的责任。还需要完成面向管理的任务，例如确保给社区足够的时间来重构其软件，或者在需要时为支持质量改进而推迟发布日期。Trusted Committer的工作效率与代码健康状况密切相关。
 
