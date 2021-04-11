@@ -1,0 +1,41 @@
+== ¿Cómo funciona InnerSource?
+
+Pongamos como ejemplo la situación donde un equipo A usa el software que produce un equipo B.
+El equipo A tiene una petición para una nueva funcionalidad y se la envía al equipo B, pero el equipo B no llega a tiempo de implementar dicha mejora para el equipo A.
+En un entorno de InnerSource, si al equipo A no le facilitan dicha funcionalidad entonces habría enviado un pull request en su lugar.
+Esto significa que el equipo A implementa la funcionalidad directamente en el software del equipo B y envía un pull request para que sea revisado con los cambios pertinentes.
+El equipo B es entonces el encargado de revisar dicho código y aceptarlo cuando esté listo.
+
+En este ejemplo, el equipo A es el _Invitado_ y el equipo B es el equipo _Anfitrión_.
+Los términos de _Invitado_ y _Anfitrión_ se usan para referirse a una situación análoga a la de tener una visita en casa.
+En esta situación, la mayor parte de las personas quieren ser un buen anfitrión y para ello hay que asegurar que la casa está ordenada y las cosas guardadas en su sitio como anticipo a la visita de nuestros invitados. Los visitantes serán entonces bienvenidos en la puerta e invitados a pasar y podrán usar las diferentes herramientas e instalaciones que sean públicas.
+Hay, por supuesto, una serie de relas en la casa que se pide a los invitados que sigan.
+De igual manera, los invitados quieren ser educados y mostrar respeto por la casa y por los anfitriones. Tienen cuidado con las cosas de la casa y siguen las reglas durante su estancia. Además esperan que quizá vuelvan a ser invitados de nuevo siempre y cuando hayan sido educados y corteses.
+Estos conceptos acerca de una visita en una casa son una metáfora de la actitud  y comportamientos que los equipos deben tener cuando actúan como anfitriones o como invitados a la hora de contribuir al código fuente de nuestro producto.
+
+Echemos un vistazo más en detalle del proceso de InnerSource.
+Para ilustrar esta explicación usaremos unos pocos roles que son clave en los equipos que actúan como invitados y anfitriones.
+En primer lugar, el https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] determina qué funcionalidad puede ser aceptada por el equipo anfitrion como una contribución.
+El https://innersourcecommons.org/resources/learningpath/contributor/index[_Contribuidor_] es la persona en el equipo invitado que envía la contribución de código para ser revisada por el equipo anfitrión.
+El https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] representa al equipo anfitrión al ofrecer en cualquier momento soporte y consejo acerca de las necesidades que tiene que cubrir el contribuidor cuando envíe su parche de código o pull request.
+En equipos pequeños, a veces ocurre que la misma persona desempeña _ambos_ puestos, el product owner y el trusted committer.
+
+Una vez entendidas estas definiciones, a continuación vemos el resumen de una contribución de InnerSource.
+
+* El equipo invitado o la persona que contribuye pide una funcionalidad al equipo anfitrión.
+* El product owner se asegura de que las historias de usuario que definen dicha funcionalidad se crean, ya sea por el equipo invitado o por el equipo anfitrión.
+Estas historias deben describir la nueva funcionalidad acorde a las necesidades del equipo invitado.
+Además deben tener en cuenta cualquier detalle del equipo anfitrión respecto a la funcionalidad y cómo ha de llevarse a cabo para que el trabajo sea aceptado.
+Algunos ejemplos de estos detalles incluyen limitaciones de arquitectura, guías de estilo u otras convenciones de código, dependencias, comportamientos esperados, etc.
+* Con este soporte por parte del trusted committer, el contribuidor envía el pull request que implementa la nueva funcionalidad.
+
+Estos pasos no asumen ningún tipo de organización de los diferentes equipos o sus prioridades. InnerSource asume que los diferentes equipos tienen ya una manera concretra de organizarse y ofrece un paraguas para poder trabajar juntos donde hay un equipo invitado que quiere contribuir código a otro equipo que actuará de anfitrión.
+
+Esta opción funciona para el equipo invitado porque consiguen la funcionalidad requerida cuando la necesitaban sin tener que hacerse cargo del proceso de mantenimiento de la misma en el medio o largo plazo.
+Funciona para el equipo anfitrión porque son capaces de acomodar y gestionar más trabajo a la vez que siguen sirviendo a sus consumidores.
+Además funciona para la compañía en su totalidad porque las soluciones a problemas compartidos terminan en lugares por todos conocidos, compartido y mantenido de forma centralizada que cualquiera puede usar.
+Finalmente, se invierte más tiempo de ingeniería en producir código que resuelve problemas de la compañía en lugar de estar enfocado en problemas políticos, jerárquicos y de negociaciones entre equipos.
+
+=== Recursos adicionales
+
+* El patrón del  https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[Trusted Committer].
