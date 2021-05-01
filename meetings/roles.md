@@ -15,7 +15,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 **Within 24 Hours of Previous Meeting**
 * [ ] Update the [shared calendar] series with any new invitees from the last call.  
 * [ ] Visit the [learning path folder].
-* [ ] Right-click on `Meeting - 2020 - MM - DD`.
+* [ ] Right-click on `Meeting - 2021 - MM - DD`.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 * [ ] Open the document and follow the steps in the **Do these things to set up this document** section.

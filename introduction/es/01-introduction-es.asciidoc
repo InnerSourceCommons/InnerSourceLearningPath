@@ -1,0 +1,11 @@
+== Introducción
+
+Este plan de aprendizaje es una introducción a InnerSource.
+InnerSource consiste en la aplicación de las mejores prácticas de desarrollo y principios de trabajo de las comunidades de software libre dentro de una corporación.
+El software desarrollado no es por lo tanto software libre, pero sí que está en abierto y accesible dentro de los confines de la organización para que cualquier persona pueda usarlo y contribuir a su desarrollo.
+Esta estrategia permite que se abra la posibilidad de colaboración de manera amplia y efectiva, produciendo software que evoluciona y se modifica de forma ágil según las necesidades de los diferentes clientes internos.
+
+Aquí aprenderás a reconocer proyectos y situaciones que son buenos candidatos para InnerSource.
+Mostraremos de un vistazo y a alto nivel cómo InnerSource puede ser útil y ayudar en estas situaciones.
+Te familiarizarás con el vocabulario y términos comunes cuando hablemos de InnerSource.
+Además, enumeraremos los principios clave en los que se basa InnerSource y los beneficios que se obtienen cuando se aplica de manera efectiva.

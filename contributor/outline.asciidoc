@@ -7,7 +7,7 @@
 * Summary of the roles of InnerSource and how each relates to _Contributor_.
 * Summary of the upcoming segments and what each covers.
 
-Outline for this section inspired by the https://innersourcecommons.org/resources/learningpath/trusted-committer/index[Trusted Committer introduction video].
+Outline for this section inspired by the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committer introduction video].
 
 === Becoming an InnerSource Contributor
 
@@ -54,7 +54,7 @@ A simple label change in a graph.
 In the same way that real-life hosts don't always appreciate a stranger knocking on their door, some InnerSource hosts appreciate some heads-up before seeing a pull request get opened to their repo.
   *** In all of these interactions, be prepared to "sell" your contribution to the host team.
    **** Articulate the value that the contribution will bring to their ecosystem.
-   **** Offer to fulfill a https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md[30-day warranty] on your submission.
+   **** Offer to fulfill a https://patterns.innersourcecommons.org/p/30-day-warranty[30-day warranty] on your submission.
     ***** This can alleviate the host teams' fear of the contributors not being available for support with fixing bugs after the time on contribution.
  ** Many InnerSource projects outline how they like to be approached by potential _Contributors_ in their `README.md` or `CONTRIBUTING.md` files.
 * Following the rules
@@ -143,4 +143,4 @@ Review what we've learned/taught together.
 * Summary of the other sections in the learning path with invitation to watch.
 * Summary of the InnerSource Commons and invitation to join.
 
-Outline for this section inspired by the https://innersourcecommons.org/resources/learningpath/trusted-committer/08/[Trusted Committer conclusion].
+Outline for this section inspired by the https://innersourcecommons.org/learn/learning-path/trusted-committer/08/[Trusted Committer conclusion].

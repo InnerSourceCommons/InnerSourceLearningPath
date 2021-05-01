@@ -4,7 +4,11 @@
   "description": "",
   "main": "substitute_article_urls.js",
   "dependencies": {
-    "yaml": "^1.10.0"
+    "@octokit/graphql": "^4.5.7",
+    "asciidoctor": "^2.2.1",
+    "dotenv": "^8.2.0",
+    "yaml": "^1.10.0",
+    "yaml-front-matter": "^4.1.1"
   },
   "devDependencies": {},
   "scripts": {

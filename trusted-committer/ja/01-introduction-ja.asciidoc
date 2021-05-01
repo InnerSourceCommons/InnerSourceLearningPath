@@ -1,0 +1,57 @@
+[role="pagenumrestart"]
+== Trusted Committerの役割の紹介
+
+Trusted Committer(TC)の役割は、InnerSourceコミュニティにおける重要な役割の1つです。
+Trusted Committerは、重要な技術的決定や、最終的にコントリビューションをゴールまで導くためにコントリビューターのメンタリングを行う、あなたが信頼するコミュニティの人々だと考えてください。
+Trusted Committerの役割は、要求が厳しくやりがいがあるものです。
+それは単なる独断的なゲートキーパー以上のもので、あらゆるInnerSourceコミュニティの成功に役立ちます。
+
+一般的に、Trusted Committerの役割は、権限ではなく責任によって定義されます。
+非常に高いレベルでは、Trusted Committer達はInnerSourceコミュニティと、コミュニティが構築している製品の両方の利益を代表しています。
+彼らはコミュニティと製品の両方の健全性に関心があります。
+したがって、Trusted Committerとしては、技術指向とコミュニティ指向の両方の責任があります。
+次のセクションでは、これらの両方の側面について説明します。
+
+Trusted Committerの実際の役割について詳しく説明する前に、抽象化が高いレベルでTrusted Committerの役割とInnerSourceの他の役割を比較して、なぜその名前が適切であると同時に重要であると考えるかの理由を説明します。
+https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] の役割から始めましょう。
+_コントリビューター_ は、名前の通り、InnerSourceコミュニティにコントリビューションします。
+これらのコントリビューションは、バグレポート、機能リクエスト、ドキュメントなど、コードやコード以外の成果の可能性があります。
+
+_コントリビューター_ はコミュニティの一部である場合とない場合があります。
+彼らは、チームが必要とする機能を開発するために、別のチームによって派遣される場合があります。
+そのため、 _コントリビューター_ を _ゲスト_ または _ゲストチーム_ の一員と呼ぶこともあります。
+_コントリビューター_ には、コミュニティの期待とプロセスに「適合する」責任があります。
+
+_Trusted Committer_ は常にInnerSourceコミュニティのメンバーであり、 _ホストチーム_ と呼ばれることもあります。
+この例では、Trusted Committerは、ゲストが快適で効率的に共同作業できるように、ハウスの構築とハウスルール設定の両方に責任があります。
+コントリビューターと比較すると、Trusted Committersはコードを本番環境に近づける責任を負っており、一般的にリスクの高いタスクを実行することが許可されています。
+
+https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_ (PO)]は、InnerSourceにおける3番目の役割です。
+アジャイルプロセスと同様に、POはコミュニティが実装する要件やストーリの定義と優先順位付けに責任をもちます。
+POは、Trusted Committerと頻繁に対話します(例えば、要求された機能や提供された機能が実際に製品に属することを確認します)。
+特に、小規模で草の根のInnerSourceコミュニティでは、Trusted Committerは通常POとしても活動します。
+より詳細については、 https://innersourcecommons.org/learn/learning-path/product-owner/01[ラーニングパスのプロダクトオーナーセグメント] を確認してください。
+
+=== 役割の名前が重要な理由
+
+Trusted Committerの役割は、成功したすべてのInnerSourceコミュニティにあるが、すべてのコミュニティがその名前を使用しているわけではありません。
+いくつかのコミュニティでは、Maintainer（メンテナー）という用語を使用していますが、この用語は他の技術的な役割、例えばGitHubで定義されている「Maintainer」の役割と競合するものです。
+Apacheも同様に _コミッター（Committer）_ という用語を使用しますが、その役割に関連付けられる責任の数は少なく、ほとんどが技術指向の責任です。コミュニティ指向の責任が追加されたTrusted Committerの役割は、それを超えています。
+Trusted Committerの「信頼された（Trusted）」とは、その人が信頼されていることを意味しており、したがって、マネージメントとコミュニティの両方から、彼らの仕事をする権限を与えられています。
+オープン性と透明性を醸成することで、Trusted Committersはプロセスと構築中の製品に対する信頼を構築します。
+
+ソフトウェアを書く上でネーミングが重要であるのと同様に、役割に対する正しい名前を選択して、それを一貫して用いることで、コミュニティで果たす役割について、すべての人が同じ理解を持つことができます。
+
+役割について基本的な理解と、Trusted Committerという用語を使うのが適切な理由、そしてTrusted Committerがソフトウェア・プロジェクトで他の共通の役割とどのように相互作用するのかを理解したところで、Trusted Committerの責任について簡単に見てみましょう。
+
+=== 責任の範囲
+
+Trusted Committer には、次のようなさまざまな責任があります。
+
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[製品品質の確保]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[コミュニティの健全性維持]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[コントリビューションの壁の削減]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[コミュニティのレベル向上]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[コミュニティのニーズ提唱]
+
+これらの責任については、次のページで詳しく説明し、この記事の最後で https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[Trusted Committe になる] ための道筋についても説明します。

@@ -1,7 +1,7 @@
 == Contributor Ethos
 
 In the last segment we have outlined why you would want to reuse components and
-become active as a Contributor. This artice shares best practices on how to
+become active as a Contributor. This article shares best practices on how to
 successfully contribute your changes to the host team's code base.
 
 An InnerSource Contributor trying to make a contribution to the host team
@@ -37,7 +37,7 @@ Spending time on initial design instead of
 jumping right into the implementation saves contributors from having to
 redo a lot of their work. Sharing progress early - even when it's not finished
 yet - helps the host team to mentor the Contributor towards a better solution. Much like
-https://cwiki.apache.org/confluence/display/solr/HowToContribute[Yonik's law of unifinished
+https://cwiki.apache.org/confluence/display/solr/HowToContribute[Yonik's law of unfinished
 patches]
 explains: "A half-baked patch in Jira, with no documentation, no tests
 and no backwards compatibility is better than no patch at all."
@@ -72,7 +72,7 @@ host team. Articulate the value that the contribution will bring to their
 ecosystem.
 
 The host team will be the one taking over maintenance for your changes. It makes
-sense to offer to fulfill a https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md[30-day
+sense to offer to fulfill a https://patterns.innersourcecommons.org/p/30-day-warranty[30-day
 warranty]
 on your submission. This can
 alleviate the host team's fear of the Contributors not being available for

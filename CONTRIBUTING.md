@@ -1,14 +1,34 @@
-Thanks for contributing.  A few tips:
+Thanks for contributing.
+Here's the overall contribution process for a segment in the InnerSource Learning Path.
+The output of each step should be reviewed in the [#learning-path] working group before it is considered "done"
+
+1. Create an [outline](./outline-template.md).
+1. Create a written article.
+1. Film the video.
+1. Create assessment questions.
+
+The [#learning-path] community has professional-grade filming equipment that you may borrow for the video portion of your segment.
+
+Here's a few tips as you go along:
 
 # Translations
 
 * All articles may be translated into any language of interest.
-* Translated articles should be storied next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
-* The filename of the article should be translated as well.
+* Translated articles should be stored next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
+* The filename of the article should be changed to include two-character language code prefix.
+* The special `index.md` files for each section should also be translated, as they are used in the Learning Path section of the [new website](https://innersourcecommons.net/learn/learning-path/)
+* The following are special terms and should not be translated:
+  * `InnerSource`
+  * `Trusted Committer`
 * Issues tracking translations on the [project board](https://github.com/InnerSourceCommons/InnerSourceLearningPath/projects/1) should be labeled with the `Translations` tag as well as the tag of the section being translated (e.g. `Contributor`).
 Here is [an example](https://github.com/InnerSourceCommons/InnerSourceLearningPath/issues/255).
-* Here is the [status of translation efforts](https://github.com/InnerSourceCommons/InnerSourceLearningPath/wiki/Translations). 
+* Here is the [status of translation efforts](https://github.com/InnerSourceCommons/InnerSourceLearningPath/wiki/Translations).
 * Other mechanics of working on translations follow the guidelines below that apply to any file in the `InnerSourceLearningPath`.
+
+# Subtitles
+
+* All videos may have subtitles in any language.
+* See [this video](https://drive.google.com/file/d/1IaAH8Zmp2ggBtelexhaZUqia5yS8mUjE/view?usp=sharing) for how to add them.
 
 # Files
 
@@ -54,3 +74,5 @@ then those comments/suggestions should be made against the source text _GitHub_.
   * Addition of superimposed banner text.
 * Adjustments to respond to comments will be released as a new video in the same folder.
 The new video will have a version number in the title.
+
+[#learning-path]: https://app.slack.com/client/T04PXKRM0/CARTU4XV2

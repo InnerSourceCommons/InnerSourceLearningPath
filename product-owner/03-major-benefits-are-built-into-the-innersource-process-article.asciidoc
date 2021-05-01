@@ -1,9 +1,11 @@
+== Major Benefits are Built into the InnerSource Process
+
 In the http://innersourcecommons.org/[InnerSource Commons], we talk about the concept of _open_ in the lessons we've learned in open source, and how we might reuse what we know or have learned in an enterprise environment.
 Let me step through a few of those from a manager's perspective. I'll talk about how they've benefited me as a director, and my product managers - that's what we call product owners at PayPal.
 
 First of that is _open code_.
 What do I mean by open code? Basically, the fact that the code is visible by all of the company, and there's a process for other developers to be able to submit pull requests on other code bases and get them accepted.
-To understand this more, please see the articles about https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committers_] and contributing agreements for more details.
+To understand this more, please see the articles about https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committers_] and contributing agreements for more details.
 
 Open code for a manager also means no more waiting or escalating to get bugs fixed or features implemented on other teams' code bases.
 You can start to implement and plan more effectively.

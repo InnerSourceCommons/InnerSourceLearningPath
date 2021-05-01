@@ -20,7 +20,7 @@ dimensions in the following sections.
 Before we go into the details of what a Trusted Committer actually does, let’s spend
 some time contrasting the Trusted Committer role with other roles in InnerSource at a
 high level of abstraction and explain why we think the name is both apt
-and important. Let’s start with the https://innersourcecommons.org/resources/learningpath/contributor/index[_Contributor_] role. A
+and important. Let’s start with the https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributor_] role. A
 _Contributor_ — as the name implies—makes contributions to an InnerSource
 community. These contributions could be code or non-code artifacts, such
 as bug reports, feature requests, or documentation.
@@ -40,13 +40,13 @@ responsibility to push code closer to production and are generally
 allowed to perform tasks that have a higher level of risk associated
 with them.
 
-The https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_ (PO)] is the third role in InnerSource. Similar to
+The https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_ (PO)] is the third role in InnerSource. Similar to
 agile processes, the PO is responsible for defining and prioritizing
 requirements and stories for the community to implement. The PO
 interacts often with the Trusted Committer, (e.g., in making sure that a requested or
 contributed feature actually belongs to the product). Especially in
 smaller, grassroots InnerSource communities, the Trusted Committer usually also
-acts as a PO. Check out our https://innersourcecommons.org/resources/learningpath/product-owner/index[Product Owner Learning Path segment]
+acts as a PO. Check out our https://innersourcecommons.org/learn/learning-path/product-owner/01[Product Owner Learning Path segment]
 for more detailed information.
 
 === Why Role Names Matter
@@ -75,10 +75,10 @@ a quick look at the responsibilities of a Trusted Committer.
 
 Trusted Committers have various responsibilities, including:
 
-* https://innersourcecommons.org/resources/learningpath/trusted-committer/02/[Ensuring product quality]
-* https://innersourcecommons.org/resources/learningpath/trusted-committer/03/[Keeping the community healthy]
-* https://innersourcecommons.org/resources/learningpath/trusted-committer/05/[Reducing the barriers to making contributions]
-* https://innersourcecommons.org/resources/learningpath/trusted-committer/04/[Upleveling the community]
-* https://innersourcecommons.org/resources/learningpath/trusted-committer/06/[Advocating the community's needs]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[Ensuring product quality]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[Keeping the community healthy]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Reducing the barriers to making contributions]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[Upleveling the community]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[Advocating the community's needs]
 
-We will look at these responsibilities in more depth in the following pages and also explore the path of https://innersourcecommons.org/resources/learningpath/trusted-committer/07/[becoming a Trusted Committer] at the end of this article.
+We will look at these responsibilities in more depth in the following pages and also explore the path of https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[becoming a Trusted Committer] at the end of this article.

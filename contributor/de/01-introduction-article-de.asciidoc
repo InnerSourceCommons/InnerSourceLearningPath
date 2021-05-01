@@ -1,0 +1,63 @@
+== Einführung
+
+=== Der Contributor in InnerSource
+
+Wurdest Du schon einmal an Deiner nächsten Programmieraufgabe gehindert, weil ein anderes Team noch nicht die Zeit hatte ein Feature umzusetzen, von dem Du abhängig warst?
+Vielleicht hattest Du sogar Zusatzaufwand in Deinem Projekt um einen Workaround für das fehlende Feature zu erstellen.
+Wäre es nicht schön, wenn Du nie wieder auf diese Weise behindert werden würdest?
+
+In Projekten, die InnerSource Prinzipien anwenden, wirst Du nie mehr blockiert werden, weil Du darauf wartest, dass ein anderes Team ein notwendiges Feature bereit stellt.
+Wenn Du nicht bekommst, was Du benötigst, kannst Du die notwendige Änderung direkt im Repository des anderen Teams erstellen, indem Du als Contributor handelst.
+
+Die Rolle des Contributors beschreibt eine Person, die zu den Repositories einer InnerSource Community beiträgt.
+Diese Person kann, muss aber nicht, Teil der Communitiy sein.
+Für nicht wenige Leute gibt es einen Weg, wie man als Contributor vom Zustand "ich kenne die Gemeinschaft" über "ich nutze das Produkt der Community und interagiere mit ihr" bis hin zu "ich trage zum Produkt der Community bei" gelangt.
+Am Ende werden einige sogar https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committers].
+
+=== Zusammenspiel mit anderen Rollen
+
+Als Contributor in einer InnerSource Community interagiert man mit Personen in anderen Rollen der InnerSource Community, wie dem
+https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] oder dem https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] und wahrscheinlich mit anderen Contributoren. 
+Manchmal übernimmt eine Person mehrere Rollen, z. B. die des Trusted Committer und des Product Owner speziell in kleineren Projekten.
+
+Im Folgenden findest Du einen sehr kurzen Überblick über die anderen Rollen, aber wir möchten Dich ermutigen, die weiterführenden Artikel 
+https://innersourcecommons.org/learn/learning-path/trusted-committer/01[introductory article of the Trusted Committer role] und https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Lowering the barriers to entry] zu lesen, bevor Du Dich tiefer in die Details der Contributor Rolle in diesem Abschnitt einarbeitest.
+Alternativ kannst Du Dir auch unsere Videos zu den Themen anschauen: https://innersourcecommons.org/learn/learning-path/trusted-committer/01[introduction], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[lowering the barriers to entry].
+
+==== Trusted Committer
+
+Die Trusted Committer übernehmen die Rolle des Gastgebers innerhalb der Community für die Zeit, in der Du Beiträge für die Community erstellst.
+Sie sind die Hüter des Code Repositories und sorgen dafür, dass Dein, von ihnen akzeptierter, Beitrag näher zur Produktion gebracht wird.
+Ihre Rolle ist es, Dich auf dem Weg ein Contributor zu werden zu betreuen und ermutigen. Dabei können sie Dich direkt unterstützen oder die notwendigen Informationen liefern, mit denen Du dann selbst vorankommst. Diese Informationen können Review Guidelines, Themenvorschläge für größere Beiträge, Verweise auf Dokumentationen oder Codeabschnitte sein, die für Deinen Beitrag relevant sind.
+
+Trusted Committer müssen sich auch um die Produktqualität, Nachhaltigkeit und Projektentwicklung aus technischer und allgemeiner Sicht kümmern, die Barriere für Beiträge für alle verringern und sich allgemein um die Community kümmern.
+Sich um die Community zu kümmern beinhaltet es, die Community attraktiv zu halten, sie und ihre Mitglieder weiter zu enwickeln, und ihre Bedürfnisse in ihrer Organisation zu vertreten.
+
+==== Product Owner
+
+Die Rolle des https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] ähnelt der Rolle des Product Owners im klassischen Sinn. 
+Trotzdem gibt es Unterschiede - abhängig von der Größe des Projekts hat diese Rolle oft die gleiche Person inne, die auch als Trusted Committer agiert.
+In größeren Projekten oder in Teams, die InnerSource nur teilweise als Ansatz verwenden um ihre Anforderungen durch das Akzeptieren von Beiträgen zu erfüllen, werden die Rollen des Product Owners und des Trusted Committers in der Regel von unterschiedlichen Personen wahrgenommen.
+
+Deine Zusammenarbeit mit dem Product Owner wird sich wahrscheinlich darauf konzentrieren, dass Dein Beitrag in die generelle Produktstrategie und Roadmap passt. Du kannst mit dem Produkt Owner zusammenarbeiten, um sicherzustellen, dass allgemeine Aspekte der Dokumentation oder die Konsistenz von UI / UX beim mergen Deines Beitrags erhalten bleiben.
+
+Möglicherweise ist der Product Owner auch daran beteiligt, Dich auf das Projekt, auf seine Vorteile, und auf die Cummunity selbst aufmerksam zu machen.
+
+Wir emutigen Dich mehr über die anderen Rollen zu lernen, und haben deshalb weitere Artikel über den https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] und den https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] für Dich vorbereitet.
+
+=== Kapitel Übersicht
+
+In den folgenden 5 Abschnitten wirst Du weitere Details über die hier vorgestellten Aspekte erfahren.
+
+Im nächste Kapitel wird im Detail auf die _Denkweise und die Gewohnheiten_ eingegangen, die Gelegentheiten erzeugen, ein _InnerSource Contributor zu werden_.
+
+Im dritten Kapitel werden wir uns die _Grundhaltung eines Contributors_ anschauen, z.B. der Aspekt, welches Verhalten eine angenehme und produktive Zeit für Dich und die Community fördert und damit hoffentlich zu noch mehr Zusammenarbeit führt.
+Ein anschauliches Beispiel dafür ist die im Einführungsvideo gezeigte Gast/Gastgeber Analogie.
+
+Das vierte Kapitel beschreibt die praktischen Dinge, die getan werden müssen um Deinen Beitrag zum Erfolg zu führen - die _Mechanik des Mitwirkens_.
+Wir geben praktische Tipps, die Dir bei der Vorbereitung auf die Arbeit an einem Beitrag, während der Entwicklung und auch bei der Pull-Anfrage nützen.
+
+Nachdem wir die persönlichen Aspekte, die der Zusammenarbreit und die technischen Aspekte der Contributor Rolle betrachtet haben, gehen wir im fünften Kaptiel darauf ein welcher Nutzen dem Aufwand beim Mitwirken gegenüber steht. Wir zeigen den Nutzen aus verschiedenen Sichten, deiner, die Deines Teams und aus der Sicht des gesamten Unternehmens.
+
+Das letzte Kapitel wird nochmal zusammenfassen, was es bedeutet, ein InnerSource Contributor zu sein.
+Wir zeigen auf, wie Du Deine Kenntnisse über InnerSource sowohl mit unseren online Videos und Artikeln, als auch durch direkte Einbindung in die InnerSource Community selbst, vertiefen kannst.

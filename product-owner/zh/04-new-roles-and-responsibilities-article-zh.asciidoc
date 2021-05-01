@@ -1,0 +1,42 @@
+== 新角色和新职责
+
+成为InnerSource领导者会带来新的角色和责任。
+其中第一个支持您的TC。 TC是 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committers_]的简称。
+您要做的第一件事可能是帮助选择那些新的TC，并为其提供支持。如果您想进一步了解TC的角色，请查看 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_]部分。
+
+他们是您代码库的守护人。
+通常，他们是主要开发人员，他们擅长代码审查，并且对代码库的体系结构有深刻的理解。
+他们将需要您的支持。
+在与其他团队合作方面，他们也将是您的关键。
+在评估和集成方面，他们将是您的得力助手。记住要支持他们。他们承担着一些疯狂的新职责，可能需要接受指导以帮助 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者团队_]。开发者经常没有接受过如何谈判的培训。我推荐这本书 https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/[Getting to Yes]，供您与他们一起使用。
+
+其次，其他产品所有者。
+现在，您将与其他产品负责人打交道，尤其是要满足有关谈判和协作的新时间承诺。
+这需要时间。您也需要扮演导师的角色。
+您可能需要指导其他产品所有者，尤其是那些新手。您使用的流程也可能与他们的不同。没关系的。
+
+我喜欢将项目代码库视为房屋。一些老房子比其他房子需要更多的规则和指示，因为它们很古怪。
+例如，很久以前，冷热水标记并不是房屋的标准。
+因此，如今，您将其记录在案，以便客人知道，在淋浴时，冷水控制实际上是左手龙头而不是右手龙头。
+
+第三，文档时间。
+开始时，您可能需要花费大量时间来处理开放文档，而不仅仅是您的开放路线图和其他开放过程。
+我也在谈论诸如UX和UI标准，API标准甚至测试要求之类的东西。
+有了这些，您当然要与您的 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committers_]保持同步，以确保他们的编码要求得到满足。我保证这些都是是值得的。
+
+一旦开始与其他团队合作，当您加入新开发人员并完成比以往更多的工作时，请记住那些 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_新开发者_]-您还可以让他们帮助您编写一些全新的文档。
+如果您的工具对这些新的开发者确实很重要，那么他们甚至可以帮助您在标准方面进行很多繁重的工作，来避免瓶颈，因为他们希望与您的产品集成。
+
+最后是内部营销。
+有些项目每个人都想贡献代码。
+通常，这些项目是瓶颈。
+我发现人们首先开始从事InnerSource项目的工作，因为他们必须对其中的一个瓶颈项目有所了解。
+因此，他们可以继续推进自己的项目。但是，如果您不是这些项目之一，该怎么办？
+如果是这样，并且您确实想从公司中的其他人员那里获得免费帮助，那么您将需要向他们推销代码库。
+
+有时，您可以将其作为一种新的学习技能进行营销-例如，Android团队得到了很多贡献，因为很多人都希望将移动设备放在简历上。
+同样，良好的入门文档将帮助其他团队随时准备做出贡献并与您一起工作。
+您可以做的另一件事是去寻找可能正在做多余事情的其他团队。
+因此，如果发现有很多不同的工具在执行相似的功能，则可以一起使用并划分这些功能，以便进行协作，并减少时间和资源。确保反映出这一点，以便他们了解通过InnerSource为您节省了多少钱。
+
+在 http://innersourcecommons.org/[InnerSource Common]中，我们还有其他几种模式。因此，请访问 http://innersourcecommons.org/[innersourcecommons.org]了解更多信息。我可以想到的两个非常好的例子是Code-a-Thon，并进行了不同类型的声明，表明您的代码库已准备就绪并可以营业。谢谢。

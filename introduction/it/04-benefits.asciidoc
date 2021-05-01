@@ -1,0 +1,30 @@
+== Quali sono i benefici dell'InnerSource?
+Esistono molti benefici nel collaborare attraverso l'applicazione dell'InnerSource.
+InnerSource fornisce all'azienda una strategia scalabile per il *guest team per ottenere le richieste di funzionalità quando ne hanno bisogno loro* senza l'onere a lungo termine della manutenzione.
+L'azienda nel suo insieme vince poiché il tempo del guest team viene convogliato nel codice che altri possono usare.
+
+Anche se questo risultato è un beneficio lampante dell'InnerSource, ci sono molti vantaggi per gli host che ricevono contribuzioni InnerSource costanti.
+Ricorda che, come parte del processo InnerSource, il product owner nell'host team concorda fin dall'inizio che le funzionalità fornite sono buone e desiderabili.
+InnerSource permette all'host team di ricevere *aiuto nella creazione di un prodotto migliore* per i suoi utenti!
+
+*InnerSource fornisce all'host team una strategia scalabile* per soddisfare quantità variabili di funzionalità richieste dai suoi numerori utenti.
+Dato che la capacità fissa dei membri a tempo pieno dell'host team, è probabile che, a volte, le roadmap aziendali combinate dei suoi utenti richiederanno molto (o addirittura irragionevolmente) grandi quantità di lavoro da svolgere nei prodotti dell'host team.
+Senza InnerSource, questa situazione facilmente ad avere un team strettato, oberato di lavoro che si occupa di molte richieste di funzionalità inoltrate dai suoi capi.
+
+Comunque, se l'host team opera attraverso l'InnserSource, le risorse di ingegneria richieste per costruire queste funzionalità appariranno in proporzione alla loro importanza nella forma di contributori ospiti.
+*InnerSource diventa un moltiplicatore di forza*  che consente all'host team di agire temporaneamente in maniera più ampia rispetto alle dimensioni effettive durante i periodi di forte esigenza.
+Quando l'esigenza è finita, il rendimento del team torna a livelli normali, il tutto senza nessuna microgestione dell'organico del team o degli elementi del lavoro.
+InnerSource permette al tempo dell'engineering di essere spalmato organicamente dove le necessità dell'organizzazione lo necessita in un dato momento.
+
+Oltre la lavoro grezzo che l'host team è in grado di svolgere nel proprio sistema, le contribuzioni regolari tramite InnerSource forniscono all'host team *requisiti migliori e l'allineamento delle priorità con tutti i suoi utenti*.
+Un host team può soddisfare al meglio la raccolta dei requisiti nel lavoro che produce, ma quando è l'utente stesso a presentare il lavoro, le possibilità sono molto più alte che il cambiamento risultante sia allineato a ciò di cui l'utente ha bisogno.
+Mentre potrebbe esserci solamente un singolo cambiamento inviato al guest team, questo team è probabilmente rappresentativo di molti altri utenti.
+
+In aggiunta a questo allineamento, c'è anche la formazione e istruzione generale dei https://innersourcecommons.org/learn/learning-path/contributor/01[contributors] mentre lavorano ed imparano dai https://innersourcecommons.org/learn/learning-path/trusted-committer/01[trusted committers].
+Questa interazione aiuta i contributori ad imparare e accrescere le loro carriere, con conseguente *maggiore soddisfazione del lavoro*.
+La documentazione del progetto migliora per abilitare queste contribuzioni su larga scala.
+I contributori sentono un interesse nel progetto dell'host team.
+E' qualcosa che raccomandano ai loro colleghi o ai nuovi team che si uniscono.
+Comprendono meglio il progetto e sono in grando di rispondere alle domande su questo ad altro, sollevando l'host team da alcuni di questi oneri.
+Più persone che contribuiscono ad un progetto scaturiscono naturalmente idee provenienti da tutta l'azienda. 
+Questo apprendimento e l'allineamento cross team nel tempo serve ad *abbattere i tradizionali silos aziendali*.

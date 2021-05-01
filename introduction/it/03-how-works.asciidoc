@@ -1,0 +1,46 @@
+== Come funziona l'InnerSource?
+Diciamo che il team A usa il software prodotto dal team B.
+Il team A invia una richiesta di funzionalità al team B, ma il team B non è in grado di implementare quella funzionalità in tempo per il team A.
+In un contesto InnerSource, se il team A non può ottenere questa richiesta di funzionalità allora può inviare invece una pull request.
+Vale a dire che il team A implementa la funzionalità direttamente all'interno del software del team B ed esegue il submit di una pull request con le modifiche al codice.
+I partner del team B esaminano ed accettano il codice inviato.
+
+In questo esempio, identifichiamo il team A come _Guest_ team ed il team B come _Host_ team.
+I termini _Guest_ e _Host_ suggeriscono una situazione analoga al ricevere un ospita a casa.
+In quella situazione, la maggior parte delle persone vogliono essere un buon padrone di casa.
+Garantiscono che ogni cosa sia tenuta pulita ed in ordine in previsione dell'arrivo dei loro ospiti.
+I visitatori sono ricevuti alla porta e vengono invitati ad entrare.
+Possono usare le funzionalità e utilità che sono nelle aree pubbliche della casa.
+Ci potrebbero essere alcune regole in casa che agli ospiti viene chiesto di seguire.
+Allo stesso modo, la maggior parte degli ospiti vuole dimostrare rispetto per la casa ed il loro padrone di casa.
+Fanno attenzione agli oggetti nella casa e seguono le regole per la durata del loro soggiorno.
+Possono sperare o aspettarsi un invito per tornare purché siano stati cortesi ed educati.
+Questi concetti intorno alla visita a casa sono una metafora per l'attitudine ed i comportamenti che i team dovrebbero avere quando si ospita la realizzazione di contribuzioni esterne nella codebase.
+
+Diamo un'occhiata più da vicino a come possono funzionare le meccaniche relative al processo InnerSource.
+Per aiutare in questa spiegazione, nomineremo alcune persone chiave nei team guest e host.
+
+Per primo, il https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] decide quale funzionalità l'host team è disposto ad accettare come una contribuzione.
+Il https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributor_] è l'individuo nel guest team che invia il codice della contribuzione in revisione da parte dell'host team.
+Il https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] rappresenta l'host team nel fornire supporto tempestivo e mentoring di cui il contributore ha bisogno per inviare con successo la pull request.
+
+Con piccoli sforzi dal basso, una singola persona spesso ricopre _entrambi_ i ruoli di product owner e trusted committer.
+
+Con queste definizioni, ecco lo schema di base di una contribuzione InnerSource.
+
+* Il guest team o un contributore richiede una funzionalità dall'host team.
+* Il product owner si assicura che le user story che rappresentano la richiesta di funzionalità siano create dai membri del guest team o dell'host team.
+Queste storie dovrebbero descrivere la richiesta di funzionalità in termini accettabili dal guest team.
+Elencano anche qualsiasi dettaglio dell'host team su come la funzionalità dovrebbe essere consegnata affinché il lavoro venga accettato.
+Gli esempi di tali dettagli includono vincoli architetturali, convenzioni per la scrittura del codice, utilizzo delle dipendenze, dati dei contratti, etc.
+* Supportato dal trusted committer, il contributor invia la pull request per implementare la funzionalità richiesta.
+Nota che questi passi non non presuppongono un sistema specifico per l'organizzazione generale del tempo o delle priorità di un team. InnerSource presuppone che i team che già hanno metodi di organizzazione esistenti forniscano un framework di come utilizzarli per lavorare insieme dove c'è un guest team che desidera contribuire al codice di un host.
+
+Questa opzione funziona bene per il guest team perché ottengono la funzionalità di cui hanno bisogno quando ne hanno bisogno senza assumersi l'onere a lungo termine del mantenimento della soluzione.
+Funziona per l'host team perché sono in grado di scalare e servire meglio i loro consumatori.
+Funziona per l'azienda in generale perché le soluzioni ai problemi condivisi finiscono in posizioni condivise gestite centralmente dove chiunque può utilizzarle.
+Più tempo di progettazione rimane focalizzato sulla produzione del codice che risolve sia i problemi dell'azienda piuttosto che le meccaniche del processo di negoziazione ed escalation delle funzionalità.
+
+=== Additional Resources
+
+* Il pattern del https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer].

@@ -28,7 +28,7 @@ Why 3 is correct: Shared solutions develop out of contributions from interested 
 
 Why 4 is correct: Contributions go beyond just code. There are many aspects that help to keep a solution healthy and thus make it successful, different aspects require different skills, though don’t make one more important than another. If the code is the machine, then think of these areas of contributions as the grease that keeps the machine running smoothly.
 
-===== Question 3.  What is a productive assumption for a contributor to make when joining an InnerSource project?
+===== Question 2.  What is a productive assumption for a contributor to make when joining an InnerSource project?
 
 . I need to make sure to communicate my intent when adding or changing the project.
 . I need to make sure my code serves the hosting teams goals.
@@ -37,7 +37,7 @@ Why 4 is correct: Contributions go beyond just code. There are many aspects that
 
 ====== Correct answer: 1
 
-Why 1 is correct: If your contribution isn’t understood by the host team or the community at large, so they may reverse your hard work or make other changes that weaken the value of your contribution. Open and early communication with the community and the hosting team will help you to drive successful contributions.
+Why 1 is correct: If your contribution isn’t understood by the host team or the community at large, then they may reverse your hard work or make other changes that weaken the value of your contribution. Open and early communication with the community and the hosting team will help you to drive successful contributions.
 
 Why 2 is incorrect: You should make sure that your goals do not conflict with those of the hosting team, but beyond that you can still promote your own team’s goals.
 
@@ -68,7 +68,7 @@ Why 3 is correct: InnerSource stresses the creation of documentation, both as ba
 
 Why 4 is incorrect: Getting your contribution accepted is an achievement to be celebrated.
 However, your involvement does not end there. 
-You should plan to be available at a minimum to fulfil a [30-day warranty](https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/30-day-warranty.md) on your changes (and their impact), or even better: stay close to the community and help out with additional contributions. 
+You should plan to be available at a minimum to fulfil a https://patterns.innersourcecommons.org/p/30-day-warranty[30-day warranty] on your changes (and their impact), or even better: stay close to the community and help out with additional contributions.
 
 ===== Question 2.  Which of the following attitudes helps a contributor build a positive relationship with the community?
 
@@ -101,7 +101,7 @@ More than one answer may be correct in some questions.
 
 ====== Correct answer: 2 and 4
 
-Why 1 is incorrect: For many reasons, contributions to an open and shared solution will likely take more time than changes to a closed, single-team project. For example, coordination with the host may not be straightforward as it is with your immediate team. Your interests and the hosts’ interests may not easily align, and compromises may need to be found. Logistics may also add overhead, such as simply working in different timezones.To mitigate against these delays, plan with additional time. This will alleviate stress and tension and increase your chances of a successful engagement.
+Why 1 is incorrect: For many reasons, contributions to an open and shared solution will likely take more time than changes to a closed, single-team project. For example, coordination with the host may not be straightforward as it is with your immediate team. Your interests and the hosts’ interests may not easily align, and compromises may need to be found. Logistics may also add overhead, such as simply working in different timezones. To mitigate against these delays, plan with additional time. This will alleviate stress and tension and increase your chances of a successful engagement.
 
 Why 2 is correct: Through communication, you allow everyone to understand your intent and give advice where needed. Communication ensures that you understand the plans and goals of others and can work together optimally for the greatest impact.
 
@@ -155,7 +155,7 @@ Why 4 is correct: Interacting with other engineers from different teams will bro
 . A contribution to another team’s code base requires typically less maintenance from you than a change to your own code base.
 . A broader spread of key knowledge reduces the risk of losing organizational memory as people leave.
 . Because others depend on your contributions, you can make sure the dependent teams support your team’s mission.
-. You can influence and help direct shared projects in support of support your usage scenarios.
+. You can influence and help direct shared projects in support of your usage scenarios.
 
 ====== Correct answers 1, 2, and 4
 
@@ -170,7 +170,7 @@ Why 4 is correct: Contributing to an InnerSource project gives you the best chan
 ===== Question 3.  What are the benefits for your company as a whole when you contribute to InnerSource projects?
 
 . Fewer developers are needed to complete projects on time.
-. Increased documentation helps you determine afterward why decisions were made, and helps new developers come up to speed
+. Increased documentation helps you determine afterward why decisions were made, and helps new developers come up to speed.
 . Broader spreading of knowledge encourages learning outside the immediate area of work and eliminates expert silos about important projects.
 . Shared projects lead to overall better alignment between teams and company-wide cross-collaboration. 
 

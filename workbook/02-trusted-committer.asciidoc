@@ -68,7 +68,7 @@ Why 4 is incorrect: Promotions, like other personnel matters, are still handled 
 
 ====== Correct answers: 1 and 3
 
-Why 1 is correct: Trusted committers should embody all the traits of a good community member, both in their coding skills and in their interactions. Therefore, contributors are likely emulate the trusted committers’ behavior and hopefully to become trusted committers themselves.
+Why 1 is correct: Trusted committers should embody all the traits of a good community member, both in their coding skills and in their interactions. Therefore, contributors are likely to emulate the trusted committers’ behavior and hopefully to become trusted committers themselves.
 
 Why 2 is incorrect: InnerSource, done properly, puts responsibility on the contributors for deciding what code needs to change and how to change it. Trusted committers can make sure that the code follows style guidelines and doesn’t break anything else. However, the trusted committer is not part of management. InnerSource reduces the need for managers to direct projects at a detailed level.
 
@@ -187,6 +187,7 @@ Why 2 is correct: As people gain both skills and confidence, they can offer thes
 Why 3 is correct: One of the crucial purposes of mentoring is to enable each contributor to do better each time, and take on a bigger scope in the project.
 
 Why 4 is correct: As contributors become more sophisticated, their productivity increases and their contributions become more significant. Furthermore, they can help set goals that improve the overall health of the project.
+
 ==== SEGMENT: Lowering the Barriers to Entry
 
 TIP:
@@ -209,6 +210,8 @@ Why 3 is correct: Each team may use different tools and repositories. A reposito
 
 Why 4 is incorrect: One of the great benefits of InnerSource is the ability of all teams to use the features designed and coded by other teams. Companies adopt InnerSource largely in order to maximize the value of each code contribution by giving access to the code to every relevant user.
 .
+
+
 ===== Question 2. Guidelines for contributing can be conveyed through:
 
 . The README file
@@ -223,6 +226,7 @@ Why 1 and 2 are correct; Both of these files should be read by contributors befo
 Why 3 is correct: Step-by-step procedures, where they can be defined, help turn the abstract into the concrete. It’s easier to follow a clear procedure than to apply general principles.
 
 Why 4 is correct: The trusted committer offers personal guidance to contributors. It’s useful to preserve such interactions in written form somewhere where other contributors can read and hopefully learn from them.
+
 ==== SEGMENT: Advocating for the Community's Needs
 
 TIP:

@@ -1,14 +1,16 @@
+== New Roles and Responsibilities
+
 Being an InnerSource leader comes with new roles and responsibilities.
- One of the first one of those is supporting your TCs. TCs are the https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committers_].
+ One of the first one of those is supporting your TCs. TCs are the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committers_].
 One of the first things that you're going to be doing is probably helping to choose who those new TCs are going to be and supporting them in their job.
-If you want to know more about what the TC role looks like, please review the https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] section.
+If you want to know more about what the TC role looks like, please review the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] section.
 
 They are the gatekeepers to your code base.
 Typically, they are lead developers who are good at code reviews and have a deep understanding of the code base's architecture.
 They will need your support.
 They will also be key for you in regards to collaborating with other teams.
 They'll be your right-hand people in regards to estimations and integrations. Remember to support them.
-They have some crazy new responsibilities and may need mentoring to help with those https://innersourcecommons.org/resources/learningpath/contributor/index[_contributing teams_].
+They have some crazy new responsibilities and may need mentoring to help with those https://innersourcecommons.org/learn/learning-path/contributor/01[_contributing teams_].
 Developers are not often taught how to negotiate.
 I recommend the book https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/[Getting to Yes], and for you to use it with them.
 
@@ -25,9 +27,9 @@ So nowadays, you document it so that the guests know that hey, in the shower, th
 Thirdly, documentation time.
 At the beginning, you may have to sink a fair amount of your time in regards to the open documentation, and going beyond just your open roadmaps and other open processes.
 I'm also talking about things like UX and UI standards, API standards, or even testing requirements.
-With that, of course, you're going to want to sync up with your https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committers_] as to what they need to feel safe in regards to some of their coding requirements. It'll be worth it, promise.
+With that, of course, you're going to want to sync up with your https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committers_] as to what they need to feel safe in regards to some of their coding requirements. It'll be worth it, promise.
 
-Once you start working with those other teams, and when you onboard new developers and get so much more done than you'd gotten previously, remember those https://innersourcecommons.org/resources/learningpath/contributor/index[_new developers_] - you can also get them to help you write some of this brand-new documentation.
+Once you start working with those other teams, and when you onboard new developers and get so much more done than you'd gotten previously, remember those https://innersourcecommons.org/learn/learning-path/contributor/01[_new developers_] - you can also get them to help you write some of this brand-new documentation.
 If your tool is one of those bottlenecks and is really important to them, they may even offer to help you do a lot of the heavy lifting in regards to the standards, because they want to integrate in with your product.
 
 Lastly, internal marketing.
