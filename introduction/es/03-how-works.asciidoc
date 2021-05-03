@@ -9,7 +9,7 @@ El equipo B es entonces el encargado de revisar dicho código y aceptarlo cuando
 En este ejemplo, el equipo A es el _Invitado_ y el equipo B es el equipo _Anfitrión_.
 Los términos de _Invitado_ y _Anfitrión_ se usan para referirse a una situación análoga a la de tener una visita en casa.
 En esta situación, la mayor parte de las personas quieren ser un buen anfitrión y para ello hay que asegurar que la casa está ordenada y las cosas guardadas en su sitio como anticipo a la visita de nuestros invitados. Los visitantes serán entonces bienvenidos en la puerta e invitados a pasar y podrán usar las diferentes herramientas e instalaciones que sean públicas.
-Hay, por supuesto, una serie de relas en la casa que se pide a los invitados que sigan.
+Hay, por supuesto, una serie de reglas en la casa que se pide a los invitados que sigan.
 De igual manera, los invitados quieren ser educados y mostrar respeto por la casa y por los anfitriones. Tienen cuidado con las cosas de la casa y siguen las reglas durante su estancia. Además esperan que quizá vuelvan a ser invitados de nuevo siempre y cuando hayan sido educados y corteses.
 Estos conceptos acerca de una visita en una casa son una metáfora de la actitud  y comportamientos que los equipos deben tener cuando actúan como anfitriones o como invitados a la hora de contribuir al código fuente de nuestro producto.
 
