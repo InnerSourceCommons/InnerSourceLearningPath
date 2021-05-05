@@ -6,7 +6,7 @@ Además, ésta es una situación donde la compañía gana como un todo ya que ot
 
 Aunque éste sea uno de los beneficios más inmediatos y claros, hay muchos otros para aquellos que reciben contribuciones en este modelo de forma continua.
 Como recordatorio y como parte del proceso InnerSource, el product owner del equipo que recibe las contribuciones está de acuerdo con esta contribución desde el principio, siendo éstas contribuciones esperadas y deseadas.
-¡InnerSource permite al equipo anfitrión obtener "ayuda para crear un producto mejor" para sus consumidores!
+¡InnerSource permite al equipo anfitrión obtener *ayuda para crear un producto mejor* para sus consumidores!
 
 *InnerSource proporciona una estrategia al equipo anfitrión que escala* para los diferentes requisitos que procedan de los diferentes consumidores a lo largo de la empresa.
 Dada la capacidad limitada y fija de los miembros del equipo anfitrión, es probable que con el tiempo, la combinación de roadmaps de sus consumidores requieran una gran cantidad de trabajo, a veces inabarcable, en los diferentes productos.
