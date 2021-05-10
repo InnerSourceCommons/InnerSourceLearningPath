@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- The need for day-to-day guide
+- The value of this sprint guide
 - Understanding prerequisites to successful InnerSource sprint
 - Learn additional activities for Sprint Planning
 - What to do during the sprint
