@@ -50,7 +50,7 @@
     - Indications of Contributor's commitment
     - Managing dependencies
 
-### Spring Planning
+### Sprint Planning
 - Contributor's point of contact
     - Their responsibilities
     - Communicating with Contributor
