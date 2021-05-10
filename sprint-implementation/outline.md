@@ -1,4 +1,4 @@
-# Implementig in Sprints Learning Path Outline
+# Implementing in Sprints Learning Path Outline
 
 ## Learning Goals
 
