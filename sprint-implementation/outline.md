@@ -64,7 +64,7 @@
     - Apply the same diligence in reviewing your team's code as you do with external Contributors
 
 ### After the Sprint
-- Remember to demo Contributor's work
+- Remember to demo Contributor's work and thank them for their contribution
 - Re-establish expectations for post-Production support (link to 30-day warranty pattern)
 - What to do if contribution has not been completed
 
