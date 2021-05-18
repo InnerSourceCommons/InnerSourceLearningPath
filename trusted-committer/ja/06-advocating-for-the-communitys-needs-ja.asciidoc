@@ -19,7 +19,7 @@ Trusted Committerは、組織との信頼関係を構築し、その信頼関係
 有益なコントリビューターを公に称え、彼らのマネージャーがコントリビューションを認識していることを確認することは良い慣行です。
 称賛を与えることを怠ると、個々のコントリビューターを苛立たせ、コミュニティの健全性を損ねることにもなりかねません。
 これは、InnerSourceの作業モデルにまだ慣れていない企業や、陰で動いているInnerSourceコミュニティによってソフトウェアが開発されている場合や、マネージャが単にコミュニティの貢献に気付いていなかった場合に起こります。
-優れたTrusted Committerは、マネージメント層と連携して公の称賛を唱道します。
+優れたTrusted Committerは、マネージメント層と連携して公の称賛を主張します。
 称賛を与えないことは、悪意で行われることはほとんどなく、簡単に修正できます。
 
 Trusted Committerによる擁護が必要となるもう1つの一般的なケースは、 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[コントリビューター] に投稿する時間や許可が与えられていない場合です
