@@ -22,7 +22,7 @@ Trusted Committerは、組織との信頼関係を構築し、その信頼関係
 優れたTrusted Committerは、マネージメント層と連携して公の称賛を主張します。
 称賛を与えないことは、悪意で行われることはほとんどなく、簡単に修正できます。
 
-Trusted Committerによる擁護が必要となるもう1つの一般的なケースは、 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[コントリビューター] に投稿する時間や許可が与えられていない場合です
+Trusted Committerによる支持が必要となるもう1つの一般的なケースは、 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[コントリビューター] にコントリビューションする時間や許可が与えられていない場合です
 これは、コミュニティがコントリビューターの部署外で製品を開発している場合で、マネージャの目標との関係がない場合に起こる可能性があります。
 この場合、Trusted Committer はコントリビュータのマネージャと議論し、代替案の決定を求めロビー活動を行う必要があります。
 
