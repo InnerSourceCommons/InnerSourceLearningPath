@@ -1,0 +1,30 @@
+[[advocating]]
+== コミュニティのニーズを提唱する
+
+InnerSourceコミュニティは企業内に存在するため、オープンソースコミュニティより制約があります。
+時には、コミュニティとビジネスユニットの利益が相反することがあります。
+Trusted Committer は、プロジェクトに対する長期的な視点を持っています。
+彼らは、健全なコミュニティが、健全なコードの前提条件であることを理解しています。
+これが、多くのInnerSourceコミュニティが http://theapacheway.com/community-over-code/[「コードよりコミュニティ(Community over Code)」] をモットーとする Apache Way でモデル化された理由です。
+一方でビジネスユニットは、当然ながら、InnerSourceコミュニティにより作成される製品により大きな関心をもちます。
+彼らは、短期から中期の業績で利益がでることを好みます。
+
+Trusted Committerが重要な役割を果たすのは、この潜在的な競合領域です。
+Trusted Committerは、組織との信頼関係を構築し、その信頼関係に基づいて、コミュニティの利益と企業内のソフトウェアの長期的な健全性の擁護者として行動します。
+彼らには、技術的なリスクとコミュニティ関連のリスクを経営層に伝える責任があります。
+同時に、Trusted Committerは戦略的かつ会社により与えられる自由度の範囲内で活動する必要があります。
+
+また、Trusted Committersは、コミュニティと個々の  https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[コントリビューター] が、彼らの仕事に対する公な称賛を得られるようにする必要があります。
+公な称賛とは、特に自発的にコントリビューションするコントリビューターに与えられ広まるものです。
+有益なコントリビューターを公に称え、彼らのマネージャーがコントリビューションを認識していることを確認することは良い慣行です。
+称賛を与えることを怠ると、個々のコントリビューターを苛立たせ、コミュニティの健全性を損ねることにもなりかねません。
+これは、InnerSourceの作業モデルにまだ慣れていない企業や、陰で動いているInnerSourceコミュニティによってソフトウェアが開発されている場合や、マネージャが単にコミュニティの貢献に気付いていなかった場合に起こります。
+優れたTrusted Committerは、マネージメント層と連携して公の称賛を主張します。
+称賛を与えないことは、悪意で行われることはほとんどなく、簡単に修正できます。
+
+Trusted Committerによる支持が必要となるもう1つの一般的なケースは、 https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[コントリビューター] にコントリビューションする時間や許可が与えられていない場合です
+これは、コミュニティがコントリビューターの部署外で製品を開発している場合で、マネージャの目標との関係がない場合に起こる可能性があります。
+この場合、Trusted Committer はコントリビュータのマネージャと議論し、代替案の決定を求め働きかける必要があります。
+
+要約すると、Trusted Committerが、個々の https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/contributor/01-introduction-article.asciidoc[コントリビューター] とコミュニティ全体の利益を主張する必要がある状況は多々あります。
+Trusted Committerは、コミュニティが組織に提供できる価値は、コミュニティの健全性と寿命、そして最終的には両者の信頼関係に依存していることを理解しています。
