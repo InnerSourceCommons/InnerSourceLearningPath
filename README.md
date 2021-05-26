@@ -9,10 +9,10 @@ Presenting that information in both written and spoken form allows people to lea
 Individual segments are grouped by common themes into sections.
 Currently, the four sections to the learning path are:
 
-  1. [Introduction](http://innersourcecommons.org/resources/learningpath/introduction/)
-  1. [Trusted Committer](http://innersourcecommons.org/resources/learningpath/trusted-committer/)
-  1. [Contributor](http://innersourcecommons.org/resources/learningpath/contributor/)
-  1. [Product Owner](http://innersourcecommons.org/resources/learningpath/product-owner/)
+  1. [Introduction](http://innersourcecommons.org/learn/learning-path/introduction/)
+  1. [Trusted Committer](http://innersourcecommons.org/learn/learning-path/trusted-committer/)
+  1. [Contributor](http://innersourcecommons.org/learn/learning-path/contributor/)
+  1. [Product Owner](http://innersourcecommons.org/learn/learning-path/product-owner/)
  
 There is also the [workbook](workbook/), a collection of questions and answers on based on the videos and articles for people to check their knowledge against after consuming the material.
 
