@@ -1,0 +1,26 @@
+== はじめに
+
+こんにちは、中間管理職やプロダクトオーナー、プログラムマネージャーの皆さん。
+もっと幸せで効果的なチームをリードしたいと思いますか？
+報告地獄に閉じ込められた記録係よりもリーダーになりたいですか？
+
+私の会社にInnerSourceのプロセスを導入したことで、約80%が割り込み駆動型開発だった複数の大規模システムのリファクタリングをすることができました。
+そして私たちは皆、その環境を管理すること、ましてや開発することが、いかに難しいかを知っています。
+
+InnerSourceプロセスを通じて、私達は数十年積み残していた内部残件を1年足らずで削減もしました。
+InnerSouceの重要な要素はオープンであることです。
+これは、ほとんどの企業のチームが閉じ込められているサイロを破壊します。
+これを実現可能にして、数え切れない管理や開発者の時間を節約する、基本的なInnerSourceの手法について説明します。
+
+こんにちは。Sliona Bonewald です。PayPalでディレクターをしています。 
+InnerSourceプロセスでは、40以上のチームと1500人以上のスタッフのトレーニングに成功しました。
+また、InnerSourceコモンズにも参加して定期的に講演しています。
+是非ご参加ください。
+http://innersourcecommons.org/[innersourcecommons.org] を、ご覧ください。
+http://innersourcecommons.org/checklist[innersourcecommons.org/checklist] で、O'Reillyと一緒に執筆した小冊子のコピーも入手できます。 
+この動画より、さらに詳しい内容が書かれています。
+
+まずは他の動画をご覧ください。
+次のリンクを参照してください。
+アジャイルやリーンプロセスに精通していると役立ちますし、この動画を視る前に、 https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] と https://innersourcecommons.org/resources/learningpath/contributor/index[_コントリビューター_] の役割を理解しておくことはとても重要です。 
+よろしくお願いします。
