@@ -39,6 +39,7 @@ Nei tuoi team classici tutti avevano un'idea dei tempi di consegna previsti.
 All'interno del contesto InnerSource questo potrebbe non essere il caso, a causa di grandi differenze di fuso orario (ad esempio Seattle, USA con PDT contro Berlin, Germania con CEST) o non sei disponibile a tempo pieno come il tuo team originale, anche se sono nella stessa posizione fisica in cui ti trovi.
 Pertanto, per prevenire la frustazione da entrambe le parti, come l'impazienza e altri effetti che non incentivano la fiducia, dovrai quindi gestire esplicitamente le aspettative per quanto riguarda i tempi di reazione previsti.
 Un approccio consiste nel reagire rapidamente con un "Lo analizzerò, mi serviranno alcuni giorni" ad un feedback del https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer's_] se sai che potrai lavorarci in pochi giorni.
+
 Idealmente, puoi fornire loro una stima di massima di quando avrai il tempo per visionare il loro contributo.
 Facendo in questo modo costruisci fiducia per affidabilità anche per contatti non fisici, distanze maggiori o canali altrimenti asincroni.
 La fiducia stabilita ti permetterà di superare i momenti di incertezza nella strada collaborativa che hai da percorrere.

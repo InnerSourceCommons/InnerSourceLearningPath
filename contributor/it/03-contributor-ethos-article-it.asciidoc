@@ -65,8 +65,7 @@ all'host team. Articola il valore che la contribuzione porterà al loro
 ecosistema.
 
 L'host team sarà quello che si prenderà carico della manutenzione delle modifiche. Ha
-senso offrire per soddisfare una https://patterns.innersourcecommons.org/p/30-day-warranty[garanzia a 30 giorni]
-sulla tua richiesta. Questo può
+senso offrire per soddisfare una https://patterns.innersourcecommons.org/p/30-day-warranty[garanzia a 30 giorni] sulla tua richiesta. Questo può
 alleviare la paura dell'host team nei riguardi dei Contributori non siano disponibili per il supporto nella correzione dei bug dopo la contribuzione.
 
 === Anticipa e segui le regole della casa
