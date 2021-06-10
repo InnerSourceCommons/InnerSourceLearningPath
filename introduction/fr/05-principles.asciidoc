@@ -1,0 +1,70 @@
+== Principes d'InnerSource
+
+Chaque entreprise, équipe, projet et individu est différent.
+C'est pourquoi la façon exacte dont le concept d'InnerSource fonctionne varie d'une situation à l'autre.
+Cependant, il existe quatre principes fondamentaux qui forment la base de tout exemple réussi d'InnerSource.
+Ces principes ont été inspirés par des projets open source réussis et sont nécessaires pour qu'InnerSource obtienne les avantages décrits précédemment.
+
+Ces principes sont :
+
+*Openness* (Ouverture)
+*Transparence
+* Mentorat prioritaire
+*Contribution volontaire au code*.
+
+Examinons chacun de ces principes plus en détail.
+
+=== Ouverture
+
+La configuration d'un projet ouvert permet une contribution sans friction.
+Les projets doivent pouvoir être découverts et bien documentés grâce aux fichiers README.md et CONTRIBUTING.md situés à la racine du dépôt.
+Toute personne au sein d'une organisation doit être en mesure de trouver un projet souhaité et d'y participer sans avoir besoin d'une quantité démesurée de conseils directs de la part des membres de l'équipe hôte.
+Les coordonnées de l'équipe hôte doivent être diffusées sur autant de canaux que nécessaire pour le projet.
+L'intention de l'équipe hôte d'accepter les contributions d'InnerSource à son projet devrait être partagée par les canaux pertinents de l'organisation afin de la sensibiliser.
+Particulièrement dans les petites structures, vous pourriez vouloir établir une " diffusion " régulière du travail d'InnerSource effectué par votre équipe.
+Dans les grandes structures, cependant, une telle diffusion peut créer beaucoup de bruit, et il peut être plus approprié de s'assurer que le projet est découvrable dans un outil facile à utiliser.
+Rappelez-vous, l'objectif est de sensibiliser les gens en utilisant les canaux appropriés qui fonctionnent dans VOTRE entreprise.
+
+La liste ci-dessus n'est en aucun cas exhaustive.
+L'ouverture du projet est généralement directement liée à la réussite du projet en termes d'InnerSource.
+Plus il est ouvert, moins il y a de barrières pour les contributeurs potentiels.
+Moins il est ouvert, plus il devient difficile pour quiconque de contribuer.
+
+=== Transparence
+
+Pour que les équipes invitées puissent contribuer de manière significative à un projet, l'équipe hôte doit être _transparente_.
+Cela signifie que les équipes invitées doivent être en mesure de comprendre :
+
+* Le projet/repo et sa direction
+* Les exigences de fonctionnalité en suspens
+* L'avancement des besoins en fonctionnalités
+* La prise de décision de l'équipe hôte
+
+Dans la mesure du possible, les éléments ci-dessus doivent être communiqués clairement et en détail, depuis les définitions internes des équipes jusqu'aux scénarios de cas particuliers propres au projet.
+Cette communication doit être faite d'une manière qui peut être facilement interrogée et comprise par ceux qui ne font pas partie de l'équipe principale.
+
+=== Mentorat hiérarchisé
+
+Le mentorat de l'équipe hôte vers l'équipe invitée via https://innersourcecommons.org/learn/learning-path/trusted-committer/01 [committers de confiance] est un aspect essentiel d'InnerSource.
+https://innersourcecommons.org/learn/learning-path/contributor/01 [Contributeurs] des équipes invitées sont mis à niveau afin qu'ils comprennent suffisamment le projet/repo de l'équipe hôte pour le modifier avec succès.
+Ce faisant, ils en viennent à mieux comprendre le système logiciel de l'équipe hôte en tant que consommateur général et ambassadeur du projet/logiciel.
+Ce contributeur individuel peut, avec le temps et l'expérience, jouer un rôle plus important dans le projet en tant que participant de confiance.
+
+Il est essentiel que l'équipe d'accueil accorde la priorité au mentorat des contributeurs.
+L'équipe hôte doit s'efforcer de prendre le temps d'encadrer les contributeurs invités _au moment où le contributeur en a besoin_ plutôt que lorsque cela lui convient.
+Parfois, il peut s'agir d'un changement de culture pour les ingénieurs de l'équipe hôte qui doivent passer du temps à aider les autres à coder plutôt qu'à coder eux-mêmes.
+Ce mentorat est précieux à la fois pour le contributeur individuel et pour l'hôte, et il vaut la peine de bien le faire.
+Il s'avère mutuellement bénéfique à long terme. En améliorant le code, le contributeur noue ou améliore des relations au sein d'une organisation qui n'aurait peut-être pas pu le faire.
+améliore des relations au sein d'une organisation qui n'auraient peut-être pas existé autrement.
+L'open source reconnaît volontiers ce point et considère comme un honneur d'atteindre le statut de committer de confiance sur un projet.
+
+=== Contribution volontaire au code
+
+Le premier mot _Volontaire_ signifie que l'engagement dans InnerSource des équipes invitées et hôtes se fait de leur plein gré.
+L'équipe invitée donne volontairement du code à l'équipe hôte et l'équipe hôte l'accepte volontairement.
+Cette nature volontaire signifie que chaque équipe doit être certaine que sa participation apporte une valeur ajoutée aux objectifs des autres.
+Une équipe hôte n'est jamais obligée d'accepter une contribution qui n'est pas en parfait accord avec sa mission globale.
+Une équipe invitée n'est jamais tenue de soumettre une contribution qui ne contribue pas à sa propre mission et à ses priorités.
+
+Le mot _Code_ souligne que la collaboration entre l'invité et l'hôte va jusqu'au code.
+La participation des invités à l'ouverture des problèmes, à la mise à jour des exigences, à la correction des documents, etc. est une bonne chose, mais la collaboration doit aller jusqu'à la soumission du code pour obtenir tous les avantages dont nous avons parlé.

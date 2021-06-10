@@ -1,0 +1,31 @@
+== Quels sont les avantages d'InnerSource ?
+
+Il existe de nombreux avantages à collaborer via InnerSource.
+InnerSource offre à une entreprise une stratégie évolutive permettant aux *équipes invitées d'obtenir des demandes de fonctionnalités lorsqu'elles en ont besoin*, sans le fardeau à long terme de la maintenance.
+L'entreprise dans son ensemble est gagnante car le temps des équipes invitées est mis dans un code que d'autres peuvent utiliser.
+
+Bien que ce résultat soit un avantage indéniable d'InnerSource, il existe de nombreux avantages pour les hôtes qui reçoivent régulièrement des contributions d'InnerSource.
+Rappelez-vous que, dans le cadre du processus d'InnerSource, le propriétaire du produit de l'équipe hôte convient dès le départ que les fonctions contribuées sont bonnes et souhaitables.
+InnerSource permet à l'équipe hôte de recevoir *une aide pour créer un meilleur produit* pour ses consommateurs !
+
+*InnerSource fournit à l'équipe hôte une stratégie évolutive* pour répondre à des quantités variables de fonctionnalités demandées par ses nombreux clients.
+Compte tenu de la capacité fixe des membres à temps plein de l'équipe hôte, il est probable que, parfois, les feuilles de route commerciales combinées de ses consommateurs exigent que des quantités très (ou même déraisonnablement) importantes de travail soient effectuées dans les produits de l'équipe hôte.
+Sans InnerSource, cette situation peut facilement conduire à une équipe stressée et surchargée de travail qui doit faire face à de nombreuses demandes de fonctionnalités transmises à ses dirigeants.
+
+Cependant, si l'équipe hôte fonctionne via InnerSource, les ressources d'ingénierie nécessaires pour construire ces fonctionnalités apparaîtront proportionnellement à leur importance sous la forme de contributeurs invités.
+*InnerSource devient un multiplicateur de force* qui permet à l'équipe hôte d'agir temporairement plus que sa taille réelle pendant les périodes de forte demande.
+Une fois la demande terminée, le débit de l'équipe revient à des niveaux normaux, sans aucune micro-gestion de l'effectif de l'équipe ou des éléments de travail.
+InnerSource permet au temps d'ingénierie de circuler organiquement là où l'organisation en a besoin à un moment donné.
+
+Au-delà du travail brut que l'équipe hôte est capable d'accomplir dans son système, les contributions régulières d'InnerSource donnent à l'équipe hôte *un meilleur alignement des exigences et des priorités avec tous ses consommateurs*.
+Une équipe hôte peut faire sa meilleure collecte d'exigences sur le travail qu'elle produit, mais lorsque le consommateur lui-même est celui qui soumet le travail, les chances sont beaucoup plus grandes que le changement résultant soit aligné sur ce dont le consommateur a besoin.
+Même si c'est une seule équipe d'invités qui soumet le changement, cette équipe est probablement représentative de nombreux autres consommateurs.
+
+En plus de cet alignement, il y a également une formation générale et une éducation de https://innersourcecommons.org/learn/learning-path/contributor/01 [contributeurs] car ils travaillent avec et apprennent de https://innersourcecommons.org/learn/learning-path/trusted-committer/01 [committers de confiance].
+Cette interaction aide les contributeurs à apprendre et à progresser dans leur carrière, ce qui entraîne une *satisfaction professionnelle accrue*.
+La documentation du projet s'améliore pour permettre ces contributions à l'échelle.
+Les contributeurs se sentent concernés par le projet de l'équipe hôte.
+Ils le recommandent à leurs collègues ou aux nouvelles équipes qu'ils rejoignent.
+Ils comprennent mieux le projet et sont en mesure de répondre aux questions des autres, ce qui soulage l'équipe hôte d'une partie de cette charge.
+Un plus grand nombre de personnes contribuant à un projet favorise naturellement l'échange d'idées provenant de toute l'entreprise.
+Au fil du temps, cet apprentissage et cet alignement inter-équipes permettent de "briser les silos traditionnels de l'entreprise".

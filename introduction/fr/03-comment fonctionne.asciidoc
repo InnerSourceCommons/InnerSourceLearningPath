@@ -1,0 +1,48 @@
+== Comment fonctionne InnerSource ?
+
+Disons que l'équipe A utilise un logiciel produit par l'équipe B.
+L'équipe A soumet une demande de fonctionnalité à l'équipe B, mais l'équipe B n'est pas en mesure d'implémenter cette fonctionnalité à temps pour l'équipe A.
+Dans un environnement InnerSource, si l'équipe A ne peut pas obtenir cette demande de fonctionnalité, elle soumet une demande de retrait à la place.
+C'est-à-dire que l'équipe A implémente la fonctionnalité directement dans le logiciel de l'équipe B et soumet une demande d'extraction avec les changements de code.
+L'équipe B s'associe pour examiner et accepter le code soumis.
+
+Dans cet exemple, nous appelons l'équipe A l'équipe _Invité_ et l'équipe B l'équipe _Hôte_.
+Les termes _Invité_ et _Hôte_ suggèrent une situation analogue à la réception d'un visiteur à la maison.
+Dans cette situation, la plupart des gens veulent être de bons hôtes.
+Ils veillent à ce que tout soit bien rangé et ordonné en prévision de l'arrivée de leurs invités.
+Les visiteurs sont accueillis à la porte et invités à entrer.
+Ils peuvent utiliser les équipements et les services qui se trouvent dans les parties communes de la maison.
+Il peut y avoir quelques règles de la maison que les invités sont priés de suivre.
+De même, la plupart des hôtes veulent faire preuve de respect envers la maison et leur hôte.
+Ils font attention aux objets de la maison et suivent les règles pendant toute la durée de leur séjour.
+Ils peuvent espérer ou attendre une invitation de retour, à condition d'avoir été courtois et polis.
+Ces concepts relatifs à la visite d'une maison sont une métaphore de l'attitude et des comportements que les équipes doivent adopter lorsqu'elles accueillent une autre personne qui contribue à la base de code.
+
+Regardons de plus près comment les mécanismes du processus InnerSource peuvent fonctionner.
+Pour faciliter cette explication, nous allons nommer quelques personnes clés dans les équipes invitées et hôtes.
+Tout d'abord, le https://innersourcecommons.org/learn/learning-path/product-owner/01[_Propriétaire du produit_] détermine quelle fonctionnalité l'équipe hôte est prête à accepter comme contribution.
+Le https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributeur_] est la personne de l'équipe invitée qui soumet la contribution au code à l'équipe hôte pour examen.
+Le https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] représente l'équipe hôte en fournissant le soutien et l'encadrement dont le contributeur a besoin pour soumettre avec succès la demande de retrait.
+Dans le cas de petits projets de base, une seule personne remplit souvent les rôles de propriétaire du produit et de commiteur de confiance.
+
+Avec ces définitions, voici le schéma de base d'une contribution InnerSource.
+
+* L'équipe ou le contributeur invité demande une fonctionnalité à l'équipe hôte.
+* Le propriétaire du produit s'assure que les histoires d'utilisateur représentant la demande de fonctionnalité sont créées, soit par les membres de l'équipe invitée, soit par l'équipe hôte.
+Ces histoires doivent décrire la fonctionnalité demandée dans des termes acceptables pour l'équipe invitée.
+Ils énumèrent également tous les détails fournis par l'équipe hôte sur la manière dont la fonctionnalité doit être fournie pour que le travail soit accepté.
+Les exemples de tels détails incluent les contraintes d'architecture, les conventions de codage, l'utilisation des dépendances, les contrats de données, etc.
+* Soutenu par le commettant de confiance, le contributeur soumet la demande de modification pour implémenter la fonctionnalité demandée.
+
+Notez que ces étapes ne supposent pas un système spécifique pour l'organisation générale du temps ou des priorités d'une équipe. InnerSource part du principe que les équipes ont déjà des méthodes d'organisation existantes et fournit un cadre pour les utiliser afin de travailler ensemble lorsqu'une équipe invitée souhaite contribuer au code d'un hôte.
+
+Cette option fonctionne bien pour l'équipe invitée car elle obtient la fonctionnalité dont elle a besoin au moment où elle en a besoin sans avoir à assumer le fardeau à long terme de la maintenance de la solution.
+Elle fonctionne pour l'équipe hôte car elle est en mesure de mieux évoluer et de mieux servir ses clients.
+Pour l'entreprise dans son ensemble, car les solutions aux problèmes partagés se retrouvent dans des emplacements partagés, maintenus de manière centralisée, où tout le monde peut les utiliser.
+Plus de temps d'ingénierie est consacré à la production de code qui résout les problèmes de l'entreprise plutôt qu'à la mécanique de la négociation des fonctionnalités et au processus d'escalade.
+
+=== Ressources supplémentaires
+
+* Le modèle https://patterns.innersourcecommons.org/p/trusted-committer [Trusted Committer].
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
