@@ -6,7 +6,7 @@ En su núcleo hay sin embargo cuatro principios que forman los cimientos de cual
 Estos principios se inspiran en los proyectos existosos de software libre y son requeridos en entornos InnerSource para alcanzar los beneficios que ya se han descrito.
 
 Estos principios son:
-* *Disponibilidad*
+* *Acceso abierto*
 * *Transparencia*
 * *Mentoría priorizada*
 * *Contribuciones voluntarias de código fuente*
@@ -14,7 +14,7 @@ Estos principios son:
 Echemos un vistazo a cada uno de estos principios en más detalle.
 
 
-=== Disponibilidad
+=== Acceso abierto
 
 La configuración de un proyecto abierto permite contribuciones con menos roces.
 Los projects deben poder ser descubiertos y bien documentados a través de los ficheros README.md y CONTRIBUTING.md dentro del directorio base del repositorio.
