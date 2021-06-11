@@ -1,0 +1,13 @@
+== Conclusión
+
+En esta ruta de aprendizaje, hemos aportdo una introducción a InnerSource.
+InnerSource aplica los principios de trabajo y mejores prácticas del software libre al desarrollo interno de software.
+Ofrece una opción adicional a los consumidores cuando los equipos de desarrollo no pueden atender una solicitud de funcionalidad necesaria.
+El InnerSource ganador involucra a un https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] y a un https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_ ] del *equipo anfitrión* así como un https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidor_] del *equipo invitado*.
+Realizado de manera efectiva, InnerSource brinda muchos beneficios a ambos equipos participantes.
+Los principios clave sobre los que trabaja un InnerSource eficaz son *contribución voluntaria de código* y *mentoría priorizada*.
+
+Si bien esta capacitación contiene una descripción general de alto nivel de InnerSource, hay muchos más detalles útiles para hacer que InnerSource realmente funcione para tu equipo.
+Si quieres seguir la conversación permanente sobre InnerSource y sus mejores prácticas, únete a http://innersourcecommons.org [the InnerSource Commons].
+InnerSource Commons patrocina un canal de Slack, un grupo de trabajo de patrones de InnerSource y varios congresos presenciales cada año.
+Participar en el mantenimiento y mejora del acerbo común de InnerSource Commons es una excelente manera de mantenerse al día de lo último en InnerSource.
