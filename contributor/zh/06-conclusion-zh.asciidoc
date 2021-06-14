@@ -10,7 +10,7 @@
 
 我们希望你喜欢观看视频 和/或 阅读文章，并能够从中获得一些有趣的新见解，从而成为一名优秀的贡献者。
 
-如果你还没有这样做，我们想邀请你在我们的 InnerSource 学习路径中了解更多关于 InnerSource 的其他方面： https://innersourcecommons.org/resources/learningpath/[_http://innersourcecommons.org/learningpath/_]
+如果你还没有这样做，我们想邀请你在我们的 InnerSource 学习路径中了解更多关于 InnerSource 的其他方面： http://innersourcecommons.org/learningpath/[_http://innersourcecommons.org/learningpath/_]
 
 我们邀请你在线查看 InnerSource 组的 http://innersourcecommons.org/[_InnerSource Commons_] —— 欢迎随时加入讨论并分析你在组织中获得的经验和教训。
 
