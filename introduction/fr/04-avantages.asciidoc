@@ -1,4 +1,4 @@
-== Quels sont les avantages d'InnerSource ?
+== Quels sont les avantages de l'InnerSource ?
 
 Il existe de nombreux avantages à collaborer via l'InnerSource.
 L'InnerSource offre à une entreprise une stratégie évolutive permettant aux *équipes invitées d'obtenir des demandes de fonctionnalités lorsqu'elles en ont besoin*, sans le fardeau à long terme de la maintenance.
@@ -6,7 +6,7 @@ L'entreprise dans son ensemble est gagnante car le temps des équipes invitées 
 
 Bien que ce résultat soit un avantage indéniable de l'InnerSource, il existe de nombreux avantages pour les hôtes qui reçoivent régulièrement des contributions via l'InnerSource.
 Rappelez-vous que, dans le cadre du processus de l'InnerSource, le propriétaire du produit de l'équipe hôte convient dès le départ que les fonctions issues des contributions sont bonnes et souhaitables.
-InnerSource permet à l'équipe hôte de recevoir *une aide pour créer un meilleur produit* pour ses consommateurs !
+L'InnerSource permet à l'équipe hôte de recevoir *une aide pour créer un meilleur produit* pour ses consommateurs.
 
 *L'InnerSource fournit à l'équipe hôte une stratégie évolutive* pour répondre à des quantités variables de fonctionnalités demandées par ses nombreux clients.
 Compte tenu de la capacité fixe des membres à temps plein de l'équipe hôte, il est probable que, parfois, les feuilles de route commerciales combinées de ses consommateurs exigent que des quantités très (ou même déraisonnablement) importantes de travail soient effectuées dans les produits de l'équipe hôte.
