@@ -1,16 +1,16 @@
-== Principes d'InnerSource
+== Les principes de l'InnerSource
 
 Chaque entreprise, équipe, projet et individu est différent.
 C'est pourquoi la façon exacte dont le concept d'InnerSource fonctionne varie d'une situation à l'autre.
 Cependant, il existe quatre principes fondamentaux qui forment la base de tout exemple réussi d'InnerSource.
-Ces principes ont été inspirés par des projets open source réussis et sont nécessaires pour qu'InnerSource obtienne les avantages décrits précédemment.
+Ces principes ont été inspirés de projets open source réussis et sont nécessaires pour que l'InnerSource obtienne les avantages décrits précédemment.
 
 Ces principes sont :
 
-*Openness* (Ouverture)
-*Transparence
-* Mentorat prioritaire
-*Contribution volontaire au code*.
+*L'ouverture* (Openness)
+*La transparence
+* Un Mentorat prioritaire
+*La Contribution volontaire au code*
 
 Examinons chacun de ces principes plus en détail.
 
