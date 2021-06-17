@@ -1,0 +1,39 @@
+== Quels problèmes l'InnerSource peut-il résoudre ?
+
+L'InnerSource encourage et récompense la collaboration et la réutilisation du code avec quiconque, quelle que soit sa position dans la structure organisationnelle de l'entreprise.
+Cette approche diffère de ce que l'on voit dans les organisations traditionnelles où les idées et le produit du travail ont tendance à rester enfermés dans les limites de la hiérarchie interne de l'entreprise et de ses silos.
+Explorons une situation qui donne un exemple de cette idée.
+
+Imaginez que deux équipes d'une même entreprise produisent des logiciels distincts, le logiciel de l'une dépendant de celui de l'autre.
+Un exemple pourrait être une expérience utilisateur qui dépend d'un service API pour récupérer des données à afficher.
+Cette situation est courante dans une grande entreprise où une seule équipe produisant un logiciel peut avoir des dizaines ou des centaines de consommateurs.
+
+Lorsque les équipes consommatrices ont besoin de nombreuses fonctionnalités, les équipes productrices ont normalement une sorte de processus de définition des besoins et de hiérarchisation des priorités pour décider sur quelles fonctionnalités elles vont travailler.
+Pour les demandes de fonctionnalités critiques qui ne sont pas prioritaires pour un travail immédiat, l'équipe consommatrice peut généralement choisir l'une des trois options suivantes, chacune présentant ses propres inconvénients.
+
+. *L'attente.. L'équipe utilisatrice peut ne rien faire et rester sans la fonctionnalité demandée.
+  Cette option exige le moins de travail de leur part.
+  Selon l'intérêt de la demande de fonctionnalité, l'attente peut être tout à fait acceptable.
+  Toutefois, elle peut s'accompagner d'une réelle souffrance, surtout si la fonctionnalité demandée n'est jamais livrée.
+. *solution de contournement*. Une équipe de consommateurs qui ne veut pas attendre peut faire un travail supplémentaire ailleurs, pour compenser l'absence de la fonctionnalité demandée.
+  Ce travail supplémentaire peut prendre la forme d'un changement dans le projet de consommation.
+  Elle peut aussi créer un nouveau projet qui répond à ses besoins et remplace l'utilisation de tout ou partie du système de l'équipe productrice (duplication de code/projet).
+  Cette stratégie permet à l'équipe consommatrice d'obtenir la fonctionnalité demandée uniquement par ses propres efforts. Elle présente cependant plusieurs inconvénients.
+ .. Tout travail effectué par l'équipe consommatrice reste indisponible pour tout autre consommateur ayant la même demande de fonctionnalité.
+ .. L'équipe consommatrice s'est engagée par inadvertance à assumer la charge à long terme de la maintenance du code nouvellement écrit, ce qui ne relève pas du domaine de compétence de son équipe principale.
+ .. L'entreprise dans son ensemble acquiert des projets et du code en double dans le même espace de problèmes.
+. *Escalade*. L'équipe consommatrice peut ne pas accepter un "non" comme réponse et, au lieu de cela, plaider auprès de quelqu'un dans la hiérarchie de gestion des producteurs pour influencer (ou forcer) l'équipe productrice à faire le travail.
+Cette option semble attrayante pour l'équipe utilisatrice, car elle obtient la fonctionnalité demandée sans avoir à faire le travail de mise en œuvre ou de maintenance.
+Cependant, elle reste un frein pour l'équipe, car elle détourne nécessairement une partie de son attention et de son travail vers la tâche non technique de l'escalade.
+De plus, cette option n'est pas évolutive, car il n'y a qu'un nombre limité de fois où un consommateur peut faire remonter des demandes de fonctionnalités avant de nuire à sa crédibilité.
+L'escalade est tout aussi perturbante (voire plus) pour les membres de l'équipe de production, qui sont sortis de leur flux de travail normal et de leurs méthodes de priorisation pour traiter la demande de fonctionnalité escaladée.
+
+Cette discussion ouvre la voie à l'InnerSource.
+L'InnerSource s'applique au même type de situation où une équipe consommatrice est incapable d'obtenir ce dont elle a besoin via une demande de fonctionnalité.
+L'InnerSource permet aux équipes de bénéficier des avantages de l'attente, du contournement et de l'escalade sans les inconvénients associés.
+
+L'InnerSource apporte également une amélioration générale de la culture d'ingénierie car les ingénieurs ont la possibilité de travailler avec une plus grande variété de nouvelles technologies et de personnes.
+Les développeurs se conseillent et apprennent les uns des autres en partageant des idées et des solutions au-delà des silos organisationnels.
+Les ingénieurs et les équipes peuvent réutiliser les solutions internes aux problèmes de base, ce qui leur permet de se concentrer sur des flux de travail à plus forte valeur ajoutée pour l'organisation.
+
+Traduit avec www.DeepL.com/Translator (version gratuite)

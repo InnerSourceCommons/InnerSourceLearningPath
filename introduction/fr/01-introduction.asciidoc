@@ -1,0 +1,13 @@
+== Introduction
+
+Ce parcours d'apprentissage est une introduction à l'InnerSource
+L'InnerSource est la mise en oeuvre des pratiques et des principes du développement logiciel de l'Open Source au sein de l'entreprise.
+Le logiciel en InnerSource reste la propriété de l'entreprise, mais au sein de celle-ci le code du logiciel est ouvert et accessible pour que tout le monde puisse l'utiliser et y contribuer.
+Cette stratégie permet une collaboration large et efficace, pour produire des logiciels qui sont réactifs et agiles aux besoins changeants des nombreuses parties prenantes internes.
+
+Ce parcours d'apprentissage apprend à reconnaître les situations qui sont de bonnes candidates pour l'InnerSource.
+Nous décrirons à un haut niveau comment l'InnerSource peut aider dans ces situations.
+Vous vous familiariserez avec les termes communs utilisés lors des discussions sur l'InnerSource
+Nous énumérerons également les principes clés sur lesquels l'InnerSource est fondé et les avantages constatés lorsqu'il est appliqué efficacement.
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
