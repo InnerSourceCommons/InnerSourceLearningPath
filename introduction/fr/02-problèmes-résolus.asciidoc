@@ -28,7 +28,7 @@ Cependant, elle reste un frein pour l'équipe, car elle détourne nécessairemen
 De plus, cette option n'est pas évolutive, car il n'y a qu'un nombre limité de fois où un consommateur peut faire remonter des demandes de fonctionnalités avant de nuire à sa crédibilité.
 L'escalade est tout aussi perturbante (voire plus) pour les membres de l'équipe de production, qui sont sortis de leur flux de travail normal et de leurs méthodes de priorisation pour traiter la demande de fonctionnalité escaladée.
 
-Cette discussion ouvre la voie à InnerSource.
+Cette discussion ouvre la voie à l'InnerSource.
 L'InnerSource s'applique au même type de situation où une équipe consommatrice est incapable d'obtenir ce dont elle a besoin via une demande de fonctionnalité.
 L'InnerSource permet aux équipes de bénéficier des avantages de l'attente, du contournement et de l'escalade sans les inconvénients associés.
 

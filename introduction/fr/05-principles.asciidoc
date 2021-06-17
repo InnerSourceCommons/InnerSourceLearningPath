@@ -45,26 +45,25 @@ Cette communication doit être faite d'une manière qui peut être facilement in
 
 === Mentorat hiérarchisé
 
-Le mentorat de l'équipe hôte vers l'équipe invitée via https://innersourcecommons.org/learn/learning-path/trusted-committer/01 [committers de confiance] est un aspect essentiel d'InnerSource.
-https://innersourcecommons.org/learn/learning-path/contributor/01 [Contributeurs] des équipes invitées sont mis à niveau afin qu'ils comprennent suffisamment le projet/repo de l'équipe hôte pour le modifier avec succès.
+Le mentorat de l'équipe hôte vers l'équipe invitée via https://innersourcecommons.org/learn/learning-path/trusted-committer/01 [committers de confiance] est un aspect essentiel de l'InnerSource.
+Les https://innersourcecommons.org/learn/learning-path/contributor/01 [Contributeurs] des équipes invitées sont mis à niveau afin qu'ils comprennent suffisamment le projet/repo de l'équipe hôte pour le modifier avec succès.
 Ce faisant, ils en viennent à mieux comprendre le système logiciel de l'équipe hôte en tant que consommateur général et ambassadeur du projet/logiciel.
-Ce contributeur individuel peut, avec le temps et l'expérience, jouer un rôle plus important dans le projet en tant que participant de confiance.
+Ce contributeur individuel peut, avec le temps et l'expérience, jouer un rôle plus important dans le projet en tant que committer de confiance.
 
 Il est essentiel que l'équipe d'accueil accorde la priorité au mentorat des contributeurs.
 L'équipe hôte doit s'efforcer de prendre le temps d'encadrer les contributeurs invités _au moment où le contributeur en a besoin_ plutôt que lorsque cela lui convient.
 Parfois, il peut s'agir d'un changement de culture pour les ingénieurs de l'équipe hôte qui doivent passer du temps à aider les autres à coder plutôt qu'à coder eux-mêmes.
-Ce mentorat est précieux à la fois pour le contributeur individuel et pour l'hôte, et il vaut la peine de bien le faire.
-Il s'avère mutuellement bénéfique à long terme. En améliorant le code, le contributeur noue ou améliore des relations au sein d'une organisation qui n'aurait peut-être pas pu le faire.
-améliore des relations au sein d'une organisation qui n'auraient peut-être pas existé autrement.
+Ce mentorat est précieux à la fois pour le contributeur individuel et pour l'hôte, et ça vaut la peine de bien le faire.
+Il s'avère mutuellement bénéfique à long terme. En améliorant le code, le contributeur noue ou améliore des relations, au sein d'une organisation, qui n'auraient peut-être pas existées autrement.
 L'open source reconnaît volontiers ce point et considère comme un honneur d'atteindre le statut de committer de confiance sur un projet.
 
-=== Contribution volontaire au code
+=== La contribution volontaire au code
 
-Le premier mot _Volontaire_ signifie que l'engagement dans InnerSource des équipes invitées et hôtes se fait de leur plein gré.
+Le mot _Volontaire_ signifie que l'engagement dans l'InnerSource des équipes invitées et hôtes se fait de leur plein gré.
 L'équipe invitée donne volontairement du code à l'équipe hôte et l'équipe hôte l'accepte volontairement.
-Cette nature volontaire signifie que chaque équipe doit être certaine que sa participation apporte une valeur ajoutée aux objectifs des autres.
+Cette inscription de l'équipe dans un aspect volontaire signifie que chaque équipe doit être certaine que son implication apporte de la valeur ajoutée aux objectifs des autres.
 Une équipe hôte n'est jamais obligée d'accepter une contribution qui n'est pas en parfait accord avec sa mission globale.
 Une équipe invitée n'est jamais tenue de soumettre une contribution qui ne contribue pas à sa propre mission et à ses priorités.
 
 Le mot _Code_ souligne que la collaboration entre l'invité et l'hôte va jusqu'au code.
-La participation des invités à l'ouverture des problèmes, à la mise à jour des exigences, à la correction des documents, etc. est une bonne chose, mais la collaboration doit aller jusqu'à la soumission du code pour obtenir tous les avantages dont nous avons parlé.
+L'implication des invités dans l'ouverture des problèmes, la mise à jour des exigences, la correction des documents, etc. est une bonne chose, mais la collaboration doit aller jusqu'à la soumission de code pour obtenir tous les avantages dont nous avons parlé.
