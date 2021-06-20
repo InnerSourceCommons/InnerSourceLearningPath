@@ -2,7 +2,7 @@
 
 InnerSourceのリーダーには、新しい役割と責任が伴います。
 その最初の1つが、TCをサポートすることです。TCは、 https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] です。
-あなたが最初に行うことの一つは、おそらく、TCが誰になるかの選抜を支援し、彼らの仕事をサポートすることです。
+あなたが最初に行うことの1つは、おそらく、TCが誰になるかの選抜を支援し、彼らの仕事をサポートすることです。
 もし、TCの役割について詳しく知りたければ、 https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] の章を参照してください。
 
 彼らは、あなたのコードベースのゲートキーパーです。
