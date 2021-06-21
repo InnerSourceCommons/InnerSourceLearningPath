@@ -9,6 +9,6 @@ Réalisée efficacement, l'InnerSource apporte de nombreux avantages aux deux é
 Les principes clés sur lesquels repose l'efficacité d'InnerSource sont la *contribution volontaire au code* et le *mentorat hiérarchisé*.
 
 Bien que cette formation donne un aperçu de haut niveau de l'InnerSource, il existe de nombreux autres détails utiles pour faire fonctionner l'InnerSource avec votre équipe.
-Si vous souhaitez rester connecté à la conversation en cours autour de l'InnerSource et de ses meilleures pratiques, alors rejoignez http://innersourcecommons.org [the InnerSource Commons].
+Si vous souhaitez rester connecté à la conversation en cours autour de l'InnerSource et de ses meilleures pratiques, alors rejoignez http://innersourcecommons.org[the InnerSource Commons].
 L'Innersource commons sponsorise un canal Slack, un groupe de travail sur les modèles InnerSource, et plusieurs rencontres en physique chaque année.
 La participation au groupe Innnersource commons est un excellent moyen de rester connecté avec les dernières nouveautés de l'InnerSource.
