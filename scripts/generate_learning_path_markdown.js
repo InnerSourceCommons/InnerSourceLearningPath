@@ -11,15 +11,6 @@ const writeMarkdownFile = require('./write_markdown_file')
 
 const sections = require('./section_data.json')
 
-const languageMap = {
-  de: 'German',
-  ja: 'Japanese',
-  zh: 'Mandarin',
-  es: 'Spanish',
-  it: 'Italian',
-  ru: 'Russian'
-}
-
 const urls = YAML.parse(fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf-8'))
 
 const getYouTubeCode = (section, articleNumber) => {
@@ -34,10 +25,14 @@ const getYouTubeCode = (section, articleNumber) => {
   mkdirSync(join('.', writeDir))
 
   sections.forEach((section, sectionDataIndex) => {
-    const { dirName, translations } = section
+    const { dirName } = section
     const baseReadPath = join('..', dirName)
     const baseWritePath = join('.', writeDir, dirName)
     mkdirSync(baseWritePath)
+
+    const translations = fs.readdirSync(baseReadPath, { withFileTypes: true })
+      .filter(dirent => dirent.isDirectory())
+      .map(dirent => dirent.name)
 
     translations.concat('' /* The English original */).forEach(async (translation) => {
       const isTranslation = translation !== ''
@@ -59,7 +54,7 @@ const getYouTubeCode = (section, articleNumber) => {
 
       if (!indexTranslated) {
         // Add placeholder text if index is not translated
-        indexContent = `This text will be translated soon to ${languageMap[translation]}.${indexContent}`
+        indexContent = `This text will be translated soon`
       }
 
       writeMarkdownFile(indexWritePath, indexFrontMatter, indexContent)
