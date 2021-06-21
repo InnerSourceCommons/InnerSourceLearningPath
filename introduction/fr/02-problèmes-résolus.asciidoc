@@ -15,7 +15,7 @@ Pour les demandes de fonctionnalités critiques qui ne sont pas prioritaires pou
   Cette option exige le moins de travail de leur part.
   Selon l'intérêt de la demande de fonctionnalité, l'attente peut être tout à fait acceptable.
   Toutefois, elle peut s'accompagner d'une réelle souffrance, surtout si la fonctionnalité demandée n'est jamais livrée.
-. *Solution de contournement*. Une équipe de consommateurs qui ne veut pas attendre peut faire un travail supplémentaire par ailleurs, pour compenser l'absence de la fonctionnalité demandée.
+. *Solution de contournement*. Une équipe de consommateurs qui ne veut pas attendre peut faire un travail supplémentaire ailleurs, pour compenser l'absence de la fonctionnalité demandée.
   Ce travail supplémentaire peut prendre la forme d'un changement dans le projet de consommation.
   Elle peut aussi créer un nouveau projet qui répond à ses besoins et remplace l'utilisation de tout ou partie du système de l'équipe productrice (duplication de code/projet).
   Cette stratégie permet à l'équipe consommatrice d'obtenir la fonctionnalité demandée uniquement par ses propres efforts. Elle présente cependant plusieurs inconvénients.
@@ -35,5 +35,3 @@ L'InnerSource permet aux équipes de bénéficier des avantages de l'attente, du
 L'InnerSource apporte également une amélioration générale de la culture d'ingénierie car les ingénieurs ont la possibilité de travailler avec une plus grande variété de nouvelles technologies et de personnes.
 Les développeurs se conseillent et apprennent les uns des autres en partageant des idées et des solutions au-delà des silos organisationnels.
 Les ingénieurs et les équipes peuvent réutiliser les solutions internes aux problèmes de base, ce qui leur permet de se concentrer sur des flux de travail à plus forte valeur ajoutée pour l'organisation.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
