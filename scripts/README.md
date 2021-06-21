@@ -35,15 +35,13 @@ node generate_learning_path_markdown.js
 Anytime there are _any changes_, you need to run the script that generates the updated pages on the [innersourcecommons.org] site.
 
 1. Clone the [InnerSourceCommons/InnerSourceLearningPath] and [InnerSourceCommons/innersourcecommons.org] repos.
-1. Is this the first time that articles have been written for this section in this language?
-If so, then do both of the following:
-
-  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/section_data.json) with the language code of the articles for the appropriate section and open a pull request for the change
+1. Is this the first time that articles have been written for this language? If so:
   * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there are the relevant [index pages](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/content/learn/_index.ru.md)
-
-3. Run **generate_learning_path_markdown.js** as described above.
-3. `cp -r newsite/ <path-to-innersourcecommons.org-repo>/content/learn/learning-path/`.
-3. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
+3. Is there a whole new Learning Path section? If so:
+  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/master/scripts/section_data.json) with the new section and open a pull request for the change
+4. Run **generate_learning_path_markdown.js** as described above.
+4. `cp -r newsite/ <path-to-innersourcecommons.org-repo>/content/learn/learning-path/`.
+4. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
 
 [innersourcecommons.org]: https://innersourcecommons.org/
 [InnerSourceCommons/InnerSourceLearningPath]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/
