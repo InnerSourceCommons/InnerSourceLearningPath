@@ -54,7 +54,7 @@ const getYouTubeCode = (section, articleNumber) => {
 
       if (!indexTranslated) {
         // Add placeholder text if index is not translated
-        indexContent = `This text will be translated soon`
+        indexContent = `This text will be translated soon.${indexContent}`
       }
 
       writeMarkdownFile(indexWritePath, indexFrontMatter, indexContent)
