@@ -43,6 +43,4 @@ Plus de temps d'ingénierie est consacré à la production de code qui résout l
 
 === Ressources supplémentaires
 
-* Le modèle https://patterns.innersourcecommons.org/p/trusted-committer [Trusted Committer].
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
+* Le modèle du https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer (en)].
