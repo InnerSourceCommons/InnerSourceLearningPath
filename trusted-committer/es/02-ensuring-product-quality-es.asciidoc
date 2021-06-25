@@ -1,6 +1,6 @@
 == Asegurando la calidad del producto
 
-Vamos a empezar con la responsabilidad que suele ser asociada al rol de Trusted Commiter:
+Vamos a empezar con la responsabilidad que suele ser asociada al rol de Trusted Committer:
 Asegurando la calidad del producto.
 
 En una comunidad InnerSource, los Trusted Committers _poseen_ todas las decisiones relacionadas con lo técnico, 
@@ -19,8 +19,8 @@ Nosotros pensamos que puede ser un objetivo valioso para una comunidad InnerSour
 el intentar distinguirse de los proyectos de desarrollo de software tradicionales,
 no solo en la forma en la que organizan el desarrollo,
 sino también, en la calidad de software que producen.
-Un alto nivel de calidad de software es esencial para establecer y mantener confianza en la comunidad InnerSource,
-por parte de los usuarios y su administración.
+Un alto nível de calidad de software es esencial para establecer y mantener la confianza en la comunidad InnerSource,
+por parte de los usuarios y administración.
 Todos conocemos como un mal lanzamiento puede destruir la confianza en un instante.
 
 Los Trusted Committers también se aseguran que la comunidad tiene la infraestructura
@@ -28,10 +28,10 @@ y las herramientas necesarias para producir software de calidad.
 La revisión detallada,
 usualmente realizada como parte de pull requests (PRs),
 es usuada principalmente para asegurar la calidad.
-Aunque cualquiera puede empezar y participar en pull request al mostrar mejoras necesarias,
+Aunque cualquiera puede empezar y participar en un pull request al mostrar mejoras necesarias,
 generalmente es el Trusted Committer quien tiene la última palabra al aceptar y fusionar o rechazar una contribución.
-A esto nos referíamos cuando dijimos que "los Trusted Commitetrs pueden publicar código mas cerca de producción".
-Trusted Committer también deben ayudar a los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] durante una PR para tener sus contribuciones sobre la línea de meta.
+A esto nos referíamos cuando dijimos que "los Trusted Committers pueden publicar código mas cerca de producción".
+los Trusted Committers también deben ayudar a los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] durante una PR para tener sus contribuciones sobre la línea de meta.
 
 Dicho esto, Al final es trabajo del contribuidor hacer que esto suceda.
 El trabajo de un Trusted Committer no es el aceptar todas las contribuciones por defecto,
@@ -39,14 +39,14 @@ pero es solo aceptar aquellas que cumplan con el criterio definido en términos 
 Y los Trusted Committers deben evitar a toda costa reescribir el código del contribuidor para hacer que "encaje",
 incluso si esto significa usar mas tiempo en apoyar https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] en una PR.
 Los Trusted Committers toman una perspectiva a largo plazo y entienden que este tipo de apoyo es una inversión para la longevidad de la comunidad,
-y que va a incrementar la velocidad de desarrollo de la comunidad a la larga.
+y que a la larga va a incrementar la velocidad de desarrollo de la comunidad.
 
-Alguna veces los requerimientos o limitaciones no son conocidad desde el inicio,
+Alguna veces los requerimientos o limitaciones no son conocidos desde el inicio,
 en su lugar son descubiertas durante el desarrollo.
-Los Trusted Committers también son responsable de asegurarse que estos descubrimientos son atrapados y documentados para los https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owners_] y para los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_].
+Los Trusted Committers también son responsables de asegurarse que estos descubrimientos son atrapados y documentados para los https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owners_] y para los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_].
 
 Pero el alcance de los Trusted Committers respecto a la calidad va más alla de pull requests.
-Los Trusted Committes piensan acerca de la calidad a un nível estratégico,
+Los Trusted Committers piensan acerca de la calidad a un nível estratégico,
 y aseguran la longevidad del software que se está construyendo.
 Esto implica responsabilidades orientadas al código
 para asegurar la limpieza del código
@@ -54,12 +54,12 @@ y mantener una integridad conceptual general del software.
 Tambíén implica tareas orientadas a la administración,
 como asegurarse que la comunidad tiene suficiente tiempo para refactorizar su software
 o, en caso de ser necesario,
- mover la fecha de lanzamiento a favor de mejoras en la calidad.
- La efectividad del Trusted Committer está fuertemente relacionada a la salud del código.
+mover la fecha de lanzamiento a favor de mejoras en la calidad.
+La efectividad del Trusted Committer está fuertemente relacionada a la salud del código.
 
- Aparte de esto, Trusted Committers tienen que usar mucho de su valioso tiempo validando y documentado
- soluciones alternativas para bugs o arquitectura frágil
- y no van a tener tiempo suficiente para dar mentoría a los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_].
+Aparte de esto, Trusted Committers tienen que usar mucho de su valioso tiempo validando y documentado
+soluciones alternativas para bugs o arquitectura frágil
+y no van a tener tiempo suficiente para dar mentoría a los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_].
 
 En conclusión, asegurar la calidad del producto es una responsabilidad clave de los Trusted Committers.
 Ellos definen los estándares de calidad y guían con el ejemplo.

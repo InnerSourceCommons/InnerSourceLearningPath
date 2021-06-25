@@ -6,7 +6,7 @@ También hemos hablado de como convertirse en un Trusted Committer y lo que se n
 Trabajar como Trusted Committer es demandante pero al final va a amplificar el valor de tus contribuciones a la compañia.
 
 Nosotros esperamos haberte inspirado para que te embarques en el camino para convertirte en Trusted Committer.
-También esperamos haber ayudado a tu comñpañia a entender la importancia que es tener Trusted Committers capaces para poder tener éxito en cualquier iniciativa InnerSource y el nível de empoderamiento que este rol requiere.
+También esperamos haber ayudado a tu compañia a entender la importancia de tener Trusted Committers capaces para poder tener éxito en cualquier iniciativa InnerSource y el nível de empoderamiento que este rol requiere.
 
 Nos gustaría invitarte a aprender mas acerca de InnerSource al explorar otros artículos y videos en el camino de aprendizaje de InnerSource.
 Y por supuesto, estamos emocionados de darte la bienvenida en http://www.innersourcecommons.org/[la comunidad InnerSource].

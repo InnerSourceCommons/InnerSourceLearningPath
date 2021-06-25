@@ -5,31 +5,31 @@
 Las comunidades InnerSource existen en un contexto corporativo, por ende son más apretadas que comunidades Open Source.
 A veces los interes unitarios de la empresa están en desacuerdo con los de la comunidad.
 Los Trusted Committers toman una perspectiva a largo plazo de su proyecto.
-Ellos entienden que un comunidad saludable es una pre condición para un código sano.
+Ellos entienden que un comunidad sana es una precondición para un código sano.
 Es por esto que muchas iniciativas de InnerSource están modeladas de la manera Apache, su lema es http://theapacheway.com/community-over-code/["Comunidad sobre código"].
 Unidades de la empresa, por otro lado, están naturalmente mas preocupadas por los productos producidos por una comunidad InnerSource.
 Ellos prefieren ver resultados a corto o mediano plazo que ayudan al resultado final.
 
 Es en esta área de conflicto potencial donde los Trusted Committers juegan un rol vital.
-Trusted Commiter construyen confianza con la organización y,
+Los Trusted Committers construyen confianza con la organización y,
 construyendo en esa confianza,
-actuan como abogados por los interes de la comunidad y la salud a largo plazo del software en la compañia.
+actúan como abogados por los interes de la comunidad y la salud a largo plazo del software en la compañia.
 Ellos son responsables de comunicar riesgos técnicos y de la comunidad a administración.
-Al mismo tiempo Trusted Committers necesitan ser estratégicos y trabajar dentro de los grados de libertad concedidor por sus compañias.
+Al mismo tiempo los Trusted Committers necesitan ser estratégicos y trabajar dentro de los grados de libertad concedido por la compañia.
 
-Los Trusted Committes también deben asegurarse que la comunidad y los https://innersourcecommons.org/learn/learning-path/contributor/01[Contribuidores] individuales reciban el crédito público de su trabajo.
-crédito público es la moneda con la cual los contribuidores están siendo pagandos, especialmente aquellos que contribuyen voluntariamente.
-En una buena práctica el elogiar públicamente contribuidores valiosos y que sus gerentes sepan de sus contribuciones.
-Descuidar el dar crédito puede ser frustante para los contribuidores individuales y pueden ser perjudicial para la salud de la munidad.
+Los Trusted Committers también deben asegurarse que la comunidad y los https://innersourcecommons.org/learn/learning-path/contributor/01[Contribuidores] individuales reciban el crédito público de su trabajo.
+El crédito público es la moneda con la cual los contribuidores están siendo pagados, especialmente aquellos que contribuyen de manera voluntaria.
+Es una buena práctica el elogiar públicamente contribuidores valiosos y que sus gerentes sepan de sus contribuciones.
+Descuidar el dar crédito puede ser frustante para los contribuidores individuales y pueden ser perjudicial para la salud de la comunidad.
 Esto puede ocurrir en compañias que aun no se adaptan al modelo de trabajo InnerSource,
-o cuando un software que estpa siendo desarrollado por la comunidad InnerSource corre _detras de escenas_ y los gerentes simplemente no son concientes de las contribuciones de la comunidad.
+o cuando un software que está siendo desarrollado por la comunidad InnerSource corre _detras de escenas_ y los gerentes simplemente no son concientes de las contribuciones de la comunidad.
 Un buen Trusted Committer está comprometido con la administración y abogará por el crédito público.
-Fallar al dar credito no suele ser de mala fé y es fácil de arreglar.
+El fallar al dar crédito no suele ser de mala fé y es fácil de arreglar.
 
 Otro caso común para llamar a los Trusted Committers a abogar es cuando los https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] no se les da el tiempo o permiso de contribuir.
-Esto pueden pasar cuando una comunidad está trabajando en un producto fuera del departamente del contribuidor
+Esto pueden pasar cuando una comunidad está trabajando en un producto fuera del departamento del contribuidor
 y por ende no es relevante para las metas del gerente.
-En este caso, el Trusted Committer debe comprometerse en la discución con el gerente del contribuidor y abogar por una decisioón alterna.
+En este caso, el Trusted Committer debe comprometerse en la discución con el gerente del contribuidor y abogar por una decisión alterna.
 
 En resumen, Hay muchas situaciones donde los Trusted Committers necesitan abogar por los intereses de https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] individuales y por la comunidad en general.
 Los Trusted Committers entienden que el valor que una comunidad puede proveer a la empresa depende de la salud y longevidad de esta y fundamentalmente en un relación de confianza entre ambas.
