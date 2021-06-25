@@ -1,0 +1,51 @@
+== Bajando las barreras para entrar
+
+Solicitar contribuciones en una comunidad InnerSource es más difícil que al hacerlo en una comunidad Open Source por un número de razones:
+
+* El número de potenciales https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] es más bajo en comunidades InnerSoruce.
+* Contribuidores van a querer contribuir durante su hora de trabajo, lo que significa que tienen un tiempo más apretado.
+* Trabajar en InnerSource puede no ser parte de las metas de rendimiento del Contribuidor, por lo que tiempo trabajado en InnerSource puede ser tiempo que no usan para lograr sus metas.
+
+Es por esto que es importante para los Trusted Committers el hacer los procesos para hacer contribuiciones https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] con la menor fricción posible.
+Hay un número de cosas que pueden ayudar:
+
+* Tener un buen README.md en cada repositorio de código.
+Un buen README.md explica que hay en el repositorio y para que puede usarse.
+A demas, debe de proveer instrucciones detalladas de como conseguir, construir y usar el software en el repositorio,
+incluyendo información acerca de la licencia.
+
+* Tener un buen CONTRIBUITING.md que remarque lo que se espera del https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidor_].
+Debe responder a preguntas comúnes como:
+** ¿Cómo subo un reporte de bug o pido una funcionalidad?
+** ¿Con quién y cómo me comunico si tengo preguntas?
+** ¿Cuáles son las convenciones para el estilo del código, branching o mensajes de commit?
+** ¿Cuál es la definición de "completado" para una contribución?
+** ¿Cuáles son los pasos del proceso que rigen las contribuciones?
+** ¿Qué se espra de mi en terminos de soporte al código contribuido
+después de que la contribución es aceptada?
+¿Cúal es el código de conducta y las pautas de como opera la comunidad?
+
+Si tienes una licencia interna adjuntada al software,
+lo cual en algunas compañias es pre requisito para compartir software a traves de entidades legales,
+incluye una coía de la licencia _y_ una explicación de los derechos y obligaciones en términos laicos.
+
+Junto a estás tareas de documentación, siiliar al desarollo de software Open Source, debe ser fácil y sencillo el correr y porbar el software que se está desarrollando localmente por https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] potenciales,
+para que pueden empezar a implementar y validar sus contribuciones con el menor esfuerzo posible.
+
+Hay dos modelos comúnes para hacer contribuciones: _respositorio compartido_ y _fork and join_.
+Ambos tienen ventajas, como Trusted Committer,
+lo que quieres es apoyar ambos modelos para acomodar las diferentes necesidades de los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] potenciales y actuales.
+Tus Contribuidores van a tener preguntas acerca del proceso de contribución o acerca de la misma comunidad,
+y alguien tiene que ser capaz de resolver estas preguntas.
+Por esto es importante, para cualquier comunidad InnerSource, tener one o más personas que esten disponibles para responder estas preguntas.
+Alguien del grupo de Trusted Committer suele ser la persona a contactar,
+de lo contrario necesitan asegurarse de que haya un miembro de la comunidad "disponible".
+
+Es importante el ayudar a https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] potenciales determinar que necesitan las contribuciones.
+Esto puede ser contribuciones de código al igual que no-código, como escribir documentación, crear imágenes, u organizando eventos.
+Una forma común de hacer esto es etiquetar "tareas para recién llegados" en el issue tracker usado por la comunidad,
+o implementar en mercado que los Contribuidores puedan utilizar.
+
+En resumen, es muy importante para las comunidades InnerSource en un entorno corporativo el mantener las barreras de contribución lo más bajas posibles,
+para permitir a la mayor cantidad de personas posibles el poder contribuir.
+Esto significar proveer acceso a documentación útil y a personas de la comunidad que puedan responder preguntas y promover la colaboración. Al final, Trusted Committers deben de asegurarse que la inducción y contribución sean experiencias positivas.

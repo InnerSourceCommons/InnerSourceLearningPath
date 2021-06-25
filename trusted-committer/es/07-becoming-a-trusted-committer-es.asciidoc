@@ -1,0 +1,44 @@
+== Convirtiendose en un Trusted Committer
+
+
+El rol del Trusted Commiter es un rol demandante pero gratificante.
+Si este camino de aprendizaje te interesa, te puedes estar preguntando como te puedes convertir en un Trusted Committer y si eres la persona indicada para el trabajo.
+
+Las comunidades de InnerSource siguen los mismos principios que los que las comunidades Open Source siguen, una de estos es la meritocracia.
+En una meritocracia, el poder se da a los individuos basados en su talento, esfuerzo y logros.
+Esto significa que el poder y los privilegios que vienen de ser un Trusted Committer deben de ganarse.
+Transparencia, otro valor de Open Source, también juega un papel vital en lo que respecta a que el talento, esfuerzo y logros sean visibles a toda la comunidad.
+
+El proceso oficial para convertirse en un Trusted Committer varia de comunidad en comunidad,
+depende de donde estas en tu camino en InnerSource y puede evolucionar con el tiempo.
+En comunidades base, los fundadores suelen asumir el rol de Trusted Committer.
+Cuando una comunidad crece, o en comunidades grandes, los Trusted Committer suelen ser nominados o votados por la comunidad de https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores].
+Pero el rol de Trusted Committer debe de tomarse de manera voluntaria, ya que requiere de una gran cantidad de tiempo y dedicación para ser bueno en ello.
+
+¿Cuál es el criterio para aplicar al nominar https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] a un rol de Trusted Commiter?
+¿Qué se necesita para cumplir de manera exitosa el rol de Trusted Committer?
+Primero que nada, los Trusted Committers potenciales necesitan haber demostrado una competencia técnica profunda durante su trabajo en la comunidad.
+A demas de eso, deben de haber comprobado su habilidad para comunicarse de manera efectiva con sus compañeros de la comunidad e idealmente con los product owners y administración.
+
+De igual manera, deben de haber mostrado coluntad y paciencia para usar sus habilidades y utilizar intencionalmente si tiempo ayundando contribuidores.
+Finalmente cumplr el rol de Trusted Committer requiere cierta madurez emocional para lidiar con situaciones sociales estresantes,
+que están destinadas a ocurrir de vez en cuando.
+Contribuidores que satisfagan estos criterios pueden ser buenos Trusted Committers potenciales, en nuestra opinión.
+
+El rol de Trusted Committer puede no parecer tan atractivo para algunos contribuidores ya que significa estar menos tiempo códificando.
+Ser nominado al rol de Trusted Committer puede incluso ser percibido como una degradación o como retroalimentación negativa a sus habilidades de codificación.
+Pero lo contrario es cierto.
+Ser nominado para el rol de Trusted Committer suele significar que alguien a reconocido tus contribuciones valiosas y ve en ti el potencial para crecer y dirigir.
+El rol de Trusted Committer te va a dar mas influencia sobre la evolución de la base de código y fundamentalmente te hará un mejor y más completo desarrollador.
+Eplicar contribuidores como funciona el software suele dirigir a nuevas perspectivas en parte de los Trusted Committers y los va a ayudar a identificar oportunidades para mejorar el software.
+
+Ya sea que tengas un o muchos Trusted Committers depende del taño y al riesgo asociado con el software que está siendo desarrollado por la comunidad InnerSource.
+El rol de Trusted Committer consume mucho tiempo, y no todos están dispuestos o pueden hacer este tipo de compromiso.
+Debido a esto, algunas compañias emplean un sistema de _rotación de Trusted Committers_ donde múltiples Trusted Committers comparten la carga de trabajo del rol de Trusted Committer,
+y los Trusted Committers que no están _en guardia_ pueden concentrarse exclusivamente en trabajo técnico.
+Tener más de un Trusted Committer también hace mas simple cuando alguien deja la compañia o se va de un rol para hacer algo más.
+En este caso, es importante que haya otros Trusted Committers que puedan tomar su lugar y asegurar la continuidad de la comunidad.
+
+En resumen, el rol de Trusted Committer tiene que ganarse al hacer contribuciones valiosas - tanto técnicas como sociales - en beneficio de la comunidad.
+En una comunidad sana, tendras otros Trusted Committers a tu lado.
+Como Trusted Committer, vas a tener menos tiempo para códificar, pero al actuar como un multiplicador de fuerza vas a ser capaz de impulsar el valor de la contribución a la comunidad y acelerar tu propio crecimiento.
