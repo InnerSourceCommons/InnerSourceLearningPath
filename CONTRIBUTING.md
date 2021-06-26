@@ -17,6 +17,7 @@ Here's a few tips as you go along:
 * Translated articles should be stored next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
 * The filename of the article should be changed to include two-character language code prefix.
 * The special `index.md` files for each section should also be translated, as they are used in the Learning Path section of the [new website](https://innersourcecommons.net/learn/learning-path/)
+* After `index.md` file and the first article (01-*.asciidoc) for a section are translated and merged, all landing page links in translated articles can be pointed to the translated landing page. (e.g. [landing page for Contributor in German](https://innersourcecommons.org/de/learn/learning-path/contributor))
 * The following are special terms and should not be translated:
   * `InnerSource`
   * `Trusted Committer`
