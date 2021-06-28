@@ -1,36 +1,36 @@
 [[upleveling]]
-== Subiendo de nível a miembros de la comunidad
+== Subir de nivel a miembros de la comunidad
 
 La participación en una comunidad InnerSource es continua.
 Hay personas que no conocen la existencia de la comunidad.
-_Recién llegados_ pueden estar interesados en la comunidad y su producto, pero todavía no lo han usado.
-_Consumidores_ usan el software pero puede que no hayan hecho ninguna contribución.
+Los _Recién llegados_ pueden estar interesados en la comunidad y su producto, pero todavía no lo han usado.
+Los _Consumidores_ usan el software pero puede que no hayan hecho ninguna contribución.
 Después están los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_],
 que han hecho al menos una contribución,
 y finalmente los _Trusted Committers_, que están tomando la responsabilidad tanto del software como de la comunidad.
-Como Trusted Committer, eres responsable de mover individuos a lo largo de este flujo continuo y de subir de nível su habilidad para hacer contribuciones.
+Como Trusted Committer, eres responsable de mover individuos a lo largo de este flujo continuo y de subir de nivel su habilidad para hacer contribuciones.
 En este sentido, Trusted Committers actúan como multiplicadores de fuerza en su comunidad.
 
 Es importante para los Trusted Committers el vender su producto y su comunidad para incrementar el número de recién llegados y de clientes.
 También deben de comunicar las oportunidades para hacer contribuciones a los consumidores y tratar de obtener y alinear los intereses de https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] potenciales con los de la comunidad.
-Lo que suele funcionar es que los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] puedan trabajar en algo que beneficie al departamento o rol que cumplen en la compañia.
+Lo que suele funcionar es que los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] puedan trabajar en algo que beneficie al departamento o rol que cumplen en la compañía.
 Herramientas de desarrollo y automatización son buenos ejemplos.
 
 Finalmente, es responsabilidad del Trusted Committer el identificar y apoyar https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] con su crecimiento potencial
-al animarlos a que realicen tareas difíciles y mentorarlos para que las completen.
+al animarlos a que realicen tareas difíciles y guiarlos para que las completen.
 Esto es, en nuestra opinión, la responsabilidad mas noble de un Trusted Committer,
 y es gratificante para el Trusted Committer y el contribuidor.
-Hemos oido que los Trusted Committers dicen que mentorar y ver personas mejorar sus habilidades hace mucho mas que compensar el hecho de que ellos mismos tienen menos tiempo para escribir software.
+Hemos oido que los Trusted Committers dicen que tutelar y ver personas mejorar sus habilidades hace mucho mas que compensar el hecho de que ellos mismos tienen menos tiempo para escribir software.
 
 Como mencionamos en la https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[sección anterior],
 aprender y crecer personalmente son razones por las que la gente permance en comunidades InnerSource.
-Subiendo de nível a sus https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] es una de las herramientas más poderosas que los Trusted Committers tienen en sus manos,
+Subir de nivel a sus https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] es una de las herramientas más poderosas que los Trusted Committers tienen en sus manos,
 para incrementar la velocidad, producción y longevidad de sus comunidades.
-También es uno de los argumentos clave con el cual convencer a administración
-el permitir a los empleados participar en una comunidad InnerSource,
-ya que esto hara que los empleados sean más valiosos para la compañia y ayuda a retener a los más talentosos.
+También es uno de los argumentos clave con el cual convencer a jefatura
+que permtia a los empleados participar en una comunidad InnerSource,
+ya que esto hará que los empleados sean más valiosos para la compañía y ayuda a retener a los más talentosos.
 
 En resumen, Trusted Committers necesitan atraer nuevos https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] y mejorar su habilidad de hacer contribuciones.
-Está actividad al final sube de nível la habilidad de la comunidad para crear mejor software más rápido.
+Está actividad al final sube de nivel la habilidad de la comunidad para crear mejor software más rápido.
 Esto se logra al comunicar oportunidades para hacer contribuciones y
-al ayudar y mentorar contribuidores ayudándolos a crecer.
+al ayudar y guiar contribuidores ayudándolos a crecer.

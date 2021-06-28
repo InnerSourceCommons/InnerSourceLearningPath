@@ -1,12 +1,12 @@
-== Convirtiendose en un Trusted Committer
+== Llegar a ser un Trusted Committer
 
 
-El rol del Trusted Committer es un rol demandante pero gratificante.
+El rol del Trusted Committer es un rol exigente pero gratificante.
 Si este camino de aprendizaje te interesa, te puedes estar preguntando como te puedes convertir en un Trusted Committer y si eres la persona indicada para el trabajo.
 
 Las comunidades de InnerSource siguen los mismos principios que las comunidades Open Source, uno de estos es la meritocracia.
-En una meritocracia, el poder se da a los individuos basados en su talento, esfuerzo y logros.
-Esto significa que el poder y los privilegios que vienen de ser un Trusted Committer deben de ganarse.
+En una meritocracia, el poder se da a los individuos en función de su talento, esfuerzo y logros.
+Esto significa que el poder y los privilegios que vienen de ser un Trusted Committer deben ganarse.
 Transparencia, otro valor de Open Source que también juega un papel vital en lo que respecta a que el talento, esfuerzo y logros sean visibles a toda la comunidad.
 
 El proceso oficial para convertirse en un Trusted Committer varia de comunidad en comunidad,
@@ -35,7 +35,7 @@ Explicar a contribuidores el como funciona el software suele dirigir a nuevas pe
 Ya sea que tengas uno o muchos Trusted Committers depende del tamaño y al riesgo asociado con el software que está siendo desarrollado por la comunidad InnerSource.
 El rol de Trusted Committer consume mucho tiempo, y no todos están dispuestos o pueden hacer este tipo de compromiso.
 Debido a esto, algunas compañias emplean un sistema de _rotación de Trusted Committers_ donde múltiples Trusted Committers comparten la carga de trabajo del rol de Trusted Committer,
-y los Trusted Committers que no están _en guardia_ pueden concentrarse exclusivamente en trabajo técnico.
+y los Trusted Committers que no están _de guardia_ pueden concentrarse exclusivamente en trabajo técnico.
 Tener más de un Trusted Committer también hace mas simple cuando alguien deja la compañia o se va de un rol para hacer algo más.
 En este caso, es importante que haya otros Trusted Committers que puedan tomar su lugar y asegurar la continuidad de la comunidad.
 
