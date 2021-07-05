@@ -24,13 +24,13 @@ Estas contribuciones pueden ser artefactos de código o no-código,
 como informes de defectos, petición de características, o documentación.
 
 _Contribuidores_ pueden ser o no parte de la comunidad.
-podrían ser enviados por otro equipo para desarrollar una característica que el equipo necesite.
+Podrían ser enviados por otro equipo para desarrollar una característica que el equipo necesite.
 Debido a esto a veces nos referimos a los _Contribuidores_ como _Invitados_ o como parte de un _Equipo Invitado_.
 El _Contribuidor_ es responsable de "encajar" y de adaptarse a los procesos y las expectativas de la comunidad.
 
 El _Trusted Committer_ es siempre un miembro de la comunidad InnerSource,
 a la cual se suele referir como _Equipo Anfitrión_.
-En esta analogía el Trusted Committer es responsable de limpiar una casa y de definir las reglas de la casa,
+En esta analogía el Trusted Committer es responsable de limpiar la casa y de definir sus reglas,
 para asegurarse que los invitados esten a gusto y puedan trabajar juntos de manera efectiva.
 Comparado con los contribuidores, los Trusted Committers han ganado la responsabilidad de publicar código más cerca a producción
 y generalmente se les permite realizar tareas que tienen un riesgo mayor.

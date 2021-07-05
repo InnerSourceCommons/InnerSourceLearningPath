@@ -6,7 +6,7 @@ Las comunidades InnerSource existen en un contexto corporativo, por ende están 
 A veces los interes de la unidad de negocio están en desacuerdo con los de la comunidad.
 Los Trusted Committers toman una perspectiva a largo plazo de su proyecto.
 Ellos entienden que un comunidad sana es una precondición para un código sano.
-Es por esto que muchas iniciativas de InnerSource están modeladas de la manera Apache, modelados a la manera http://theapacheway.com/community-over-code/["Comunidad sobre código"].
+Es por esto que muchas iniciativas de InnerSource están modeladas a la manera Apache, su lema es http://theapacheway.com/community-over-code/["Comunidad sobre código"].
 Las Unidades de la empresa, por otro lado, están naturalmente más preocupadas por los productos producidos por una comunidad InnerSource.
 Ellos prefieren ver resultados a corto o medio plazo que ayudan a la cuenta de resultados.
 

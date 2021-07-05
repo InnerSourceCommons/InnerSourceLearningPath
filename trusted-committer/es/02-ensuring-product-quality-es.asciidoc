@@ -59,7 +59,7 @@ La efectividad del Trusted Committer está fuertemente relacionada a la salud de
 
 Aparte de esto, los Trusted Committers tienen que usar mucho de su valioso tiempo validando y documentado
 soluciones alternativas para bugs o arquitectura frágil
-y no van a tener tiempo suficiente para dar guíar a los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_].
+y no van a tener tiempo suficiente para guíar a los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_].
 
 En conclusión, asegurar la calidad del producto es una responsabilidad clave de los Trusted Committers.
 Ellos definen los estándares de calidad y guían con el ejemplo.
