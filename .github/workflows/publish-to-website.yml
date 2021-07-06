@@ -30,7 +30,7 @@ jobs:
         with:
           ssh-key: ${{ secrets.WEBSITE_DEPLOY_KEY }}
           path: ./innersourcecommons.org
-          repository: tsadler1988/innersourcecommons.org
+          repository: InnerSourceCommons/innersourcecommons.org
           fetch-depth: 0
       - name: Branch innersourcecommons.org
         working-directory: innersourcecommons.org
