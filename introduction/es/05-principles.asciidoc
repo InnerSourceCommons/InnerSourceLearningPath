@@ -1,0 +1,73 @@
+== Principios de InnerSource
+
+Cada compañía, equipo, project e individuo es diferente.
+Debido a esto, el camino a seguir y la manera de funcionar de InnerSource variará de una situación a otra.
+En su núcleo hay sin embargo cuatro principios que forman los cimientos de cualquier instancia de InnerSource.
+Estos principios se inspiran en los proyectos existosos de software libre y son requeridos en entornos InnerSource para alcanzar los beneficios que ya se han descrito.
+
+Estos principios son:
+* *Acceso abierto*
+* *Transparencia*
+* *Mentoría priorizada*
+* *Contribuciones voluntarias de código fuente*
+
+Echemos un vistazo a cada uno de estos principios en más detalle.
+
+
+=== Acceso abierto
+
+La configuración de un proyecto abierto permite contribuciones con menos roces.
+Los projects deben poder ser descubiertos y bien documentados a través de los ficheros README.md y CONTRIBUTING.md dentro del directorio base del repositorio.
+Cualquier persona en la organización debe ser capaz de encontrar un proyecto deseado y comenzar a participar sin una gran cantidad de trabajo o guía directa desde el equipo anfitrión.
+La información de contacto del equipo anfitrión debe estar accesible y visible en tantos canales como tenga sentido en el proyecto.
+La intención concreta de que el equipo anfitrión está dispuesta a aceptar contribuciones InnerSource ha de compartirse a través de los canales relevantes dentro de la organización para generar impacto.
+Además, se debe generar un flujo continuo de información de pequeñas píldoras acerca del trabajo en modo InnerSource que tu equipo está llevando a cabo.
+Sin embargo, a un nivel más alto dentro de la empresa dicho flujo de información podría generar demasiado ruido y podría ser más apropiado el estar seguros de que el proyecto se encuentra fácilmente en una herramienta fácil de usar.
+Recuerda que el objetivo es generar impacto usando los canales apropiados de comunicación que funcionan en TU empresa.
+
+En cualquier caso todo lo anterior no es una lista exhaustiva.
+La disponibilidad de los proyectos y cómo de abiertos son estará directamente relacionado con el éxito del mismo en términos de InnerSource.
+Cuanto más abierto sea, menos barreras se encontrarán los posibles contribuidores que quieran participar.
+Cuanto menos abierto sea, más difícil será para cualquier contribuir al proyecto.
+
+
+=== Transparencia
+
+Para obtener una contribución de equipos externos de cierto impacto el equipo anfitrión debe ser _transparente_.
+Esto significa que el equipo contribuidor debe entender:
+
+* El proyecto/repositorio y su dirección
+* Necesidades pendientes
+* Progreso existente en esas necesidades
+* Proceso de decisión del equipo anfitrión
+
+Cuando sea posible, todo lo anterior debe ser comunicado de forma clara y detallada, desde las definiciones internas a escenario con casos especiales específicos del proyecto.
+Esta comunicación debe ser hecha de una forma que pueda ser fácilmente transmitida y comprendida por aquellos que no son parte del núcleo central del equipo.
+
+
+=== Mentorización priorizada
+
+La _mentoría_ del equipo anfitrión a través del https://innersourcecommons.org/learn/learning-path/trusted-committer/01[trusted committer] es un aspecto fundamental de InnerSource.
+Los https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] de los equipos invitados se tutorizan y mentorizan hasta el punto de que comprenden el proyecto en el que quieren participar y que lleven a cabo modificaciones con éxito.
+En este proceso, estas personas tendrán un conocimiento amplio del software del equipo anfitrión y podrán actuar como consumidores de dicho software y como embajadores del proyecto.
+Este contribuidor podría, con tiempo y experiencia, llegar a ser un trusted committer del mismo al jugar un papel más importante en el mismo.
+
+Es crítico que este tipo de mentoría de contribuidores se _priorice_ por el equipo anfitrión.
+El equipo anfitrión debe esforzarse en tener tiempo para mentorizar contribuciones de otros equipos _en el momento en el que el contribuidor lo necesite_ frente a la situación de que el sea conveniente o no para el equipo anfitrión.
+Esto de hecho puede ser un cambio cultural para aquellos ingenieros del equipo anfitrión que vayan a pasar tiempo ayudando a otros frente a la situación previa donde trabajaban para el proyecto o para cumplir sus objetivos.
+Esta mentoría es beneficiosa para ambas partes, para el contribuidor individual y para el anfitrión y vale la pena hacerlo de forma correcta.
+Esto se ha probado como beneficioso para ambas partes en el largo plazo. A través de la mejora del código, el contribuidor mejora y forja relaciones dentro de la organización que de otra manera nunca habrían existido.
+En los proyectos de software libre esta forma de trabajo se reconoce por la comunidad y se considera un honor llegar a ser trusted committer en algún proyecto.
+
+
+=== Contribuciones voluntarias de código fuente
+
+La palabra _Voluntarias_ significa implicación por ambas partes, tanto por el lado del equipo anfitrión como del equipo invitado y esta relación se lleva a cabo libremente.
+El equipo invitado voluntariamente dona código al equipo anfitrión y el equipo anfitrión voluntariamente lo acepta.
+Esta manera de funcionar de forma natural significa que el ser parte de este proceso por cada equipo añade valor a cada uno de sus objetivos por separado.
+El equipo anfitrión nunca será forzado a aceptar una contribución que no se encuentre alineada con la misión concreta del proyecto.
+El equipo invitado nunca será forzado a enviar una contribución que en última instancia esté alineada con su misión y prioridades.
+
+Las palabras _código fuente_ enfatizan el hecho de que la colaboración entre el equipo invitado y el anfitrión llega hasta el final de la cadena y la producción de código fuente.
+La participación del equipo anfitrión en la apertura de tickets, actualización de requisitos, mejoras en la documentación, etc. está bien, pero la colaboración tiene que llegar hasta el punto de enviar código fuente para que la organización disfrute de todos los beneficios que se han mencionado hasta ahora.
+
