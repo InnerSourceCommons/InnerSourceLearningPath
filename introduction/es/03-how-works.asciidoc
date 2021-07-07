@@ -15,9 +15,9 @@ Estos conceptos acerca de una visita en una casa son una metáfora de la actitud
 
 Echemos un vistazo más en detalle del proceso de InnerSource.
 Para ilustrar esta explicación usaremos unos pocos roles que son clave en los equipos que actúan como invitados y anfitriones.
-En primer lugar, el https://innersourcecommons.org/resources/learningpath/product-owner/index[_Product Owner_] determina qué funcionalidad puede ser aceptada por el equipo anfitrion como una contribución.
-El https://innersourcecommons.org/resources/learningpath/contributor/index[_Contribuidor_] es la persona en el equipo invitado que envía la contribución de código para ser revisada por el equipo anfitrión.
-El https://innersourcecommons.org/resources/learningpath/trusted-committer/index[_Trusted Committer_] representa al equipo anfitrión al ofrecer en cualquier momento soporte y consejo acerca de las necesidades que tiene que cubrir el contribuidor cuando envíe su parche de código o pull request.
+En primer lugar, el https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] determina qué funcionalidad puede ser aceptada por el equipo anfitrion como una contribución.
+El https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidor_] es la persona en el equipo invitado que envía la contribución de código para ser revisada por el equipo anfitrión.
+El https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] representa al equipo anfitrión al ofrecer en cualquier momento soporte y consejo acerca de las necesidades que tiene que cubrir el contribuidor cuando envíe su parche de código o pull request.
 En equipos pequeños, a veces ocurre que la misma persona desempeña _ambos_ puestos, el product owner y el trusted committer.
 
 Una vez entendidas estas definiciones, a continuación vemos el resumen de una contribución de InnerSource.

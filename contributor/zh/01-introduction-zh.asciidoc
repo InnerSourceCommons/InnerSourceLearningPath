@@ -6,13 +6,13 @@
 
 有了 InnerSource 项目，你将永远不必再为等待其他团队交付某些所需功能而困扰了。如果你没有从此项目中获取所需东西，则可以担任 InnerSource 的贡献者，直接在另一个团队的代码库中进行所需的更改。
 
-“贡献者”指为 InnerSource 社区项目代码库做贡献的人，这些人可以将自己视为社区的一部分。而对于大多数贡献者来说，都会经历这一系列过程：从了解社区，到使用社区的产品，再到与社区成员进行交互，最后开始做出贡献。最后，其中一些贡献者会成为 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_]
+“贡献者”指为 InnerSource 社区项目代码库做贡献的人，这些人可以将自己视为社区的一部分。而对于大多数贡献者来说，都会经历这一系列过程：从了解社区，到使用社区的产品，再到与社区成员进行交互，最后开始做出贡献。最后，其中一些贡献者会成为 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/[_Trusted Committer_]
 
 ### 与其他角色的关系
 
-作为 InnerSource 社区中的贡献者，你将与 InnerSource 的其他角色（例如 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_] 或 https://innersourcecommons.org/learn/learning-path/product-owner/01[_产品所有者（Product Owner）_] ）进行交互，也可能与其他贡献者进行交互。有时，这些角色可以由同一个人扮演，例如小型基础项目中的“Trusted Committer”和“产品所有者”。
+作为 InnerSource 社区中的贡献者，你将与 InnerSource 的其他角色（例如 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 或 https://innersourcecommons.org/learn/learning-path/product-owner/01[_产品所有者（Product Owner）_] ）进行交互，也可能与其他贡献者进行交互。有时，这些角色可以由同一个人扮演，例如小型基础项目中的“Trusted Committer”和“产品所有者”。
 
-本节为你简要概述了其他两个角色，但我们想鼓励你去阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_“Trusted Committer”的介绍文章_] ，也推荐你在深入研究本节的“贡献者”角色之前阅读 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/05/[_降低准入门槛_] 一文，你也可以观看视频（ https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_介绍_]、 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/05/[_降低准入门槛_]）而无需阅读文章。
+本节为你简要概述了其他两个角色，但我们想鼓励你去阅读 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_“Trusted Committer”的介绍文章_] ，也推荐你在深入研究本节的“贡献者”角色之前阅读 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/05/[_降低准入门槛_] 一文，你也可以观看视频（ https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_介绍_]、 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/05/[_降低准入门槛_]）而无需阅读文章。
 
 ### Trusted Committer
 
@@ -28,7 +28,7 @@ https://innersourcecommons.org/learn/learning-path/product-owner/01[_产品所�
 
 最后重要的一点，有些原本可能涉及该项目的产品所有者，你需关注他带来的收益和对社区的影响。
 
-如果你想更深入的了解这些其他角色，我们也鼓励你这样做，为此我们准备了有关 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_]
+如果你想更深入的了解这些其他角色，我们也鼓励你这样做，为此我们准备了有关 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_]
 或 https://innersourcecommons.org/learn/learning-path/product-owner/01[_产品所有者（Product Owner）_] 的单独部分。
 
 ### 概述

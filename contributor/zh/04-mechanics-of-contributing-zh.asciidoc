@@ -58,18 +58,18 @@ InnerSource重视书面交流-特别是在项目决策方面。 这是否意味
 
 ==== 编写代码
 
-我们对代码样式，缩进等都有自己的偏好和看法，项目团队的项目也有这些偏好和看法。即使不是你通常会做的，即使项目的 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/05/[_ “CONTRIBUTING.md”_] 中未指定，也要尝试调整并匹配这些偏好。如果不确定，你可以随时请教。不过，用户为某个功能或错误修复做出的贡献，就不适合引入新的构建或格式化项目代码的新方法。
+我们对代码样式，缩进等都有自己的偏好和看法，项目团队的项目也有这些偏好和看法。即使不是你通常会做的，即使项目的 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/05/[_ “CONTRIBUTING.md”_] 中未指定，也要尝试调整并匹配这些偏好。如果不确定，你可以随时请教。不过，用户为某个功能或错误修复做出的贡献，就不适合引入新的构建或格式化项目代码的新方法。
 
 [#submitting-the-pull-request]
 === 提交 pull request
 
 你已经完成了所有必要的工作，找出了所有问题和你正在贡献的项目的问题，离计划使用新功能的时间也越来越近了，并能尽快顺利地合并你的贡献。
 
-你可以按照以下步骤，使 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_]和维护团队尽可能更轻松的进行审核和合并。实际上，这可能与你在自己的项目中为使更改能被接受而做的事非常相似。如果是这样就太好了，这对你来说自然而然！
+你可以按照以下步骤，使 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_]和维护团队尽可能更轻松的进行审核和合并。实际上，这可能与你在自己的项目中为使更改能被接受而做的事非常相似。如果是这样就太好了，这对你来说自然而然！
 
 ==== 测试和自动化
 
-测试和自动化的基本作用是让 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_] 能在不需要你参与的情况下验证你的代码，并保证代码的可维护性。想象一下，你开发了某项功能，解决了某个难题，或者完成了某重要的性能调整，但是你的代码里并没有对这些进行清楚的说明（说明可能看起来不够通顺或者是错误的）。如果你用测试代码来解决这个问题（最好在测试代码的注释中说明测试的基本原理，编辑器将能自动地对测试代码做出注释），测试将保证你的代码的质量，即使到新的环境也是一样。要做到这些，你可以：
+测试和自动化的基本作用是让 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 能在不需要你参与的情况下验证你的代码，并保证代码的可维护性。想象一下，你开发了某项功能，解决了某个难题，或者完成了某重要的性能调整，但是你的代码里并没有对这些进行清楚的说明（说明可能看起来不够通顺或者是错误的）。如果你用测试代码来解决这个问题（最好在测试代码的注释中说明测试的基本原理，编辑器将能自动地对测试代码做出注释），测试将保证你的代码的质量，即使到新的环境也是一样。要做到这些，你可以：
 
 * 为你的代码添加测试，以便即使在一段时间之后（当你去其他项目工作了或可能已经停止为该项目做出贡献时），其他人也可以很好的使用它。
 
@@ -103,13 +103,13 @@ InnerSource重视书面交流-特别是在项目决策方面。 这是否意味
 
  ** 同样的情况也适用于你不确定它是否可以实现或你的方法是否正确，那么请突出显示它并请求帮助理解。
 
- ** 要有礼貌， https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_] 也会礼貌的给出评审。
+ ** 要有礼貌， https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 也会礼貌的给出评审。
 
 * pull request 太广太大会使他们更难审查，所以他们需要更长的时间才能去接受它。
 
  ** 如果你正在贡献一个更大的功能，将其拆分为多个 pull request 通常会有所帮助，这些请求按顺序提交、检查和接受。你仍然可以通过你提的issue将它们结合在一起。
 
-  *** 有些工具还具有 Draft/WIP pull request 功能，您可以使用这些功能来标记未完成和不完美的作品，并且仍然可以从产品团队的 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_] 那里获得早期反馈。
+  *** 有些工具还具有 Draft/WIP pull request 功能，您可以使用这些功能来标记未完成和不完美的作品，并且仍然可以从产品团队的 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 那里获得早期反馈。
 
   *** 这样一来，你可以确保你所做的一切能使项目团队一旦完成，就乐于合并（merge），并坚持“尽早发布，经常发布”的想法。
 
