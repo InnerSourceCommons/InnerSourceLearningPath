@@ -12,7 +12,7 @@ https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（C
 
 Trusted Committer始终是InnerSource社区的成员，该社区有时也称为维护团队。我们用比喻来形容一下，Trusted Committer既负责建造房屋，也负责制定房屋规则，以确保其客人感到舒适，并可以进行有效的合作。与 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]相比，Trusted Committer已经承担了将代码推向生产的责任，并且通常被允许执行更高风险的任务。
 
-https://innersourcecommons.org/learn/learning-path/product-owner[_产品所有者（Product Owner）_]是InnerSource中的第三个角色。与敏捷过程类似，产品负责人负责定义和优先考虑社区要实施的需求和故事。 产品负责人经常与Trusted Committer进行交互（例如，确保所请求或提供的功能实际上属于该产品）。特别是在较小的草根InnerSource社区中，Trusted Committer通常还充当产品负责人。查看我们的 https://innersourcecommons.org/learn/learning-path/product-owner[_产品负责人学习方法（Product Owner Learning Path segment）_]，以获取更多详细信息。
+https://innersourcecommons.org/zh/learn/learning-path/product-owner[_产品所有者（Product Owner）_]是InnerSource中的第三个角色。与敏捷过程类似，产品负责人负责定义和优先考虑社区要实施的需求和故事。 产品负责人经常与Trusted Committer进行交互（例如，确保所请求或提供的功能实际上属于该产品）。特别是在较小的草根InnerSource社区中，Trusted Committer通常还充当产品负责人。查看我们的 https://innersourcecommons.org/zh/learn/learning-path/product-owner[_产品负责人学习方法（Product Owner Learning Path segment）_]，以获取更多详细信息。
 
 为什么角色名称很重要？
 
