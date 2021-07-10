@@ -21,7 +21,7 @@ InnerSource允许工程时间在给定的时间内有机地流到组织需要它
 并使其优先级与所有使用者保持一致。维护团队可以对其生成的工作进行最佳的需求收集，
 但是当使用者本身提交工作时，结果更改与使用者的需求保持一致的几率要高得多。虽然可能只有一个调用团队提交更改，但该团队可能代表许多其他客户。
 
-除了这种联合之外，还有对 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_] 的一般培训和教育，因为他们与 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 一起工作并向他们学习。
+除了这种联合之外，还有对 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_] 的一般培训和教育，因为他们与 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_] 一起工作并向他们学习。
 这种互动有助于贡献者在他们的职业生涯中学习和成长，从而获得 *更高的工作满意度* 。
 项目文档的改进使这些贡献能够规模化。贡献者认为自己与维护团队项目是有利害关系的。
 这是他们向同事或新加入的团队推荐的东西。他们能够更好地理解项目，并能够向其他人回答关于项目的问题，从而减轻维护团队的一些负担。
