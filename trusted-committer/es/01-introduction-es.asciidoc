@@ -18,7 +18,7 @@ Vamos a explorar ambas en las siguientes secciones.
 Antes de entrar en detalle a lo que un Trusted Commiter hace realmente,
 vamos a usar nuestro tiempo comparando el rol de Trusted Committer con otros roles en InnerSource en un nível alto de abstacción
 y explicar por qué pensamos que el nombre es apto e importante.
-Empecemos con el rol de https://innersourcecommons.org/learn/learning-path/contributor/01[Contribuidor].
+Empecemos con el rol de https://innersourcecommons.org/learn/learning-path/contributor[Contribuidor].
 Un _Contribuidor_, como su nombre lo indica, hace contribuciones a una comunidad InnerSource.
 Estas contribuciones pueden ser artefactos de código o no-código,
 como informes de defectos, petición de características, o documentación.
@@ -35,12 +35,12 @@ para asegurarse que los invitados esten a gusto y puedan trabajar juntos de mane
 Comparado con los contribuidores, los Trusted Committers han ganado la responsabilidad de publicar código más cerca a producción
 y generalmente se les permite realizar tareas que tienen un riesgo mayor.
 
-El https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_ (PO)] es un tercer rol en InnerSource.
+El https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_ (PO)] es un tercer rol en InnerSource.
 Al igual que en los procesos ágiles,
 el PO es responsable de definir y dar prioridad a requisitos e historias para que la comunidad las implemente.
 El PO interactúa frecuentemente con los Trusted Committers,
 (Por ejemplo, al asegurarse que la característica solicitada o contribuida realmente pertenezca al producto).
-Especialmente en comunidades InnerSource pequeñas, el Trusted Committer también suele actuar como PO. Revisa nuestro https://innersourcecommons.org/learn/learning-path/product-owner/01[Camino de aprendizaje para ser Product Owner]
+Especialmente en comunidades InnerSource pequeñas, el Trusted Committer también suele actuar como PO. Revisa nuestro https://innersourcecommons.org/learn/learning-path/product-owner[Camino de aprendizaje para ser Product Owner]
 para información mas detallada.
 
 === ¿Porqué importa el nombre de los roles?
