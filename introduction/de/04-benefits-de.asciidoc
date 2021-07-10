@@ -21,7 +21,7 @@ Neben der einfachen Verbesserung der Funktionalität die das Hostteam erzielen k
 Ein Hostteam kann mit größtem Aufwand Anforderungen für Ihr Produkt sammeln, wenn jedoch der Nutzer selbst die jeweilige Anforderung einreicht, sind die Chancen erheblich höher, dass die daraus resultierende Änderung genau auf die Bedürfnisse des Nutzers abgestimmt ist.
 Weiterhin gilt, während es möglicherweise nur ein einziges Gastteam die Änderung einreicht, ist dieses Team wahrscheinlich auch repräsentativ für andere Nutzer.
 
-Zusätzlich zu den oben aufgezeigten Vorteilen, bietet diese Art der Zusammenarbeit auch eine Chance zur Weiterbildung der https://innersourcecommons.org/learn/learning-path/contributor/01[Contributors], während sie mit ihnen arbeiten und von ihnen als https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committers] lernen.
+Zusätzlich zu den oben aufgezeigten Vorteilen, bietet diese Art der Zusammenarbeit auch eine Chance zur Weiterbildung der https://innersourcecommons.org/learn/learning-path/contributor[Contributors], während sie mit ihnen arbeiten und von ihnen als https://innersourcecommons.org/learn/learning-path/trusted-committer[Trusted Committers] lernen.
 Diese Interaktionen helfen den Mitwirkenden in zu lernen und zu wachsen, was zu letztendlich zu einer *höheren Arbeitszufriedenheit* führt.
 Weiterhin wird im Allgemeinen die Projektdokumentation schrittweise verbessert, um Gastbeiträge in großem Maßstab zu ermöglichen und zu fördern.
 Natürlich ist auch nicht zu vergessen, dass sich die Mitwirkenden am Projekt des Hostteams beteiligt fühlen.
