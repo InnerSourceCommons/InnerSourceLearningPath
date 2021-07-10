@@ -5,23 +5,23 @@ InnerSourceコミュニティへの参加には連続性があります。
 コミュニティについて知らない人達がいます。
 _新規参加者_ は、コミュニティとその製品に関心があるかもしれませんが、まだそれを使用していません。
 _消費者_ は、ソフトウェアを使用しますが、コントリビューションしていない可能性があります。
-次に、少なくとも一つはコントリビューションをしている https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] がおり、最後にソフトウェアとコミュニティの両方に責任を持つ_Trusted Committers_ がいます。
+次に、少なくとも一つはコントリビューションをしている https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] がおり、最後にソフトウェアとコミュニティの両方に責任を持つ_Trusted Committers_ がいます。
 Trusted Committer としては、この連続性に沿う形で個人を動かし、コントリビューションする能力を高めていく責任があります。
 この意味で、Trusted Committer は、コミュニティにおけるフォースマルチプライヤーとして機能します。
 
 Trusted Committer が、新規参入者や消費者の数を増やすために、自らの製品やコミュニティを宣伝することは重要なことです。
-また、消費者にコントリビューションの機会を伝えて、潜在的な https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] の興味をコミュニティの興味と一致させるようにも努めなければなりません。
-うまく機能する多くは、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] が自部門や会社での役割に役立つ何かに取り組むことができる場合です。
+また、消費者にコントリビューションの機会を伝えて、潜在的な https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] の興味をコミュニティの興味と一致させるようにも努めなければなりません。
+うまく機能する多くは、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] が自部門や会社での役割に役立つ何かに取り組むことができる場合です。
 開発ツールや自動化が良い例です。
 
-最後に、挑戦的な仕事に取組むことを奨励し、完了に向けて指導することで、成長の可能性がある https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] を見極めてサポートすることは Trusted Commiter の責任です。
+最後に、挑戦的な仕事に取組むことを奨励し、完了に向けて指導することで、成長の可能性がある https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] を見極めてサポートすることは Trusted Commiter の責任です。
 これは、私達の意見では、Trusted Committer の最も崇高な責任であり、Trusted Committer とコントリビューターの両方に価値があるものです。
 Trusted Committers の話によると、メンタリングして人々を見ていくことは、ソフトウェア開発に実際に費やす時間が少ないという事実を補う以上に彼らの能力を向上させているということです。
 
 https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[前の章] で述べたように、学習と個人の成長は、人々がInnerSourceのコミュニティに参加して定着する理由です。
-https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] のレベル向上は、Trsuted Comitterが、コミュニティのスピード、アウトプットそして寿命を向上するために自由に使える最も強力なツールの一つです。
+https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] のレベル向上は、Trsuted Comitterが、コミュニティのスピード、アウトプットそして寿命を向上するために自由に使える最も強力なツールの一つです。
 それは、従業員の企業全体に対する価値を高め、優秀な人材を維持することにもつながることから、従業員のInnerSourceコミュニティへの参加を許可するように経営陣を説得するための重要な論点の1つにもなります。
 
-要約すると、Trusted Committer は、新しい https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] を引きつけ、彼らのコントリビューションする能力を向上させる必要があります。
+要約すると、Trusted Committer は、新しい https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] を引きつけ、彼らのコントリビューションする能力を向上させる必要があります。
 この活動は最終的に、より良いソフトウェアをより早く作成するコミュニティの能力の向上になります。
 そのためには、コントリビューションする機会を伝え、コントリビューターが成長できるように支援したり指導したりします。

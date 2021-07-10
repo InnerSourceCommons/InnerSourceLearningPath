@@ -6,10 +6,10 @@
 そのためには、製品の品質を確保することと健全なコミュニティを育てることの間で、バランスを取る必要があります。
 
 健全なコミュニティとはどのようなものでしょうか？
-簡単に言うと、健全なコミュニティでは、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] はソフトウェア開発にほとんどの時間を費やすことができ、能力を高めることができます。
+簡単に言うと、健全なコミュニティでは、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] はソフトウェア開発にほとんどの時間を費やすことができ、能力を高めることができます。
 その結果、健全なコミュニティは、継続して成長することになります。
 
-なぜ、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] はコミュニティに参加して留まるのでしょうか？
+なぜ、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] はコミュニティに参加して留まるのでしょうか？
 コミュニティの目的や使命に賛同しているため、そうする人達がいます。
 この目的を明確にして推進することが、Trusted Committer の仕事です。
 この重要性は、認識されていないことが多いが、コミュニティとそのプロダクトをマーケティングすることは本当に重要です。
@@ -29,11 +29,11 @@ Trusted Committers は多くの場合、ジュニア開発者のメンターと�
 そうすることで Trusted Committer は、コミュニティの学習スピードを、従来のソフトウェア開発プロジェクトをはるかに上回るものに高めることができます。
 
 私たちは、Trusted Committer は、よほど正当な理由がない限り、周知されたリリース日に到達するよりも、プルリクエスト中のオンボーディングと指導を優先すべきだと考えています。
-プルリクエスト中に優れた指導を行うことは、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] の信頼と関与のレベルを高め、より多くのコントリビューションにつながります。
+プルリクエスト中に優れた指導を行うことは、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] の信頼と関与のレベルを高め、より多くのコントリビューションにつながります。
 これについては、 https://innersourcecommons.org/learn/learning-path/trusted-committer/04/["コミュニティのレベル向上"] で詳しく説明します。
 
 最後に、特にプロセスに重点を置いている大企業で、彼らがオーバーヘッドや無駄と考える活動の代わりに、ソフトウェアの開発に集中できるのでInnerSource のコミュニティに留まる人たちもいます。
-このコンテキストでの Trusted Committer の仕事は、有用なコントリビューションガイドラインを伝えて制定することにより、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] が実際にプロジェクトに集中できるようにすることです。
+このコンテキストでの Trusted Committer の仕事は、有用なコントリビューションガイドラインを伝えて制定することにより、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] が実際にプロジェクトに集中できるようにすることです。
 
 これらのガイドラインの重要な側面の1つは、私たちがプルリクエストで _シグナリング_ と呼ぶものを説明することです。コメントはどのように見えるべきか?
 「いいね」や「+1」のコメントの意味は何ですか？
@@ -44,4 +44,4 @@ Trusted Committers は多くの場合、ジュニア開発者のメンターと�
 Trusted Committer がこれらすべての責任を果たすためには、コミュニティメンバーと定期的にコミュニケーションをとり、常に耳を傾けることが重要です。
 これについての詳細は、 https://innersourcecommons.org/learn/learning-path/trusted-committer/06/["コミュニティのニーズ提唱"] のセクションで説明します。
 
-要約すると、Trusted Committersは、他のコミュニティメンバーから学ぶ機会を作ることでソフトウェアの作成と個人的成長に集中できるように、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] が歓迎され感謝される環境を作るように努力すべきです。
+要約すると、Trusted Committersは、他のコミュニティメンバーから学ぶ機会を作ることでソフトウェアの作成と個人的成長に集中できるように、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] が歓迎され感謝される環境を作るように努力すべきです。

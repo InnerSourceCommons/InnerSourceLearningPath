@@ -7,7 +7,7 @@ InnerSourceのコミュニティでTrusted Committerたちは、すべての技�
 これには、コミュニティ内外で意思疎通を図り、必要に応じてこれらの決定を支持することが含まれます。
 しかし、Trusted Committerは、必ずしも技術関連の決定をすべて自分で行ったり、それを実装するためのすべての作業を行うわけではありません。
 
-Trusted Committer の仕事は、彼らのコミュニティの品質基準を伝え、明確にし、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] が理解でき、実行可能な形にそれらを策定することです。
+Trusted Committer の仕事は、彼らのコミュニティの品質基準を伝え、明確にし、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] が理解でき、実行可能な形にそれらを策定することです。
 これにはもちろん書面による文書も含まれますが、Trusted Committer がこれらの品質基準を伝える最も効果的な方法は、例示によるものです。
 私たちは、InnerSourceコミュニティが開発をまとめる方法だけでなく、彼らが作成するソフトウェアの品質においても、従来のソフトウェア開発プロジェクトと差別化を図ることは価値ある目標であると考えています。
 ソフトウェア品質の高さは、InnerSourceコミュニティのユーザとその管理者の信頼を確立し維持するために不可欠なものです。
@@ -17,15 +17,15 @@ Trusted Committers は、コミュニティが質の高いソフトウェアを�
 ピアレビューは、通常、プルリクエスト(PR)の一部として行われ、品質を確保するために最も頻繁に使用されます。
 通常、誰もが必要な改善点を指摘することでプルリクエストを開始して参加できますが、最終的にコントリビューションを受け入れてマージしたり拒否したりできるのは、通常はTrusted Committerだけです。
 これが先程「Trusted Committersはコードを本番環境に近づけることができる」と言った意味になります。
-Trusted Committersは、PR中にコントリビューションがゴールラインを越えられるように、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] を支援する必要もあります。
+Trusted Committersは、PR中にコントリビューションがゴールラインを越えられるように、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] を支援する必要もあります。
 
 そうは言っても、最終的にそれを実現するのはコントリビューターの仕事です。
 Trusted Committerの仕事は、デフォルトですべてのコントリビューションを受け入れるのではなく、品質と範囲に関して定義された基準を満たすものだけを受け入れることです。
-また、Trusted Committerは、PRで https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] のサポートに多くの時間を費やすことになっても、コントリビューターのコードをできるだけ「適合する」ように書き直すことは避けるべきです。
+また、Trusted Committerは、PRで https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] のサポートに多くの時間を費やすことになっても、コントリビューターのコードをできるだけ「適合する」ように書き直すことは避けるべきです。
 Trusted Committerは、長期的な視点を持ち、このような支援がコミュニティの寿命への投資で、長期的にはコミュニティの開発速度を向上させることを理解しています。
 
 時々、プロジェクトの要件や制限が事前にわからず、開発中に発見されることがあります。
-Trusted Committerは、これらの発見を https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_] と https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] のために捕捉し、ドキュメントにすることを確認する責任もあります。
+Trusted Committerは、これらの発見を https://innersourcecommons.org/learn/learning-path/product-owner[_プロダクトオーナー_] と https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] のために捕捉し、ドキュメントにすることを確認する責任もあります。
 
 しかし、Trusted Committerの品質に関する権限は、プルリクエストの範囲を越えています。
 Trusted Committersは品質を戦略レベルで考え、構築中のソフトウェアの寿命を確保します。
@@ -33,9 +33,9 @@ Trusted Committersは品質を戦略レベルで考え、構築中のソフト�
 また、必要に応じて、コミュニティがソフトウェアをリファクタリングするための十分な時間を確保したり、品質改善するためにリリース日を移動したりするなど、管理面のタスクも含まれます。
 Trusted Committerの有効性は、コードの健全性と強く関係しています。
 
-後者がなければ、Trusted Committerはバグや脆弱なアーキテクチャのための回避策の検証や文書化に貴重な時間の多くを費やすことになり、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] の指導に十分な時間を割くことができなくなってしまいます。
+後者がなければ、Trusted Committerはバグや脆弱なアーキテクチャのための回避策の検証や文書化に貴重な時間の多くを費やすことになり、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] の指導に十分な時間を割くことができなくなってしまいます。
 
 まとめると、製品の品質を確保することは、Trusted Committer達の重要な責任です。
 彼らは品質基準を設定し、例示することでリードします。
-彼らはプルリクエストに参加し、 https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] が品質基準を満たすのを支援します。
+彼らはプルリクエストに参加し、 https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] が品質基準を満たすのを支援します。
 また、彼らはソフトウェアの長期的な健全性についても責任を持ちます。

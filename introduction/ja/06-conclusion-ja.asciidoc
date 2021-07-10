@@ -3,7 +3,7 @@
 このラーニングパスでは、InnerSourceの紹介をしました。
 InnerSourceは、企業内のソフトウェア開発にオープンソースのベストプラクティスと原則を適用したものです。
 これは、提供側のチームが必要な機能要件を提供することができない時に、利用者に追加オプションを提供するものです。
-InnroSourceの成功には、 *ホストチーム* の https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_] と https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_トラステッドコミッター_] 、そして *ゲストチーム* の https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] が関わります。
+InnroSourceの成功には、 *ホストチーム* の https://innersourcecommons.org/learn/learning-path/product-owner[_プロダクトオーナー_] と https://innersourcecommons.org/learn/learning-path/trusted-committer[_トラステッドコミッター_] 、そして *ゲストチーム* の https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] が関わります。
 効果的に行うと、InnerSourceは両方の参加チームに多くの効果をもたらします。
 効果的なInnerSource実施の主要な原則は、 *自発的なコードコントリビューション* と *優先的なメンターシップ* です。
 

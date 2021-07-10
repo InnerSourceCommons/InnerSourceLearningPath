@@ -21,5 +21,5 @@ http://innersourcecommons.org/checklist[innersourcecommons.org/checklist] で、
 
 まずは他の動画をご覧ください。
 次のリンクを参照してください。
-アジャイルやリーンプロセスに精通していると役立ちますし、この動画を視る前に、 https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] と https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] の役割を理解しておくことはとても重要です。 
+アジャイルやリーンプロセスに精通していると役立ちますし、この動画を視る前に、 https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] と https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] の役割を理解しておくことはとても重要です。 
 よろしくお願いします。

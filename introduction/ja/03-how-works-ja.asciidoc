@@ -21,9 +21,9 @@ _ゲスト_ や _ホスト_ の用語は、自宅にお客を招くような感�
 
 それでは、InnerSourceのプロセスの仕組みがどのように機能するかを見てみましょう。
 この説明の補足として、ここでゲストチームとホストチームそれぞれのキーパーソンとなる人に名前を付けておきます。
-まず、 https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_] は、ホストチームが受け入れるコントリビューションがどの機能かを決定します。
-https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] は、ゲストチーム内の個人で、ホストチームにレビューしてもらうためにコードを投稿します。
-https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_トラステッドコミッター_] は、ホストチームを代表する人であり、コントリビューターがプルリクエストを正しく投稿するために必要な指導やタイムリーなサポートを提供します。
+まず、 https://innersourcecommons.org/learn/learning-path/product-owner[_プロダクトオーナー_] は、ホストチームが受け入れるコントリビューションがどの機能かを決定します。
+https://innersourcecommons.org/learn/learning-path/contributor[_コントリビューター_] は、ゲストチーム内の個人で、ホストチームにレビューしてもらうためにコードを投稿します。
+https://innersourcecommons.org/learn/learning-path/trusted-committer[_トラステッドコミッター_] は、ホストチームを代表する人であり、コントリビューターがプルリクエストを正しく投稿するために必要な指導やタイムリーなサポートを提供します。
 小さな草の根活動的な取り組みでは、一人でプロダクトオーナーとトラステッドコミッター _両方_ の役目をすることがあります。
 
 これらの定義を用いて、InnerSourceのコントリビューションに関する基本的なアウトラインを説明すると、次のようになります。
