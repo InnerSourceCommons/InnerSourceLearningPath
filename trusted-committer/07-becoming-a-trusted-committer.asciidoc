@@ -11,10 +11,10 @@ Transparency, another Open Source value, also plays a vital role in that it make
 
 The process of officially becoming a Trusted Committer differs from community to community, depends on where you are in your InnerSource journey and might evolve over time. 
 In grassroots communities, the founders often assume the role of the Trusted Committer. 
-As a community grows, or in larger communities, Trusted Committers are usually nominated or voted in from the community https://innersourcecommons.org/learn/learning-path/contributor/01[contributors].
+As a community grows, or in larger communities, Trusted Committers are usually nominated or voted in from the community https://innersourcecommons.org/learn/learning-path/contributor[contributors].
 But the Trusted Committer role should be taken on voluntarily as it requires an immense amount of time and dedication to be successful in it.
 
-What are the criteria to apply in nominating https://innersourcecommons.org/learn/learning-path/contributor/01[contributors] for a Trusted Committer role? 
+What are the criteria to apply in nominating https://innersourcecommons.org/learn/learning-path/contributor[contributors] for a Trusted Committer role? 
 What does it take to successfully fill the role of a Trusted Committer? 
 First off, potential Trusted Committers need to have demonstrated a deep technical competence during their work in the community. 
 In addition to that, they must have proven their ability to effectively communicate with peers in the community and ideally also with

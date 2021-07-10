@@ -7,7 +7,7 @@
 * Summary of the roles of InnerSource and how each relates to _Contributor_.
 * Summary of the upcoming segments and what each covers.
 
-Outline for this section inspired by the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committer introduction video].
+Outline for this section inspired by the https://innersourcecommons.org/learn/learning-path/trusted-committer[Trusted Committer introduction video].
 
 === Becoming an InnerSource Contributor
 

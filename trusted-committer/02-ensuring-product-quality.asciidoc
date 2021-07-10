@@ -12,7 +12,7 @@ tech-related decisions themselves or do all the work to implement them.
 
 It is the Trusted Committer's job to communicate and clarify quality standards in their
 community and to formulate them in a way that is understandable and
-actionable by their https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_]. This includes written documentation,
+actionable by their https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_]. This includes written documentation,
 of course, but the most effective way for Trusted Committers to communicate these quality standards is by example. We think it
 can be a worthwhile goal for an InnerSource community to try and
 distinguish itself from traditional software development projects not
@@ -26,7 +26,7 @@ performed as part of pull requests (PRs), is most frequently used to ensure qual
 and participate in pull requests by pointing out necessary improvements,
 it is usually only the Trusted Committer who can ultimately accept and merge or reject
 a contribution. This is what we meant earlier when we said "Trusted Committers can push code
-closer to production." Trusted Committers should also help https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] during
+closer to production." Trusted Committers should also help https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] during
 a PR to get their contributions over the finish line.
 
 That said, it is ultimately the contributor's job to make that happen.
@@ -34,14 +34,14 @@ The job of a Trusted Committer is not to accept all contributions by default, bu
 only accept those that meet the defined criteria in terms of quality and
 scope. And Trusted Committers should avoid rewriting a contributor's code to make it
 "fit" as much as possible, even if it means spending more time
-supporting  https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] in a PR. Trusted Committers
+supporting  https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] in a PR. Trusted Committers
 take a long-term perspective and understand that this kind of support is
 an investment in the longevity of the community, and it will increase the community's development speed in the long run.
 
 Sometimes project requirements or limitations are not known upfront and are instead
 discovered during development. Trusted Committers are also responsible for making sure
-these findings are captured and documented for both the https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owners_] and the
-https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_].
+these findings are captured and documented for both the https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owners_] and the
+https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_].
 
 But the Trusted Committer's purview with respect to quality goes beyond pull requests. 
 Trusted Committers think about quality on a strategic level and ensure the
@@ -56,10 +56,10 @@ The effectiveness of the Trusted Committer is strongly related to code health.
 Absent the latter, Trusted Committers will have to spend much of their valuable time
 validating and documenting workarounds for bugs or a fragile
 architecture and will not have enough time to spend on onboarding and
-mentoring https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_].
+mentoring https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_].
 
 In conclusion, ensuring product quality is a key responsibility of Trusted Committers.
 They set quality standards and lead by example. They participate in pull
-requests and help https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] meet
+requests and help https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] meet
 quality standards. They also take responsibility for the long-term
 health of the software.
