@@ -38,7 +38,7 @@ Questo effetto può essere osservato anche con l'Open Source, puoi leggere di pi
 Nei tuoi team classici tutti avevano un'idea dei tempi di consegna previsti.
 All'interno del contesto InnerSource questo potrebbe non essere il caso, a causa di grandi differenze di fuso orario (ad esempio Seattle, USA con PDT contro Berlin, Germania con CEST) o non sei disponibile a tempo pieno come il tuo team originale, anche se sono nella stessa posizione fisica in cui ti trovi.
 Pertanto, per prevenire la frustazione da entrambe le parti, come l'impazienza e altri effetti che non incentivano la fiducia, dovrai quindi gestire esplicitamente le aspettative per quanto riguarda i tempi di reazione previsti.
-Un approccio consiste nel reagire rapidamente con un "Lo analizzerò, mi serviranno alcuni giorni" ad un feedback del https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer's_] se sai che potrai lavorarci in pochi giorni.
+Un approccio consiste nel reagire rapidamente con un "Lo analizzerò, mi serviranno alcuni giorni" ad un feedback del https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer's_] se sai che potrai lavorarci in pochi giorni.
 
 Idealmente, puoi fornire loro una stima di massima di quando avrai il tempo per visionare il loro contributo.
 Facendo in questo modo costruisci fiducia per affidabilità anche per contatti non fisici, distanze maggiori o canali altrimenti asincroni.
@@ -63,7 +63,7 @@ Questa sfida è frequente e a molte relazioni tra team è capitato di incrinarsi
 
 Rendi felici te stesso e l'host team (e possibilmente risparmia un po' di lavoro) ottenendo un accordo dall'host team sulla progettazione tecnica / utente del contributo _prima_ di lavorare sulle modifiche ed inviare la pull request.
 Devi capire come l'host team vorrebbe che ti mettessi in contatto per questo.
-La cosa migliore è chiedere al https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] come discutere al meglio la tua proposta.
+La cosa migliore è chiedere al https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] come discutere al meglio la tua proposta.
 
 E' saggezza provata più volte nell'area Open Source che, se puoi scegliere come discutere la tua proposta, dovresti provare a selezionare un modo scritto.
 Idealmente, scegli la modalità dove gli artefacci sono pubblici, ricercabili e con link unici per consentire di fare riferimento alla tua proposta nelle discussioni successive su questo contributo futuro o su altri contributi a venire tuoi o di altri.
@@ -111,12 +111,12 @@ Se non siete sicuri, potete sempre chiedere educatamente. Tuttavia, per un contr
 === Invio della pull request
 
 Hai completato tutto il lavoro essenziale, capito tutte le stranezze del problema e il progetto a cui stai contribuendo, il momento che avevi pianificato per la nuova funzionalità si avvicina, e vuoi assicurarti che il tuo contributo venga usato tramite merge nel modo più veloce e fluido possibile.
-Ecco quì quello che puoi fare per rendere la revisione ed il merging più facile possibile per il https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] e l'host team.
+Ecco quì quello che puoi fare per rendere la revisione ed il merging più facile possibile per il https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] e l'host team.
 Questo potrebbe attualmente essere abbastanza simile a quello che potresti già fare sul tuo progetto per far accettare le tue modifiche. Se è così - fantastico, ti verrà naturale!
 
 ==== Test e automazione
 
-Il punto fondamentale quì è abilitare il https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] a validare il contributo senza la tua presenza e assicurare una facile manutenibilità.
+Il punto fondamentale quì è abilitare il https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] a validare il contributo senza la tua presenza e assicurare una facile manutenibilità.
 Immagina di aver creato una funzionalità o la gestione di una stranezza irrisolvibile, o di un'importante modifica delle prestazioni ed il tuo codice non è del tutto ovvio (o potrebbe persino sembrare orrendo / sbagliato a prima vista).
 Se l'hai coperta con un test - ed idealmente hai scritto due parole sul razionale che c'è dietro in un commento - ad un futuro editor verrà ricordato lo scopo del codice, ed i test assicureranno che il valore realizzato del tuo codice sarà mantenuto, anche nelle nuove implementazioni.
 Per ottenere ciò, procedi nel seguente modo:
@@ -142,7 +142,7 @@ Per rendere la revisione del codice attuale quanto più semplice possibile per i
 * Fornisci una descrizione chiara di cosa viene modificato da questa pull request, perché lo fa in questo modo, e a quale issue e documenti di progettazione (se ce ne sono) fa riferimento.
 * Se c'è qualcosa di non comune o inaspettato nella pull request, sottolinealo e fornisci una spiegazione. Questo renderà più facile ragionarci sopra e risolvere potenziali domande bloccanti che un reviewer potrebbe avere durante la revisione.
  ** Lo stesso vale per lo scenario dove non eri sicuro dell'implementazione o del tuo approccio - sottolinealo e chiedi un approfondimento.
- ** Sii civile e aspettati civiltà dalla revisione del https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer's_].
+ ** Sii civile e aspettati civiltà dalla revisione del https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer's_].
 * Fare pull request troppo ampie e grandi le rende più difficile da revisionare, quindi sarà necessario molto più tempo prima che vengano accettate.
  ** Se hai una funzionalità più grande che stai per contribuire, spesso aiuta dividerla in più pull request che sono da inviare, revisionare e accettare sequenzialmente.
 Puoi ancora raccoglierle insieme in una issue a cui fai riferimento.

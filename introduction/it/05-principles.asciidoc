@@ -43,8 +43,8 @@ Questa comunicazione dovrebbe essere fatta in maniera tale che possa essere faci
 
 === Tutoraggio prioritizzato
 
-Il _tutoraggio_ dall'host team al guest team attraverso i https://innersourcecommons.org/learn/learning-path/trusted-committer/01[trusted committers] è un aspetto chiave dell'InnerSource.
-I https://innersourcecommons.org/learn/learning-path/contributor/01[Contributors] nel guest team vengono allineati contestualmente in modo tale da far loro capire abbastanza il progetto/repository dell'host team al fine di poterlo modificare con successo.
+Il _tutoraggio_ dall'host team al guest team attraverso i https://innersourcecommons.org/learn/learning-path/trusted-committer[trusted committers] è un aspetto chiave dell'InnerSource.
+I https://innersourcecommons.org/learn/learning-path/contributor[Contributors] nel guest team vengono allineati contestualmente in modo tale da far loro capire abbastanza il progetto/repository dell'host team al fine di poterlo modificare con successo.
 Nel fare ciò, arrivano a capire meglio il sistema software dell'host team come un utente e ambasciatore del progetto/software.
 Questo singolo contributore può, con il passare del tempo e con l'esperienza, assumere un ruolo più alto nel progegtto com quello di trusted committer.
 

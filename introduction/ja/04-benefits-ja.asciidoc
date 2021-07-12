@@ -21,7 +21,7 @@ InnerSourceは、組織が必要とする時と場所にエンジニアリング
 ホストチームは、作成した作業について最高の要件収集を行うことができますが、利用者自信が作業を提出する場合、結果として、行われた変更が利用者のニーズと合致する可能性がはるかに高くなります。
 変更を提出しているのは、1つのゲストチームだけかもしれませんが、そのチームが他の多くの利用者を代表している可能性があります。
 
-こうした調整に加えて、 https://innersourcecommons.org/learn/learning-path/contributor/01[コントリビューター] が https://innersourcecommons.org/learn/learning-path/trusted-committer/01[トラステッドコミッター] と一緒に働き、そこから学ぶことは、一般的なトレーニングや教育にもなります。
+こうした調整に加えて、 https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] が https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[トラステッドコミッター] と一緒に働き、そこから学ぶことは、一般的なトレーニングや教育にもなります。
 こうした対話は、コントリビューターのキャリア形成における成長や学習に寄与し、結果として *仕事への満足度が高くなります* 。
 プロジェクトのドキュメントは、大規模なコントリビューションを可能にするために改善されます。
 コントリビューターは、ホストチームのプロジェクトとの一体感を感じます。

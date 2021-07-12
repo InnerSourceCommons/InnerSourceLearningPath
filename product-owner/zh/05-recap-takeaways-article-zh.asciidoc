@@ -12,7 +12,7 @@
 开放的流程还意味着您比以前可能获得的更多功劳。
 通过经历并发布这些计划流程，这也意味着您可以减少政治事务，因为一切都变得更加清晰。
 
-最后，您将拥有这些新的角色和职责，例如支持新的 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committers_]。
+最后，您将拥有这些新的角色和职责，例如支持新的 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committers_]。
 他们真的需要您的帮助。
 此外，与其他产品负责人一起工作，以便你们俩都能在更快的时间内完成更多工作。
 关于新文档，这将不得不花费大量时间，但这没关系，因为您将因此而获得更多的荣誉。

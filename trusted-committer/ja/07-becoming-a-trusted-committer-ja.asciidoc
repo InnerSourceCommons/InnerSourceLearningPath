@@ -10,10 +10,10 @@ InnerSourceコミュニティは、オープンソースコミュニティと同
 
 正式にTrusted Committerになるプロセスは、コミュニティごとに異なり、InnerSourceの行路のどこにいるかに依り、時間とともに進化するかもしれません。
 草の根コミュニティでは、創設者がTrusted Committerの役割を担うことが良くあります。
-コミュニティが成長するにつれて、またはより大きなコミュニティでは、Trusted Committerは通常、コミュニティの https://innersourcecommons.org/learn/learning-path/contributor/01[コントリビューター] から指名されたり投票されたりします。
+コミュニティが成長するにつれて、またはより大きなコミュニティでは、Trusted Committerは通常、コミュニティの https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] から指名されたり投票されたりします。
 しかし、Trusted Committerの役割は、成功のために多大な時間と献身を必要とするため、自発的に引き受けなければなりません。
 
-https://innersourcecommons.org/learn/learning-path/contributor/01[コントリビューター] をTrusted Committerの役割に指名する際に適用する基準は何ですか？
+https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] をTrusted Committerの役割に指名する際に適用する基準は何ですか？
 Trusted Committerの役割をうまく果たすには何が必要ですか？
 まず、Trusted Committerの候補は、コミュニティでの活動で、高度な技術力をを示す必要があります。
 それに加えて、コミュニティの仲間や、理想的にはプロダクトオーナーや経営陣とも効果的にコミュニケーションできることを証明していなければなりません。

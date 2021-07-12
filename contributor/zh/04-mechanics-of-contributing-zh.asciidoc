@@ -21,7 +21,7 @@
 
 ==== 期望管理
 
-在你以往的团队中，每个人都对预期的交付周期有一个概念。在InnerSource中可能不是这样的，这可能是由于时差较大（例如美国西雅图的PDT与德国柏林的CEST）或你将不能像以往的团队一样全职工作，即使你们在一个地区。因此，为了防止双方都感到沮丧、不耐烦和其他不信任的影响，你需要明确地对自己的预期的反应时间进行期望管理。一种方法是快速的回复 https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] ：“我得过几天后才能看看”，如果你知道你得几天后才有空。理想情况下，当你有空时可以给他们一个粗略的时间预估。这样做即使在非物理接触，在更长的距离或其他异步媒介上也可以通过可靠性建立信任。建立起的信任会让你克服合作道路上的不确定性。
+在你以往的团队中，每个人都对预期的交付周期有一个概念。在InnerSource中可能不是这样的，这可能是由于时差较大（例如美国西雅图的PDT与德国柏林的CEST）或你将不能像以往的团队一样全职工作，即使你们在一个地区。因此，为了防止双方都感到沮丧、不耐烦和其他不信任的影响，你需要明确地对自己的预期的反应时间进行期望管理。一种方法是快速的回复 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_] ：“我得过几天后才能看看”，如果你知道你得几天后才有空。理想情况下，当你有空时可以给他们一个粗略的时间预估。这样做即使在非物理接触，在更长的距离或其他异步媒介上也可以通过可靠性建立信任。建立起的信任会让你克服合作道路上的不确定性。
 
 ==== 建立信任
 
@@ -33,7 +33,7 @@ InnerSource重视书面交流-特别是在项目决策方面。 这是否意味
 
 你有想要贡献的大型的功能吗？太棒了！如果你所有的工作都被浪费了，岂不是很恐怖？当项目团队已经在做了非常相似的东西，打算弃用该项目或觉得你提供的不适合他们的项目时，就会发生这种情况。这一挑战时经常发生的，许多团队关系都因没有事先对一个贡献是否适合项目形成统一意见而受到影响。
 
-在进行改动和 pull requests 之前，先征得维护团队对用户/技术设计的同意，以使自己和维护团队都满意（且可能可以节省一些工作）。你必须了解维护团队希望你如何做到这一点，最好是向 https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_]请教如何最好的讨论你的提案。
+在进行改动和 pull requests 之前，先征得维护团队对用户/技术设计的同意，以使自己和维护团队都满意（且可能可以节省一些工作）。你必须了解维护团队希望你如何做到这一点，最好是向 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_]请教如何最好的讨论你的提案。
 
 开源领域经过反复验证出的明智的做法是，如果你在考虑选择哪种方式讨论你的提案，你应该尝试选择书面方式。理想情况下，在将来关于你的贡献的讨论中，选择材料公开的，可搜索的和可永久链接到的文档来引用你的提案。
 
@@ -65,11 +65,11 @@ InnerSource重视书面交流-特别是在项目决策方面。 这是否意味
 
 你已经完成了所有必要的工作，找出了所有问题和你正在贡献的项目的问题，离计划使用新功能的时间也越来越近了，并能尽快顺利地合并你的贡献。
 
-你可以按照以下步骤，使 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_]和维护团队尽可能更轻松的进行审核和合并。实际上，这可能与你在自己的项目中为使更改能被接受而做的事非常相似。如果是这样就太好了，这对你来说自然而然！
+你可以按照以下步骤，使 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_]和维护团队尽可能更轻松的进行审核和合并。实际上，这可能与你在自己的项目中为使更改能被接受而做的事非常相似。如果是这样就太好了，这对你来说自然而然！
 
 ==== 测试和自动化
 
-测试和自动化的基本作用是让 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 能在不需要你参与的情况下验证你的代码，并保证代码的可维护性。想象一下，你开发了某项功能，解决了某个难题，或者完成了某重要的性能调整，但是你的代码里并没有对这些进行清楚的说明（说明可能看起来不够通顺或者是错误的）。如果你用测试代码来解决这个问题（最好在测试代码的注释中说明测试的基本原理，编辑器将能自动地对测试代码做出注释），测试将保证你的代码的质量，即使到新的环境也是一样。要做到这些，你可以：
+测试和自动化的基本作用是让 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_] 能在不需要你参与的情况下验证你的代码，并保证代码的可维护性。想象一下，你开发了某项功能，解决了某个难题，或者完成了某重要的性能调整，但是你的代码里并没有对这些进行清楚的说明（说明可能看起来不够通顺或者是错误的）。如果你用测试代码来解决这个问题（最好在测试代码的注释中说明测试的基本原理，编辑器将能自动地对测试代码做出注释），测试将保证你的代码的质量，即使到新的环境也是一样。要做到这些，你可以：
 
 * 为你的代码添加测试，以便即使在一段时间之后（当你去其他项目工作了或可能已经停止为该项目做出贡献时），其他人也可以很好的使用它。
 
@@ -103,13 +103,13 @@ InnerSource重视书面交流-特别是在项目决策方面。 这是否意味
 
  ** 同样的情况也适用于你不确定它是否可以实现或你的方法是否正确，那么请突出显示它并请求帮助理解。
 
- ** 要有礼貌， https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 也会礼貌的给出评审。
+ ** 要有礼貌， https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_] 也会礼貌的给出评审。
 
 * pull request 太广太大会使他们更难审查，所以他们需要更长的时间才能去接受它。
 
  ** 如果你正在贡献一个更大的功能，将其拆分为多个 pull request 通常会有所帮助，这些请求按顺序提交、检查和接受。你仍然可以通过你提的issue将它们结合在一起。
 
-  *** 有些工具还具有 Draft/WIP pull request 功能，您可以使用这些功能来标记未完成和不完美的作品，并且仍然可以从产品团队的 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/01[_Trusted Committer_] 那里获得早期反馈。
+  *** 有些工具还具有 Draft/WIP pull request 功能，您可以使用这些功能来标记未完成和不完美的作品，并且仍然可以从产品团队的 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_] 那里获得早期反馈。
 
   *** 这样一来，你可以确保你所做的一切能使项目团队一旦完成，就乐于合并（merge），并坚持“尽早发布，经常发布”的想法。
 

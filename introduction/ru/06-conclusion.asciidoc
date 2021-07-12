@@ -3,7 +3,7 @@
 В этом обучении мы получили вводную информацию по InnerSource.
 InnerSource применяет лучшие практики и принципы из мира open source к внутренней разработке.
 Подход даёт возможность командам получить необходимый функционал в соседних командах, неспособных выполнить запрос на доработку.
-Успешный InnerSource включает в себя работу https://innersourcecommons.org/learn/learning-path/product-owner/01[_Владельца продукта_] и https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] из *хост-команды* и https://innersourcecommons.org/learn/learning-path/contributor/01[_Контрибьютера_] из *гостевой команды*.
+Успешный InnerSource включает в себя работу https://innersourcecommons.org/learn/learning-path/product-owner[_Владельца продукта_] и https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] из *хост-команды* и https://innersourcecommons.org/learn/learning-path/contributor[_Контрибьютера_] из *гостевой команды*.
 
 При эффективном использовании InnerSource даёт преимущества обеим командам.
 *Приоритетное менторство* и *Добровольная Контрибьюция Кода* – принципы, влияющие на эффективность InnerSource.

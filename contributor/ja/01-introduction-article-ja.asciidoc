@@ -12,15 +12,15 @@ InnerSourceの原則を組み込んだプロジェクトでは、必要な機能
 コントリビューターの役割は、InnerSourceコミュニティプロジェクトのリポジトリに貢献する人と表されます。
 この人はコミュニティの一部の人であるかも知れないし、そうでないかも知れません。
 しかし、かなりの数の人にとってコントリビューターとは、単にコミュニティについて知るだけのことから、コミュニティのプロダクトを使用し、コミュニティのメンバーと対話し、そして最終的に貢献を始めることができるという旅のようなものです。
-最終的に、そのうち何人かは https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committer (トラステッドコミッター)] になるかも知れません。
+最終的に、そのうち何人かは https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[Trusted Committer (トラステッドコミッター)] になるかも知れません。
 
 === 他の役割との関係
 
-InnerSourceコミュニティにおけるコントリビューターとしてあなたは、 https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_トラステッドコミッター_] や https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner (プロダクトオーナー)_] などのInnerSourceの他の役割を担っている人や、おそらく他のコントリビューターとも交流することになります。
+InnerSourceコミュニティにおけるコントリビューターとしてあなたは、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[_トラステッドコミッター_] や https://innersourcecommons.org/ja/learn/learning-path/product-owner[_Product Owner (プロダクトオーナー)_] などのInnerSourceの他の役割を担っている人や、おそらく他のコントリビューターとも交流することになります。
 まれに、小さな草の根スタイルのプロジェクトでは、トラステッドコミッターとプロダクトオーナーなどの役割は同じ人が行うことができます。
 
-この節では、他の2つの役割について非常に短い概要を説明しますが、 https://innersourcecommons.org/learn/learning-path/trusted-committer/01[トラステッドコミッターの役割の紹介記事] と https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[参加障壁を下げる] 記事を、コントリビューターの役割をより深く掘り下げて説明する前に読むことを推奨します。
-記事を読む代わりに、ビデオ (https://innersourcecommons.org/learn/learning-path/trusted-committer/01[入門]、 https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[参入障壁を下げる]) を見ることもできます。
+この節では、他の2つの役割について非常に短い概要を説明しますが、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[トラステッドコミッターの役割の紹介記事] と https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/05/[参加障壁を下げる] 記事を、コントリビューターの役割をより深く掘り下げて説明する前に読むことを推奨します。
+記事を読む代わりに、ビデオ (https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[入門]、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/05/[参入障壁を下げる]) を見ることもできます。
 
 ==== トラステッドコミッター
 
@@ -35,7 +35,7 @@ InnerSourceコミュニティにおけるコントリビューターとしてあ
 
 ==== プロダクトオーナー
 
-https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_] の役割は、平均的なプロジェクトのプロダクトオーナーの役割と、いくつかの類似点があります。
+https://innersourcecommons.org/ja/learn/learning-path/product-owner[_プロダクトオーナー_] の役割は、平均的なプロジェクトのプロダクトオーナーの役割と、いくつかの類似点があります。
 しかし、プロジェクトのサイズによって違いがありますが、この役割はトラステッドコミッターとして行動する同じ人が担当することがよくあります。
 大規模なプロジェクトや、貢献を受け容れることで彼らのニーズを満たす部分にだけInnerSourceのアプローチを用いるチームでは、この役割はトラステッドコミッターとは別の人が担当する可能性があります。
 
@@ -44,7 +44,7 @@ https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダ�
 
 最後に重要なことですが、プロダクトオーナーとして行動している誰かは、プロジェクトやその利点およびコミュニティに対して、あなたの注目を引くことに関わっている可能性があります。
 
-もし、これらの他の役割に関する詳細を学びたい場合は、 https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_トラステッドコミッター_] と https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_] のセクションを別に用意してありますので、そちらをお勧めします。
+もし、これらの他の役割に関する詳細を学びたい場合は、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[_トラステッドコミッター_] と https://innersourcecommons.org/ja/learn/learning-path/product-owner[_プロダクトオーナー_] のセクションを別に用意してありますので、そちらをお勧めします。
 
 === セクションの概要
 

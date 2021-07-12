@@ -13,7 +13,7 @@ Trusted Committerの役割は、要求が厳しくやりがいがあるもので
 次のセクションでは、これらの両方の側面について説明します。
 
 Trusted Committerの実際の役割について詳しく説明する前に、抽象化が高いレベルでTrusted Committerの役割とInnerSourceの他の役割を比較して、なぜその名前が適切であると同時に重要であると考えるかの理由を説明します。
-https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] の役割から始めましょう。
+https://innersourcecommons.org/ja/learn/learning-path/contributor[_コントリビューター_] の役割から始めましょう。
 _コントリビューター_ は、名前の通り、InnerSourceコミュニティにコントリビューションします。
 これらのコントリビューションは、バグレポート、機能リクエスト、ドキュメントなど、コードやコード以外の成果の可能性があります。
 
@@ -26,11 +26,11 @@ _Trusted Committer_ は常にInnerSourceコミュニティのメンバーであ�
 この例では、Trusted Committerは、ゲストが快適で効率的に共同作業できるように、ハウスの構築とハウスルール設定の両方に責任があります。
 コントリビューターと比較すると、Trusted Committersはコードを本番環境に近づける責任を負っており、一般的にリスクの高いタスクを実行することが許可されています。
 
-https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_ (PO)]は、InnerSourceにおける3番目の役割です。
+https://innersourcecommons.org/ja/learn/learning-path/product-owner[_プロダクトオーナー_ (PO)]は、InnerSourceにおける3番目の役割です。
 アジャイルプロセスと同様に、POはコミュニティが実装する要件やストーリの定義と優先順位付けに責任をもちます。
 POは、Trusted Committerと頻繁に対話します(例えば、要求された機能や提供された機能が実際に製品に属することを確認します)。
 特に、小規模で草の根のInnerSourceコミュニティでは、Trusted Committerは通常POとしても活動します。
-より詳細については、 https://innersourcecommons.org/learn/learning-path/product-owner/01[ラーニングパスのプロダクトオーナーセグメント] を確認してください。
+より詳細については、 https://innersourcecommons.org/ja/learn/learning-path/product-owner[ラーニングパスのプロダクトオーナーセグメント] を確認してください。
 
 === 役割の名前が重要な理由
 
@@ -48,10 +48,10 @@ Trusted Committerの「信頼された（Trusted）」とは、その人が信�
 
 Trusted Committer には、次のようなさまざまな責任があります。
 
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[製品品質の確保]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[コミュニティの健全性維持]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[コントリビューションの壁の削減]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[コミュニティのレベル向上]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[コミュニティのニーズ提唱]
+* https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/02/[製品品質の確保]
+* https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/03/[コミュニティの健全性維持]
+* https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/05/[コントリビューションの壁の削減]
+* https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/04/[コミュニティのレベル向上]
+* https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/06/[コミュニティのニーズ提唱]
 
-これらの責任については、次のページで詳しく説明し、この記事の最後で https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[Trusted Committe になる] ための道筋についても説明します。
+これらの責任については、次のページで詳しく説明し、この記事の最後で https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/07/[Trusted Committe になる] ための道筋についても説明します。

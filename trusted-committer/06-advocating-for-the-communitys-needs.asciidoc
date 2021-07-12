@@ -15,7 +15,7 @@ Trusted Committers build trust with the organization and, building on that trust
 They are responsible for communicating technical, as well as community-related, risks to management.
 At the same time, Trusted Committers need to be strategic and work within the degrees of freedom afforded by their companies.
 
-Trusted Committers also need to make sure that the community and individual https://innersourcecommons.org/learn/learning-path/contributor/01[contributors] get public credit for their work. 
+Trusted Committers also need to make sure that the community and individual https://innersourcecommons.org/learn/learning-path/contributor[contributors] get public credit for their work. 
 Public credit is the currency with which contributors are being paid, especially those who contribute voluntarily. 
 It is a good practice to commend valuable contributors publicly and to make sure their managers are aware of their contributions.
 Neglecting to give credit can be frustrating for individual contributors and detrimental to the health of the community. 
@@ -23,10 +23,10 @@ This can happen in companies not yet accustomed to the InnerSource working model
 A good Trusted Committer will engage with management and advocate for public credit. 
 Failure to give credit is almost never done in bad faith and is easy to fix.
 
-Another common case calling for the Trusted Committer’s advocacy is when  https://innersourcecommons.org/learn/learning-path/contributor/01[contributors] are not given time or permission to contribute. 
+Another common case calling for the Trusted Committer’s advocacy is when  https://innersourcecommons.org/learn/learning-path/contributor[contributors] are not given time or permission to contribute. 
 This can happen when the community is working on a product outside of the contributor's department and thus not relevant for their manager’s goals. 
 In this case, the Trusted Committer should engage in discussion with the contributor’s manager and lobby for an alternative decision.
 
-In summary, there are many situations in which Trusted Committers need to advocate for the interests of individual https://innersourcecommons.org/learn/learning-path/contributor/01[contributors] and for the community as a whole. 
+In summary, there are many situations in which Trusted Committers need to advocate for the interests of individual https://innersourcecommons.org/learn/learning-path/contributor[contributors] and for the community as a whole. 
 Trusted Committers understand that the value the community can provide to the organization depends on the health and longevity of the community and ultimately on a trustworthy relationship between both.
 

@@ -14,7 +14,7 @@ Trusted Committerは、組織との信頼関係を構築し、その信頼関係
 彼らには、技術的なリスクとコミュニティ関連のリスクを経営層に伝える責任があります。
 同時に、Trusted Committerは戦略的かつ会社により与えられる自由度の範囲内で活動する必要があります。
 
-また、Trusted Committersは、コミュニティと個々の https://innersourcecommons.org/learn/learning-path/contributor/01[コントリビューター] が、彼らの仕事に対する公な称賛を得られるようにする必要があります。
+また、Trusted Committersは、コミュニティと個々の https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] が、彼らの仕事に対する公な称賛を得られるようにする必要があります。
 公な称賛とは、特に自発的にコントリビューションするコントリビューターに与えられ広まるものです。
 有益なコントリビューターを公に称え、彼らのマネージャーがコントリビューションを認識していることを確認することは良い慣行です。
 称賛を与えることを怠ると、個々のコントリビューターを苛立たせ、コミュニティの健全性を損ねることにもなりかねません。
@@ -22,9 +22,9 @@ Trusted Committerは、組織との信頼関係を構築し、その信頼関係
 優れたTrusted Committerは、マネージメント層と連携して公の称賛を主張します。
 称賛を与えないことは、悪意で行われることはほとんどなく、簡単に修正できます。
 
-Trusted Committerによる支持が必要となるもう1つの一般的なケースは、 https://innersourcecommons.org/learn/learning-path/contributor/01[コントリビューター] にコントリビューションする時間や許可が与えられていない場合です
+Trusted Committerによる支持が必要となるもう1つの一般的なケースは、 https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] にコントリビューションする時間や許可が与えられていない場合です
 これは、コミュニティがコントリビューターの部署外で製品を開発している場合で、マネージャの目標との関係がない場合に起こる可能性があります。
 この場合、Trusted Committer はコントリビュータのマネージャと議論し、代替案の決定を求め働きかける必要があります。
 
-要約すると、Trusted Committerが、個々の https://innersourcecommons.org/learn/learning-path/contributor/01[コントリビューター] とコミュニティ全体の利益を主張する必要がある状況は多々あります。
+要約すると、Trusted Committerが、個々の https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] とコミュニティ全体の利益を主張する必要がある状況は多々あります。
 Trusted Committerは、コミュニティが組織に提供できる価値は、コミュニティの健全性と寿命、そして最終的には両者の信頼関係に依存していることを理解しています。

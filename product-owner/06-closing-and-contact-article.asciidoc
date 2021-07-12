@@ -6,7 +6,7 @@ Many of those are Fortune 500 companies.
 
 You should also watch the other videos if you haven't yet.
 They contain some of the first steps that you'll need to implement an InnerSource process at your company.
-They also go over some of the roles like the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committer] and also, some of the documentation, such as creating your first contributing agreement.
+They also go over some of the roles like the https://innersourcecommons.org/learn/learning-path/trusted-committer[Trusted Committer] and also, some of the documentation, such as creating your first contributing agreement.
 
 If you'd like to read my book, please check out http://innersourcecommons.org/checklist/[innersourcecommons.org/checklist].
 And for all of you product owners, there will be many, many things to go in and do and implement in regards to the back part of that book.

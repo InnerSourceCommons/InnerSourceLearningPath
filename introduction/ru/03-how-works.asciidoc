@@ -20,9 +20,9 @@
 Теперь рассмотрим механику InnerSource.
 Для начала представим ключевых лиц процесса. 
 
-* https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] или Владелец Продукта. Определяет функционал, который команда хозяев готова принять от гостевых команд.
-* https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributor_] или Контрибьютор. Член гостевой команды, который отправляет код на ревью команде хозяев.
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] или Доверенный Коммиттер. Представитель команды хозяев, наставляет и обучает Контрибьюторов, помогая создать и отправить Pull Request. В небольших продуктах роли Product Owner и Trusted Committer могут выполняться одним человеком.
+* https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] или Владелец Продукта. Определяет функционал, который команда хозяев готова принять от гостевых команд.
+* https://innersourcecommons.org/learn/learning-path/contributor[_Contributor_] или Контрибьютор. Член гостевой команды, который отправляет код на ревью команде хозяев.
+* https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] или Доверенный Коммиттер. Представитель команды хозяев, наставляет и обучает Контрибьюторов, помогая создать и отправить Pull Request. В небольших продуктах роли Product Owner и Trusted Committer могут выполняться одним человеком.
 
 Теперь рассмотрим план входящей контрибьюции по InnerSource.
 

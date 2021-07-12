@@ -4,7 +4,7 @@ Dans ce parcours d'apprentissage, nous avons proposé une introduction à l'Inne
 L'InnerSource applique les meilleures pratiques et les principes de l'open source au développement de logiciels internes.
 
 Il offre une option supplémentaire aux consommateurs lorsque les équipes de production ne sont pas en mesure de fournir une demande de fonctionnalité nécessaire.
-Un projet InnerSource réussi implique un https://innersourcecommons.org/learn/learning-path/product-owner/01[_product owner_] et un https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_trusted committer_] de l'équipe *hôte* ainsi qu'un https://innersourcecommons.org/learn/learning-path/contributor/01[_contributor_] de l'équipe *invitée*.
+Un projet InnerSource réussi implique un https://innersourcecommons.org/learn/learning-path/product-owner[_product owner_] et un https://innersourcecommons.org/learn/learning-path/trusted-committer[_trusted committer_] de l'équipe *hôte* ainsi qu'un https://innersourcecommons.org/learn/learning-path/contributor[_contributor_] de l'équipe *invitée*.
 Réalisée efficacement, l'InnerSource apporte de nombreux avantages aux deux équipes participantes.
 Les principes clés sur lesquels repose l'efficacité d'InnerSource sont la *contribution volontaire au code* et le *mentorat hiérarchisé*.
 

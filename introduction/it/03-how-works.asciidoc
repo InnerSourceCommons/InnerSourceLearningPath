@@ -20,9 +20,9 @@ Questi concetti intorno alla visita a casa sono una metafora per l'attitudine ed
 Diamo un'occhiata più da vicino a come possono funzionare le meccaniche relative al processo InnerSource.
 Per aiutare in questa spiegazione, nomineremo alcune persone chiave nei team guest e host.
 
-Per primo, il https://innersourcecommons.org/learn/learning-path/product-owner/01[_Product Owner_] decide quale funzionalità l'host team è disposto ad accettare come una contribuzione.
-Il https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributor_] è l'individuo nel guest team che invia il codice della contribuzione in revisione da parte dell'host team.
-Il https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] rappresenta l'host team nel fornire supporto tempestivo e mentoring di cui il contributore ha bisogno per inviare con successo la pull request.
+Per primo, il https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] decide quale funzionalità l'host team è disposto ad accettare come una contribuzione.
+Il https://innersourcecommons.org/learn/learning-path/contributor[_Contributor_] è l'individuo nel guest team che invia il codice della contribuzione in revisione da parte dell'host team.
+Il https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] rappresenta l'host team nel fornire supporto tempestivo e mentoring di cui il contributore ha bisogno per inviare con successo la pull request.
 
 Con piccoli sforzi dal basso, una singola persona spesso ricopre _entrambi_ i ruoli di product owner e trusted committer.
 

@@ -20,7 +20,7 @@ Oltre la lavoro grezzo che l'host team è in grado di svolgere nel proprio siste
 Un host team può soddisfare al meglio la raccolta dei requisiti nel lavoro che produce, ma quando è l'utente stesso a presentare il lavoro, le possibilità sono molto più alte che il cambiamento risultante sia allineato a ciò di cui l'utente ha bisogno.
 Mentre potrebbe esserci solamente un singolo cambiamento inviato al guest team, questo team è probabilmente rappresentativo di molti altri utenti.
 
-In aggiunta a questo allineamento, c'è anche la formazione e istruzione generale dei https://innersourcecommons.org/learn/learning-path/contributor/01[contributors] mentre lavorano ed imparano dai https://innersourcecommons.org/learn/learning-path/trusted-committer/01[trusted committers].
+In aggiunta a questo allineamento, c'è anche la formazione e istruzione generale dei https://innersourcecommons.org/learn/learning-path/contributor[contributors] mentre lavorano ed imparano dai https://innersourcecommons.org/learn/learning-path/trusted-committer[trusted committers].
 Questa interazione aiuta i contributori ad imparare e accrescere le loro carriere, con conseguente *maggiore soddisfazione del lavoro*.
 La documentazione del progetto migliora per abilitare queste contribuzioni su larga scala.
 I contributori sentono un interesse nel progetto dell'host team.

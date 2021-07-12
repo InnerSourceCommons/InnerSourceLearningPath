@@ -21,7 +21,7 @@ InnerSource permite que el tiempo dedicado a ingeniería fluctúe acorde a las n
 Más allá del trabajo que el equipo anfitrión es capaz de llevar a cabo en su modo habitual, las contribuciones habituales en modo InnerSource da al equipo anfitrión *mejores requisitos y alineamiento de las prioridades de todos los consumidores*. Un equipo anfitrión puede hacer lo mejor que pueda esa recogida de requisitos, pero es cuando el consumidor participa cuando las probabilidades de que el cambio final esté alineado entre todos aumenten.
 Aún cuando sólo haya un equipo enviando un cambio, ese equipo es probablemente una representación de otros consumidores.
 
-Además de este alineamiento, hay un proceso de educación de los https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] al trabajar y aprender con los https://innersourcecommons.org/learn/learning-path/trusted-committer/01[trusted committers].
+Además de este alineamiento, hay un proceso de educación de los https://innersourcecommons.org/learn/learning-path/contributor[contribuidores] al trabajar y aprender con los https://innersourcecommons.org/learn/learning-path/trusted-committer[trusted committers].
 Esta interacción ayuda a los contribuidores a aprender y evolucionar en su carrera profesional y esto conlleva una *mayor satisfacción del trabajo*.
 La documentación del proyecto permite y mejora este tipo de contribuciones a escala.
 Además, este tipo de procesos se recomiendan a otros colegas y a nuevos equipos para que se unan. Se comprende mejor al proyecto y son capaces de responder a preguntas a otros quitando parte del trabajo al equipo anfitrión.

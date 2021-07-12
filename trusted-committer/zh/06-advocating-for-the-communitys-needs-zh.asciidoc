@@ -6,6 +6,6 @@ InnerSource社区存在于公司内部协作的环境中，因此比开放源社
 
 Trusted Committer还需要确保社区和个人贡献者的工作获得公众认可。公共信誉是用来支付贡献者，特别是自愿贡献者的货币。好的办法是公开表彰有价值的贡献者，并确保他的领导了解他们的贡献。忽视给予信誉可能会使个人贡献者感到沮丧，并损害社区的健康。这可能发生在尚未习惯InnerSource工作模式的公司中，或者当InnerSource社区开发的软件在后台运行，但管理人员根本不了解社区的贡献时。一个好的Trusted Committer将与管理层合作并倡导为公共信誉做贡献。不是出于恶意的抹杀贡献错误是很容易修复的。
 
-另一个需要Trusted Committer去重视的常见情况是，没有给 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_]足够的时间或权限。当社区正在贡献者部门以外的产品上工作，因此与他们的工作目标无关时，就会发生这种情况。在这种情况下，Trusted Committer应与 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_]的工作领导进行沟通，并寻找相应的替代方案。
+另一个需要Trusted Committer去重视的常见情况是，没有给 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]足够的时间或权限。当社区正在贡献者部门以外的产品上工作，因此与他们的工作目标无关时，就会发生这种情况。在这种情况下，Trusted Committer应与 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]的工作领导进行沟通，并寻找相应的替代方案。
 
 总之，在许多情况下，Trusted Committer需要平衡个人贡献者和整个社区的利益。Trusted Committer应该清楚认识到，社区可以为组织提供的价值取决于社区的健康和长期发展以及社区与组织之间的相互信赖关系。

@@ -2,14 +2,14 @@
 
 Aufgrund einer Reihe von Gründen ist das Werben um Beiträge für eine _InnerSource Community_ herausfordernder als in einer _Open Source Community_:
 
-* In _InnerSource Communities_ ist die schiere Anzahl an möglichen https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] geringer.
+* In _InnerSource Communities_ ist die schiere Anzahl an möglichen https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] geringer.
 * _Contributors_ werden Ihre Beiträge während ihrer Arbeitszeit erstellen wollen, was bedeutet, dass sie höheren zeitlichen Beschränkungen unterliegen.
 * Das Arbeiten an einem _InnerSource Projekt_ muss nicht zwangsläufig Teil der Leistungsziele eines _Contibutors_ sein, d.h. die Zeit, die sie während dem Arbeiten in der _InnerSoure_ verbringen, kann sie davon ablenken, ihre Leistungsziele zu erreichen.
 
-Das sind die Gründe, warum es für _Trusted Committer_ wichtig ist, den Prozess für Beiträge und das Anwerben von https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] so reibungslos wie möglich zu machen. Es gibt eine Reihe von Punkten, die dabei hilfreich sein können: 
+Das sind die Gründe, warum es für _Trusted Committer_ wichtig ist, den Prozess für Beiträge und das Anwerben von https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] so reibungslos wie möglich zu machen. Es gibt eine Reihe von Punkten, die dabei hilfreich sein können: 
 
 * jedes Repository sollte ein gepflegtes README.md enthalten. Ein gutes README.md erklärt, was das Repository beinhaltet und für was es benutzt werden kann. Zusätzlich sollte es Informationen enthalten, wie man die Software aus dem Repository herunterlädt, compiliert, testet und benutzt, einschließlich der Information zur Lizenzierung.
-* jedes Repository sollte ein gepflegtes CONTRIBUTING.md enthalten, welches die Erwartungen an den https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributor_] beschreibt. Es sollte mindestens folgende Fragen beantworten:
+* jedes Repository sollte ein gepflegtes CONTRIBUTING.md enthalten, welches die Erwartungen an den https://innersourcecommons.org/learn/learning-path/contributor[_Contributor_] beschreibt. Es sollte mindestens folgende Fragen beantworten:
 ** Wie erstelle ich einen Bug Report oder einen Feature Request?
 ** Wen (und wie) kann bei Fragen kontaktieren?
 ** Welche Konventionen gelten für Codierung, Branching oder Commit Messages?
@@ -20,13 +20,13 @@ Das sind die Gründe, warum es für _Trusted Committer_ wichtig ist, den Prozess
 
 Falls die Software mit einer internen Lizenz versehen ist, was in machen Unternehmen eine Voraussetzung für die gemeinsame Nutzung von Software zwischen juristischen Einheiten ist, sollte eine Kopie dieser Lizenz und eine für Laien verständliche Erklärung der daraus resultierenden Rechte und Pflichten zur Verfügung stehen. 
 
-Neben ausreichender Dokumentation sollte es für die potentiellen https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] ähnlich wie bei einer Open Source
+Neben ausreichender Dokumentation sollte es für die potentiellen https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] ähnlich wie bei einer Open Source
 Software Entwicklung sehr einfach und selbsterklärend  sein, die Software lokal ausführen und testen zu können. Dies erlaubt es, so einfach wie möglich mit eigenen Beiträgen beginnen und selbst verifizieren zu können.
 
 Es gibt grundsätzlich zwei Modelle um Beiträge zu erstellen:
-_shared repository_ und _fork and join_. Beide haben jeweils Vorteile, und als ein _Trusted Committer_ solltest du beide Modelle unterstützen, um die verschiedenen Bedürfnisse der zukünftigen und aktuellen https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] zu unterstützen.
+_shared repository_ und _fork and join_. Beide haben jeweils Vorteile, und als ein _Trusted Committer_ solltest du beide Modelle unterstützen, um die verschiedenen Bedürfnisse der zukünftigen und aktuellen https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] zu unterstützen.
 Deine _Contributors_ werden zahlreiche Fragen über den Prozess oder die Community selbst haben, und es muss jemand verfügbar sein, der diese Fragen beantwortet. Deshalb ist es für eine _InnerSource Community_ wichtig, einen oder mehrere Kontaktpersonen zu haben, die zur Beantwortung der Fragen zur Verfügung stehen. Normalerweise ist diese Kontaktperson jemand aus der Gruppe der _Trusted Committer_, oder aber sie muss sicherstellen, dass ein anderes Mitglied der _Community_ diese Aufgabe übernimmt.
 
-Es ist wichtig, zukünftigen https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] bei der Auswahl zu helfen, welche Beiträge benötigt werden. Dabei kann es sich sowohl um Code als auch andere Artefakte handeln, wie zum Beispiel das Schreiben von Dokumentationen, das Erstellen von Grafiken oder Veranstaltungen zu organisieren. Üblicherweise werden dazu im jeweiligen Workflowmanagementsystem der Community spezielle "newcomer tasks" ausgewiesen, oder man etabliert einen Marktplatz für offene Aufgaben, den _Contributors_ nutzen können.
+Es ist wichtig, zukünftigen https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] bei der Auswahl zu helfen, welche Beiträge benötigt werden. Dabei kann es sich sowohl um Code als auch andere Artefakte handeln, wie zum Beispiel das Schreiben von Dokumentationen, das Erstellen von Grafiken oder Veranstaltungen zu organisieren. Üblicherweise werden dazu im jeweiligen Workflowmanagementsystem der Community spezielle "newcomer tasks" ausgewiesen, oder man etabliert einen Marktplatz für offene Aufgaben, den _Contributors_ nutzen können.
 
 Zusammengefasst ist es sehr wichtig für _InnerSource Communities_ in einem Unternehmen Hürden für Beiträge so gering wie möglich zu halten, um möglichst vielen Kollegen das Mitwirken zu ermöglichen. Das bedeutet, dass sowohl der Zugriff auf hilfreiche Dokumentation bereit stehen sollte,  als auch dass Ansprechpartner für die Beantwortung von Fragen und zur Förderung der Zusammenarbeit zur Verfügung stehen sollten. Kurz gesagt, _Trusted Committer_ sollten sicherstellen, dass der Einstieg und das Beitragen als positive Erfahrungen wahrgenommen wird.  
