@@ -6,7 +6,7 @@
 
 他のビデオをまだ視聴されていなければ、是非ご覧ください。
 そこには、InnerSourceのプロセスをあなたの会社に実装するために必要な最初のいくつかのステップが含まれています。
-また、https://innersourcecommons.org/learn/learning-path/trusted-committer/01[Trusted Committer] などの役割や、あなたの最初のコントリビューションの合意形成のような、いくつかの文書についても説明しています。
+また、https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[Trusted Committer] などの役割や、あなたの最初のコントリビューションの合意形成のような、いくつかの文書についても説明しています。
 
 もしよろしければ、私の本をご覧ください。 http://innersourcecommons.org/checklist/[innersourcecommons.org/checklist] から入手してください。
 この本の後ろの部分には、プロダクトオーナーの皆さんが実行すべきことがたくさんあります。
