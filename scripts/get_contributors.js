@@ -27,6 +27,21 @@ module.exports = async function (filepath) {
                     }
                   }
                 }
+                associatedPullRequests(last: 1, orderBy: {field: UPDATED_AT, direction: DESC}) {
+                  nodes {
+                    reviews(first:100) {
+                      nodes {
+                        author {
+                          ... on User {
+                            login
+                            name
+                            url
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -40,15 +55,28 @@ module.exports = async function (filepath) {
     console.warn('This script needs updating to handle >100 commits')
   }
 
-  return Object.values(
-    history.nodes.flatMap(({ authors }) => {
-      return authors.nodes.map(author => {
+  const authors = history.nodes.flatMap(({ authors }) => {
+    return authors.nodes.map(author => {
+      return {
+        name: (author.user && author.user.name) || author.name,
+        url: author.user && author.user.url
+      }
+    })
+  })
+
+  const reviewers = history.nodes.flatMap(({ associatedPullRequests }) => {
+    return associatedPullRequests.nodes.flatMap(({ reviews }) => {
+      return reviews.nodes.map(({ author }) => {
         return {
-          name: (author.user && author.user.name) || author.name,
-          url: author.user && author.user.url
+          name: author.name || author.login,
+          url: author.url
         }
       })
-    }).reduce((accumulator, user) => {
+    })
+  })
+
+  return Object.values(
+    [...authors, ...reviewers].reduce((accumulator, user) => {
       // Dedupe users
       accumulator[user.name] = user
       return accumulator
