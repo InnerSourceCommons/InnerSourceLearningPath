@@ -1,0 +1,73 @@
+[role="pagenumrestart"]
+== Introduciendo el rol de Trusted Committer
+
+El rol de Trusted Commiter (TC) es unos de los roles clave en la comunidad InnerSource.
+Piensa en los Trusted Committers como las personas en la comunidad a las que les confías decisiones técnicas importantes y
+para tutelar a contribuidores,
+para, en última instancia, lograr que las contribuciones lleguen a término.
+El rol de Trusted Committer es tanto exigente como gratificante.
+Es más que solo ser un portero obstinado.
+Es importante para el éxito de cualquier comunidad InnerSource.
+
+Generalmente hablando, el rol de Trusted Commiter se define por sus responsabilidades, en lugar de por sus privilegios.
+A muy alto nível, los Trusted Commiters representan los intereses tanto de su comunidad InnerSource como de los productos que la comunidad está construyendo.
+Se preocupan por la salud de la comunidad y del producto.
+Por lo tanto, un Trusted Committer tiene responsabilidades técnicas y orientadas a la comunidad.
+Vamos a explorar ambas en las siguientes secciones.
+
+Antes de entrar en detalle a lo que un Trusted Commiter hace realmente,
+vamos a usar nuestro tiempo comparando el rol de Trusted Committer con otros roles en InnerSource en un nível alto de abstacción
+y explicar por qué pensamos que el nombre es apto e importante.
+Empecemos con el rol de https://innersourcecommons.org/learn/learning-path/contributor[Contribuidor].
+Un _Contribuidor_, como su nombre lo indica, hace contribuciones a una comunidad InnerSource.
+Estas contribuciones pueden ser artefactos de código o no-código,
+como informes de defectos, petición de características, o documentación.
+
+_Contribuidores_ pueden ser o no parte de la comunidad.
+Podrían ser enviados por otro equipo para desarrollar una característica que el equipo necesite.
+Debido a esto a veces nos referimos a los _Contribuidores_ como _Invitados_ o como parte de un _Equipo Invitado_.
+El _Contribuidor_ es responsable de "encajar" y de adaptarse a los procesos y las expectativas de la comunidad.
+
+El _Trusted Committer_ es siempre un miembro de la comunidad InnerSource,
+a la cual se suele referir como _Equipo Anfitrión_.
+En esta analogía el Trusted Committer es responsable de limpiar la casa y de definir sus reglas,
+para asegurarse que los invitados esten a gusto y puedan trabajar juntos de manera efectiva.
+Comparado con los contribuidores, los Trusted Committers han ganado la responsabilidad de publicar código más cerca a producción
+y generalmente se les permite realizar tareas que tienen un riesgo mayor.
+
+El https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_ (PO)] es un tercer rol en InnerSource.
+Al igual que en los procesos ágiles,
+el PO es responsable de definir y dar prioridad a requisitos e historias para que la comunidad las implemente.
+El PO interactúa frecuentemente con los Trusted Committers,
+(Por ejemplo, al asegurarse que la característica solicitada o contribuida realmente pertenezca al producto).
+Especialmente en comunidades InnerSource pequeñas, el Trusted Committer también suele actuar como PO. Revisa nuestro https://innersourcecommons.org/learn/learning-path/product-owner[Camino de aprendizaje para ser Product Owner]
+para información mas detallada.
+
+=== ¿Porqué importa el nombre de los roles?
+
+El rol de Trusted Committer está presente en cualquier comunidad éxitosa de InnerSource.
+Pero no todas las comunidades usan este nombre.
+Algunas comunidades usan el término Maintainer, pero este término tiene conflictos con otros roles técnicos como el rol de "Maintainer" definido por GitHub,
+por ejemplo Apache usa también el término _Committer_,
+pero se les da menos responsabilidades y principalmente orientadas a lo técnico.
+Con sus responsabilidades orientadas a la comunidad un Trusted Commiter va mas allá de eso.
+El "Trusted" en Trusted Committer significa que la persona es confiable y por ende empoderada por la administración y la comunidad para hacer su trabajo.
+Al fomentar el acesso abierto y la transparencia, los Trusted Committers crean confianza en el proceso y en la construcción del producto.
+
+Al igual que la nomenclatura es importante al escribir software, elegir los nombres apropiados para los roles y haciendolo de manera consistente
+asegura que todos tengan el mismo entendimiento acerca de los roles que se emplean en la comunidad.
+
+Ahora que tienes un entendimiento básico del rol,
+el por que usar el término Trusted Committer es correcto,
+y como un Trusted Committer puede interactuar con otros roles comúnes en un proyecto de software,
+vamos a hechar un vistazo rápido a las responsabilidades de un Trusted Committer.
+
+=== Responsabilidades
+
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[Asegurar la calidad del producto]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[Mantener una comunidad sana]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Reducir las barreras para hacer contribuciones]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[Subir de nível a la comunidad]
+* https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[Abogar por las necesidades de la comunidad]
+
+Vamos a ver estas responsabilidades más a fondo en las siguientes páginas, y también vamos a explorar el camino de https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[llegar a ser un Trusted Committer] al final de este artículo.

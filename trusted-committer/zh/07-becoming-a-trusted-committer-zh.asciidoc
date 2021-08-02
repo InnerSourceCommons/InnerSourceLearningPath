@@ -4,15 +4,15 @@
 
 InnerSource 社区遵循一些与开源社区相同的原则，其中之一就是精英制度。在精英制度中，权力取决于个人的才能、努力和成就。换句话说，就等同于是Trusted Committer角色附带的责任和特权是需要通过做贡献赢得的。透明度是另一个开源价值，它也发挥了至关重要的作用，因为它使人才的努力和成就对整个社区可见。
 
-正式成为Trusted Committer的过程每个社区都会有不同，主要取决于你在InnerSource中所处的社区，并且规则可能在不断变化。在基层社区中，创始人通常也自动承担Trusted Committer的角色。随着社区的发展，社区或现有的Trusted Committer可能会提名，并以投票的方式发展一名 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]成为Trusted Committer。理想情况下，被提名的贡献者需要自愿担任Trusted Committer角色，因为它需要大量的时间和奉献精神才能成功。
+正式成为Trusted Committer的过程每个社区都会有不同，主要取决于你在InnerSource中所处的社区，并且规则可能在不断变化。在基层社区中，创始人通常也自动承担Trusted Committer的角色。随着社区的发展，社区或现有的Trusted Committer可能会提名，并以投票的方式发展一名 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]成为Trusted Committer。理想情况下，被提名的贡献者需要自愿担任Trusted Committer角色，因为它需要大量的时间和奉献精神才能成功。
 
-提名 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]成为Trusted Committer的标准是什么？成功履行Trusted Committer的职责需要做什么？首先，潜在的Trusted Committer需要在社区工作中表现出深厚的技术能力。除此之外，他们还必须证明自己有能力与社区中的同龄人进行有效沟通，以及最好能与产品所有者和管理层进行有效沟通，因为这是Trusted Committer角色的关键作用。
+提名 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]成为Trusted Committer的标准是什么？成功履行Trusted Committer的职责需要做什么？首先，潜在的Trusted Committer需要在社区工作中表现出深厚的技术能力。除此之外，他们还必须证明自己有能力与社区中的同龄人进行有效沟通，以及最好能与产品所有者和管理层进行有效沟通，因为这是Trusted Committer角色的关键作用。
 
 同样，他们必须自愿地、耐心地去做事，并花一些时间在指导高级贡献者身上，以便他们可以做出比自己更大的贡献。最后，履行Trusted Committer角色需要一定的情感成熟度，以便能够应对高压的社交环境，而这种社交环境在社区中是一定会存在的。我们认为，满足这些条件的 贡献者 contributor将是潜在的优秀Trusted Committer。
 
-对于某些 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]而言，Trusted Committer这个角色可能看起来并不那么吸引人，因为这意味着他们会失去一部分时间进行日常工作（编码）。被提名为Trusted Committer甚至可能被某些人认为他们编码能力不足或收到其他负面评价。反之亦然。被提名为Trusted Committer通常是一个迹象，表明某人已经意识到您的成长潜力，而您个人确实已经在成长。Trusted Committer角色将使您对代码库的演变产生更大的影响。
+对于某些 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]而言，Trusted Committer这个角色可能看起来并不那么吸引人，因为这意味着他们会失去一部分时间进行日常工作（编码）。被提名为Trusted Committer甚至可能被某些人认为他们编码能力不足或收到其他负面评价。反之亦然。被提名为Trusted Committer通常是一个迹象，表明某人已经意识到您的成长潜力，而您个人确实已经在成长。Trusted Committer角色将使您对代码库的演变产生更大的影响。
 
-Trusted Committer角色所提供的广泛视角将使您成为更全能的开发人员。作为一个Trusted Committer，向 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributor）_]解释该软件的工作原理，通常会形成对Trusted Committer角色的新见解，并有助于发现改进这个软件的机会。
+Trusted Committer角色所提供的广泛视角将使您成为更全能的开发人员。作为一个Trusted Committer，向 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]解释该软件的工作原理，通常会形成对Trusted Committer角色的新见解，并有助于发现改进这个软件的机会。
 
 一个社区只有一个还是多个Trusted Committer，取决于InnerSource社区中开发的软件的大小和相关风险。 Trusted Committer角色非常消耗人们的时间，并不是每个人都愿意或有权将其100％的时间花费在Trusted Committer上。因此，一些公司实施了“Trusted Committer轮换，其中多个Trusted Committer共同承担工作量，而不在值班的Trusted Committer可以只专注于面向技术的工作。设置多个Trusted Committer的另一个原因是为一些不可避免的情况做准备，比如某些Trusted Committer不再担任，或许是因为他们要换岗或者离职。在这种情况下，有其他Trusted Committer存在就会变得很重要。
 

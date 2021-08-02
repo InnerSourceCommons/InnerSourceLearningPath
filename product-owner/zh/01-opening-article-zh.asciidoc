@@ -12,4 +12,4 @@
 你好我叫Silona Bonewald，我是PayPal的总监。在InnerSource流程中，我已经成功地培训了40多个团队和1,500人。 我也定期参加在InnerSource Commons演讲。请加入我们。请查看 http://innersourcecommons.org/[innersourcecommons.org]。您也可以在 http://innersourcecommons.org/checklist[innersourcecommons.org/checklist]上获得我与O'Reilly撰写的小册子。它比此视频具有更多细节。
 
 请先观看其他视频。
-请参阅下面的链接，这将帮助你熟悉敏捷或精益流程。并且在观看此视频之前，请先了解下面链接中描述的角色 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committers_]和 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者（Contributors）_]。谢谢。
+请参阅下面的链接，这将帮助你熟悉敏捷或精益流程。并且在观看此视频之前，请先了解下面链接中描述的角色 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committers_]和 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributors）_]。谢谢。

@@ -3,7 +3,7 @@
 在 http://innersourcecommons.org/[InnerSource Commons]中，我们将基于我们在开源中学习到的经验讨论_open_的概念，以及如何在企业环境中应用我们的所知或所学。
 让我从经理的角度逐步讲解其中的一些内容。我将谈论他们如何使我作为总监和我的产品经理受益，这就是我们在PayPal所称的产品所有者。
 
-首先是_open code_。开放代码是什么意思？基本上，该代码对所有公司都是可见的，并且其他开发人员可以通过一个过程在其他代码库上提交拉取请求（pull request）并使它们被接受。要了解更多信息，请参阅有关 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committers_]的文章，以及有关更多有关贡献相关的细节。
+首先是_open code_。开放代码是什么意思？基本上，该代码对所有公司都是可见的，并且其他开发人员可以通过一个过程在其他代码库上提交拉取请求（pull request）并使它们被接受。要了解更多信息，请参阅有关 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committers_]的文章，以及有关更多有关贡献相关的细节。
 
 对于经理来说开放代码也意味着您无需再等待或上升问题就可以修复错误或在其他团队的代码库上实现功能。
 您可以开始更高效地实施和计划。

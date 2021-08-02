@@ -1,14 +1,14 @@
 == 新角色和新职责
 
 成为InnerSource领导者会带来新的角色和责任。
-其中第一个支持您的TC。 TC是 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committers_]的简称。
-您要做的第一件事可能是帮助选择那些新的TC，并为其提供支持。如果您想进一步了解TC的角色，请查看 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committer_]部分。
+其中第一个支持您的TC。 TC是 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committers_]的简称。
+您要做的第一件事可能是帮助选择那些新的TC，并为其提供支持。如果您想进一步了解TC的角色，请查看 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committer_]部分。
 
 他们是您代码库的守护人。
 通常，他们是主要开发人员，他们擅长代码审查，并且对代码库的体系结构有深刻的理解。
 他们将需要您的支持。
 在与其他团队合作方面，他们也将是您的关键。
-在评估和集成方面，他们将是您的得力助手。记住要支持他们。他们承担着一些疯狂的新职责，可能需要接受指导以帮助 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_贡献者团队_]。开发者经常没有接受过如何谈判的培训。我推荐这本书 https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/[Getting to Yes]，供您与他们一起使用。
+在评估和集成方面，他们将是您的得力助手。记住要支持他们。他们承担着一些疯狂的新职责，可能需要接受指导以帮助 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者团队_]。开发者经常没有接受过如何谈判的培训。我推荐这本书 https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/[Getting to Yes]，供您与他们一起使用。
 
 其次，其他产品所有者。
 现在，您将与其他产品负责人打交道，尤其是要满足有关谈判和协作的新时间承诺。
@@ -22,9 +22,9 @@
 第三，文档时间。
 开始时，您可能需要花费大量时间来处理开放文档，而不仅仅是您的开放路线图和其他开放过程。
 我也在谈论诸如UX和UI标准，API标准甚至测试要求之类的东西。
-有了这些，您当然要与您的 https://innersourcecommons.org/resources/learningpath/trusted-committer/zh/index[_Trusted Committers_]保持同步，以确保他们的编码要求得到满足。我保证这些都是是值得的。
+有了这些，您当然要与您的 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committers_]保持同步，以确保他们的编码要求得到满足。我保证这些都是是值得的。
 
-一旦开始与其他团队合作，当您加入新开发人员并完成比以往更多的工作时，请记住那些 https://innersourcecommons.org/resources/learningpath/contributor/zh/index[_新开发者_]-您还可以让他们帮助您编写一些全新的文档。
+一旦开始与其他团队合作，当您加入新开发人员并完成比以往更多的工作时，请记住那些 https://innersourcecommons.org/zh/learn/learning-path/contributor[_新开发者_]-您还可以让他们帮助您编写一些全新的文档。
 如果您的工具对这些新的开发者确实很重要，那么他们甚至可以帮助您在标准方面进行很多繁重的工作，来避免瓶颈，因为他们希望与您的产品集成。
 
 最后是内部营销。

@@ -36,7 +36,7 @@ This effect can be observed with Open Source as well, you can read more about it
 In your classic teams everyone had an idea of the expected lead times.
 Within an InnerSource context this might not be the case, either due to large time-zone differences (e.g. Seattle, USA with PDT vs Berlin, Germany with CEST) or you not being available full-time as with your original team, even if they are in the same physical location as you are.
 Thus, to prevent frustration on both sides, impatience and other non-trust-building effects, you'll need to explicitly do expectations management with regards to your expected reaction times.
-One approach is to just quickly react with a "I'll look into it, I won't get to it in the next few days though" to a https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer's_] feedback if you know that you'll only be able to come back to them in a few days.
+One approach is to just quickly react with a "I'll look into it, I won't get to it in the next few days though" to a https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer's_] feedback if you know that you'll only be able to come back to them in a few days.
 Ideally, you can provide them with a rough estimate when you will likely have time to take a look at their input.
 Doing so builds trust by reliability even over non-physical contact, longer distance or otherwise asynchronous media.
 Established trust will allow you to overcome uncertainty bumps in the collaborative road ahead of you.
@@ -60,7 +60,7 @@ This challenge is a frequent one, and many team relationships suffered from not 
 
 Make yourself and the host team happy (and possibly save some work) by getting agreement from the host team on the user/technical design of the contribution _before_ working on the changes and submitting a pull request.
 You'll have to understand how the host team would like you to reach out for this.
-It's best to ask a https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] about how to best discuss your proposal.
+It's best to ask a https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] about how to best discuss your proposal.
 
 It is time-and-again-proven wisdom from the Open Source arena that, if you get to select how to discuss your proposal, you should try to select a written way.
 Ideally, choose the way where artifacts are public, searchable and perma-linkable to enable referencing your proposal in later discussions on this future contribution or other contributions to come - by you or others.
@@ -110,12 +110,12 @@ If you are unsure, you can always ask politely. Nevertheless, a guest contributi
 
 You've completed all the essential work, figured out all the quirks of the problem and the project you are contributing to, the time you've planned for the new feature to be used comes nearer, and you want to make sure your contribution gets merged in as fast and smooth as possible.
 
-Here's what you can do to make reviewing and merging as easy as possible for the the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] and the host team.
+Here's what you can do to make reviewing and merging as easy as possible for the the https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] and the host team.
 This might actually be pretty similar to what you may already be doing on your own project to get your changes accepted. If that's the case - great, this is going to come natural to you!
 
 ==== Testing and automation
 
-The basic point here is to enable the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] to validate the contribution without your presence and to ensure easy maintainability.
+The basic point here is to enable the https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] to validate the contribution without your presence and to ensure easy maintainability.
 Imagine you've built a feature or handling of an unsolvable quirk, or an important performance tweak, and your code is not entirely obvious (or might even look hacky / wrong at the first glance).
 If you have covered this with a test - and ideally have shed some words on the rationale behind it in a comment - a future editor will get reminded about the purpose of the code, and the test(s) will ensure that the value your code realizes will be kept, even in the new implementations.
 To achieve this, do the following:
@@ -141,7 +141,7 @@ To make the actual code review as easy as possible for the trusted committer or 
 * Provide a clear description of what this pull request changes, why it does so, and which issue and design documents (if there were any) it refers to.
 * If there is anything uncommon or unexpected in the pull request, highlight it and provide the explanation. This will make it easier to reason about and solve potential blocking questions that a reviewer might have during the review.
  ** The same goes for the scenario where you were unsure of the implementation or your approach - highlight it and ask for an insight.
- ** Be civil and expect civility from the https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer's_] review.
+ ** Be civil and expect civility from the https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer's_] review.
 * Making pull requests too broad and large makes them more difficult to review, so it will take much longer before they're accepted.
  ** If you have a larger feature that you are contributing, it often helps to split it in multiple pull requests that are submitted, reviewed and accepted sequentially.
 You can still bind them together with an issue that you are referring to.

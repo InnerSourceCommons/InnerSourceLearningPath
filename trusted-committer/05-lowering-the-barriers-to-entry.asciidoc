@@ -2,14 +2,14 @@
 
 Soliciting contributions in an InnerSource community is more challenging than it is in an Open Source community for a number of reasons:
 
-* The sheer number of potential https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] is lower in InnerSource communities.
+* The sheer number of potential https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] is lower in InnerSource communities.
 * Contributors will want to contribute during their work time, which means they are more time constrained.
 * Work in InnerSource might not necessarily be part of Contributors' official
 performance goals, so time spent working on InnerSource
 may seem to detract from achieving those goals.
 
 That's why it's important for Trusted Committers to make the processes for making
-contributions and onboarding https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] as frictionless as
+contributions and onboarding https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] as frictionless as
 possible. There are a number of things that can help:
 
 * Have a good README.md in each code repository. A good README.md
@@ -18,7 +18,7 @@ addition, it should provide detailed instructions on how to get, build,
 test, and use the software in the repository, including information about
 the license.
 * Have a good CONTRIBUTING.md that outlines what is expected of the
-https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributor_]. It should answer
+https://innersourcecommons.org/learn/learning-path/contributor[_Contributor_]. It should answer
 common questions, such as:
 ** How do I submit a bug report or feature request?
 ** Who and how do I contact if I have questions?
@@ -37,19 +37,19 @@ obligations in layman’s terms.
 
 In addition to these documentary tasks, similar to Open Source
 software development it should be easy and straightforward to run and test the software
-being developed locally by potential https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_], so they can start implementing and validating their contribution with as little effort as
+being developed locally by potential https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_], so they can start implementing and validating their contribution with as little effort as
 possible.
 
 There are two common models for making contributions:
 _shared repository_ and _fork and join_. Both have advantages, and as a Trusted Committer,
 you want to support both models to accommodate different needs of your
-potential and current https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_].
+potential and current https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_].
 Your Contributors will often have questions about the contribution process or about the community itself, and someone has to be available to answer these questions. 
 It is therefore important for any InnerSource community to
 have one or more contact persons that are available for answering such
 questions. Someone from the group of Trusted Committers is usually that contact person, or else they need to make sure there is a community member "on call".
 
-It is also important to help potential https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributors_] determine what
+It is also important to help potential https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] determine what
 contributions are needed. These can be code contributions but
 also noncode contributions, such as writing documentation, creating
 artwork, or organizing events. One common way to do this is to tag

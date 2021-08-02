@@ -11,6 +11,7 @@ Cette situation est courante dans une grande entreprise où une seule équipe pr
 Lorsque les équipes consommatrices ont besoin de nombreuses fonctionnalités, les équipes productrices ont normalement une sorte de processus de définition des besoins et de hiérarchisation des priorités pour décider sur quelles fonctionnalités elles vont travailler.
 Pour les demandes de fonctionnalités critiques qui ne sont pas prioritaires pour un travail immédiat, l'équipe consommatrice peut généralement choisir l'une des trois options suivantes, chacune présentant ses propres inconvénients.
 
+
 . *L'attente* L'équipe utilisatrice peut ne rien faire et rester sans la fonctionnalité demandée.
   Cette option exige le moins de travail de leur part.
   Selon l'intérêt de la demande de fonctionnalité, l'attente peut être tout à fait acceptable.

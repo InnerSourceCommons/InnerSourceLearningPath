@@ -7,5 +7,5 @@ Cette stratégie permet une collaboration large et efficace, pour produire des l
 
 Ce parcours d'apprentissage apprend à reconnaître les situations qui sont de bonnes candidates pour l'InnerSource.
 Nous décrirons à un haut niveau comment l'InnerSource peut aider dans ces situations.
-Vous vous familiariserez avec les termes communs utilisés lors des discussions sur l'InnerSource
+Vous vous familiariserez avec les termes communs utilisés lors des discussions sur l'InnerSource.
 Nous énumérerons également les principes clés sur lesquels l'InnerSource est fondé et les avantages constatés lorsqu'il est appliqué efficacement.
