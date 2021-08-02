@@ -9,5 +9,3 @@ Ce parcours d'apprentissage apprend à reconnaître les situations qui sont de b
 Nous décrirons à un haut niveau comment l'InnerSource peut aider dans ces situations.
 Vous vous familiariserez avec les termes communs utilisés lors des discussions sur l'InnerSource.
 Nous énumérerons également les principes clés sur lesquels l'InnerSource est fondé et les avantages constatés lorsqu'il est appliqué efficacement.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
