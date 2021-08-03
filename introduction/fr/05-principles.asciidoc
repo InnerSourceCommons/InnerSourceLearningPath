@@ -47,6 +47,7 @@ Cette communication doit être faite d'une manière qui peut être facilement in
 
 Le mentorat de l'équipe hôte vers l'équipe invitée par les https://innersourcecommons.org/learn/learning-path/trusted-committer[committers de confiance] est un aspect essentiel de l'InnerSource.
 Les https://innersourcecommons.org/learn/learning-path/contributor[Contributeurs] des équipes invitées sont mis à niveau afin qu'ils comprennent suffisamment le projet/repo de l'équipe hôte pour le modifier avec succès.
+
 Ce faisant, ils en viennent à mieux comprendre le système logiciel de l'équipe hôte en tant que consommateur général et ambassadeur du projet/logiciel.
 Ce contributeur individuel peut, avec le temps et l'expérience, jouer un rôle plus important dans le projet en tant que committer de confiance.
 
