@@ -1,0 +1,63 @@
+== Introducción
+
+=== El Colaborador en InnerSource
+
+¿Alguna vez ha sido bloqueado en su próxima tarea de programación porque otro equipo no ha tenido tiempo de agregar una funcionalidad de la cual depende en su sistema?
+Quizás al cabo de un tiempo haya tenido que trabajar más en su proyecto para solucionar la funcionalidad faltante.
+¿A que estaría bien no ser bloqueado en ningún momento de esta manera?
+
+Con proyectos que incorporan los principios de InnerSource, nunca estará bloqueado esperando a que otro equipo aporte alguna funcionalidad necesaria.
+Si no obtiene lo que necesita, puede realizar el cambio que necesita directamente en el repositorio de código del otro equipo actuando como Colaborador de InnerSource.
+
+El rol de Colaborador describe a una persona que hace contribuciones a los repositorios de un proyecto comunitario de InnerSource.
+Esta persona puede, o no, ser parte o verse como parte de la comunidad.
+Sin embargo, para muchas personas hay una especie de camino que los colaboradores pueden hacer, desde conocer la comunidad hasta usar el producto de la comunidad para interactuar con los miembros de la comunidad, y finalmente comenzar a contribuir.
+Por último, algunos colaboradores pueden convertirse en https://innersourcecommons.org/learn/learning-path/trusted-committer[Trusted Committers].
+
+=== Relación con otros roles
+
+Como Colaborador en una comunidad de InnerSource, interactuará con otras personas que desempeñan otros roles de InnerSource, como https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] o https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] y posiblemente con otros colaboradores.
+A veces, estos roles pueden ser desempeñados por la misma persona, como Trusted Committer y Product Owner en pequeños proyectos.
+
+Esta sección le brinda una muy breve descripción general de los otros dos roles, pero nos gustaría animarle a que lea el https://innersourcecommons.org/learn/learning-path/trusted-committer[introductory article of the Trusted Committer role], y le recomendamos que lea también el artículo https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Lowering the barriers to entry] antes de profundizar en los detalles del rol de Colaborador en esta sección.
+También puede ver los videos (https://innersourcecommons.org/learn/learning-path/trusted-committer[introduction], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[lowering the barriers to entry]) en lugar de leer los artículos.
+
+==== Trusted Committer
+
+Un Trusted Committer será su anfitrión durante su estancia en la comunidad anfitrión.
+Son los responsables del repositorio de código del proyecto y acercarán su contribución a la producción una vez sea aceptada.
+Su función es guiarle para contribuir a su comunidad. Ellos pueden ayudarlo directamente o proporcionarle información que le permita continuar por sí mismo. Esta información podría ser, reglas internas establecidas para revisiones, plantillas de propuestas para cambios más importantes, referencias a la documentación o secciones de código relevantes para su contribución.
+
+También deben preocuparse por la calidad del producto, la sostenibilidad y la evolución del proyecto desde una perspectiva técnica y general, por reducir la barrera para hacer contribuciones para todos, así como por el cuidado de su comunidad en general.
+Cuidar de la comunidad implica mantenerla saludable, elevarla a ella y a sus participantes, y defender sus necesidades en su organización.
+
+==== Product Owner
+
+El rol de https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] tiene cierta similitud con el rol de product owner de su proyecto.
+Sin embargo, existen diferencias: dependiendo del tamaño del proyecto, este rol a menudo lo desempeña la misma persona que actúa como responsable de confianza.
+En proyectos más grandes, o en equipos que solo usan parcialmente InnerSource para satisfacer sus necesidades al aceptar contribuciones, es probable que este rol lo desempeñe una persona separada de un trusted committer.
+
+Su interacción con el rol de product owner probablemente se centrará en determinar el ajuste de su contribución al producto general y su hoja de ruta.
+Puede trabajar con el rol de product owner para asegurarse de que los aspectos generales de la documentación, o la coherencia de UI / UX, se mantengan al combinar su contribución.
+
+Por último, pero no por ello menos importante, alguien que actúe como product owner podrá haber estado involucrado en llamar su atención sobre el proyecto, sus beneficios y la comunidad.
+
+Si desea conocer con más detalle de qué se tratan estos otros roles, y le animamos a que lo haga, hemos preparado secciones separadas sobre https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] y https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_].
+
+=== Resumen de la sección
+
+En los siguientes 5 segmentos, aprenderá más en detalle sobre los diversos aspectos que se presentan aquí.
+
+El siguiente segmento detallará el _conjunto de ideas y hábitos_ que crean oportunidades para _convertirse en un Colaborador de InnerSource_.
+
+En el tercer segmento, analizaremos las _ética del colaborador_, es decir, los aspectos del _comportamiento_ que conducirán a un momento agradable y productivo para usted y el equipo anfitrión, y puede que generen más colaboraciones.
+La guest-in-home presentada en los videos introductorios servirá como ejemplo.
+
+El cuarto segmento describe las cosas prácticas que debe hacer para que su contribución sea un éxito: las _mecánicas de Contribución_.
+Le daremos consejos prácticos para aprovechar cuando se prepare para trabajar en una contribución, durante el desarrollo y también en la pull request.
+
+Una vez hayamos abordado los aspectos personales, los centrados en la interacción y los técnicos del rol de colaborador, el quinto segmento presenta los beneficios de hacer el esfuerzo de contribuir.
+Mostraremos los beneficios desde varias perspectivas: la suya, la de su equipo y la perspectiva de la empresa en general.
+
+El último segmento resumirá lo que hemos aprendido acerca de ser un colaborador de InnerSource.
+Compartiremos cómo puede continuar su aprendizaje de InnerSource tanto con otros videos y artículos en línea, como a través de su participación en la comunidad de InnerSource en línea.
