@@ -24,7 +24,7 @@ Trusted Committerは、組織との信頼関係を構築し、その信頼関係
 
 Trusted Committerによる支持が必要となるもう1つの一般的なケースは、 https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] にコントリビューションする時間や許可が与えられていない場合です
 これは、コミュニティがコントリビューターの部署外で製品を開発している場合で、マネージャの目標との関係がない場合に起こる可能性があります。
-この場合、Trusted Committer はコントリビュータのマネージャと議論し、代替案の決定を求め働きかける必要があります。
+この場合、Trusted Committer はコントリビューターのマネージャと議論し、代替案の決定を求め働きかける必要があります。
 
 要約すると、Trusted Committerが、個々の https://innersourcecommons.org/ja/learn/learning-path/contributor[コントリビューター] とコミュニティ全体の利益を主張する必要がある状況は多々あります。
 Trusted Committerは、コミュニティが組織に提供できる価値は、コミュニティの健全性と寿命、そして最終的には両者の信頼関係に依存していることを理解しています。

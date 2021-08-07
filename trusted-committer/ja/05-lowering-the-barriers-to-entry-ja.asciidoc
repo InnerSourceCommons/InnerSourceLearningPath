@@ -3,8 +3,8 @@
 InnerSourceコミュニティでコントリビューションを求めることは、いくつかの理由からオープンソースコミュニティよりも困難です。
 
 * InnerSourceコミュニティでは、潜在的な https://innersourcecommons.org/ja/learn/learning-path/contributor[_コントリビューター_] の数が少ない。
-* コントリビュータは、勤務時間内にコントリビューションしたいと考えるため、時間の制約が大きくなる。
-* InnerSourceでの作業は、コントリビュータの正式な目標管理の一部に必ずなるとは限らないため、InnerSourceの作業に費やす時間が目標達成を損なうように見える場合がある。
+* コントリビューターは、勤務時間内にコントリビューションしたいと考えるため、時間の制約が大きくなる。
+* InnerSourceでの作業は、コントリビューターの正式な目標管理の一部に必ずなるとは限らないため、InnerSourceの作業に費やす時間が目標達成を損なうように見える場合がある。
 
 そのため、Trusted Committersにとって、 https://innersourcecommons.org/ja/learn/learning-path/contributor[_コントリビューター_] のオンボーディングやコントリビューション作成のプロセスを、できるだけスムーズにすることが重要となります。
 役立つことがいくつかあります。
