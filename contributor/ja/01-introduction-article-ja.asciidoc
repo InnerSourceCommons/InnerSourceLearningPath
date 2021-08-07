@@ -19,7 +19,7 @@ InnerSourceの原則を組み込んだプロジェクトでは、必要な機能
 InnerSourceコミュニティにおけるコントリビューターとしてあなたは、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[_Trusted Committer_] や https://innersourcecommons.org/ja/learn/learning-path/product-owner[_Product Owner (プロダクトオーナー)_] などのInnerSourceの他の役割を担っている人や、おそらく他のコントリビューターとも交流することになります。
 まれに、小さな草の根スタイルのプロジェクトでは、Trusted Committerとプロダクトオーナーなどの役割は同じ人が行うことができます。
 
-この節では、他の2つの役割について非常に短い概要を説明しますが、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[Trusted Committerの役割の紹介記事] と https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/05/[参加障壁を下げる] 記事を、コントリビューターの役割をより深く掘り下げて説明する前に読むことを推奨します。
+この節では、他の2つの役割について非常に短い概要を説明しますが、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/01/[Trusted Committerの役割の紹介記事] と https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/05/[参加障壁を下げる] 記事を、コントリビューターの役割をより深く掘り下げて説明する前に読むことを推奨します。
 記事を読む代わりに、ビデオ (https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/01/[入門]、 https://innersourcecommons.org/ja/learn/learning-path/trusted-committer/05/[参入障壁を下げる]) を見ることもできます。
 
 ==== Trusted Committer
