@@ -12,7 +12,7 @@
 オープンプロセスは、おそらく以前得ていたよりも多くの信用を、あなたの仕事に与えることを意味しています。
 これらの計画プロセスを実行して公開することで、すべてがより明確になるため、政治的問題を少なくすることができます。
 
-そして最後に、新しい https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[_Trusted Committers_] をサポートするなどの新しい役割と責任があります。
+そして最後に、新しい https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[_Trusted Committer_] をサポートするなどの新しい役割と責任があります。
 彼らは、本当にあなたの助けを必要とするでしょう。
 また、他のプロダクトオーナーと協力することで、より多くの作業をより短期間で行うことができます。
 新しいドキュメントに関しては多くの時間を費やす必要がありますが、それでも大丈夫です。なぜなら、より多くの信用を得られるからです。
