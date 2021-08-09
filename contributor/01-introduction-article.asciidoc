@@ -19,8 +19,8 @@ Finally, some of them may become https://innersourcecommons.org/learn/learning-p
 As a Contributor in an InnerSource community you will interact with people playing other roles of InnerSource, such as https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] or https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] and possibly with other contributors.
 At times, these roles can be played by the same person, such as Trusted Committer and Product Owner in small grassroots style projects.
 
-This section gives you a very short overview of the other two roles, but we'd like to encourage you to read the https://innersourcecommons.org/learn/learning-path/trusted-committer[introductory article of the Trusted Committer role], and we recommended you read the https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Lowering the barriers to entry] article, too, before you delve deeper into the details of the Contributor role in this section.
-You can also watch the videos (https://innersourcecommons.org/learn/learning-path/trusted-committer[introduction], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[lowering the barriers to entry]) instead of reading the articles.
+This section gives you a very short overview of the other two roles, but we'd like to encourage you to read the https://innersourcecommons.org/learn/learning-path/trusted-committer/01/[introductory article of the Trusted Committer role], and we recommended you read the https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Lowering the barriers to entry] article, too, before you delve deeper into the details of the Contributor role in this section.
+You can also watch the videos (https://innersourcecommons.org/learn/learning-path/trusted-committer/01/[introduction], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[lowering the barriers to entry]) instead of reading the articles.
 
 ==== Trusted Committer
 
