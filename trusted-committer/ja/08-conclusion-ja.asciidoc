@@ -6,7 +6,7 @@
 Trusted Committerとして働くことは大変ですが、最終的にはあなたの会社におけるコントリビューションの価値を増幅することになります。
 
 Trusted Committerになるための道を歩むきっかけになればと思います。
-また、InnerSourceのイニシアティブを成功させるために、有能なTrusted Committersがいることの重要性と、この役割に必要な権限レベルについて、組織が理解する助けになればと思います。
+また、InnerSourceのイニシアティブを成功させるために、有能なTrusted Committerがいることの重要性と、この役割に必要な権限レベルについて、組織が理解する助けになればと思います。
 
 InnerSourceラーニングパスの他の記事や動画を見て、InnerSourceについて、さらに学んでみることをお勧めします。
 そしてもちろん、 http://www.innersourcecommons.org/[InnerSourceコモンズコミュニティ] は、あなたをとても歓迎しています。
