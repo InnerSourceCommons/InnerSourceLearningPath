@@ -28,7 +28,7 @@
           expectativas/procesos.
     - Product Owner (distinción entre PO's invitado y anfitrión)
     - TC
-        - El TC está autorizado a acercar más el código a productión que un 
+        - El TC está autorizado a acercar más el código a producción que un
           contribuidor
         - Se le conoce también como el _Anfitrión_
         - Tiene los permisos que tendría un administrador o un _Apache committer_
@@ -45,38 +45,37 @@
 ### Responsabilidades
 
 **Orientadas a la tecnología**
-- Mantener la fluidez del desarrollo de SW 
-- Asegurar la calidad y longevidad del SW a un nivel estratégico
+- Mantener la fluidez del desarrollo de SW.
+- Asegurar la calidad y longevidad del SW a un nivel estratégico.
 - Asegurar que las decisiones respecto a la calidad y longevidad del SW se
   abordan/vigilan/implementan/...
 - Asumir decisiones respecto a comunidad/proceso/tecnología, aunque no sean
   suyas.
 - Revisar y aceptar contribuciones (incluyendo asegurarse de que cumplen con
-  las líneas maestras)
-- Responsable de comunicar las líneas maestras de contribución (posiblemente
-  también de validar y establecer algunas)
+  las pautas).
+- Responsable de comunicar las pautas de contribución (posiblemente
+  también de validar y establecer algunas).
 - Responsable de asegurar que se documenten los requisitos tácitos
-  (no necesariamente haciéndolo él mismo)
+  (no necesariamente haciéndolo él mismo).
 
 **Orientadas a la comunidad**
-- TC tiene que ser consciente de las necesidades de las comunidades
-- TC tiene que abogar por el interés de las comunidades
-- Reducir las barreras de entrada a la comunidad
-- Acompañar a nuevos contribuiores en sus primeros pasos como tales
-    - Asegurando que el nuevo contribuidor está preparado/educado para efectuar
-      la próxima contribución
-- Elevando al siguiente nivel las capacidades de los miembros de la comunidad
-  para usar y contribuir al proyecto  
-    - Tutelar/acompañar a los contribuiores durante el proceso de efectuar una
-      contribución
-- Establecer los procesos adecuados a la comunidad
-- Promover la comunidad
-    - Aplicando el código de conducta
+- TC tiene que ser consciente de las necesidades de las comunidades.
+- TC tiene que abogar por el interés de las comunidades.
+- Reducir las barreras de entrada a la comunidad.
+- Acompañar a nuevos contribuidores en sus primeros pasos como tales.
+    - Asegurar que el nuevo contribuidor está preparado/educado para efectuar
+      la próxima contribución.
+- Elevar al siguiente nivel las capacidades de los miembros de la comunidad
+  para usar y contribuir al proyecto.
+    - Tutelar/acompañar a los contribuidores durante el proceso de efectuar una
+      contribución.
+- Establecer los procesos adecuados a la comunidad.
+- Promover la comunidad.
+    - Aplicar el código de conducta.
 - 
 
 ### Ciclo de vida
-
-- En un proyecto bien podría haber multiples TCs
+- En un proyecto bien podría haber multiples TCs.
 - 
 
 ## Ideas
