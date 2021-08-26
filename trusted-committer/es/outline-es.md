@@ -28,7 +28,7 @@
           expectativas/procesos.
     - Product Owner (distinción entre PO's invitado y anfitrión)
     - TC
-        - El TC está autorizado a acercar más el código a producción que un 
+        - El TC está autorizado a acercar más el código a producción que un
           contribuidor
         - Se le conoce también como el _Anfitrión_
         - Tiene los permisos que tendría un administrador o un _Apache committer_
@@ -75,7 +75,6 @@
 - 
 
 ### Ciclo de vida
-
 - En un proyecto bien podría haber multiples TCs.
 - 
 
