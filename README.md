@@ -76,3 +76,4 @@ See you there!
 
 ## Licensing
 The InnerSource Learning Path by [InnerSourceCommons.org](http://innersourcecommons.org) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) License.
+Please see LICENSE.txt in this repository for the full text of the license.
