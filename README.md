@@ -73,3 +73,7 @@ See you there!
 [InnerSource Commons]: http://www.innersourcecommons.org/
 [#learning-path]: https://innersourcecommons.slack.com/messages/CARTU4XV2
 [Chatham House Rule]: https://www.chathamhouse.org/chatham-house-rule
+
+## Licensing
+The InnerSource Learning Path by [InnerSourceCommons.org](http://innersourcecommons.org) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) License.
+Please see LICENSE.txt in this repository for the full text of the license.
