@@ -1,0 +1,55 @@
+== Ética del colaborador
+
+En el último segmento, explicamos por qué querría reutilizar componentes y participar activamente como Colaborador. Este artículo comparte las mejores prácticas sobre cómo contribuir con éxito sus cambios a la base de código del equipo anfitrión.
+
+Un colaborador de InnerSource que intenta hacer una contribución al equipo anfitrión es esencialmente un invitado en su hogar. En general, se espera que un buen huésped se comporte de cierta manera:
+
+* Que llamen a la puerta.
+* Que presupongan y cumplan las reglas de la casa.
+* Que entiendan que no son los dueños de la casa y actúen en consecuencia.
+
+¿Cómo se aplican estas expectativas a los proyectos de InnerSource?
+
+=== Entrar
+
+Cuando visitas a tus vecinos, es probable que no entres a su casa sin llamar a la puerta o al timbre, incluso si la puerta está abierta. Del mismo modo, en InnerSource, como visitante, de entrada no podrás (ni se te invitará a) escribir en ningún repositorio de código.
+
+En cambio, después de realizar tus cambios en la base de código solicitarás su inclusión. Al igual que no harías grandes cambios o mejoras en la casa de sus vecinos, en InnerSource anticiparás y seguirás las pautas de colaboración del proyecto. A su vez, tus anfitriones te mostrarán el camino - en InnerSource esto se traduce a personas de confianza que dedican su tiempo a orientar a los huéspedes.
+
+¿Qué hay de esas hermosas fiestas de verano a las que fuiste? Por lo general, hay una planificación previa para elegir la fecha y la hora correctas, para preparar suficiente comida o para que los invitados la aporten. Lo mismo ocurre con los cambios más importantes en los proyectos de InnerSource: es probable que un proyecto te pida que envíes una propuesta que describa tu necesidad antes de realizar una modificación importante. Dedicar tiempo al diseño inicial en lugar de saltar directamente a la implementación evita que los colaboradores tengan que rehacer gran parte de su trabajo. Compartir el progreso temprano, incluso cuando aún no está terminado, ayuda al equipo anfitrión a orientar al Colaborador hacia una mejor solución. Al igual que la ley de Yonik de parches sin terminar explica: "Un parche a medias en Jira, sin documentación, sin pruebas y sin compatibilidad con versiones anteriores, es mejor que ningún parche".
+
+¿Eso implica que los proyectos de InnerSource no valoran la comunicación cara a cara? No del todo: es valioso reunirse con los participantes cara a cara. Recuerda que toda comunicación escrita carece de mucho ancho de banda en comparación con una reunión en persona: no hay gestos, ni muecas, ni siquiera el tono de voz para ayudar a la comprensión. Las reuniones en persona son particularmente valiosas para los desafíos interpersonales, la resolución de conflictos y malentendidos. Sin embargo, la comunicación sobre las decisiones del proyecto debe mantenerse por escrito, para que otros puedan seguir e influir en el proyecto, e incluso años después es posible rastrear por qué se tomó una determinada decisión.
+
+Esta es mi regla general: siéntase libre de reunirse para tomar un café. A menudo, eso ayuda a construir un equipo más fuerte, especialmente cuando el equipo se divide en múltiples ubicaciones físicas. Sin embargo, asegúrese de que todas las decisiones se tomen de manera transparente y asincrónica para que todos, incluidos los que están al acecho en su conversación, puedan participar y convertirse en colaboradores activos. Un ejemplo de hasta dónde se puede llegar a la toma de decisiones abierta se explica en varios ejercicios del Libro de trabajo de organización abierta .
+
+Ahora, ¿cómo averiguas dónde le gustaría a un proyecto de InnerSource discutir los cambios y la dirección futura del proyecto? Muchos proyectos de InnerSource describen cómo les gusta que los Colaboradores potenciales se acerquen a ellos en su README.md. Si ese documento se vuelve demasiado grande para manejar, las pautas de contribución tienden a dividirse en un archivo llamado CONTRIBUTING.md. Seguir esas recomendaciones ayuda enormemente a los Colaboradores a vender su oferta.
+
+En todas estas interacciones, estaté preparado para "vender" tu contribución al equipo anfitrión. Articular el valor que la contribución traerá a su ecosistema.
+
+El equipo anfitrión será el que se encargue del mantenimiento de tus cambios. Tiene sentido ofrecer una garantía de 30 días en su envío. Esto puede aliviar el temor del equipo anfitrión de que los Colaboradores no estén disponibles para ayudar con la corrección de errores después del momento de la contribución.
+
+
+=== Anticípa y sigue las reglas de la casa.
+
+Cuando visites a tus vecinos, es probable que te guíen en su apartamento: te mostrarán el camino a la sala de estar y dónde se encuentra el baño. Si te quedas más tiempo, probablemente te den más detalles: en mi caso un ejemplo sería evitar encender el lavavajillas y el hervidor eléctrico al mismo tiempo para evitar que se queme el fusible.
+
+Del mismo modo, cada sistema de software tiene sus propias peculiaridades y complejidades. A menudo, los más obvios están bien documentados. En proyectos más pequeños, esta documentación se puede encontrar en README.md. En los más grandes, la documentación específica de la contribución a menudo se puede encontrar en el documento CONTRIBUTING.md.
+
+En estos archivos, puede esperar encontrar información sobre cómo verificar y construir el proyecto, cómo ejecutar la batería de pruebas, cómo enviar cambios al proyecto. Puede indicarte más documentación si se desvía en gran medida de las herramientas habituales, o si hay cosas que debas tener en cuenta al realizar cambios.
+
+Revisar esa documentación generalmente resulta ser un gran ahorro de tiempo, ya que evita que vayas por el camino equivocado y te advierte sobre callejones sin salida. Si descubres que te faltan cosas en función de tu experiencia, los arreglos para esa documentación suelen ser muy bienvenidos: no hay nadie más adecuado para mejorarlo que un nuevo colaborador que ve el proyecto por primera vez.
+
+Intenta averiguar junto con el proyecto en tu canal de comunicación preferido si los cambios que tienes en mente tienen sentido en general. Al principio, puede resultar aterrador tener estas conversaciones en un medio público de la organización que se archiva públicamente y se pueda buscar. El beneficio aquí es para otros que vienen detrás de tí con propuestas similares: en lugar de recorrer exactamente el mismo camino, pueden aprender lo que ya se discutió y comenzar desde allí.
+Comprenda que no es el dueño de la casa y actúe en consecuencia.
+
+Ser un Contribuidor significa esencialmente estar más cerca del equipo anfitrión que alguien que simplemente solicita una función. Aún así, los Colaboradores no son responsables del proyecto de software al que están contribuyendo.
+
+Como resultado, la última palabra sobre cómo debe ser la contribución es del equipo anfitrión. Ayuda a acercarse al equipo anfitrión con una mentalidad humilde, asumiendo que todos están colaborando hacia el propósito de la organización compartida. Ayuda ser abierto y transparente, no solo sobre lo que se implementó y cómo, sino también por qué se necesitaba el cambio.
+
+Trata cualquier comentario como un regalo: otros están tratando de mejorar tu solución, lo que le evitará problemas en el futuro.
+
+Existe la posibilidad de que el equipo anfitrión no acepte tu contribución en absoluto. En ese caso, es útil trabajar con el equipo, averiguar si hay un subaspecto de tu necesidad que pueda resolverse en su proyecto. Colabora en ese subaspecto y luego busca otra forma de resolver los problemas restantes por tu cuenta.
+
+=== Resumen de este segmento
+
+En este segmento hemos aprendido cómo abordar mejor un proyecto de InnerSource como Colaborador. También analizamos cómo comunicar mejor nuestra necesidad de cambio y trabajar en la solución junto con el equipo anfitrión
