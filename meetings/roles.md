@@ -139,4 +139,4 @@ so that recipients don't need to wade through all of the conversation in order t
 [#innersourcecommons share]: https://innersourcecommons.slack.com/archives/C0FJ7D2QH/p1553011694061300
 [sample email]: ./examples/notes-email.md
 [sample notes announcement]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1553120120110300
-[shared calendar]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1562254892028500 
+[shared calendar]: https://calendar.google.com/calendar?cid=MTVlMTdrcDhhazg1OXFsc2lybnAwYm9wNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ 
