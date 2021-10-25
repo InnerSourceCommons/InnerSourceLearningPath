@@ -27,7 +27,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 ### Tips
 
 * Check out this [writeup][gdoc sharing] if you need help creating a write-enabled link to the agenda document.
-* Get permission to the `InnerSource Commons Calendar` from [@Lenucksi] and then access it at [calendar.google.com].
+* Get permission to the `InnerSource Commons Calendar` from [@Lenucksi] and then access the [shared calendar].
 
 <a name="crier"></a>
 ## Crier
@@ -140,5 +140,6 @@ so that recipients don't need to wade through all of the conversation in order t
 [#innersourcecommons share]: https://innersourcecommons.slack.com/archives/C0FJ7D2QH/p1553011694061300
 [sample email]: ./examples/notes-email.md
 [sample notes announcement]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1553120120110300
+[shared calendar]: https://calendar.google.com/calendar?cid=MTVlMTdrcDhhazg1OXFsc2lybnAwYm9wNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ 
 [@Lenucksi]: https://app.slack.com/client/T04PXKRM0/DFJ4THQFQ
-[calendar.google.com]: https://calendar.google.com/
+
