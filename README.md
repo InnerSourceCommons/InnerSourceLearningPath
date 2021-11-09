@@ -25,6 +25,16 @@ We track our tasks and discuss their status openly using our GitHub project [Kan
 Typically, a card bundles tasks about one artifact (e.g. written articles accompanying one learning path section) or small milestones (e.g. finishing the post production of one section). 
 You can infer whether a task is currently actively developed or under review based on the card's column in the [Kanban board].
 
+## Trusted Committers
+
+These community members continually give their time to the running of this project.
+Special to:
+
+* Russ Rutledge ([@rrrutledge])
+* Johannes Tigges ([@lenucksi])
+* Tom Sadler ([@tsadler1988])
+* Igor Zubiaurre ([@fioddor])
+
 ## Repository Setup
 
 This repository holds the backing/planning material for the videos, articles, and workbook as follows:
@@ -77,3 +87,8 @@ See you there!
 ## Licensing
 The InnerSource Learning Path by [InnerSourceCommons.org](http://innersourcecommons.org) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) License.
 Please see LICENSE.txt in this repository for the full text of the license.
+
+[@rrrutledge]: https://github.com/rrrutledge
+[@lenucksi]: https://github.com/lenucksi
+[@tsadler1988]: https://github.com/tsadler1988
+[@fioddor]: https://github.com/fioddor
