@@ -28,7 +28,7 @@ You can infer whether a task is currently actively developed or under review bas
 ## Trusted Committers
 
 These community members continually give their time to the running of this project.
-Special to:
+Special thanks to:
 
 * Russ Rutledge ([@rrrutledge])
 * Johannes Tigges ([@lenucksi])
