@@ -47,8 +47,8 @@ Esta comunicación debe ser hecha de una forma que pueda ser fácilmente transmi
 
 === Mentorización priorizada
 
-La _mentoría_ del equipo anfitrión a través del https://innersourcecommons.org/learn/learning-path/trusted-committer/01[trusted committer] es un aspecto fundamental de InnerSource.
-Los https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] de los equipos invitados se tutorizan y mentorizan hasta el punto de que comprenden el proyecto en el que quieren participar y que lleven a cabo modificaciones con éxito.
+La _mentoría_ del equipo anfitrión a través del https://innersourcecommons.org/learn/learning-path/trusted-committer[trusted committer] es un aspecto fundamental de InnerSource.
+Los https://innersourcecommons.org/learn/learning-path/contributor[contribuidores] de los equipos invitados se tutorizan y mentorizan hasta el punto de que comprenden el proyecto en el que quieren participar y que lleven a cabo modificaciones con éxito.
 En este proceso, estas personas tendrán un conocimiento amplio del software del equipo anfitrión y podrán actuar como consumidores de dicho software y como embajadores del proyecto.
 Este contribuidor podría, con tiempo y experiencia, llegar a ser un trusted committer del mismo al jugar un papel más importante en el mismo.
 

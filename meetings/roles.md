@@ -13,13 +13,13 @@ The roles are:
 The _Scheduler_ sends the calendar invite for the meeting.
 
 **Within 24 Hours of Previous Meeting**
-* [ ] Update the [shared calendar] series with any new invitees from the last call.  
+* [ ] Update the shared calendar series with any new invitees from the last call.  
 * [ ] Visit the [learning path folder].
 * [ ] Right-click on `Meeting - 2021 - MM - DD`.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
 * [ ] Open the document and follow the steps in the **Do these things to set up this document** section.
-* [ ] Update the [calendar][shared calendar] invite for the next meeting to add:
+* [ ] Update the calendar invite for the next meeting to add:
 
   * Write-enabled link to the agenda document.
   * Copy/pasted role assignments and agenda detail.
@@ -27,6 +27,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 ### Tips
 
 * Check out this [writeup][gdoc sharing] if you need help creating a write-enabled link to the agenda document.
+* Get permission to the `InnerSource Commons Calendar` from [@Lenucksi] and then access the [shared calendar].
 
 <a name="crier"></a>
 ## Crier
@@ -139,4 +140,6 @@ so that recipients don't need to wade through all of the conversation in order t
 [#innersourcecommons share]: https://innersourcecommons.slack.com/archives/C0FJ7D2QH/p1553011694061300
 [sample email]: ./examples/notes-email.md
 [sample notes announcement]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1553120120110300
-[shared calendar]: https://innersourcecommons.slack.com/archives/CARTU4XV2/p1562254892028500 
+[shared calendar]: https://calendar.google.com/calendar?cid=MTVlMTdrcDhhazg1OXFsc2lybnAwYm9wNGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ 
+[@Lenucksi]: https://app.slack.com/client/T04PXKRM0/DFJ4THQFQ
+

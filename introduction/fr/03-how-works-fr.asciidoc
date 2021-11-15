@@ -20,9 +20,9 @@ Ces concepts relatifs à la visite d'une maison sont une métaphore de l'attitud
 
 Regardons de plus près comment les mécanismes du processus InnerSource peuvent fonctionner.
 Pour faciliter cette explication, nous allons nommer quelques personnes clés dans les équipes invitées et hôtes.
-Tout d'abord, le https://innersourcecommons.org/learn/learning-path/product-owner/01[_Propriétaire du produit_] détermine quelle fonctionnalité l'équipe hôte est prête à accepter comme contribution.
-Le https://innersourcecommons.org/learn/learning-path/contributor/01[_Contributeur_] est la personne de l'équipe invitée qui soumet la contribution au code à l'équipe hôte pour examen.
-Le https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_Trusted Committer_] représente l'équipe hôte en fournissant le soutien et l'encadrement dont le contributeur a besoin pour soumettre avec succès la demande d'évolution du code.
+Tout d'abord, le https://innersourcecommons.org/learn/learning-path/product-owner[_Propriétaire du produit_] détermine quelle fonctionnalité l'équipe hôte est prête à accepter comme contribution.
+Le https://innersourcecommons.org/learn/learning-path/contributor[_Contributeur_] est la personne de l'équipe invitée qui soumet la contribution au code à l'équipe hôte pour examen.
+Le https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] représente l'équipe hôte en fournissant le soutien et l'encadrement dont le contributeur a besoin pour soumettre avec succès la demande d'évolution du code.
 Dans le cas de petits projets de base, une seule personne remplit souvent les rôles de propriétaire du produit et de committeur de confiance (Trusted committer).
 
 Avec ces définitions, voici le schéma de base d'une contribution InnerSource.
@@ -43,6 +43,4 @@ Plus de temps d'ingénierie est consacré à la production de code qui résout l
 
 === Ressources supplémentaires
 
-* Le modèle https://patterns.innersourcecommons.org/p/trusted-committer [Trusted Committer].
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
+* Le modèle du https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer (en)].

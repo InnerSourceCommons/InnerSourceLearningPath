@@ -21,10 +21,10 @@ _ゲスト_ や _ホスト_ の用語は、自宅にお客を招くような感�
 
 それでは、InnerSourceのプロセスの仕組みがどのように機能するかを見てみましょう。
 この説明の補足として、ここでゲストチームとホストチームそれぞれのキーパーソンとなる人に名前を付けておきます。
-まず、 https://innersourcecommons.org/learn/learning-path/product-owner/01[_プロダクトオーナー_] は、ホストチームが受け入れるコントリビューションがどの機能かを決定します。
-https://innersourcecommons.org/learn/learning-path/contributor/01[_コントリビューター_] は、ゲストチーム内の個人で、ホストチームにレビューしてもらうためにコードを投稿します。
-https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_トラステッドコミッター_] は、ホストチームを代表する人であり、コントリビューターがプルリクエストを正しく投稿するために必要な指導やタイムリーなサポートを提供します。
-小さな草の根活動的な取り組みでは、一人でプロダクトオーナーとトラステッドコミッター _両方_ の役目をすることがあります。
+まず、 https://innersourcecommons.org/ja/learn/learning-path/product-owner[_プロダクトオーナー_] は、ホストチームが受け入れるコントリビューションがどの機能かを決定します。
+https://innersourcecommons.org/ja/learn/learning-path/contributor[_コントリビューター_] は、ゲストチーム内の個人で、ホストチームにレビューしてもらうためにコードを投稿します。
+https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[_Trusted Committer(トラステッドコミッター)_] は、ホストチームを代表する人であり、コントリビューターがプルリクエストを正しく投稿するために必要な指導やタイムリーなサポートを提供します。
+小さな草の根活動的な取り組みでは、一人でプロダクトオーナーとTrusted Committer _両方_ の役目をすることがあります。
 
 これらの定義を用いて、InnerSourceのコントリビューションに関する基本的なアウトラインを説明すると、次のようになります。
 
@@ -33,7 +33,7 @@ https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_トラ�
 このユーザーストーリーでは、ゲストチームが同意できるように要求された機能を説明しなければなりません。
 また、その作業が受け入れられるためには、機能がどのように提供されるべきかについて、ホストチームからの詳細もリストアップします。
 例えば、こうした詳細にはアーキテクチャの制約、コーディング規約、依存関係の使用法、データコントラクトが含まれます。
-* トラステッドコミッターのサポートで、コントリビューターはリクエストされた要求を実装するためのプルリクエストを送ります。
+* Trusted Committerのサポートで、コントリビューターはリクエストされた要求を実装するためのプルリクエストを送ります。
 
 こうした手順は、チームの時間や優先度の一般的な組織向けのもので、特定のシステムを仮定したものではないことに注意してください。InnerSourceは、チームがすでに組織化するための確立された方法を持っていることを想定しており、ホストにコードをコントリビューションしたいと思っているゲストチームがある場合に、連携して作業するためのフレームワークを提供しています。
 
@@ -44,4 +44,4 @@ https://innersourcecommons.org/learn/learning-path/trusted-committer/01[_トラ�
 
 === その他のリソース
 
-* https://patterns.innersourcecommons.org/p/trusted-committer[トラステッドコミッター] パターン
+* https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer] パターン

@@ -2,20 +2,20 @@
 
 导言指出，Trusted Committer既要承担技术责任，又要承担社区责任。仅关注代码和代码健康是不够的。为了实现长期的目标，Trusted Committers应该努力保持软件构建社区的健康。因此，他们必须在确保产品质量和保持健康社区之间取得平衡。
 
-健康的社区是什么样的？很简单，在一个健康的社区中， https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_]往往会持续进行贡献，将大部分时间花费在开发软件上，并从中提升自己的能力。这样的话，一个健康的社区将能不断发展。
+健康的社区是什么样的？很简单，在一个健康的社区中， https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]往往会持续进行贡献，将大部分时间花费在开发软件上，并从中提升自己的能力。这样的话，一个健康的社区将能不断发展。
 
-为什么 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_]会加入并停留在社区中？有些人这样做是因为他们认同社区的宗旨或使命。清楚地表达和贯彻社区的宗旨是Trusted Committer的工作。人们通常认识不到这一点的重要性，但在营销社区及其产品的过程中，这确实是必不可少的。
+为什么 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]会加入并停留在社区中？有些人这样做是因为他们认同社区的宗旨或使命。清楚地表达和贯彻社区的宗旨是Trusted Committer的工作。人们通常认识不到这一点的重要性，但在营销社区及其产品的过程中，这确实是必不可少的。
 
-人们留下来的另一个更关键的原因是，他们喜欢与社区中的其他成员（包括Trusted Committer）一起工作。在一个繁荣的社区里成员间通常会相互尊重和相互沟通。贡献被视为馈赠或付出，而不是娱乐，而出色的（尤其是NO.1） https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_]通常会受到称赞。Trusted Committer在所有这方面的工作主要是为他人树立榜样，就是为预期的软件质量水平树立榜样。如有必要，Trusted Committer 可以为社区制定并制定行为准则。如果有某些社区成员的行为对社区健康有所损害，那么Trusted Committer有责任去解决此类问题。Trusted Committer应为人们创造机会，使他们能够定期（线上或线下）聚在一起，彼此了解并在有冲突时和平解决。
+人们留下来的另一个更关键的原因是，他们喜欢与社区中的其他成员（包括Trusted Committer）一起工作。在一个繁荣的社区里成员间通常会相互尊重和相互沟通。贡献被视为馈赠或付出，而不是娱乐，而出色的（尤其是NO.1） https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]通常会受到称赞。Trusted Committer在所有这方面的工作主要是为他人树立榜样，就是为预期的软件质量水平树立榜样。如有必要，Trusted Committer 可以为社区制定并制定行为准则。如果有某些社区成员的行为对社区健康有所损害，那么Trusted Committer有责任去解决此类问题。Trusted Committer应为人们创造机会，使他们能够定期（线上或线下）聚在一起，彼此了解并在有冲突时和平解决。
 
 如果人们还倾向于留在社区里，证明他们知道在InnerSource社区工作是获得新技能和个人成长的绝好机会。这其实是Trusted Committer的角色真正重要的地方。Trusted Committer通常会成为初级开发人员的指导者，并且在PR期间去指出需要改进的地方，还详细说明了为什么需要改进以及如何进行改进。他们提供了更改背后的理论或经验，并为更改的最佳方法提供了建议。这样，Trusted Committer可以提高成员社区中的学习速度，远远超过他们在传统软件开发项目中的学习速度。
 
-我们认为，Trusted Committer应在 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_] PR期间就进行指导，而不要等到发布日期，除非确实没有这个精力。PR期间，良好指导可提高 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_]的信任度和参与度，因此吸引更多的贡献。我们将在“提升社区”中对此进行更多讨论。
+我们认为，Trusted Committer应在 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_] PR期间就进行指导，而不要等到发布日期，除非确实没有这个精力。PR期间，良好指导可提高 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]的信任度和参与度，因此吸引更多的贡献。我们将在“提升社区”中对此进行更多讨论。
 
 最后，有些人会停留在InnerSource社区中，是因为他们开始专注于开发软件，而不是去做一些不实际、浪费性的工作，尤其是在大型公司中——他们太注重流程。在此背景下，Trusted Committer的工作是通过交流和制定有用的贡献准则来确保贡献者真正专注于其项目。
 
-为了实现上面所说的效果，应好好解释在 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_]PR中我们所说的信号传递：注释应该是什么样的？我喜欢或+1评论是什么意思？ 带有/ CC前缀的人与/ FYI前缀有何不同？通常来说，Trusted Committer需要确保在贡献者的贡献过程中不会出现太多问题，应支持社区识别和解决问题。最终，Trusted Committer应授权其社区发现与过程相关的问题，并尽可能地适应和改进它们。
+为了实现上面所说的效果，应好好解释在 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_]PR中我们所说的信号传递：注释应该是什么样的？我喜欢或+1评论是什么意思？ 带有/ CC前缀的人与/ FYI前缀有何不同？通常来说，Trusted Committer需要确保在贡献者的贡献过程中不会出现太多问题，应支持社区识别和解决问题。最终，Trusted Committer应授权其社区发现与过程相关的问题，并尽可能地适应和改进它们。
 
 为了使Trusted Committer能够履行所有这些职责，且与社区成员进行定期交流并密切注意。我们将在 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer/06/[_倡导社区需求_]部分中对此进行详细说明。
 
-总而言之，Trusted Committer应努力为其 https://innersourcecommons.org/zh/learn/learning-path/contributor/01[_贡献者（Contributor）_] 创建一个积极和赞赏贡献者的环境，使他们能够专注于编写，并通过向其他社区成员学习，来实现个人成长。
+总而言之，Trusted Committer应努力为其 https://innersourcecommons.org/zh/learn/learning-path/contributor[_贡献者（Contributor）_] 创建一个积极和赞赏贡献者的环境，使他们能够专注于编写，并通过向其他社区成员学习，来实现个人成长。

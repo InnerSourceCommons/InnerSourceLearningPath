@@ -2,11 +2,11 @@
 
 Solicitar contribuciones en una comunidad InnerSource es más difícil que al hacerlo en una comunidad Open Source por un número de razones:
 
-* El número de potenciales https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] es más bajo en comunidades InnerSource.
+* El número de potenciales https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_] es más bajo en comunidades InnerSource.
 * Los Contribuidores van a querer contribuir durante su jornada laboral, lo que significa que tienen un tiempo más apretado.
 * Trabajar en InnerSource puede no ser parte de las metas del Contribuidor, por lo que tiempo trabajado en InnerSource puede ser tiempo que no usan para lograr sus metas.
 
-Es importante que los Trusted Committers hagan los procesos para hacer contribuciones y para inducir a los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] con la menor fricción posible.
+Es importante que los Trusted Committers hagan los procesos para hacer contribuciones y para inducir a los https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_] con la menor fricción posible.
 Hay un número de cosas que pueden ayudar:
 
 * Tener un buen README.md en cada repositorio de código.
@@ -14,7 +14,7 @@ Un buen README.md explica que hay en el repositorio y para que puede usarse.
 A demas, debe de proveer instrucciones detalladas de como obtener, construir y usar el software en el repositorio,
 incluyendo información acerca de la licencia.
 
-* Tener un buen CONTRIBUITING.md que remarque lo que se espera del https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidor_].
+* Tener un buen CONTRIBUITING.md que remarque lo que se espera del https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidor_].
 Debe responder a preguntas comúnes como:
 ** ¿Cómo informo de un defecto o pido una nueva característica?
 ** ¿Con quién y cómo me comunico si tengo preguntas?
@@ -29,19 +29,19 @@ Si tienes una licencia interna adjuntada al software,
 lo cual en algunas compañias es pre requisito para compartir software entre entidades legales,
 incluye una copia de la licencia _y_ una explicación de los derechos y obligaciones en términos coloquiales.
 
-Junto a estas tareas de documentación, simliar al desarollo de software Open Source, debe ser fácil y sencillo el correr y probar el software que se está desarrollando localmente por https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] potenciales,
+Junto a estas tareas de documentación, simliar al desarollo de software Open Source, debe ser fácil y sencillo el correr y probar el software que se está desarrollando localmente por https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_] potenciales,
 para que pueden empezar a implementar y validar sus contribuciones con el menor esfuerzo posible.
 
 Hay dos modelos comúnes para hacer contribuciones: _repositorio compartido_ y _fork and join_.
 Ambos tienen ventajas, como Trusted Committer,
-lo que quieres es apoyar ambos modelos para acomodar las diferentes necesidades de los https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] potenciales y actuales.
+lo que quieres es apoyar ambos modelos para acomodar las diferentes necesidades de los https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_] potenciales y actuales.
 Tus Contribuidores van a tener preguntas acerca del proceso de contribución o acerca de la misma comunidad,
 y alguien tiene que ser capaz de resolver estas preguntas.
 Por esto es importante, para cualquier comunidad InnerSource, tener una o más personas que esten disponibles para responder estas preguntas.
 Alguien del grupo de Trusted Committers suele ser la persona a contactar,
 de lo contrario necesitan asegurarse de que haya un miembro de la comunidad "disponible".
 
-Es importante el ayudar a https://innersourcecommons.org/learn/learning-path/contributor/01[_Contribuidores_] potenciales a determinar qué contribuciones se necesitan.
+Es importante el ayudar a https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_] potenciales a determinar qué contribuciones se necesitan.
 Eston pueden ser contribuciones de código al igual que no-código, como escribir documentación, crear imágenes, u organizar eventos.
 Una forma común de hacer esto es etiquetar "tareas para recién llegados" en el gestor de tareas que utiliza la comunidad,
 o implementar en mercado de tareas pendientes que los Contribuidores puedan utilizar.

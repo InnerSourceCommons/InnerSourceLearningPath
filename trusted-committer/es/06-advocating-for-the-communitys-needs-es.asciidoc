@@ -17,7 +17,7 @@ actúan como abogados por los interes de la comunidad y la salud a largo plazo d
 Ellos son responsables de comunicar riesgos técnicos y de la comunidad a jefatura.
 Al mismo tiempo los Trusted Committers necesitan ser estratégicos y trabajar dentro de los grados de libertad concedidos por la compañia.
 
-Los Trusted Committers también deben asegurarse que la comunidad y los https://innersourcecommons.org/learn/learning-path/contributor/01[Contribuidores] individuales reciban el reconocimiento público de su trabajo.
+Los Trusted Committers también deben asegurarse que la comunidad y los https://innersourcecommons.org/learn/learning-path/contributor[Contribuidores] individuales reciban el reconocimiento público de su trabajo.
 El reconocimiento público es la moneda con la que se les paga a los contribuidores, especialmente aquellos que contribuyen de manera voluntaria.
 Es una buena práctica el elogiar públicamente contribuidores valiosos y que sus gerentes sepan de sus contribuciones.
 Descuidar el dar reconocimiento puede ser frustante para los contribuidores individuales y pueden ser perjudicial para la salud de la comunidad.
@@ -26,10 +26,10 @@ o cuando un software que está siendo desarrollado por la comunidad InnerSource 
 Un buen Trusted Committer está comprometido con la jefatura y abogará por el reconocimiento público.
 El fallar al otorgar reconocimiento no suele ser por mala fé y es fácil de arreglar.
 
-Otro caso común para llamar a los Trusted Committers a abogar es cuando los https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] no se les da el tiempo o permiso de contribuir.
+Otro caso común para llamar a los Trusted Committers a abogar es cuando los https://innersourcecommons.org/learn/learning-path/contributor[contribuidores] no se les da el tiempo o permiso de contribuir.
 Esto pueden pasar cuando una comunidad está trabajando en un producto fuera del departamento del contribuidor
 y por ende no es relevante para las metas del gerente.
 En este caso, el Trusted Committer debe comprometerse en la discución con el gerente del contribuidor y abogar por una decisión alternativa.
 
-En resumen, Hay muchas situaciones donde los Trusted Committers necesitan abogar por los intereses de https://innersourcecommons.org/learn/learning-path/contributor/01[contribuidores] individuales y por la comunidad en general.
+En resumen, Hay muchas situaciones donde los Trusted Committers necesitan abogar por los intereses de https://innersourcecommons.org/learn/learning-path/contributor[contribuidores] individuales y por la comunidad en general.
 Los Trusted Committers entienden que el valor que una comunidad puede proporcionar a la empresa depende de la salud y longevidad de esta y fundamentalmente en un relación de confianza entre ambas.
