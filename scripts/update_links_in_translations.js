@@ -1,17 +1,10 @@
 const fs = require('fs')
-const YAML = require('yaml')
 const { join } = require('path')
-
-const target = process.argv[2]
-
-const urlsFile = fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf8')
-const urls = YAML.parse(urlsFile).map(({ video, article }) => [video, article]).flat()
 
 const getArticleFiles = (path, translation) => {
   return fs.readdirSync(path, { withFileTypes: true }).map((dirent) => {
     const filePath = join(path, dirent.name)
     if (dirent.isDirectory()) {
-      console.log(JSON.stringify(dirent))
       return getArticleFiles(filePath, dirent.name)
     } else {
       return {
@@ -24,36 +17,32 @@ const getArticleFiles = (path, translation) => {
 }
 const articleFiles = [getArticleFiles(join('..', 'introduction')), getArticleFiles(join('..', 'product-owner')), getArticleFiles(join('..', 'trusted-committer')), getArticleFiles(join('..', 'contributor'))].flat()
 
+const articleTranslationExists = (section, translation, segment) => {
+  const searchTerm = join('..', section, translation, segment)
+  return !!articleFiles.find(file => file.filePath.startsWith(searchTerm))
+}
+
 articleFiles.forEach(({ asciiDoc, filePath, translation }) => {
-  const match = [...asciiDoc.matchAll(/https:\/\/innersourcecommons\.org\/([\w\-]+\/)?learn\/learning-path\/([\w\-]+)(\/[\w\-]+)/gm)]
-  if (match.length > 0) {
-    console.log(filePath)
-    match.forEach(match => console.log(JSON.stringify(match)))
-    console.log('************************************\n\n')
-  } else {
-    console.log('no match')
-  }
-})
+  if (!translation) return
 
-const substituted = articleFiles.map((articleFile) => {
-  let asciiDoc = articleFile.asciiDoc
+  const matches = [...asciiDoc.matchAll(/https:\/\/innersourcecommons\.org\/([\w\-]+\/)?learn\/learning-path\/([\w\-]+)(\/[\w\-]+)/gm)]
+  matches.forEach((match) => {
+    const url = match[0]
+    const linkedTranslation = match[1] ? match[1].replace('/', '') : ''
+    const section = match[2]
+    const segment = match[3]
 
-  urls.forEach((urlObj) => {
-    const targetUrl = urlObj[target]
-    if (targetUrl) {
-      Object.keys(urlObj).forEach((platform) => {
-        const url = urlObj[platform]
-        if (url && platform !== target) {
-          asciiDoc = asciiDoc.split(url).join(targetUrl)
-        }
-      })
+    // Link to translation if exists
+    if (translation !== linkedTranslation && articleTranslationExists(section, translation, segment)) {
+      asciiDoc.replace(url, `https://innersourcecommons.org/${translation}/learn/learning-path/${section}/${segment}`)
     }
+
+    // Link to default if does not exist
+    if (translation === linkedTranslation && !articleTranslationExists(section, translation, segment)) {
+      console.log(url + ' does not exist')
+      asciiDoc.replace(url, `https://innersourcecommons.org/learn/learning-path/${section}/${segment}`)
+    }
+
   })
-
-  return {
-    filePath: articleFile.filePath,
-    asciiDoc
-  }
+  // fs.writeFileSync(filePath, asciiDoc)
 })
-
-// substituted.forEach(substitutedArticle => console.log(substitutedArticle.filePath))
