@@ -34,15 +34,14 @@ articleFiles.forEach(({ asciiDoc, filePath, translation }) => {
 
     // Link to translation if exists
     if (translation !== linkedTranslation && articleTranslationExists(section, translation, segment)) {
-      asciiDoc.replace(url, `https://innersourcecommons.org/${translation}/learn/learning-path/${section}/${segment}`)
+      asciiDoc = asciiDoc.replace(url, `https://innersourcecommons.org/${translation}/learn/learning-path/${section}/${segment}`)
     }
 
     // Link to default if does not exist
     if (translation === linkedTranslation && !articleTranslationExists(section, translation, segment)) {
-      console.log(url + ' does not exist')
-      asciiDoc.replace(url, `https://innersourcecommons.org/learn/learning-path/${section}/${segment}`)
+      asciiDoc = asciiDoc.replace(url, `https://innersourcecommons.org/learn/learning-path/${section}/${segment}`)
     }
 
   })
-  // fs.writeFileSync(filePath, asciiDoc)
+  fs.writeFileSync(filePath, asciiDoc)
 })
