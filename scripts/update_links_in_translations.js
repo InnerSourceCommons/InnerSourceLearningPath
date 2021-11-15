@@ -25,13 +25,11 @@ const getArticleFiles = (path, translation) => {
 const articleFiles = [getArticleFiles(join('..', 'introduction')), getArticleFiles(join('..', 'product-owner')), getArticleFiles(join('..', 'trusted-committer')), getArticleFiles(join('..', 'contributor'))].flat()
 
 articleFiles.forEach(({ asciiDoc, filePath, translation }) => {
-  const match = asciiDoc.matchAll(/https:\/\/innersourcecommons\.org\/(\w*\/)?learn\/learning-path\/(\w+)(\/\w*)/gm)
-  if (match) {
-    console.log('************************************\n\n\n\n\n\n\n\n\n')
+  const match = [...asciiDoc.matchAll(/https:\/\/innersourcecommons\.org\/([\w\-]+\/)?learn\/learning-path\/([\w\-]+)(\/[\w\-]+)/gm)]
+  if (match.length > 0) {
     console.log(filePath)
-    console.log('************************************\n\n\n\n\n\n\n\n\n')
-
-    console.log(match)
+    match.forEach(match => console.log(JSON.stringify(match)))
+    console.log('************************************\n\n')
   } else {
     console.log('no match')
   }
