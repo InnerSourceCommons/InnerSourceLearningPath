@@ -22,7 +22,7 @@ Esto es, en nuestra opinión, la responsabilidad mas noble de un Trusted Committ
 y es gratificante para el Trusted Committer y el contribuidor.
 Hemos oido que los Trusted Committers dicen que tutelar y ver personas mejorar sus habilidades hace mucho mas que compensar el hecho de que ellos mismos tienen menos tiempo para escribir software.
 
-Como mencionamos en la https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[sección anterior],
+Como mencionamos en la https://innersourcecommons.org/es/learn/learning-path/trusted-committer/03/[sección anterior],
 aprender y crecer personalmente son razones por las que la gente permance en comunidades InnerSource.
 Subir de nivel a sus https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_] es una de las herramientas más poderosas que los Trusted Committers tienen en sus manos,
 para incrementar la velocidad, producción y longevidad de sus comunidades.

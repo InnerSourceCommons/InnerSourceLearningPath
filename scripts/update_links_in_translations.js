@@ -25,7 +25,7 @@ const articleTranslationExists = (section, translation, segment) => {
 articleFiles.forEach(({ asciiDoc, filePath, translation }) => {
   if (!translation) return
 
-  const matches = [...asciiDoc.matchAll(/https:\/\/innersourcecommons\.org\/([\w\-]+\/)?learn\/learning-path\/([\w\-]+)(\/[\w\-]+)/gm)]
+  const matches = [...asciiDoc.matchAll(/https:\/\/innersourcecommons\.org\/([\w\-]+\/)?learn\/learning-path\/([\w\-]+)\/([\w\-]+)/gm)]
   matches.forEach((match) => {
     const url = match[0]
     const linkedTranslation = match[1] ? match[1].replace('/', '') : ''

@@ -57,11 +57,11 @@ kurzen Blick auf die Verantwortlichkeiten eines _Trusted Committers_ werfen.
 
 _Trusted Committers_ haben verschiedene Verantwortlichkeiten, unter anderem:
 
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[Ensuring product quality]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[Keeping the community healthy]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Reducing the barriers to making contributions]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[Upleveling the community]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[Advocating the community's needs]
+* https://innersourcecommons.org/de/learn/learning-path/trusted-committer/02/[Ensuring product quality]
+* https://innersourcecommons.org/de/learn/learning-path/trusted-committer/03/[Keeping the community healthy]
+* https://innersourcecommons.org/de/learn/learning-path/trusted-committer/05/[Reducing the barriers to making contributions]
+* https://innersourcecommons.org/de/learn/learning-path/trusted-committer/04/[Upleveling the community]
+* https://innersourcecommons.org/de/learn/learning-path/trusted-committer/06/[Advocating the community's needs]
 
-Wir werden diese Verantwortlichkeiten in den folgenden Kapiteln weiter vertiefen, bitte schau Dir dazu auch das Kapitel https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[07 becoming a Trusted Committer] am Ende an.
+Wir werden diese Verantwortlichkeiten in den folgenden Kapiteln weiter vertiefen, bitte schau Dir dazu auch das Kapitel https://innersourcecommons.org/de/learn/learning-path/trusted-committer/07/[07 becoming a Trusted Committer] am Ende an.
 [role="pagenumrestart"]
