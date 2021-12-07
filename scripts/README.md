@@ -15,6 +15,16 @@ For example, to point all links to innersourcecommons.org:
 node substitute_article_urls.js isc
 ```
 
+## updates_links_in_translations.js
+
+A node script to ensure article links point at the relevant translation if it exists, or default (English) if not.
+
+### Usage:
+```
+npm ci
+node updates_links_in_translations.js
+```
+
 ## generate_learning_path_markdown.js
 
 Node script to generate markdown files required for hosting Learning Path on innersourcecommons.org.

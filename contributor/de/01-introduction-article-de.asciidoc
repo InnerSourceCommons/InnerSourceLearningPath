@@ -21,8 +21,8 @@ https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Co
 Manchmal übernimmt eine Person mehrere Rollen, z. B. die des Trusted Committer und des Product Owner speziell in kleineren Projekten.
 
 Im Folgenden findest Du einen sehr kurzen Überblick über die anderen Rollen, aber wir möchten Dich ermutigen, die weiterführenden Artikel 
-https://innersourcecommons.org/learn/learning-path/trusted-committer/01/[introductory article of the Trusted Committer role] und https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Lowering the barriers to entry] zu lesen, bevor Du Dich tiefer in die Details der Contributor Rolle in diesem Abschnitt einarbeitest.
-Alternativ kannst Du Dir auch unsere Videos zu den Themen anschauen: https://innersourcecommons.org/learn/learning-path/trusted-committer/01/[introduction], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[lowering the barriers to entry].
+https://innersourcecommons.org/de/learn/learning-path/trusted-committer/01/[introductory article of the Trusted Committer role] und https://innersourcecommons.org/de/learn/learning-path/trusted-committer/05/[Lowering the barriers to entry] zu lesen, bevor Du Dich tiefer in die Details der Contributor Rolle in diesem Abschnitt einarbeitest.
+Alternativ kannst Du Dir auch unsere Videos zu den Themen anschauen: https://innersourcecommons.org/de/learn/learning-path/trusted-committer/01/[introduction], https://innersourcecommons.org/de/learn/learning-path/trusted-committer/05/[lowering the barriers to entry].
 
 ==== Trusted Committer
 

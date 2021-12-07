@@ -19,8 +19,8 @@ Por último, algunos colaboradores pueden convertirse en https://innersourcecomm
 Como Colaborador en una comunidad de InnerSource, interactuará con otras personas que desempeñan otros roles de InnerSource, como https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] o https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] y posiblemente con otros colaboradores.
 A veces, estos roles pueden ser desempeñados por la misma persona, como Trusted Committer y Product Owner en pequeños proyectos.
 
-Esta sección le brinda una muy breve descripción general de los otros dos roles, pero nos gustaría animarle a que lea el https://innersourcecommons.org/learn/learning-path/trusted-committer[artículo de introducción al rol de Trusted Committer], y le recomendamos que lea también el artículo https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Bajando las barreras de entrada] antes de profundizar en los detalles del rol de Colaborador en esta sección.
-También puede ver los videos (https://innersourcecommons.org/learn/learning-path/trusted-committer[introducción], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[bajando las barreras de entrada]) en lugar de leer los artículos.
+Esta sección le brinda una muy breve descripción general de los otros dos roles, pero nos gustaría animarle a que lea el https://innersourcecommons.org/learn/learning-path/trusted-committer[artículo de introducción al rol de Trusted Committer], y le recomendamos que lea también el artículo https://innersourcecommons.org/es/learn/learning-path/trusted-committer/05/[Bajando las barreras de entrada] antes de profundizar en los detalles del rol de Colaborador en esta sección.
+También puede ver los videos (https://innersourcecommons.org/learn/learning-path/trusted-committer[introducción], https://innersourcecommons.org/es/learn/learning-path/trusted-committer/05/[bajando las barreras de entrada]) en lugar de leer los artículos.
 
 ==== Trusted Committer
 

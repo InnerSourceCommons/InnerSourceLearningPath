@@ -15,7 +15,7 @@ Letztendlich sind die _Trusted Committers_ dafür verantwortlich, https://inners
 Dies ist unserer Meinung nach die edelste Aufgabe eines _Trusted Committers_, und diese Aufgabe lohnt sich sowohl für den _Trusted Committer_ als auch für den _Contributor_.
 _Trusted Committer_ berichten, dass Mentoring und zu sehen, wie Menschen lernen und zur Community beitragen, mehr als genug Ersatz dafür ist, dass die _Trusted Committer_ weniger Zeit haben, selbst Software zu schreiben.
 
-Wie in https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[previous section] erwähnt, sind Lernen und persönliches Wachstum wesentliche Gründe für Menschen, einer InnerSoure Community beizutreten und dabei zu bleiben. 
+Wie in https://innersourcecommons.org/de/learn/learning-path/trusted-committer/03/[previous section] erwähnt, sind Lernen und persönliches Wachstum wesentliche Gründe für Menschen, einer InnerSoure Community beizutreten und dabei zu bleiben. 
 Die Weiterbildung ihrer https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] ist eines der stärksten Werkzeuge, welches _Trusted Committer_ zur Verfügung haben, um die Geschwindigkeit, den Output und die Langlebigkeit ihrer Communitiy zu erhöhen.
 Es ist auch eines der Hauptargumente, um das Management eines Unternehmens davon zu überzeugen, ihren Mitarbeitern zu erlauben an einer _InnerSource Community_ teilzunehmen, da dies ihre Mitarbeiter für das Unternehmen wertvoller macht und dem Unternehmen hilft, seine Top-Talente zu halten.
 

@@ -1,3 +1,5 @@
+// TODO: Update to work with translations; may require changing the urls.yaml
+
 const fs = require('fs')
 const YAML = require('yaml')
 const { join } = require('path')

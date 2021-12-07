@@ -64,10 +64,10 @@ vamos a hechar un vistazo rápido a las responsabilidades de un Trusted Committe
 
 === Responsabilidades
 
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[Asegurar la calidad del producto]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[Mantener una comunidad sana]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Reducir las barreras para hacer contribuciones]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[Subir de nível a la comunidad]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[Abogar por las necesidades de la comunidad]
+* https://innersourcecommons.org/es/learn/learning-path/trusted-committer/02/[Asegurar la calidad del producto]
+* https://innersourcecommons.org/es/learn/learning-path/trusted-committer/03/[Mantener una comunidad sana]
+* https://innersourcecommons.org/es/learn/learning-path/trusted-committer/05/[Reducir las barreras para hacer contribuciones]
+* https://innersourcecommons.org/es/learn/learning-path/trusted-committer/04/[Subir de nível a la comunidad]
+* https://innersourcecommons.org/es/learn/learning-path/trusted-committer/06/[Abogar por las necesidades de la comunidad]
 
-Vamos a ver estas responsabilidades más a fondo en las siguientes páginas, y también vamos a explorar el camino de https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[llegar a ser un Trusted Committer] al final de este artículo.
+Vamos a ver estas responsabilidades más a fondo en las siguientes páginas, y también vamos a explorar el camino de https://innersourcecommons.org/es/learn/learning-path/trusted-committer/07/[llegar a ser un Trusted Committer] al final de este artículo.

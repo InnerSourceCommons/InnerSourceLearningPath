@@ -43,7 +43,7 @@ Nosotros creemos que los Trusted Committers deben priorizar la inducción y tute
 a menos que haya una buena razón para ello.
 Una buena tutela durante las pull requests lleva a un nível más alto de confianza y compromiso para los https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_],
 que a cambio conduce, a más contribuciones.
-Vamos a discutir esto con mayor profundidad en https://innersourcecommons.org/learn/learning-path/trusted-committer/04/["Subiendo de nível a la comunidad"].
+Vamos a discutir esto con mayor profundidad en https://innersourcecommons.org/es/learn/learning-path/trusted-committer/04/["Subiendo de nível a la comunidad"].
 
 Finalmente, algunas personas permanecen en comunidades InnerSource porque
 tienen la oportunidad de concentrarse en desarrollar software en lugar de actividades consideradas gastos generales o desperdicio,
@@ -62,7 +62,7 @@ adaptar y mejorar estos como comunidad lo más posible.
 Para que los Trusted Committers sean capaces de cumplir estas responsabilidades,
 es importante que se comuniquen de manera regular con los miembros de la comunidad y
 que mantengan un oido en la tierra.
-Vamos a entrar en más detalle de esto en la sección https://innersourcecommons.org/learn/learning-path/trusted-committer/06/["Abogar por las necesidades de la comunidad"].
+Vamos a entrar en más detalle de esto en la sección https://innersourcecommons.org/es/learn/learning-path/trusted-committer/06/["Abogar por las necesidades de la comunidad"].
 
 En resumen, los Trusted Committers deben pocurar el crear un entorno acogedor y apreciativo para sus https://innersourcecommons.org/learn/learning-path/contributor[_Contribuidores_]
 y que les permita concentrarse en escribir software y en crecer personalmente
