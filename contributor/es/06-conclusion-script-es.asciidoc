@@ -32,4 +32,4 @@ Siéntete libre de unirte al debate y compartir tus experiencias y lecciones apr
 
 \-> Capa para mostrar link. innersourcecomms.org/invite ¿Capa especial personalizable que podríamos mapear al invitador de Slack o algún otro lado o podríamos dejar el dominio en blanco?
 
-J: Larga vida y que tengan proyectos prósperos.
+J: Larga vida y que tengas proyectos prósperos.
