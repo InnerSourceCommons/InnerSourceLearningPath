@@ -24,7 +24,7 @@ J: Esperamos que haya disfrutado viendo los videos y leyendo los artículos. Esp
 I: Si aún no lo has hecho, nos gustaría invitarte a aprender más sobre los otros aspectos de InnerSource en nuestra ruta de aprendizaje de InnerSource:
 http://innersourcecommons.org/learningpath/
 
-\-> Capa para mostrar link
+\-> Mostrar enlace superpuesto
 
 ¡Se bienvenido a visitar adicionalmente el grupo de InnerSource 
 http://innersourcecommons.org [InnerSource Commons] en línea!
