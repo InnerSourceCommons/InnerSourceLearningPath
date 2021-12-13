@@ -11,7 +11,7 @@ Este segmento recapitula que hemos aprendido acerca de ser un contribuidor Inner
 === Guión
 
 J: Gracias por ver el segmento de Contribuidor de la ruta de aprendizaje de InnerSource Commons. Con esta sección aprendiste sobre el rol de contribuidor – La sangre vital de los proyectos de InnerSource:
-Externo a los propietarios de los integrantes del equipo, ellos dan una valiosa entrada al proyecto.
+Ajeno al equipo de los propietarios de un componente, éste aportan valor adicional al proyecto.
 
 I: Usted ha aprendido a cómo convertirse en un colaborador buscando oportunidades para contribuir, así mismo  como la mentalidad y los hábitos necesarios para encontrar o crear tales oportunidades.
 También discutimos la ética del rol y sugerimos algún comportamiento que probablemente le conduzca a contribuciones exitosas.
