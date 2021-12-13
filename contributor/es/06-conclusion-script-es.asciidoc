@@ -28,7 +28,7 @@ http://innersourcecommons.org/learningpath/
 
 ¡Sea bienvenido a visitar adicionalmente el grupo de InnerSource 
 http://innersourcecommons.org [InnerSource Commons] en línea!
-Siéntase con la libertad de unirse a la discusión y compartir sus experiencias y lecciones aprendidas.
+Siéntete libre de unirte al debate y compartir tus experiencias y lecciones aprendidas.
 
 \-> Capa para mostrar link. innersourcecomms.org/invite ¿Capa especial personalizable que podríamos mapear al invitador de Slack o algún otro lado o podríamos dejar el dominio en blanco?
 
