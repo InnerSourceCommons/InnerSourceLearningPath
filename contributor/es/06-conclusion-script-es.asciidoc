@@ -8,7 +8,7 @@
 
 Este segmento recapitula que hemos aprendido acerca de ser un contribuidor InnerSource. Compartiremos como puedes continuar tu aprendizaje sobre InnerSource en línea, tanto con otros videos como involucrandote en la comunidad de InnerSource.
 
-=== Transcripción
+=== Guión
 
 J: Gracias por ver el segmento de contribuidor de la ruta de aprendizaje de InnerSource Commons. Con esta sección aprendiste sobre el rol de contribuidor – La sangre vital de los proyectos de InnerSource:
 Externo a los propietarios de los integrantes del equipo, ellos dan una valiosa entrada al proyecto.
