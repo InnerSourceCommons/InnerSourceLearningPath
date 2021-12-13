@@ -21,7 +21,7 @@ J: Dada la mentalidad correcta, los hábitos y la ética aún hay algunos detall
 I: Por último, pero no menos importante, el convencer a tus compañeros de equipo y a su organización a varios niveles puede ser difícil, por lo que hemos discutido los beneficios de la contribución desde varias perspectivas para hacerlo más fácil para ti.
 J: Esperamos que haya disfrutado viendo los videos y leyendo los artículos. Esperamos que pueda obtener algunas ideas nuevas e interesantes para su viaje hacia InnerSource y ser un buen Contribuidor.
 
-I: Si aún no lo ha hecho, nos gustaría invitarlo a aprender más sobre los otros aspectos de InnerSource en nuestra ruta de aprendizaje de InnerSource:
+I: Si aún no lo has hecho, nos gustaría invitarte a aprender más sobre los otros aspectos de InnerSource en nuestra ruta de aprendizaje de InnerSource:
 http://innersourcecommons.org/learningpath/
 
 \-> Capa para mostrar link
