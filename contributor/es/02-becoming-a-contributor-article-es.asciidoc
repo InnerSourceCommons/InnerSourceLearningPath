@@ -12,7 +12,7 @@ Hay un proverbio africano que dice: "Si quieres ir rápido, ve solo. Si quieres 
 
 Si quieres ir rápido, es una gran idea romper las dependencias. La desventaja de esto puede ser la duplicación de esfuerzos. En particular, al reimplementar la lógica central, existe un riesgo muy real de que el coste de la duplicación supere el beneficio de la independencia.
 
-Colaborar con otros equipos permite compartir los costes de desarrollo. Al igual que en los proyectos de código abierto, puede permitir a tu equipo construir algo más grande de lo que podrías haber logrado tú solo.
+Colaborar con otros equipos permite compartir los costes de desarrollo. Al igual que en los proyectos de código abierto, puede permitir a tu equipo crear algo más grande de lo que podrías haber logrado tú solo.
 
 Pero cada equipo tiene una hoja de ruta diferente. Ya he intentado utilizar componentes compartidos, pero siempre me llevó más tiempo integrarlos que lo que me hubiera llevado reimplementarlos. Esos componentes siempre carecían de algún aspecto, y mis peticiones de características nunca tenían prioridad en la hoja de ruta del otro equipo.
 
