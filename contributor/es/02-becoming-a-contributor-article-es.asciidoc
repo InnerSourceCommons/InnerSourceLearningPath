@@ -16,7 +16,7 @@ Colaborar con otros equipos permite compartir los costes de desarrollo. Al igual
 
 Pero cada equipo tiene una hoja de ruta diferente. Ya he intentado utilizar componentes compartidos, pero siempre me llevó más tiempo integrarlos que lo que me hubiera llevado reimplementarlos. Esos componentes siempre carecían de algún aspecto u otro, y mis peticiones de características nunca tenían prioridad en la hoja de ruta del otro equipo.
 
-En contraste con un proyecto tradicional, los proyectos InnerSource vienen con un papel de colaborador. Sí, habrá momentos en los que desearás que la solución compartida tenga una nueva característica. Como Colaborador, tienes la libertad de revisar el código fuente del componente, hacer modificaciones en él y utilizar la versión mejorada resultante.
+En contraste con un proyecto tradicional, los proyectos InnerSource vienen con un rol de colaborador. Sí, habrá momentos en los que desearás que la solución compartida tenga una nueva característica. Como Colaborador, tienes la libertad de revisar el código fuente del componente, hacer modificaciones en él y utilizar la versión mejorada resultante.
 
 Sí, habrá ocasiones en las que necesites urgentemente la corrección de un error en tu línea de tiempo que no tiene la misma prioridad en el equipo anfitrión. Convertirte en Colaborador te permite actuar por tí mismo y apoyar al equipo anfitrión en la corrección de ese fallo.
 
