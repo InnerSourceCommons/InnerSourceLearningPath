@@ -4,7 +4,7 @@ Los contribuidores de InnerSource operan fuera de los límites habituales de los
 
 === Compartir la mentalidad
 
-Así que estás implementando una nueva función para el producto de tu equipo. Necesitas algunas funcionalidades para que funcione. En vez de lanzarte ciégamente a la implementación, frena un poco: ¿Esta funcionalidad aborda un problema general? ¿Es algo a lo que también se enfrentan otros equipos de tu organización debido a un dominio empresarial compartido? ¿Es esta funcionalidad ortogonal al dominio de su proyecto? Si algo de esto aplica, empieza a buscar más allá de tu propio equipo: ¿Hay alguna solución compartida que puedas utilizar o mejorar para adaptarla a tus necesidades? ¿Debería haberla?
+Así que estás implementando una nueva función para el producto de tu equipo. Necesitas algunas funcionalidades para que funcione. En vez de lanzarte ciégamente a la implementación, frena un poco: ¿Esta funcionalidad aborda un problema general? ¿Es algo a lo que también se enfrentan otros equipos de tu organización debido a un dominio empresarial compartido? ¿Es esta funcionalidad ortogonal al dominio de tu proyecto? Si algo de esto aplica, empieza a buscar más allá de tu propio equipo: ¿Hay alguna solución compartida que puedas utilizar o mejorar para adaptarla a tus necesidades? ¿Debería haberla?
 
 === Beneficios de compartir soluciones
 
