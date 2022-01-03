@@ -1,0 +1,158 @@
+== Mecánica de la contribución
+
+¿Está preparado para empezar a contribuir a los proyectos/repositorios de otros equipos?
+¿Desea reducir sus bloqueos no por medio de la gestión sino por medio de la colaboración?
+En esta sección se ofrecen consejos prácticos y se destacan los puntos que hay que recordar al realizar una contribución en InnerSource. Permite que usted y el equipo anfitrión tengan una experiencia lo más agradable posible, sentando las bases para más contribuciones y una gran colaboración.
+
+Este artículo se divide en los tres pasos que probablemente experimentará
+
+* <<preparación-para-el-trabajo, solicitando su oportunidad de contribución y preparándose para trabajar en ella>>
+* <<crear-el-pull-request, crear realmente la contribución>>
+* <<enviar-el-pull-request, pulir y envolver bien el regalo y presentarlo al equipo anfitrión>>
+
+Si tu contribución es más grande, posiblemente pasarás por (algunos) de estos pasos repetidamente mientras iteras hacia tu objetivo común.
+Es muy probable que, a medida que lo hagas, todo te resulte cada vez más natural; incluso puede que te preguntes por qué hacías otra cosa antes.
+
+=== Preparación para el trabajo
+
+==== Tiempos de entrega
+
+Una diferencia clave es el tiempo de entrega.
+Con cada contribución por primera vez, usted llega a un nuevo equipo (anfitrión).
+En consecuencia, tendrás que conocer su base de código, las tecnologías utilizadas y también su entorno de desarrollo preferido (piensa en el marco de pruebas, el sistema de compilación).
+Incluso en los casos en los que este tipo de herramientas están estandarizadas, cada equipo habrá desarrollado algunas peculiaridades individuales.
+Además de la parte técnica, puedes encontrarte con diferencias en la comunicación (piensa en las revisiones de código).
+Incluso si vuelves después de un tiempo, las formas y los miembros de los equipos pueden haber cambiado.
+Tómate tu tiempo como lo harías para ponerte al día con un amigo al que hace tiempo que no ves y al que ahora visitas.
+
+Date el tiempo suficiente.
+Empieza con la suficiente antelación para que tu trabajo esté disponible para que lo aproveches en el momento que lo necesites.
+Es mejor añadir más tiempo de holgura al principio: ya te harás una idea de los plazos de entrega una vez que trabajes con el equipo anfitrión.
+A menudo, notará una reducción en el tiempo de entrega por equipo anfitrión después de hacer algunas contribuciones exitosas a ese equipo anfitrión.
+Este efecto puede observarse también en el código abierto, puede leer más sobre ello <<construcción de confianza a través de la colaboración, aquí>>.
+
+==== Gestión de las expectativas
+
+En los equipos clásicos, todo el mundo tenía una idea de los plazos de entrega previstos.
+En el contexto de InnerSource puede que no sea así, ya sea por las grandes diferencias horarias (por ejemplo, Seattle, EE.UU., con PDT, frente a Berlín, Alemania, con CEST) o porque no estés disponible a tiempo completo como con tu equipo original, aunque estén en la misma ubicación física que tú.
+Por lo tanto, para evitar la frustración de ambas partes, la impaciencia y otros efectos que no fomentan la confianza, tendrás que gestionar explícitamente las expectativas con respecto a tus tiempos de reacción previstos.
+Un enfoque es reaccionar rápidamente con un "lo miraré, aunque no lo haré en los próximos días" a un comentario de https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] si sabes que sólo podrás volver a ellos en unos días.
+Lo ideal es que les proporciones una estimación aproximada de cuándo tendrás tiempo de echar un vistazo a su aportación.
+Hacerlo así genera confianza por la fiabilidad, incluso a través de un contacto no físico, a larga distancia o por otros medios asíncronos.
+La confianza establecida te permitirá superar los baches de incertidumbre en el camino de la colaboración que tienes por delante.
+
+==== Construir la confianza
+
+InnerSource da mucha importancia a la comunicación escrita, sobre todo cuando se trata de decisiones sobre proyectos.
+¿Significa esto que la comunicación en persona está prohibida?
+
+Está claro que no: mientras que la comunicación escrita brilla por su capacidad de archivo y búsqueda, la comunicación en persona brilla por su ancho de banda.
+Intente sacar tiempo para reunirse con las personas que están detrás de los nombres. Si es posible, intente reunirse con ellos mientras toma su bebida favorita o come algo.
+Cuando puedas escuchar a la gente hablar, cuando conozcas su idiosincrasia, la colaboración a distancia será más fácil.
+
+==== Evitar el rechazo
+
+¿Tienes una gran función que quieres aportar?
+Excelente.
+¿No sería horrible que todo tu trabajo se desperdiciara?
+Eso puede ocurrir cuando el equipo anfitrión ya está construyendo algo muy similar, tiene previsto dejar de utilizar el software o no ve que lo que propones encaje en su proyecto.
+Este problema es frecuente, y muchas relaciones de equipo se han visto afectadas por no acordar de antemano que una contribución es adecuada.
+
+Hazte feliz a ti mismo y al equipo anfitrión (y posiblemente ahorra algo de trabajo) obteniendo el acuerdo del equipo anfitrión sobre el diseño técnico/de usuario de la contribución _antes_ de trabajar en los cambios y enviar un pull request.
+Tendrás que entender cómo quiere el equipo anfitrión que llegues a esto.
+Lo mejor es que preguntes a un https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] sobre la mejor manera de discutir tu propuesta.
+
+En el ámbito del código abierto se ha demostrado una y otra vez que, si puedes elegir cómo discutir tu propuesta, deberías intentar elegir una forma escrita.
+Lo ideal es que elijas la forma en que los artefactos son públicos, se pueden buscar y se pueden enlazar de forma permanente para permitir que se haga referencia a tu propuesta en discusiones posteriores sobre esta futura contribución u otras contribuciones por venir - por ti o por otros.
+
+Este tipo de acuerdo inicial de alto nivel le ahorrará tiempo en la reelaboración o el rechazo de su solicitud de extracción en el futuro.
+
+=== Crear el pull request
+
+==== Comunicación y desbloqueo
+
+Estupendo, te has familiarizado con el enfoque del equipo anfitrión, y están deseando recibir tu pull request.
+¿Qué gotchas te esperan ahora?
+
+En primer lugar, estarás en contacto menos directo con ellos.  En segundo lugar, no se espera que estés tan bien informado y seas tan competente como en los proyectos a tiempo completo que posee tu equipo.
+¿Cómo puedes lidiar ahora con esto de la mejor manera posible?
+
+Intenta examinar su documentación, los archivos de conversaciones y los artefactos de código del equipo anfitrión para desbloquearte.
+Esta situación es similar a la que usted y probablemente la mayoría de la gente se encuentra cuando utiliza uno de los proyectos populares de OSS.
+
+Al igual que en los proyectos de código abierto, pregunta al equipo anfitrión si las cosas no van a ninguna parte incluso después de intentar desbloquearte.
+Las preguntas que hagas y las respuestas que recibas ayudarán a otros que vengan después a resolver los mismos problemas.
+Asegúrate de que tu comunicación acabe en un archivo consultable que esté estrechamente vinculado al propio proyecto.
+Si ves oportunidades de mejora fáciles para alcanzar dicho objetivo si aún no se ha alcanzado, puedes intentar -muy educadamente- sugerir una mejora a tu equipo anfitrión.
+A veces el statu quo surge por pura casualidad y se mantiene así porque nadie tuvo una idea diferente o se preocupó lo suficiente.
+Las sugerencias de mejora pueden ser bienvenidas en estos casos.
+No hace ningún bien a ninguna de las partes que le des vueltas a un problema que podría resolverse en una conversación de unos minutos con alguien más informado sobre el proyecto.
+Está bien pedir ayuda.
+
+Sin embargo, hay una diferencia clave, que supone una ventaja para ti y para otras personas en el futuro:
+En casi todos los casos deberías preferir los canales de comunicación oficiales del proyecto, que pueden ser una lista de correo, una sala de chat, un gestor de incidencias o algo similar, dependiendo del propósito de tener una forma más sincrónica o asincrónica de interactuar, o de las distintas necesidades de estructuración de la comunicación.
+Todos ellos suelen tener en común que se basan en el texto, se archivan, se pueden buscar y vienen con enlaces estables: esto significa que tu pregunta y la respuesta quedarán escritas, y las referencias que enlaces en esas respuestas también se mantendrán accesibles.
+De este modo, podrá beneficiarse de estos conocimientos documentados de forma pasiva en su búsqueda Y ayudar a los futuros colaboradores a tener la misma ventaja.
+Esta documentación pasiva podría incluso servir para enriquecer la documentación "oficial", en caso de que contenga joyas especialmente valiosas, como definiciones importantes que se crearon ad hoc.
+
+Mientras trabajas, si encuentras documentación faltante (o desactualizada), hazle un favor al siguiente Colaborador y actualízala con lo que has descubierto.
+Los equipos de proyecto suelen estar encantados de recibir adiciones, actualizaciones o correcciones para su documentación existente: ¡acabas de encontrar otra oportunidad para contribuir!
+(O simplemente proporciónales amablemente un comentario sobre tu experiencia, y lo que te habría ayudado).
+
+==== Elaboración del código
+
+Todos tenemos nuestras preferencias y opiniones sobre el estilo del código, la sangría, etc.
+El proyecto del equipo anfitrión también las tiene.
+Trata de adaptarte y de coincidir con esas preferencias, incluso si no es lo que harías normalmente, e incluso si no está especificado en el proyecto https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_].
+Si no está seguro, siempre puede preguntar amablemente. No obstante, una contribución de invitado para una característica o una corrección de errores no es el momento de introducir una nueva forma de estructurar o formatear el código del proyecto.
+
+=== Enviar el pull request
+
+Has completado todo el trabajo esencial, has descubierto todas las peculiaridades del problema y del proyecto al que estás contribuyendo, se acerca el momento en el que has planeado que se utilice la nueva característica y quieres asegurarte de que tu contribución se fusione de la forma más rápida y fluida posible.
+
+Esto es lo que puedes hacer para que la revisión y la fusión sean lo más fácil posible para el https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] y el equipo anfitrión.
+Esto podría ser bastante similar a lo que ya está haciendo en su propio proyecto para conseguir que sus cambios sean aceptados. Si ese es el caso - genial, ¡esto va a ser natural para ti!
+
+==== Pruebas y automatización
+
+El punto básico aquí es permitir que el https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] valide la contribución sin tu presencia y asegurar una fácil mantenibilidad.
+Imagina que has construido una característica o el manejo de una rareza irresoluble, o un importante ajuste de rendimiento, y tu código no es del todo obvio (o incluso podría parecer hacky / incorrecto a primera vista).
+Si has cubierto esto con una prueba - e idealmente has arrojado algunas palabras sobre la razón de ser de la misma en un comentario - un futuro editor conseguirá recordar el propósito del código, y la(s) prueba(s) asegurará(n) que el valor que tu código realiza se mantendrá, incluso en las nuevas implementaciones.
+Para conseguirlo, haz lo siguiente:
+
+* Añade pruebas para tu contribución de código, para que la validación de la función de tu contribución por parte de otros funcione bien, incluso después de algún tiempo, cuando trabajes en otros proyectos o puedas haber dejado de contribuir a este proyecto.
+ ** A menudo, los proyectos tendrán comprobaciones automatizadas de las solicitudes de extracción utilizando esas pruebas y el nivel de cobertura del código. Intenta cumplir con los criterios que estas pruebas imponen.
+* Muchos proyectos proporcionarán scripts de construcción y validación del proyecto que le permiten probar localmente sus cambios.
+ ** Utilízalos para asegurarte de que tu contribución funciona lo mejor posible antes de abrir un pull request.
+ ** Tener que revisar solicitudes de extracción defectuosas con errores fáciles de arreglar a menudo molesta a los Trusted Committer. No arreglarán tu código pero te pedirán que lo hagas. Esto podría crear más viajes de ida y vuelta y ralentizar la fusión.
+ ** Sin embargo, nadie es perfecto. Haz lo mejor que puedas, utiliza scripts de validación preparados si los hay, y da lo mejor de ti con un pull request.
+ ** Si tu pull request sigue rompiendo pruebas, y no puedes averiguar por qué después de dar lo mejor de ti: intenta resaltar esas pruebas en el comentario del pull request, ilustra tu comprensión actual del problema y pide ayuda al respecto.
+* No te olvides de tu propio proyecto, que fue el que desencadenó tu contribución en primer lugar. Crea una compilación modificada del proyecto compartido con tus cambios y pruébala en tu propio proyecto que la consume.
+
+==== Documentación y revisabilidad
+
+Debes asegurarte de que tu pull request incluya cualquier actualización de la documentación que sea relevante para tus cambios.
+Si la documentación se encuentra en un lugar diferente, asegúrate de añadirla allí y enlazarla en tu pull request.
+
+Para que la revisión del código sea lo más fácil posible para el Trusted Committer u otras personas que lo revisen, intenta seguir estos consejos:
+
+* Asegúrate de que tu pull request incluye sólo los cambios relevantes para el problema que estás completando.
+* Intenta evitar commits supergrandes, commits con mensajes de commit poco claros, gazillones de archivos, cambios incoherentes (por ejemplo, que toquen varios temas).
+* Proporcione una descripción clara de lo que esta solicitud de extracción cambia, por qué lo hace, y a qué tema y documentos de diseño (si los hubiera) se refiere.
+* Si hay algo poco común o inesperado en el pull request, resáltalo y proporciona la explicación. Esto facilitará el razonamiento y la resolución de posibles preguntas de bloqueo que un revisor pueda tener durante la revisión.
+ ** Lo mismo ocurre con el escenario en el que no estabas seguro de la implementación o de tu enfoque: resáltalo y pide una explicación.
+ ** Sea civilizado y espere civismo de la revisión de https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_].
+* Hacer pull requests demasiado amplios y grandes los hace más difíciles de revisar, por lo que tardarán mucho más en ser aceptados.
+ ** Si usted tiene una característica más grande que está contribuyendo, a menudo ayuda a dividirla en múltiples solicitudes de extracción que se envían, revisan y aceptan secuencialmente.
+Usted todavía puede unirse a ellos con una cuestión que se refiere.
+  *** Algunas herramientas también tienen la funcionalidad de solicitud de extracción de borrador / WIP que puede utilizar para marcar explícitamente el trabajo inacabado y no pulido y aún así obtener retroalimentación temprana de su equipo anfitrión https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[_Trusted Committer_].
+  *** Esto le permite asegurarse de que va por un camino que su equipo anfitrión está feliz de fusionar una vez que está hecho, adhiriéndose a la idea de "liberar temprano, liberar a menudo" en cierto modo.
+  *** La responsabilidad del equipo anfitrión es crear una atmósfera en la que compartir y discutir el trabajo no totalmente pulido sea posible y bienvenido. Si no se puede fallar, no se puede innovar, y la colaboración se hace muy difícil.
+  *** Intenta equilibrar entre pedir una revisión antes de tiempo y proporcionar cambios significativos para la revisión.
+
+=== Artículos adicionales
+
+Algunos de estos recursos pueden estar ocultos tras muros de pago.
+A veces, tu empleador tiene una suscripción que permite el acceso, si no, las bibliotecas universitarias públicas suelen permitir el acceso a los invitados también.
+
+==== https://doi.org/10.1109/MS.2013.95[Creación de confianza a través de la colaboración]
