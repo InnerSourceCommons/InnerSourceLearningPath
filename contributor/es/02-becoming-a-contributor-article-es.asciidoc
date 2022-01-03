@@ -1,0 +1,38 @@
+== Convertirse en contribuidor de InnerSource
+
+Los contribuidores de InnerSource operan fuera de los límites habituales de los equipos, son los enlaces que cruzan los silos organizativos. Como tales, deben conocer algunas prácticas comunes que hacen que este trabajo sea más eficaz.
+
+=== Compartir la mentalidad
+
+Así que estás implementando una nueva función para el producto de tu equipo. Necesitas algunas funcionalidades para que funcione. En vez de lanzarte ciégamente a la implementación, frena un poco: ¿Esta funcionalidad aborda un problema general? ¿Es algo a lo que también se enfrentan otros equipos de tu organización debido a un dominio empresarial compartido? ¿Es esta funcionalidad ortogonal al dominio de tu proyecto? Si algo de esto aplica, empieza a buscar más allá de tu propio equipo: ¿Hay alguna solución compartida que puedas utilizar o mejorar para adaptarla a tus necesidades? ¿Debería haberla?
+
+=== Beneficios de compartir soluciones
+
+Hay un proverbio africano que dice: "Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado". Lo mismo ocurre con los equipos de desarrollo de software:
+
+Si quieres ir rápido, es una gran idea romper las dependencias. La desventaja de esto puede ser la duplicación de esfuerzos. En particular, al reimplementar la lógica central, existe un riesgo muy real de que el coste de la duplicación supere el beneficio de la independencia.
+
+Colaborar con otros equipos permite compartir los costes de desarrollo. Al igual que en los proyectos de código abierto, puede permitir a tu equipo crear algo más grande de lo que podrías haber logrado tú solo.
+
+Pero cada equipo tiene una hoja de ruta diferente. Ya he intentado utilizar componentes compartidos, pero siempre me llevó más tiempo integrarlos que lo que me hubiera llevado reimplementarlos. Esos componentes siempre carecían de algún aspecto u otro, y mis peticiones de características nunca tenían prioridad en la hoja de ruta del otro equipo.
+
+En contraste con un proyecto tradicional, los proyectos InnerSource vienen con un rol de colaborador. Sí, habrá momentos en los que desearás que la solución compartida tenga una nueva característica. Como Colaborador, tienes la libertad de revisar el código fuente del componente, hacer modificaciones en él y utilizar la versión mejorada resultante.
+
+Sí, habrá ocasiones en las que necesites urgentemente la corrección de un error en tu línea de tiempo que no tiene la misma prioridad en el equipo anfitrión. Convertirte en Colaborador te permite actuar por tí mismo y apoyar al equipo anfitrión en la corrección de ese fallo.
+
+Esta forma de trabajar requiere un cambio de mentalidad para muchos: en lugar de esperar a que se implementen las características o se arreglen los errores, en lugar de trabajar alrededor de los problemas, ahora hay una tercera vía. Dedica tu tiempo y energía a comprobar con el proyecto InnerSource cuáles son tus necesidades, y luego realiza el cambio directamente en el proyecto compartido. Así que, además de tus habilidades de codificación, necesitas habilidades de comunicación para tener éxito en un proyecto InnerSource - para articular claramente tus necesidades y llegar a una solución que funcione tanto para tu equipo como para el equipo anfitrión.
+
+"Pero podría simplemente ir y bifurcar el proyecto, hacer mis cambios allí y ahorrarme toda esta sobrecarga de coordinación". Claro, bifurcar el proyecto es una forma de hacer tu trabajo. Pero, a largo plazo, esto significa que tienes que mantener esa versión bifurcada para tu equipo, y llevar tus cambios a cualquier nueva versión que haga el equipo anfitrión. Contribuir con tus cambios al equipo anfitrión también significa que te beneficias de su profundo conocimiento del componente. Pueden detectar problemas en tu parche que, de otro modo, sólo serían obvios en producción.
+
+Un buen colaborador puede decidir cómodamente cuándo tiene sentido, tanto desde el punto de vista técnico como empresarial, introducir una dependencia y reutilizar un componente en lugar de duplicar el trabajo. Pueden hablar con la dirección para explicar los beneficios de las contribuciones de InnerSource.
+
+=== Alcance de las contribuciones de InnerSource
+
+¿Así que Inner__Source__ es sólo sobre __Código__ Fuente? Por supuesto que no. Si el negocio de tu equipo depende de un componente externo, quieres asegurarte de que está bien mantenido y funciona bien. Como colaborador de InnerSource, puedes ayudar al equipo anfitrión de varias maneras. Informar de los problemas que ve al utilizar el componente es una valiosa contribución. Crear o arreglar casos de prueba que muestren que el código no funciona como se espera es valioso. También lo es mejorar la documentación, para que otros pasen menos tiempo usándola y contribuyendo a ella. Dar soporte a otros usuarios o ayudar con la clasificación y priorización de errores puede ser una contribución valiosa. Mejorar las compilaciones es otro ejemplo de contribución valiosa.
+
+En resumen, ninguna contribución es demasiado pequeña. He aquí una que hice
+a https://github.com/tensorflow/models/pull/4784[tensorflow/models]. Un simple cambio de etiqueta en un gráfico.
+
+=== Resumen de este artículo
+
+En este artículo has aprendido lo que se necesita para convertirse en un colaborador. Hemos visto la mentalidad de compartir. Hemos profundizado en los beneficios de compartir soluciones. Por último, hemos echado un vistazo a lo que suele ser el alcance de las contribuciones de InnerSource.
