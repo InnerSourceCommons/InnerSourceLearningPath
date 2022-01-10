@@ -1,4 +1,4 @@
-== Cuáles son los beneficios de InnerSource?
+== ¿Cuáles son los beneficios de InnerSource?
 
 Muchos son los beneficios de la colaboración a través de InnerSource.
 InnerSource proporciona a la compañía una estrategia que _escala_ para *aquellos equipos que necesitan tener un nuevo requisito a tiempo* sin el problema de tener que mantenerlo en el tiempo.
