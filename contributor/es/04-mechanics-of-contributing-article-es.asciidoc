@@ -6,7 +6,7 @@ En esta sección se ofrecen consejos prácticos y se destacan los puntos que hay
 
 Este artículo se divide en los tres pasos que probablemente experimentará
 
-* <<preparación-para-el-trabajo, solicitando su oportunidad de contribución y preparándose para trabajar en ella>>
+* <<preparación-para-el-trabajo, solicitar tu oportunidad de contribución y prepararte para trabajar en ella>>
 * <<crear-el-pull-request, crear realmente la contribución>>
 * <<enviar-el-pull-request, pulir y envolver bien el regalo y presentarlo al equipo anfitrión>>
 
