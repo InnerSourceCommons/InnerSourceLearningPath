@@ -145,7 +145,7 @@ Para que la revisión del código sea lo más fácil posible para el Trusted Com
 * Hacer pull requests demasiado amplios y grandes los hace más difíciles de revisar, por lo que tardarán mucho más en ser aceptados.
  ** Si usted tiene una característica más grande que está contribuyendo, a menudo ayuda a dividirla en múltiples solicitudes de extracción que se envían, revisan y aceptan secuencialmente.
 Usted todavía puede unirse a ellos con una cuestión que se refiere.
-  *** Algunas herramientas también tienen la funcionalidad de solicitud de extracción de borrador / WIP que puede utilizar para marcar explícitamente el trabajo inacabado y no pulido y aún así obtener retroalimentación temprana de su equipo anfitrión https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[_Trusted Committer_].
+  *** Algunas herramientas también tienen la funcionalidad de marcar el pull request como borrador / WIP que puedes utilizar para explícitar el trabajo inacabado y no pulido y aún así obtener retroalimentación temprana del https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[_Trusted Committer_] de tu equipo anfitrión.
   *** Esto le permite asegurarse de que va por un camino que su equipo anfitrión está feliz de fusionar una vez que está hecho, adhiriéndose a la idea de "liberar temprano, liberar a menudo" en cierto modo.
   *** La responsabilidad del equipo anfitrión es crear una atmósfera en la que compartir y discutir el trabajo no totalmente pulido sea posible y bienvenido. Si no se puede fallar, no se puede innovar, y la colaboración se hace muy difícil.
   *** Intenta equilibrar entre pedir una revisión antes de tiempo y proporcionar cambios significativos para la revisión.
