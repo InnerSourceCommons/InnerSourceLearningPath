@@ -1,0 +1,15 @@
+== FAQ
+
+To conclude the Introduction segment of the Learning Path, here are some Frequently Asked Questions people have when embarking on their InnerSource journey.
+
+=== What is the cost/overhead?
+
+=== Why not just open source?
+
+=== Will this slow us down?
+
+=== Will we just be reviewing PRs all day every day?
+
+=== How do we convince management this is a good idea?
+
+=== How do we convince engineers this is a good idea?
