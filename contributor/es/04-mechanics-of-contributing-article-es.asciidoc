@@ -1,7 +1,7 @@
 == Mecánica de la contribución
 
 ¿Estás preparado para empezar a contribuir a los proyectos/repositorios de otros equipos?
-¿Desea reducir sus bloqueos no por medio de la gestión sino por medio de la colaboración?
+¿Quieres reducir tus bloqueos colaborando en vez de gestionar?
 En esta sección se ofrecen consejos prácticos y se destacan los puntos que hay que recordar al realizar una contribución en InnerSource. Permite que usted y el equipo anfitrión tengan una experiencia lo más agradable posible, sentando las bases para más contribuciones y una gran colaboración.
 
 Este artículo se divide en los tres pasos que probablemente experimentará
