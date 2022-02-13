@@ -146,7 +146,7 @@ Para que la revisión del código sea lo más fácil posible para el Trusted Com
  ** Si estás contribuyendo una característica grande, a menudo ayuda dividirla en múltiples pull requests que se envían, revisan y aceptan secuencialmente.
 Puedes unificarlas refiriendo al mismo ticket.
   *** Algunas herramientas también tienen la funcionalidad de marcar el pull request como borrador / WIP que puedes utilizar para explícitar el trabajo inacabado y no pulido y aún así obtener retroalimentación temprana del https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[_Trusted Committer_] de tu equipo anfitrión.
-  *** Esto le permite asegurarse de que va por un camino que su equipo anfitrión está feliz de fusionar una vez que está hecho, adhiriéndose a la idea de "liberar temprano, liberar a menudo" en cierto modo.
+  *** Esto te permite asegurarte de que vas por un camino que tu equipo anfitrión estará feliz de fusionar una vez que esté hecho, adhiriéndote en cierto modo a la idea de "liberar temprano, liberar a menudo".
   *** La responsabilidad del equipo anfitrión es crear una atmósfera en la que compartir y discutir el trabajo no totalmente pulido sea posible y bienvenido. Si no se puede fallar, no se puede innovar, y la colaboración se hace muy difícil.
   *** Intenta equilibrar entre pedir una revisión antes de tiempo y proporcionar cambios significativos para la revisión.
 
