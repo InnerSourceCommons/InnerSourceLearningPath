@@ -137,7 +137,7 @@ Si la documentación se encuentra en un lugar diferente, asegúrate de añadirla
 Para que la revisión del código sea lo más fácil posible para el Trusted Committer u otras personas que lo revisen, intenta seguir estos consejos:
 
 * Asegúrate de que tu pull request incluye sólo los cambios relevantes para el problema que estás completando.
-* Intenta evitar commits supergrandes, commits con mensajes de commit poco claros, gazillones de archivos, cambios incoherentes (por ejemplo, que toquen varios temas).
+* Intenta evitar commits supergrandes, commits con mensajes de commit poco claros, un gran número de archivos, cambios incoherentes (por ejemplo, que toquen varios temas).
 * Proporcione una descripción clara de lo que esta solicitud de extracción cambia, por qué lo hace, y a qué tema y documentos de diseño (si los hubiera) se refiere.
 * Si hay algo poco común o inesperado en el pull request, resáltalo y proporciona la explicación. Esto facilitará el razonamiento y la resolución de posibles preguntas de bloqueo que un revisor pueda tener durante la revisión.
  ** Lo mismo ocurre con el escenario en el que no estabas seguro de la implementación o de tu enfoque: resáltalo y pide una explicación.
