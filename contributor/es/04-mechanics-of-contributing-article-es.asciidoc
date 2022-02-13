@@ -108,9 +108,9 @@ Si no está seguro, siempre puede preguntar amablemente. No obstante, una contri
 
 === Enviar el pull request
 
-Has completado todo el trabajo esencial, has descubierto todas las peculiaridades del problema y del proyecto al que estás contribuyendo, se acerca el momento en el que has planeado que se utilice la nueva característica y quieres asegurarte de que tu contribución se fusione de la forma más rápida y fluida posible.
+Has completado todo el trabajo esencial, has descubierto todas las peculiaridades del problema y del proyecto al que estás contribuyendo, se acerca el momento en el que has planeado que se utilice la nueva característica y quieres asegurarte de que tu contribución se integre de la forma más rápida y fluida posible.
 
-Esto es lo que puedes hacer para que la revisión y la fusión sean lo más fácil posible para el https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] y el equipo anfitrión.
+Esto es lo que puedes hacer para que la revisión y la integración sean lo más fácil posible para el https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] y el equipo anfitrión.
 Esto podría ser bastante similar a lo que ya está haciendo en su propio proyecto para conseguir que sus cambios sean aceptados. Si ese es el caso - genial, ¡esto va a ser natural para ti!
 
 ==== Pruebas y automatización
