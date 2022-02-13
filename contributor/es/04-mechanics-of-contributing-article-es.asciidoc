@@ -134,7 +134,7 @@ Para conseguirlo, haz lo siguiente:
 Debes asegurarte de que tu pull request incluya cualquier actualización de la documentación que sea relevante para tus cambios.
 Si la documentación se encuentra en un lugar diferente, asegúrate de añadirla allí y enlazarla en tu pull request.
 
-Para que la revisión del código sea lo más fácil posible para el Trusted Committer u otras personas que lo revisen, intenta seguir estos consejos:
+Para que la revisión del código sea lo más fácil posible para el https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] u otras personas que lo revisen, intenta seguir estos consejos:
 
 * Asegúrate de que tu pull request incluye sólo los cambios relevantes para el problema que estás completando.
 * Intenta evitar commits supergrandes, commits con mensajes de commit poco claros, un gran número de archivos, cambios incoherentes (por ejemplo, que toquen varios temas).
