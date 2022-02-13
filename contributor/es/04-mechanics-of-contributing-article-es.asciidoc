@@ -10,7 +10,7 @@ Este artículo se divide en los tres pasos que probablemente experimentarás
 * <<crear-el-pull-request, crear realmente la contribución>>
 * <<enviar-el-pull-request, pulir y envolver bien el regalo y presentarlo al equipo anfitrión>>
 
-Si tu contribución es más grande, posiblemente pasarás por (algunos) de estos pasos repetidamente mientras iteras hacia tu objetivo común.
+Si tu contribución es más grande, posiblemente pasarás por (algunos) de estos pasos repetidamente mientras iteras hacia el objetivo común.
 Es muy probable que, a medida que lo hagas, todo te resulte cada vez más natural; incluso puede que te preguntes por qué hacías otra cosa antes.
 
 === Preparación para el trabajo
