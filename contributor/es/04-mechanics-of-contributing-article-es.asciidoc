@@ -29,7 +29,7 @@ Date el tiempo suficiente.
 Empieza con la suficiente antelación para que tu trabajo esté disponible para que lo aproveches en el momento que lo necesites.
 Es mejor añadir más tiempo de holgura al principio: ya te harás una idea de los plazos de entrega una vez que trabajes con el equipo anfitrión.
 A menudo, notará una reducción en el tiempo de entrega por equipo anfitrión después de hacer algunas contribuciones exitosas a ese equipo anfitrión.
-Este efecto puede observarse también en el código abierto, puede leer más sobre ello <<construcción de confianza a través de la colaboración, aquí>>.
+Este efecto puede observarse también en el código abierto, puede leer más sobre ello <<Creación de confianza a través de la colaboración, aquí>>.
 
 ==== Gestión de las expectativas
 
