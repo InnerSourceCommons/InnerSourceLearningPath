@@ -65,7 +65,7 @@ Lo mejor es que preguntes a un https://innersourcecommons.org/learn/learning-pat
 En el ámbito del código abierto se ha demostrado una y otra vez que, si puedes elegir cómo discutir tu propuesta, deberías intentar elegir una forma escrita.
 Lo ideal es que elijas la forma en que los artefactos son públicos, se pueden buscar y se pueden enlazar de forma permanente para permitir que se haga referencia a tu propuesta en discusiones posteriores sobre esta futura contribución u otras contribuciones por venir - por ti o por otros.
 
-Este tipo de acuerdo inicial de alto nivel le ahorrará tiempo en la reelaboración o el rechazo de su solicitud de extracción en el futuro.
+Este tipo de acuerdo inicial de alto nivel te ahorrará tiempo en retrabajos o rechazos de pull request en el futuro.
 
 === Crear el pull request
 
