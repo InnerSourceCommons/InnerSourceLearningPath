@@ -91,22 +91,14 @@ Once the agenda is complete the meeting is over.
 
 The _Scribe_ ensures that meeting notes are taken and sends them out.
 
-**Day Before Meeting**
-
-* [ ] Reserve time on tomorrow's calendar to transcribe and clean up everyone's writing into the **Notes** section of the agenda document.
-This time should be scheduled as close as possible after the end of the meeting.
-
 **During Meeting**
 
 * [ ] Note the first names of each meeting attendee.
-* [ ] At the beginning, encourage everyone to type in key points and assignments directly into the document or into a raw notes section at the bottom of the document. 
-* [ ] Watch closely what is being typed to ensure that all key points and assignments make it in.
-Make note to yourself of any missed information.
+* [ ] Record a simple, short summary of each discussion in the **Key Points** section.
+* [ ] Record all assignments in the **Assignments** section.
 
-**Within 24 Hours of Meeting**
+**After Meeting**
 
-* [ ] Clean up everyone's **Notes** of the notes. Use the raw notes section plus your own notes to provide a cohesive set of key points and assignments of the meeting. Do not alter or remove the raw notes. 
-* [ ] These polished notes should be in the **Notes** section of the agenda document.
 * [ ] Announce in the [#learning-path] channel that the notes are in the agenda document.
 In your announcement include a sharing link to the document itself.
 * [ ] Email the notes to everyone on the meeting invite.
@@ -115,7 +107,8 @@ This email should include (in order):
   * Link to the agenda document where the notes are located.
   * Chatham House Rule disclaimer.
   * Copy/pasted notes from the agenda document.
-  * REMOVE the raw section for the email only.
+
+See this [sample email].
 
 ### Tips
 
