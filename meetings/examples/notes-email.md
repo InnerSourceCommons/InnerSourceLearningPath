@@ -21,7 +21,7 @@ Accordingly, **please do not distribute these notes beyond the members of the In
 
 **Attendees**: Flo, Joe, Moe, Bo, Zoe
 
-**Salient Points**
+**Key Points**
 
 * Lorem ipsum dolor sit amet.
 * Consectetur adipiscing elit.
