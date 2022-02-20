@@ -2,7 +2,9 @@
 
 To conclude the Introduction segment of the Learning Path, here are some Frequently Asked Questions people have when embarking on their InnerSource journey.
 
-=== What is the cost/overhead?
+=== What is the cost/overhead of maintaining an InnerSource projects?
+
+=== What is the cost/overhead of contributing to an InnerSource projects?
 
 === Why not just open source?
 
