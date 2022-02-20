@@ -13,3 +13,9 @@ To conclude the Introduction segment of the Learning Path, here are some Frequen
 === How do we convince management this is a good idea?
 
 === How do we convince engineers this is a good idea?
+
+=== What are the expectations on part of both host and contributor?
+
+=== How will we maintain control of the project?
+
+=== How do we get people to make contributions?
