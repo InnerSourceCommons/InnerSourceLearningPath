@@ -146,7 +146,7 @@ Um die eigentliche Überprüfung des Codes für den vertrauenswürdigen Committe
  ** Wenn Sie ein größeres Feature beisteuern, hilft es oft, es in mehrere Pull Requests aufzuteilen, die nacheinander eingereicht, geprüft und akzeptiert werden.
 Sie können sie immer noch mit einem Issue zusammenbinden, auf das Sie sich beziehen.
   *** Einige Tools haben auch eine Draft / WIP Pull Request Funktion, die Sie benutzen können, um unfertige und nicht ausgefeilte Arbeit zu markieren und trotzdem frühes Feedback von den https://innersourcecommons.org/de/learn/learning-path/trusted-committer/02/[_Trusted Committers_] Ihres Host-Teams zu bekommen.
-  *** Dies ermöglicht es Ihnen, sicherzustellen, dass Sie einen Weg einschlagen, den Ihr Gastgeberteam gerne zusammenführt, sobald es fertig ist, und hält sich in gewisser Weise an die Idee "release early, release often".
+  *** Dies ermöglicht es Ihnen, sicherzustellen, dass Sie einen Weg einschlagen, den Ihr Gastgeberteam gerne merged, sobald es fertig ist, und hält sich in gewisser Weise an die Idee "release early, release often".
   *** Die Verantwortung des Gastgeberteams ist es, eine Atmosphäre zu schaffen, in der der Austausch und die Diskussion über nicht ganz ausgefeilte Arbeit möglich und willkommen ist. Wenn man nicht sicher sein kann, kann man nicht innovativ sein, und die Zusammenarbeit wird sehr schwierig.
   *** Versuchen Sie, ein Gleichgewicht zu finden zwischen der Bitte um eine frühzeitige Überprüfung und der Bereitstellung sinnvoller Änderungen zur Überprüfung.
 
