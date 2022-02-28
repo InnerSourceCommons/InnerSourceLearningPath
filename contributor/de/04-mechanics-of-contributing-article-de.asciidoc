@@ -1,4 +1,4 @@
-== Mechanik des Beitragens
+== Praktische Details der Contributor Rolle
 
 Sind Sie bereit, einen Beitrag zu Projekten/Repos anderer Teams zu leisten?
 Freuen Sie sich darauf, Ihre Blockaden nicht durch Management-Eskalation, sondern durch Zusammenarbeit abzubauen?
