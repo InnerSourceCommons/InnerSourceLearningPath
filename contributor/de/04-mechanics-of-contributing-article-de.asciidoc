@@ -23,7 +23,7 @@ Daher müssen Sie deren Codebasis, die verwendeten Technologien und auch deren b
 Selbst in Fällen, in denen diese Art von Tooling standardisiert ist, wird jedes Team einige individuelle Eigenheiten entwickelt haben.
 Neben der technischen Seite können Sie auch mit Unterschieden in der Kommunikation konfrontiert werden (z. B. Code-Reviews).
 Selbst wenn Sie nach einiger Zeit wiederkommen, haben sich die Arbeitsweise und die Mitglieder der Teams möglicherweise verändert.
-Nehmen Sie sich die Zeit, die Sie brauchen, um sich mit einem Freund zu treffen, den Sie schon lange nicht mehr gesehen haben und den Sie jetzt besuchen.
+Nehmen Sie sich die Zeit, die Sie brauchen würden, wenn Sie sich mit einem Freund zu treffen würden, den Sie schon lange nicht mehr gesehen haben und den Sie jetzt besuchen.
 
 Geben Sie sich genügend Vorlaufzeit.
 Beginnen Sie früh genug, damit Ihre Arbeit zu dem Zeitpunkt, an dem Sie sie brauchen, zur Verfügung steht.
