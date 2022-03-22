@@ -91,7 +91,7 @@ Está bien pedir ayuda.
 
 Sin embargo, hay una diferencia clave, que supone una ventaja para ti y para otras personas en el futuro:
 En casi todos los casos deberías preferir los canales de comunicación oficiales del proyecto, que pueden ser una lista de correo, una sala de chat, un gestor de incidencias o algo similar, dependiendo del propósito de tener una forma más sincrónica o asincrónica de interactuar, o de las distintas necesidades de estructuración de la comunicación.
-Todos ellos suelen tener en común que se basan en el texto, se archivan, se pueden buscar y vienen con enlaces estables: esto significa que tu pregunta y la respuesta quedarán escritas, y las referencias que enlaces en esas respuestas también se mantendrán accesibles.
+Todos ellos suelen tener en común que se basan en texto, se archivan, se pueden buscar y vienen con enlaces estables: esto significa que tu pregunta y la respuesta quedarán escritas, y las referencias que enlaces en esas respuestas también se mantendrán accesibles.
 De este modo, podrá beneficiarse de estos conocimientos documentados de forma pasiva en su búsqueda Y ayudar a los futuros colaboradores a tener la misma ventaja.
 Esta documentación pasiva podría incluso servir para enriquecer la documentación "oficial", en caso de que contenga joyas especialmente valiosas, como definiciones importantes que se crearon ad hoc.
 
