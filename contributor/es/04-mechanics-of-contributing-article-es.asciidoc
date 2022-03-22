@@ -18,7 +18,7 @@ Es muy probable que, a medida que lo hagas, todo te resulte cada vez más natura
 ==== Tiempos de entrega
 
 Una diferencia clave es el tiempo de entrega.
-Con cada contribución por primera vez, usted llega a un nuevo equipo (anfitrión).
+Con cada primera contribución, llegas a un equipo (anfitrión) nuevo.
 En consecuencia, tendrás que conocer su base de código, las tecnologías utilizadas y también su entorno de desarrollo preferido (piensa en el marco de pruebas, el sistema de compilación).
 Incluso en los casos en los que este tipo de herramientas están estandarizadas, cada equipo habrá desarrollado algunas peculiaridades individuales.
 Además de la parte técnica, puedes encontrarte con diferencias en la comunicación (piensa en las revisiones de código).
