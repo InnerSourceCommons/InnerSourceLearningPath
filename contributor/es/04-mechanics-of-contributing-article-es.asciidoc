@@ -124,7 +124,7 @@ Para conseguirlo, haz lo siguiente:
  ** A menudo, los proyectos tendrán comprobaciones automatizadas de los pull request utilizando esas pruebas y el nivel de cobertura del código. Intenta cumplir con los criterios que estas pruebas imponen.
 * Muchos proyectos proporcionarán scripts de construcción y validación del proyecto que le permiten probar localmente sus cambios.
  ** Utilízalos para asegurarte de que tu contribución funciona lo mejor posible antes de abrir un pull request.
- ** Tener que revisar solicitudes de extracción defectuosas con errores fáciles de arreglar a menudo molesta a los Trusted Committer. No arreglarán tu código pero te pedirán que lo hagas. Esto podría crear más viajes de ida y vuelta y ralentizar la fusión.
+ ** Tener que revisar pull requests defectuosos con errores fáciles de arreglar a menudo molesta a los Trusted Committer. No arreglarán tu código pero te pedirán que lo hagas. Esto podría crear más viajes de ida y vuelta y ralentizar la integración.
  ** Sin embargo, nadie es perfecto. Haz lo mejor que puedas, utiliza scripts de validación preparados si los hay, y da lo mejor de ti con un pull request.
  ** Si tu pull request sigue rompiendo pruebas, y no puedes averiguar por qué después de dar lo mejor de ti: intenta resaltar esas pruebas en el comentario del pull request, ilustra tu comprensión actual del problema y pide ayuda al respecto.
 * No te olvides de tu propio proyecto, que fue el que desencadenó tu contribución en primer lugar. Crea una compilación modificada del proyecto compartido con tus cambios y pruébala en tu propio proyecto que la consume.
