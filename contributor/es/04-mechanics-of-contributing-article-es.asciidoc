@@ -84,7 +84,7 @@ Al igual que en los proyectos de código abierto, pregunta al equipo anfitrión 
 Las preguntas que hagas y las respuestas que recibas ayudarán a otros que vengan después a resolver los mismos problemas.
 Asegúrate de que tu comunicación acabe en un archivo consultable que esté estrechamente vinculado al propio proyecto.
 Si ves oportunidades de mejora fáciles para alcanzar dicho objetivo si aún no se ha alcanzado, puedes intentar -muy educadamente- sugerir una mejora a tu equipo anfitrión.
-A veces el statu quo surge por pura casualidad y se mantiene así porque nadie tuvo una idea diferente o se preocupó lo suficiente.
+A veces el status quo surge por pura casualidad y se mantiene así porque nadie tuvo una idea diferente o se preocupó lo suficiente.
 Las sugerencias de mejora pueden ser bienvenidas en estos casos.
 No hace ningún bien a ninguna de las partes que le des vueltas a un problema que podría resolverse en una conversación de unos minutos con alguien más informado sobre el proyecto.
 Está bien pedir ayuda.
