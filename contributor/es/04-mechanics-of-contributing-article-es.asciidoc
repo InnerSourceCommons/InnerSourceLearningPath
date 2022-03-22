@@ -38,7 +38,7 @@ En el contexto de InnerSource puede que no sea así, ya sea por las grandes dife
 Por lo tanto, para evitar la frustración de ambas partes, la impaciencia y otros efectos que no fomentan la confianza, tendrás que gestionar explícitamente las expectativas con respecto a tus tiempos de reacción previstos.
 Un enfoque es reaccionar rápidamente con un "lo miraré, aunque no lo haré en los próximos días" a un comentario de un https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] si sabes que sólo podrás atenderles dentro de unos días.
 Lo ideal es que les proporciones una estimación aproximada de cuándo tendrás tiempo de echar un vistazo a su aportación.
-Hacerlo así genera confianza por la fiabilidad, incluso a través de un contacto no físico, a larga distancia o por otros medios asíncronos.
+Hacerlo así genera confianza mediante fiabilidad, incluso a través de un contacto no físico, a larga distancia o por otros medios asíncronos.
 La confianza establecida te permitirá superar los baches de incertidumbre en el camino de la colaboración que tienes por delante.
 
 ==== Construir la confianza
