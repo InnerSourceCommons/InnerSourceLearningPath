@@ -116,7 +116,7 @@ Esto podría ser bastante similar a lo que ya está haciendo en su propio proyec
 ==== Pruebas y automatización
 
 El punto básico aquí es permitir que el https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] valide la contribución sin tu presencia y asegurar una fácil mantenibilidad.
-Imagina que has construido una característica o el manejo de una rareza irresoluble, o un importante ajuste de rendimiento, y tu código no es del todo obvio (o incluso podría parecer hacky / incorrecto a primera vista).
+Imagina que has construido una característica o el manejo de una rareza irresoluble, o un importante ajuste de rendimiento, y tu código no es del todo obvio (o incluso podría parecer enrevesado / incorrecto a primera vista).
 Si has cubierto esto con una prueba - e idealmente has arrojado algunas palabras sobre la razón de ser de la misma en un comentario - un futuro editor conseguirá recordar el propósito del código, y la(s) prueba(s) asegurará(n) que el valor que tu código realiza se mantendrá, incluso en las nuevas implementaciones.
 Para conseguirlo, haz lo siguiente:
 
