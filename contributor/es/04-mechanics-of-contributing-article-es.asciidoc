@@ -74,7 +74,7 @@ Este tipo de acuerdo inicial de alto nivel te ahorrará tiempo en retrabajos o r
 Estupendo, te has familiarizado con el enfoque del equipo anfitrión, y están deseando recibir tu pull request.
 ¿Qué gotchas te esperan ahora?
 
-En primer lugar, estarás en contacto menos directo con ellos.  En segundo lugar, no se espera que estés tan bien informado y seas tan competente como en los proyectos a tiempo completo que posee tu equipo.
+En primer lugar, estarás en contacto menos directo con ellos. En segundo lugar, no se espera que estés tan bien informado y seas tan competente como en los proyectos a tiempo completo que posee tu equipo.
 ¿Cómo puedes lidiar ahora con esto de la mejor manera posible?
 
 Intenta examinar su documentación, los archivos de conversaciones y los artefactos de código del equipo anfitrión para desbloquearte.
