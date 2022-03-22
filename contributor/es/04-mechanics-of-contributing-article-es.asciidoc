@@ -78,7 +78,7 @@ En primer lugar, estarás en contacto menos directo con ellos. En segundo lugar,
 ¿Cómo puedes lidiar ahora con esto de la mejor manera posible?
 
 Intenta examinar su documentación, los archivos de conversaciones y los artefactos de código del equipo anfitrión para desbloquearte.
-Esta situación es similar a la que usted y probablemente la mayoría de la gente se encuentra cuando utiliza uno de los proyectos populares de OSS.
+Esta situación es similar a la que probablemente la mayoría de la gente se encuentra cuando utiliza uno de los proyectos populares de OSS.
 
 Al igual que en los proyectos de código abierto, pregunta al equipo anfitrión si las cosas no van a ninguna parte incluso después de intentar desbloquearte.
 Las preguntas que hagas y las respuestas que recibas ayudarán a otros que vengan después a resolver los mismos problemas.
