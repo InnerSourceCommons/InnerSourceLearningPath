@@ -2,7 +2,7 @@
 
 ¿Estás preparado para empezar a contribuir a los proyectos/repositorios de otros equipos?
 ¿Quieres reducir tus bloqueos colaborando en vez de gestionar?
-En esta sección se ofrecen consejos prácticos y se destacan los puntos que hay que recordar al realizar una contribución en InnerSource. Permite que el equipo anfitrión y tú tengais una experiencia lo más agradable posible, sentando las bases para más contribuciones y una gran colaboración.
+En esta sección se ofrecen consejos prácticos y se destacan los puntos que hay que recordar al realizar una contribución en InnerSource. Permite que el equipo anfitrión y tú tengáis una experiencia lo más agradable posible, sentando las bases para más contribuciones y una gran colaboración.
 
 Este artículo se divide en los tres pasos que probablemente experimentarás
 
