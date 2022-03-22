@@ -121,7 +121,7 @@ Si has cubierto esto con una prueba - e idealmente has arrojado algunas palabras
 Para conseguirlo, haz lo siguiente:
 
 * Añade pruebas para tu contribución de código, para que la validación de la función de tu contribución por parte de otros funcione bien, incluso después de algún tiempo, cuando trabajes en otros proyectos o puedas haber dejado de contribuir a este proyecto.
- ** A menudo, los proyectos tendrán comprobaciones automatizadas de las solicitudes de extracción utilizando esas pruebas y el nivel de cobertura del código. Intenta cumplir con los criterios que estas pruebas imponen.
+ ** A menudo, los proyectos tendrán comprobaciones automatizadas de los pull request utilizando esas pruebas y el nivel de cobertura del código. Intenta cumplir con los criterios que estas pruebas imponen.
 * Muchos proyectos proporcionarán scripts de construcción y validación del proyecto que le permiten probar localmente sus cambios.
  ** Utilízalos para asegurarte de que tu contribución funciona lo mejor posible antes de abrir un pull request.
  ** Tener que revisar solicitudes de extracción defectuosas con errores fáciles de arreglar a menudo molesta a los Trusted Committer. No arreglarán tu código pero te pedirán que lo hagas. Esto podría crear más viajes de ida y vuelta y ralentizar la fusión.
