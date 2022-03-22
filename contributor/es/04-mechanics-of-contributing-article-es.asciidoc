@@ -104,7 +104,7 @@ Los equipos de proyecto suelen estar encantados de recibir adiciones, actualizac
 Todos tenemos nuestras preferencias y opiniones sobre el estilo del código, la indentación, etc.
 El proyecto del equipo anfitrión también las tiene.
 Trata de adaptarte y de coincidir con esas preferencias, incluso si no es lo que harías normalmente, e incluso si no está especificado en el proyecto https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_].
-Si no está seguro, siempre puede preguntar amablemente. No obstante, una contribución de invitado para una característica o una corrección de errores no es el momento de introducir una nueva forma de estructurar o formatear el código del proyecto.
+Si no estás seguro, siempre puedes preguntar amablemente. No obstante, una contribución de invitado para una característica o una corrección de errores no es el momento de introducir una nueva forma de estructurar o formatear el código del proyecto.
 
 === Enviar el pull request
 
