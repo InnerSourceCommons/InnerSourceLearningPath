@@ -72,7 +72,7 @@ Este tipo de acuerdo inicial de alto nivel te ahorrará tiempo en retrabajos o r
 ==== Comunicación y desbloqueo
 
 Estupendo, te has familiarizado con el enfoque del equipo anfitrión, y están deseando recibir tu pull request.
-¿Qué gotchas te esperan ahora?
+¿Qué trampas te esperan ahora?
 
 En primer lugar, estarás en contacto menos directo con ellos. En segundo lugar, no se espera que estés tan bien informado y seas tan competente como en los proyectos a tiempo completo que posee tu equipo.
 ¿Cómo puedes lidiar ahora con esto de la mejor manera posible?
