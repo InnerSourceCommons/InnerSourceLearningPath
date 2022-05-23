@@ -1,0 +1,58 @@
+== Beneficios de ser en un colaborador de InnerSource
+
+Los colaboradores son la sangre vital de los proyectos de InnerSource.
+Cada proyecto que se ejecuta como un proyecto InnerSource viene tanto con la promesa y con el objetivo final de expandir su equipo de desarrollo más allá de los fundadores originales, aprovechando el potencial de más colaboradores entre los usuarios (también a veces referido como clientes en las corporaciones) de ese proyecto.
+Sin embargo, ¿qué motivaría a un desarrollador individual a pasar tiempo en un proyecto que no está bajo la dirección de su gerente?
+¿Qué motivaría a un directivo a hacer tiempo para que sus desarrolladores mejoren proyectos que no están al 100% bajo su ámbito?
+
+=== Motivación individual
+
+La motivación más obvia es lo que normalmente atrae a los primeros contribuyentes al código abierto también.
+¿Recuerdas ese error molestoso en el que has estado trabajando durante tanto tiempo?
+¿El tiempo y la energía manteniendo esos métodos alternativos?
+¿Qué pasa si en lugar de esperar a que el equipo de upstream arregle ese problema en algún momento en el futuro, usted podría seguir adelante y arreglarlo usted mismo?
+En esta situación de "rascar su propia picazón" los contribuyentes por primera vez a menudo empiezan arreglando problemas en los proyectos que dependen para su trabajo diario para reducir el número de soluciones temporales en su propia codebase.
+Al decidir si crear y contribuir un arreglo en lugar de mantener su propia solución, piense en el beneficio que la contribución traerá a la calidad de sus propios cambios.
+En vez de trabajar en aislamiento, los que trabajan en el proyecto upstream podrán no solo revisar sino también mejorar su solución.
+Usted recibe apoyo y tutoría que acelera enormemente su propio esfuerzo de desarrollo.
+Pasar más tiempo con otros significa que con el tiempo aprenderá cómo funciona el equipo, cómo se organiza, qué herramientas utiliza para construir su proyecto.
+A menudo tus propios proyectos se beneficiarán de esa experiencia: en lugar de solo leer sobre alguna nueva biblioteca o sistema construido, podrás adquirir experiencia práctica con ella antes de seguir adelante e introducirla en tus propios proyectos.
+Trabajando en más de un proyecto central significa que usted estará expuesto a un ecosistema más grande desde el cual extraer las mejores prácticas y soluciones a los desafíos.
+Un buen efecto secundario de poder gastar algo de tu tiempo en otros equipos es que tu reputación e impacto expandan los límites de tu propio equipo.
+Así que además de aprender de los demás y crecer, se llega a influir en los proyectos.
+Usted influye directamente a través de sus propias contribuciones y compartiendo su experiencia y conocimientos sobre las herramientas de proyecto y la configuración.
+Este compartimiento podría ayudar al proyecto upstream a mejorar y acelerar los ciclos de desarrollo.
+Aparte de todos estos criterios objetivos hay un componente que es muy difícil de medir, pero se ha informado tanto en InnerSource como en proyectos de Código Abierto por igual: las personas participan porque encuentran trabajo en esos proyectos personalmente gratificante y divertido.
+Lo más probable es que el aspecto de estar en una posición en la que realmente se autoseleccionen tareas para trabajar, juega un papel importante.
+Esta autoselección normalmente también lleva a que los proyectos de acogida sean muy acogedores y solidarios en su esfuerzo por mantener motivados a los colaboradores.
+
+=== Motivación del equipo
+
+¿Recuerdas ese molestoso error que finalmente ha sido arreglado upstream?
+¿Por qué su equipo debe gastar un esfuerzo adicional para contribuir con ese arreglo al proyecto upstream?
+Para uno, significa que el coste de mantenimiento y el tiempo es ahora con el proyecto upstream.
+Para cada nueva versión está en ellos en lugar de en su equipo para asegurarse de que funcione con sus modificaciones y requisitos.
+El hecho de que los miembros del equipo trabajen como colaboradores activos en los proyectos que su equipo depende significa que pueden llegar a tener voz en la dirección del proyecto y en las líneas de tiempo, lo que puede ser beneficioso para su equipo.
+Mediante el uso de los equipos de InnerSource puede establecer un camino intermedio entre "ser independiente y construir su propio" (incluyendo cualquier número de nuevos errores que usted posee) y "ahorrar tiempo y dinero confiando en las implementaciones existentes" (a costa de crear dependencias a largo plazo que sólo pueden ser influenciadas de manera limitada).
+Así, el equilibrio entre la reimplementación versus la reutilización se vuelve más fácil
+
+=== Motivación empresarial
+
+Recuerde que la funcionalidad que es específica del dominio de su empresa-pero que se mantiene en múltiples implementaciones en toda la empresa?
+¿Y si hubiera una manera de evitar una docena de implementaciones defectuosa y fusionarlas en un activo compartido?
+¿Qué pasaría si el proceso de desarrollo de este activo compartido se corriera sin la habitual sangría de energía que las dependencias centrales traen a la mesa?
+Muchos de los proyectos de código abierto están siendo utilizados por un gran número de jugadores, algunos de los cuales participan en su diseño y desarrollo.
+Fomentar la colaboración entre equipos en proyectos de InnerSource a nivel corporativo significa que puede impulsar la innovación central desde los bordes de su organización.
+En general, se entiende bien que los proyectos con un bus factor de una o dos personas representan un riesgo para la organización, tanto más cuanto que este proyecto resulta ser fundamental para el propósito del negocio.
+InnerSource ayuda no solo a transparentar dichos proyectos, sino que también proporciona herramientas para mejorar esa situación poniendo el foco en la mentorización y la ampliación de la base de contribuyentes.
+Si bien la colaboración entre equipos hace que la evaluación de las contribuciones individuales sea difícil, también permite el aprendizaje y el intercambio de conocimientos dentro de la organización.
+Como resultado, el impacto de los individuos mejorará.
+Las mejores prácticas y la innovación positiva se propagarán con mayor facilidad en toda la organización.
+Como efecto secundario, el mejoramiento del entorno de trabajo se extenderá más fácilmente a través de la organización, ayudando a retener a los empleados.
+Por el lado tecnológico, tener más ojos con un trasfondo más diverso implica que los cambios de código serán puestos bajo mucho más escrutinio, lo que llevará a una mejor calidad general y seguridad.
+Por último, el enfoque en habilitando a los usuarios del proyecto y a los clientes para participar en el desarrollo proporciona un incentivo muy claro para hacer que estos proyectos sean fáciles de empezar: basados en herramientas estándar, fáciles de entender, fáciles de reutilizar y como resultado más modulares y reemplazables.
+
+=== Conclusión
+
+Como hemos visto en este artículo, muchas de las razones para que individuos y corporaciones se activen en código abierto también se aplican a los proyectos de InnerSource.
+También hemos visto que no sólo son razones altruistas las que impulsan a la gente a colaborar en proyectos de InnerSource-a menudo es fácil identificar razones de negocios para cuando la colaboración como esta tiene mucho sentido.
