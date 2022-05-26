@@ -55,7 +55,7 @@ Wenn Sie die Menschen sprechen hören können und ihre Eigenheiten kennen, wird 
 Haben Sie eine große Funktion, die Sie beisteuern möchten?
 Ausgezeichnet!
 Wäre es nicht furchtbar, wenn Ihre ganze Arbeit umsonst wäre?
-Das kann passieren, wenn das Team des Gastgebers bereits etwas sehr Ähnliches entwickelt, die Software veraltet ist oder das, was Sie vorschlagen, nicht in sein Projekt passt.
+Das kann passieren, wenn das Team des Gastgebers bereits etwas sehr Ähnliches entwickelt, die Software veraltet ist oder das, was Sie vorschlagen, nicht in das Projekt passt.
 Dieses Problem tritt häufig auf, und viele Teambeziehungen haben darunter gelitten, dass man sich nicht im Voraus einig war, dass ein Beitrag gut passt.
 
 Machen Sie sich selbst und das Team des Gastgebers glücklich (und sparen Sie möglicherweise etwas Arbeit), indem Sie die Zustimmung des Teams des Gastgebers zum Benutzer/technischen Design des Beitrags einholen, _bevor_ Sie an den Änderungen arbeiten und einen Pull Request einreichen.
