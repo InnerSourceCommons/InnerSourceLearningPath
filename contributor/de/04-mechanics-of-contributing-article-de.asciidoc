@@ -38,7 +38,7 @@ Im InnerSource-Kontext ist dies möglicherweise nicht der Fall, entweder aufgrun
 Um also Frustration auf beiden Seiten, Ungeduld und andere nicht vertrauensbildende Effekte zu vermeiden, müssen Sie explizit ein Erwartungsmanagement in Bezug auf Ihre erwarteten Reaktionszeiten betreiben.
 Eine Möglichkeit ist es, auf das Feedback eines https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committers_] schnell mit einem "Ich kümmere mich darum, werde aber in den nächsten Tagen nicht dazu kommen" zu reagieren, wenn Sie wissen, dass Sie erst in ein paar Tagen darauf zurückkommen können.
 Idealerweise können Sie ihm eine grobe Schätzung geben, wann Sie wahrscheinlich Zeit haben werden, um sich seinen Beitrag anzusehen.
-Auf diese Weise schaffen Sie Vertrauen durch Verlässlichkeit, selbst bei nicht physischem Kontakt, größeren Entfernungen oder anderen asynchronen Medien.
+Auf diese Weise schaffen Sie Vertrauen durch Verlässlichkeit, selbst bei nicht physischem Kontakt, größerer Entfernung oder anderen asynchronen Medien.
 Auf der Grundlage dieses Vertrauens können Sie Unsicherheiten auf dem vor Ihnen liegenden Weg der Zusammenarbeit überwinden.
 
 ==== Vertrauen aufbauen
