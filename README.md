@@ -16,6 +16,8 @@ Currently, the four sections to the learning path are:
  
 There is also the [workbook](workbook/), a collection of questions and answers on based on the videos and articles for people to check their knowledge against after consuming the material.
 
+New sections and segments may be added at any time via the [contribution] process.
+
 ## Community Collaboration
 
 The InnerSource Learning Path is produced via the [InnerSource Commons] community.
@@ -75,7 +77,7 @@ If you want to hit the ground running then please:
 
 * Take a **look at the the finished segments** (linked at https://innersourcecommons.org/learningpath/).
 * Take a look at our [Kanban board] to see what's in flight.
-* See [CONTRBUTING.md](./CONTRIBUTING.md) for more detail.
+* See [CONTRBUTING.md][contribution] for more detail.
 
 See you there!
 
@@ -92,3 +94,4 @@ Please see LICENSE.txt in this repository for the full text of the license.
 [@lenucksi]: https://github.com/lenucksi
 [@tsadler1988]: https://github.com/tsadler1988
 [@fioddor]: https://github.com/fioddor
+[contribution]: ./CONTRIBUTING.md
