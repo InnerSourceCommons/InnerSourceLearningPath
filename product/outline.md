@@ -32,7 +32,7 @@ InnerSource and contribution negotiation
 - Small vs. large changes - why smaller changes are easier to integrate ad-hoc than large refactorings
 - Best practices for integrating large refactorings
 - Unconventional solutions to priority conflicts
-
+Up-front product and engineering design review.
 
 Options for shared ownership
 
