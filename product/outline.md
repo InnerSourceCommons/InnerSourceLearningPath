@@ -18,7 +18,7 @@ InnerSource and Agile
 
 - Issues InnerSource solves
 - Common mis-understandings
-
+Challenges with InnerSource and agile (these challenges form the basis for the remaining segments in this section).
 
 InnerSource and capacity planning
 
