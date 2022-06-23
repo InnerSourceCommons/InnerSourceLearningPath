@@ -25,7 +25,7 @@ InnerSource and capacity planning
 - Small vs. large changes
 - Planning for mentoring
 - Contributions as long term investments in your upstream InnerSource project
-
+Representing in roadmap.
 
 InnerSource and contribution negotiation
 
