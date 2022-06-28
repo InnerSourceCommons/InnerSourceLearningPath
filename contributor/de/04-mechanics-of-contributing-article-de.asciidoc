@@ -19,7 +19,7 @@ Es ist sehr wahrscheinlich, dass sich dabei alles immer natürlicher anfühlen w
 
 Ein wesentlicher Unterschied ist die Durchlaufzeit.
 Bei jedem erstmaligen Beitrag kommen Sie zu einem neuen (Gast-)Team.
-Daher müssen Sie deren Codebasis, die verwendeten Technologien und auch deren bevorzugte Entwicklungsumgebung (z. B. Test-Framework, Build-System) kennen lernen.
+Daher müssen Sie deren Codebasis, die verwendeten Technologien und auch deren bevorzugte Entwicklungsumgebung (z. B. Test-Framework, Build-System) kennenlernen.
 Selbst in Fällen, in denen diese Art von Tooling standardisiert ist, wird jedes Team einige individuelle Eigenheiten entwickelt haben.
 Neben der technischen Seite können Sie auch mit Unterschieden in der Kommunikation konfrontiert werden (z. B. Code-Reviews).
 Selbst wenn Sie nach einiger Zeit wiederkommen, haben sich die Arbeitsweise und die Mitglieder der Teams möglicherweise verändert.
