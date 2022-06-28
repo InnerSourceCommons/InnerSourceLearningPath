@@ -124,7 +124,7 @@ Um dies zu erreichen, gehen Sie wie folgt vor:
  ** Oft haben Projekte automatische Überprüfungen gegen Pull Requests, die diese Tests und den Grad der Codeabdeckung verwenden. Versuchen Sie die Kriterien, die diese Tests erzwingen, zu erfüllen.
 * Viele Projekte stellen Build- und Validierungsskripte zur Verfügung, mit denen Sie Ihre Änderungen lokal testen können.
  ** Nutzen Sie diese, um sicherzustellen, dass Ihr Beitrag so gut wie möglich funktioniert, bevor Sie einen Pull Request öffnen.
- ** Fehlerhafte Pull-Requests mit leicht zu behebenden Fehlern zu überprüfen, nervt oft vertrauenswürdige Committer. Sie werden Ihren Code nicht korrigieren, sondern Sie darum bitten. Dies kann zu mehr Umläufen führen und die Zusammenführung verlangsamen.
+ ** Fehlerhafte Pull-Requests mit leicht zu behebenden Fehlern zu überprüfen ist eine unnötige Last für Trusted Committer. Sie werden Ihren Code nicht korrigieren, sondern Sie darum bitten das zu tun. Dies kann zu mehr Umläufen führen und die Zeit bis zum Mergen des Pull Requests unnötig in die Länge ziehen.
  ** Niemand ist jedoch perfekt. Tun Sie Ihr Bestes, benutzen Sie vorbereitete Validierungsskripte, wenn es welche gibt, und geben Sie Ihr Bestes mit einem Pull Request!
  ** Wenn Ihr Pull Request immer wieder Tests bricht und Sie nicht herausfinden können, warum, nachdem Sie Ihr Bestes gegeben haben: Versuchen Sie, diese Tests im Kommentar des Pull Requests hervorzuheben, zeigen Sie Ihr aktuelles Verständnis des Problems auf und bitten Sie um Hilfe dabei.
 * Vergessen Sie nicht Ihr eigenes Projekt, das Ihren Beitrag überhaupt erst ausgelöst hat. Erstellen Sie a modifizierte Konstruktion des gemeinsamen Projekts mit Ihren Änderungen und probieren Sie ihn in Ihrem eigenen Projekt aus, das ihn verwendet.
