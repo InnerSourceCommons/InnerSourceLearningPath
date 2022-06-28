@@ -139,7 +139,7 @@ Um die eigentliche Überprüfung des Codes für den vertrauenswürdigen Committe
 * Achten Sie darauf, dass Ihr Pull Request nur die relevanten Änderungen für das zu bearbeitende Problem enthält.
 * Versuchen Sie, übergroße Commits, Commits mit unklaren Commit-Nachrichten, Unmengen von Dateien, zusammenhanglose Änderungen (z.B. mehrere Themen berührend) zu vermeiden.
 * Beschreiben Sie klar und deutlich, was dieser Pull Request ändert, warum er das tut und auf welche Probleme und Design-Dokumente (falls es welche gab) er sich bezieht.
-* Wenn es etwas Ungewöhnliches oder Unerwartetes in dem Pull Request gibt, heben Sie es hervor und geben Sie eine Erklärung. Dies wird es einfacher machen, mögliche blockierende Fragen, die ein Prüfer während der Prüfung haben könnte, zu erörtern und zu lösen.
+* Wenn es etwas Ungewöhnliches oder Unerwartetes in dem Pull Request gibt, heben Sie es hervor und geben Sie eine Erklärung. Dies wird es einfacher machen, mögliche blockierende Fragen, die ein Prüfer während der Prüfung haben könnte, zu erörtern und zu beantworten .
  ** Dasselbe gilt für das Szenario, in dem Sie sich über die Implementierung oder Ihren Ansatz unsicher waren - heben Sie es hervor und bitten Sie um eine zweite Meinung aus dem Gastteam.
  ** Seien Sie höflich und erwarten Sie Höflichkeit von dem https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committer's_] Beurteilung.
 * Wenn Sie Pull Requests zu umfangreich gestalten, wird es schwieriger, sie zu prüfen, so dass es viel länger dauern wird, bis sie akzeptiert werden.
