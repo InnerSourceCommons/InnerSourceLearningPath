@@ -63,7 +63,7 @@ Sie müssen verstehen, wie das Team des Gastgebers möchte, dass Sie dies erreic
 Am besten fragen Sie einen https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committer_], wie Sie Ihren Vorschlag am besten besprechen können.
 
 Eine Weisheit aus dem Open Source Bereich die sich immer wieder als wahr erweist ist, dass wenn Sie wählen können, wie Sie Ihren Vorschlag diskutieren wollen, Sie versuchen sollten, einen schriftlichen Weg zu wählen.
-Idealerweise wählen Sie den Weg, bei dem die Artefakte öffentlich, durchsuchbar und dauerhaft verlinkbar sind, um es zu ermöglichen, in späteren Diskussionen über diesen zukünftigen Beitrag oder andere Beiträge - von Ihnen oder anderen - auf Ihren Vorschlag zu verweisen.
+Idealerweise wählen Sie den Weg, bei dem die Artefakte öffentlich, durchsuchbar und dauerhaft verlinkbar sind, um später auf Ihren Vorschlag verweisen zu können. 
 
 Diese Art von frühzeitiger Einigung auf hohem Niveau spart Zeit bei der Überarbeitung oder Ablehnung Ihres Pull Requests im Nachhinein.
 
