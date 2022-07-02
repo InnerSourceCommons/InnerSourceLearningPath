@@ -7,12 +7,21 @@ To conclude the Introduction segment of the Learning Path, here are some Frequen
 === What is the cost/overhead of contributing to an InnerSource projects?
 
 === Why not just open source?
+By all means do so if the project makes sense! Some projects are specific to your company or are a competitive advantage, so you'll want to keep those as InnerSource. Some need to iterate more quickly than can be done in the open.
+
+If your organisation isn't familiar with running open source projects, InnerSource can help people learn the skills required with a view to open sourcing in the future.
 
 === Will this slow us down?
+It depends on how far you're going. You'll probably be going a lot further than you think.
+![If you want to go fast, go alone. If you want to go far, go together](https://user-images.githubusercontent.com/9609562/151901209-52b3468b-dedd-4319-9ca3-38b6b2bcfaf5.png)
 
 === Will we just be reviewing PRs all day every day?
+If so then your core team is understaffed. A healthy team is staffed so that there is time for assisting contributors and making core contributions yourself.
+
+You can mitigate this by setting expectation, potentialy via SLAs. If contributors expect PR reviews within an hour, maybe you will be stuck reviewing PRs all the time, but if you set an SLA of 1 day or 1 week, this won't be the case.
 
 === How do we convince management this is a good idea?
+Figure out what they want and get a working example of InnerSource, preferably within your organisation, that shows them getting it.
 
 === How do we convince engineers this is a good idea?
 
