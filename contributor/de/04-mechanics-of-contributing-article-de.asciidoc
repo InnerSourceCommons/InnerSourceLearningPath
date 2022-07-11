@@ -90,7 +90,7 @@ Es ist für beide Seiten nicht gut, wenn Sie sich ewig mit einem Problem herumsc
 Es ist in Ordnung, um Hilfe zu bitten.
 
 Es gibt jedoch einen entscheidenden Unterschied, der Ihnen und anderen Personen in der Zukunft Vorteile bringt:
-In fast allen Fällen sollten Sie die offiziellen Kommunikationskanäle des Projekts bevorzugen - das kann eine Mailingliste, ein Chatroom, ein Issue Tracker oder etwas ähnliches sein, je nachdem, ob Sie eine eher synchrone oder asynchrone Art der Interaktion wünschen, oder ob Sie eine Struktur in der Kommunikation brauchen.
+In fast allen Fällen sollten Sie die offiziellen Kommunikationskanäle des Projekts bevorzugen. Das kann eine Mailingliste, ein Chatroom, ein Issue Tracker oder etwas ähnliches sein, je nachdem, ob Sie eine eher synchrone oder asynchrone Art der Interaktion wünschen, oder ob Sie eine Struktur in der Kommunikation brauchen.
 Allen gemeinsam ist, dass sie textbasiert, archiviert, durchsuchbar und mit stabilen Links versehen sind - das bedeutet, dass Ihre Frage und die Antwort aufgeschrieben werden und die Referenzen, die Sie in diesen Antworten vernetzen, ebenfalls erreichbar bleiben.
 Auf diese Weise können Sie bei Ihrer Suche von diesem passiv dokumentierten Wissen profitieren UND künftigen Mitwirkenden helfen, denselben Vorteil zu haben.
 Eine solche passive Dokumentation könnte sogar dazu dienen, die "offizielle" Dokumentation zu bereichern, falls sie besonders wertvolle Schätze enthält - wie z.B. wichtige Definitionen, die ad-hoc erstellt wurden.
