@@ -44,5 +44,11 @@ Also, many engineers value open source; InnerSource embraces open source practic
 Work together! This may be completely async via Pull Requests, or invovle regular community catchups - whatever works for you. Communication and support must go in both directions and be open and collaborative.
 
 === How will we maintain control of the project?
+By setting clear contribution guidelines, and being transparent on the direction of the project. Some Patterns that may help:
+
+* https://patterns.innersourcecommons.org/p/issue-tracker[Issue Tracker Use Cases]
+* https://patterns.innersourcecommons.org/p/base-documentation[Standard Base Documentation]
+* https://patterns.innersourcecommons.org/p/transparent-cross-team-decision-making-using-rfcs[Transparent Cross-Team Decision Making using RFCs]
+
 
 === How do we get people to make contributions?
