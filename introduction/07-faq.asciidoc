@@ -52,3 +52,4 @@ By setting clear contribution guidelines, and being transparent on the direction
 
 
 === How do we get people to make contributions?
+Your team and wider organisation's culture must value collaboration. Focus on the business value - teams are able to unblock themselves where software they use have bugs or are missing required features. Where contributors have no immediate business need, you can [https://patterns.innersourcecommons.org/p/gig-marketplace]advertise you are looking for help.
