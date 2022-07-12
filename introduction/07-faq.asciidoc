@@ -41,10 +41,14 @@ InnerSource gives engineers the opportunity to develop their career, both in ter
 Also, many engineers value open source; InnerSource embraces open source practices, and can be a step towards open source for many projects.
 
 === What are the expectations on part of both host and contributor?
-Work together! This may be completely async via Pull Requests, or invovle regular community catchups - whatever works for you. Communication and support must go in both directions and be open and collaborative.
+Work together! This may be completely async via Pull Requests, or invovle regular community catchups - whatever works for you.
+
+Communication and support must go in both directions and be open and collaborative, fostering a culture of psychological safety. Feedback on contributions, or existing code, must be approached with a growth mindset, and as partnership to make things better.
 
 === How will we maintain control of the project?
-By setting clear contribution guidelines, and being transparent on the direction of the project. Some Patterns that may help:
+Through the Trusted Committer and Product Owner roles you can still ensure that the incoming code is a good fit from both a product and engineering perspective. You do not have to merge code that is not a good fit.
+
+You should also set clear contribution guidelines, and be transparent on the direction of the project. Some Patterns that may help:
 
 * https://patterns.innersourcecommons.org/p/issue-tracker[Issue Tracker Use Cases]
 * https://patterns.innersourcecommons.org/p/base-documentation[Standard Base Documentation]
