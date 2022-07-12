@@ -3,8 +3,15 @@
 To conclude the Introduction segment of the Learning Path, here are some Frequently Asked Questions people have when embarking on their InnerSource journey.
 
 === What is the cost/overhead of maintaining an InnerSource projects?
+It depends! An InnerSource project that encourages small pull requests and has clear contribution guidelines may require very little overhead, with most of the work being code reviews. To learn more about practices that can reduce the overheard of maintaining InnerSource projects, we suggest you look at the https://patterns.innersourcecommons.org/[InnerSource Patterns], especially:
+
+* https://patterns.innersourcecommons.org/p/30-day-warranty[30 Day Warranty]
+* https://patterns.innersourcecommons.org/p/service-vs-library[Service vs. Library]
+* https://patterns.innersourcecommons.org/p/base-documentation[Standard Base Documentation]
+* https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer]
 
 === What is the cost/overhead of contributing to an InnerSource projects?
+50% more effort to commit. 100% less effort to maintain.
 
 === Why not just open source?
 By all means do so if the project makes sense! Some projects are specific to your company or are a competitive advantage, so you'll want to keep those as InnerSource. Some need to iterate more quickly than can be done in the open.
