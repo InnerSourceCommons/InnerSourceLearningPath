@@ -32,6 +32,13 @@ You can mitigate this by setting expectation, potentialy via SLAs. If contributo
 Figure out what they want and get a working example of InnerSource, preferably within your organisation, that shows them getting it.
 
 === How do we convince engineers this is a good idea?
+InnerSource gives engineers the opportunity to develop their career, both in terms of skills and https://patterns.innersourcecommons.org/p/praise-participants[recognition] within their organisation:
+
+* Broadens their skillset by contributing to different projects, or even different tech stacks!
+* Scales the value they add to the organisation, by having their software run by more people
+* Opportunity to network and collaborate with others in their organisation that they wouldn't normally
+
+Also, many engineers value open source; InnerSource embraces open source practices, and can be a step towards open source for many projects.
 
 === What are the expectations on part of both host and contributor?
 
