@@ -52,7 +52,7 @@ mais toutes les communautés n’utilisent pas ce nom. Certaines communautés ut
 "Maintainer", mais ce terme entre en conflit avec d’autres rôles techniques tels que
 le rôle de "Maintainer" défini par GitHub, par exemple.
 Apache utilise également le terme _Committer_, mais il attache à ce rôle des responsabilités
-moins nombreuses et principalement des responsabilités techniques à ce rôle. Avec ses responsabilités supplémentaires orientées vers la communauté,
+moins nombreuses et principalement des responsabilités techniques. Avec ses responsabilités supplémentaires orientées vers la communauté,
 le rôle de Trusted Committer va plus loin. Le "Trusted" dans _Trusted Committer_
 signifie que cette personne est de confiance et est donc habilitée à la fois par sa direction et sa communauté à faire son travail.
 En encourageant l’ouverture et la transparence, les Trusted Committers construisent la confiance dans le processus et aussi dans le produit
