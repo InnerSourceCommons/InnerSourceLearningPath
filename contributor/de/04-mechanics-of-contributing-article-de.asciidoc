@@ -1,0 +1,159 @@
+== Praktische Details der Contributor Rolle
+
+Sind Sie bereit, einen Beitrag zu Projekten/Repos anderer Teams zu leisten?
+Freuen Sie sich darauf, Ihre Blockaden nicht durch Management-Eskalation, sondern durch Zusammenarbeit abzubauen?
+In diesem Abschnitt finden Sie praktische Ratschläge und Hinweise, was Sie bei einem InnerSource-Beitrag beachten müssen. Er ermöglicht es Ihnen und dem Gastgeberteam, eine möglichst angenehme Erfahrung zu machen, die die Grundlage für weitere Beiträge und eine gute Zusammenarbeit bildet.
+
+Dieser Artikel ist in drei Schritte unterteilt, denen Sie wahrscheinlich begegnen werden
+
+* <<vorbereitungen-für-die-arbeit,Einholen des Beitragsangebots und Vorbereitung auf die Arbeit>>
+* <<erstellen-des-pull-requests,Den Beitrag tatsächlich erstellen>>
+* <<einreichen-des-pull-requests,Verschoenern und Verpacken des Geschenks und Überreichen an das Gastgeberteam>>.
+
+Wenn Ihr Beitrag größer ist, werden Sie möglicherweise (einige) dieser Schritte wiederholt durchlaufen, während Sie auf Ihr gemeinsames Ziel hinarbeiten.
+Es ist sehr wahrscheinlich, dass sich dabei alles immer natürlicher anfühlen wird - vielleicht werden Sie sich sogar fragen, warum Sie vorher etwas anderes gemacht haben.
+
+=== Vorbereitungen für die Arbeit
+
+==== Vorlaufzeiten
+
+Ein wesentlicher Unterschied ist die Durchlaufzeit.
+Bei jedem erstmaligen Beitrag kommen Sie zu einem neuen (Gast-)Team.
+Daher müssen Sie deren Codebasis, die verwendeten Technologien und auch deren bevorzugte Entwicklungsumgebung (z. B. Test-Framework, Build-System) kennenlernen.
+Selbst in Fällen, in denen diese Art von Tooling standardisiert ist, wird jedes Team einige individuelle Eigenheiten entwickelt haben.
+Neben der technischen Seite können Sie auch mit Unterschieden in der Kommunikation konfrontiert werden (z. B. Code-Reviews).
+Selbst wenn Sie nach einiger Zeit wiederkommen, haben sich die Arbeitsweise und die Mitglieder der Teams möglicherweise verändert.
+Nehmen Sie sich die Zeit, die Sie brauchen würden, wenn Sie sich mit einem Freund treffen würden, den Sie schon lange nicht mehr gesehen haben und den Sie jetzt besuchen.
+
+Geben Sie sich genügend Vorlaufzeit.
+Beginnen Sie früh genug, so dass Ihre Arbeit zu dem Zeitpunkt, an dem Sie sie brauchen, zur Verfügung steht.
+Es ist besser, anfangs mehr Zeit einzuplanen - Sie werden ein Gefühl für die Bearbeitungszeiten bekommen, wenn Sie mit dem Gastteam zusammenarbeiten.
+Häufig werden Sie feststellen, dass sich die Durchlaufzeiten pro Host-Team verringern, nachdem Sie einige erfolgreiche Beiträge für dieses Host-Team geleistet haben.
+Dieser Effekt ist auch bei Open Source zu beobachten, mehr dazu können Sie https://innersourcecommons.org/learn/learning-path/contributor/04/#buildup-of-trust-through-collaboration[_hier_] lesen.
+
+==== Erwartungsmanagement
+
+In Ihren klassischen Teams hatte jeder eine Vorstellung von den erwarteten Durchlaufzeiten.
+Im InnerSource-Kontext ist dies möglicherweise nicht der Fall, entweder aufgrund großer Zeitzonenunterschiede (z. B. Seattle, USA mit PDT vs. Berlin, Deutschland mit MESZ) oder weil Sie nicht wie mit Ihrem ursprünglichen Team Vollzeit zur Verfügung stehen, selbst wenn sich das Team am selben Ort befindet wie Sie selbst.
+Um also Frustration auf beiden Seiten, Ungeduld und andere nicht vertrauensbildende Effekte zu vermeiden, müssen Sie explizit ein Erwartungsmanagement in Bezug auf Ihre erwarteten Reaktionszeiten betreiben.
+Eine Möglichkeit ist es, auf das Feedback eines https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committers_] schnell mit einem "Ich kümmere mich darum, werde aber in den nächsten Tagen nicht dazu kommen" zu reagieren, wenn Sie wissen, dass Sie erst in ein paar Tagen darauf zurückkommen können.
+Idealerweise können Sie ihnen eine grobe Schätzung geben, wann Sie wahrscheinlich Zeit haben werden, um sich ihren Beitrag anzusehen.
+Auf diese Weise schaffen Sie Vertrauen durch Verlässlichkeit, selbst bei nicht physischem Kontakt, größerer Entfernung oder anderen asynchronen Medien.
+Auf der Grundlage dieses Vertrauens können Sie Unsicherheiten auf dem vor Ihnen liegenden Weg der Zusammenarbeit überwinden.
+
+==== Vertrauen aufbauen
+
+InnerSource legt großen Wert auf schriftliche Kommunikation - vor allem, wenn es um Projektentscheidungen geht.
+Bedeutet das, dass die persönliche Kommunikation verboten ist?
+
+Natürlich nicht: Während die schriftliche Kommunikation im Hinblick auf die Archivierung und Suche von Vorteil ist, ist die persönliche Kommunikation im Hinblick auf die Kommunikationsbandbreite von Vorteil.
+Versuchen Sie, sich Zeit zu nehmen, um sich mit den Menschen hinter den Namen zu treffen. Wenn möglich, treffen Sie sich mit ihnen zum Essen oder ihren Lieblingsgetränken.
+Wenn Sie die Menschen sprechen hören können und ihre Eigenheiten kennen, wird die Zusammenarbeit einfacher.
+
+==== Vermeidung von Ablehnung
+
+Haben Sie eine großen Beitrag, die Sie beisteuern möchten?
+Ausgezeichnet!
+Wäre es nicht furchtbar, wenn Ihre ganze Arbeit umsonst wäre?
+Das kann passieren, wenn das Team des Gastgebers bereits etwas sehr Ähnliches entwickelt, die Software veraltet ist oder das, was Sie vorschlagen, nicht in das Projekt passt.
+Dieses Problem tritt häufig auf, und viele Teambeziehungen haben darunter gelitten, dass man sich nicht im Voraus einig war, dass ein Beitrag gut passt.
+
+Machen Sie sich selbst und das Team des Gastgebers glücklich (und sparen Sie möglicherweise Arbeit), indem Sie a priori die Zustimmung für die Kontribution einholen, _bevor_ Sie an Ihrem Beitrag arbeiten und einen Pull Request starten. 
+Sie müssen verstehen, wie das Team des Gastgebers möchte, dass Sie dies erreichen.
+Am besten fragen Sie einen https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committer_], wie Sie Ihren Vorschlag am besten besprechen können.
+
+Eine Weisheit aus dem Open Source Bereich die sich immer wieder als wahr erweist ist, dass wenn Sie wählen können, wie Sie Ihren Vorschlag diskutieren wollen, Sie versuchen sollten, einen schriftlichen Weg zu wählen.
+Idealerweise wählen Sie den Weg, bei dem die Artefakte öffentlich, durchsuchbar und dauerhaft verlinkbar sind, sodass Sie oder andere später auf Ihren Vorschlag verweisen zu können. 
+
+Diese Art von frühzeitiger Einigung auf einer mehr abstrakten Ebene spart Zeit bei der Überarbeitung oder Ablehnung Ihres Pull Requests im Nachhinein.
+
+=== Erstellen des Pull Requests
+
+==== Kommunikation und Vermeidung von Blockaden
+
+Großartig, Sie haben sich mit der Herangehensweise des Host-Teams vertraut gemacht und sie freuen sich darauf, Ihren Pull Request zu erhalten.
+Welche Stolpersteine warten nun auf Sie?
+
+Erstens werden Sie in weniger direktem Kontakt mit dem Gastgeberteam stehen.  Zweitens wird von Ihnen nicht erwartet, dass Sie so sachkundig und kompetent sind, wie Sie es vielleicht bei den Vollzeitprojekten Ihres Teams sind.
+Wie können Sie nun am besten damit umgehen?
+
+Versuchen Sie, die Dokumentation, die Gesprächsarchive und die Code-Artefakte des Gastteams durchzusehen, um sich selbst und das Gastteam zu entlasten.
+Dies ist ähnlich wie die Situation, in der Sie und wahrscheinlich die meisten Leute sich befinden, wenn sie eines der beliebten OSS-Projekte verwenden.
+
+Ähnlich wie bei Open-Source-Projekten sollten Sie das Host-Team um Hilfe bitten, wenn sie an einer Stelle allein nicht mehr weiter kommen.
+Die Fragen, die Sie stellen, und die Antworten, die Sie erhalten, werden anderen helfen, die nach Ihnen kommen gleiche oder ähnliche Probleme zu lösen.
+Stellen Sie sicher, dass Ihre Kommunikation in einem durchsuchbaren Archiv landet, das eng mit dem Projekt selbst verbunden ist.
+Sollten Sie einfache Verbesserungsmöglichkeiten sehen, um das besagte Ziel in der asynchronen, textuellen Kommunikation zu erreichen, wenn es noch nicht erreicht ist, können Sie versuchen, Ihrem Gastgeberteam - sehr höflich - eine Verbesserung vorzuschlagen.
+Manchmal entsteht der Status quo aus reinem Zufall und bleibt so, weil niemand eine andere Idee hatte oder sich genug dafür interessierte.
+In solchen Fällen können Verbesserungsvorschläge willkommen sein.
+Es ist für beide Seiten nicht gut, wenn Sie sich ewig mit einem Problem herumschlagen, das in einem kurzen Gespräch mit jemandem, der sich mit dem Projekt besser auskennt, gelöst werden könnte.
+Es ist in Ordnung, um Hilfe zu bitten.
+
+Es gibt jedoch einen entscheidenden Unterschied, der Ihnen und anderen Personen in der Zukunft Vorteile bringt:
+In fast allen Fällen sollten Sie die offiziellen Kommunikationskanäle des Projekts bevorzugen. Das kann eine Mailingliste, ein Chatroom, ein Issue Tracker oder etwas ähnliches sein, je nachdem ob eine eher synchrone oder asynchrone Art der Interaktion bevorzugt ist, oder sich ändernden Anforderungen der Kommunikation.
+Allen gemeinsam ist, dass sie textbasiert, archiviert, durchsuchbar und mit stabilen Links versehen sind - das bedeutet, dass Ihre Frage und die Antwort aufgeschrieben werden und die Referenzen, die Sie in diesen Antworten vernetzen, ebenfalls erreichbar bleiben.
+Auf diese Weise können Sie bei Ihrer Suche von diesem passiv dokumentierten Wissen profitieren UND künftigen Mitwirkenden helfen, denselben Vorteil zu haben.
+Eine solch erstellte Dokumentation könnte sogar dazu dienen, die "offizielle" Dokumentation zu bereichern, falls sie besonders wertvolle Schätze enthält - wie z.B. wichtige Definitionen, die ad-hoc erstellt wurden.
+
+Wenn Sie bei Ihrer Arbeit auf fehlende (oder veraltete) Dokumentation stoßen, tun Sie dem nächsten Mitwirkenden einen Gefallen und aktualisieren Sie sie mit dem,was Sie entdeckt haben.
+Projektteams freuen sich oft über Ergänzungen, Aktualisierungen oder Korrekturen ihrer bestehenden Dokumentation - Sie haben gerade eine weitere Gelegenheit gefunden, einen Beitrag zu leisten!
+(Oder geben Sie ihnen einfach höflich Feedback über Ihre Erfahrungen und was Ihnen geholfen hätte).
+
+==== Gestaltung des Codes
+
+Jeder von uns hat seine eigenen Vorlieben und Meinungen über den Stil des Codes, die Einrückung, usw.
+Das Projekt des Gastteams hat diese ebenfalls.
+Versuchen Sie sich an die expliziten und impliziten Konventionen des Gastgeberteams zu halten, auch wenn sie nicht in der https://innersourcecommons.org/de/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_] des Projekts dokumentiert sind.
+Wenn Sie unsicher sind, können Sie immer höflich nachfragen. Nichtsdestotrotz ist ein Gastbeitrag für ein Feature oder eine Fehlerbehebung nicht der richtige Zeitpunkt, um eine neue Art der Strukturierung oder Formatierung des Projektcodes einzuführen.
+
+=== Einreichen des Pull Requests
+
+Sie haben alle wesentlichen Arbeiten erledigt, alle Eigenheiten des Problems und des Projekts, zu dem Sie beitragen, herausgefunden, der von Ihnen geplante Zeitpunkt für die Verwendung der neuen Funktion rückt näher, und Sie wollen sicherstellen, dass Ihr Beitrag so schnell und reibungslos wie möglich integriert wird.
+
+Dies ist, was Sie tun können, um die Überprüfung und Zusammenführung so einfach wie möglich für den https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committer_] und das Host-Team zu machen.
+Dies könnte eigentlich ziemlich ähnlich zu dem sein, was Sie vielleicht schon bei Ihrem eigenen Projekt machen, damit Ihre Änderungen akzeptiert werden.
+Wenn das der Fall ist - großartig, dann wird das für Sie selbstverständlich sein!
+
+==== Testen und Automatisierung
+
+Hier geht es im Wesentlichen darum, den https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committer_] in die Lage zu versetzen, den Beitrag ohne Ihre Anwesenheit zu validieren und eine einfache Wartbarkeit zu gewährleisten.
+Stellen Sie sich vor dass Sie eine Funktion entwickelt oder die Performance von existierendem Code verbessert haben und ihr Code ist aber nicht einfach zu verstehen und unnötig kompliziert (oder koennte auf den ersten Blick wie eine adhoc / inkorrekte Loesung erscheinen) .
+Wenn Sie dies mit einem Test abgedeckt haben - und idealerweise in einem Kommentar ein paar Worte über die Gründe dafür verloren haben - wird ein zukünftiger Leser an den Zweck des Codes erinnert, und der Test (oder die Tests) wird sicherstellen, dass der Wert, den Ihr Code berechnet, erhalten bleibt - selbst in neuen Implementierungen.
+Um dies zu erreichen, gehen Sie wie folgt vor:
+
+* Fügen Sie Tests für Ihren Code-Beitrag hinzu, so dass die Überprüfung der Funktion Ihres Beitrags durch andere gut funktioniert, auch nach einiger Zeit, wenn Sie in anderen Projekten arbeiten oder vielleicht aufgehört haben, zu diesem Projekt beizutragen.
+ ** Oft haben Projekte automatische Überprüfungen gegen Pull Requests, die diese Tests und den Grad der Testabdeckung zur Überprüfung der Qualität nutzen. Versuchen Sie die Kriterien, die diese Tests erzwingen, zu erfüllen.
+* Viele Projekte stellen Build- und Validierungsskripte zur Verfügung, mit denen Sie Ihre Änderungen lokal testen können.
+ ** Nutzen Sie diese, um sicherzustellen, dass Ihr Beitrag so gut wie möglich funktioniert, bevor Sie einen Pull Request öffnen.
+ ** Fehlerhafte Pull-Requests mit leicht zu behebenden Fehlern zu überprüfen ist eine unnötige Last für Trusted Committer. Sie werden Ihren Code nicht korrigieren, sondern Sie darum bitten das zu tun. Dies kann zu mehr Umläufen führen und die Zeit bis zum Mergen des Pull Requests unnötig in die Länge ziehen.
+ ** Niemand ist jedoch perfekt. Tun Sie Ihr Bestes, benutzen Sie vorbereitete Validierungsskripte, wenn es welche gibt, und geben Sie Ihr Bestes mit einem Pull Request!
+ ** Wenn Ihr Pull Request immer wieder Tests bricht und Sie nicht herausfinden können, warum, nachdem Sie Ihr Bestes gegeben haben: Versuchen Sie, diese Tests im Kommentar des Pull Requests hervorzuheben, zeigen Sie Ihr aktuelles Verständnis des Problems auf und bitten Sie um Hilfe dabei.
+* Vergessen Sie nicht Ihr eigenes Projekt, das Ihren Beitrag überhaupt erst ausgelöst hat. Erstellen Sie a modifizierte Konstruktion des gemeinsamen Projekts mit Ihren Änderungen und probieren Sie ihn in Ihrem eigenen Projekt aus, das ihn verwendet.
+
+==== Dokumentation und Überprüfbarkeit
+
+Sie sollten sicherstellen, dass Ihr Pull-Request alle Aktualisierungen der Dokumentation enthält, die für Ihre Änderungen relevant sind.
+Sollte sich die Dokumentation an einem anderen Ort befinden, fügen Sie sie dort hinzu und verlinken Sie sie in Ihrem Pull Request.
+
+Um die eigentliche Überprüfung des Codes für den Trusted Committer oder andere Personen, die den Code überprüfen, so einfach wie möglich zu machen, versuchen Sie diese Hinweise zu befolgen:
+
+* Achten Sie darauf, dass Ihr Pull Request nur die relevanten Änderungen für das zu bearbeitende Problem enthält.
+* Versuchen Sie, übergroße Commits, Commits mit unklaren Commit-Nachrichten, Unmengen von Dateien oder zusammenhanglose Änderungen (z.B. mehrere Themen berührend) zu vermeiden.
+* Beschreiben Sie klar und deutlich, was dieser Pull Request ändert, warum er das tut und auf welche Probleme und Design-Dokumente (falls es welche gab) er sich bezieht.
+* Wenn es etwas Ungewöhnliches oder Unerwartetes in dem Pull Request gibt, heben Sie es hervor und geben Sie eine Erklärung. Dies wird es einfacher machen, mögliche blockierende Fragen, die ein Prüfer während der Prüfung haben könnte, zu erörtern und zu beantworten .
+ ** Dasselbe gilt für das Szenario, in dem Sie sich über die Implementierung oder Ihren Ansatz unsicher waren - heben Sie es hervor und bitten Sie um eine zweite Meinung.
+ ** Seien Sie höflich und erwarten Sie Höflichkeit von dem https://innersourcecommons.org/de/learn/learning-path/trusted-committer[_Trusted Committer's_] Beurteilung.
+* Wenn Sie Pull Requests zu umfangreich gestalten, wird es schwieriger, sie zu prüfen, so dass es viel länger dauern wird, bis sie akzeptiert werden.
+ ** Wenn Sie ein größeres Feature beisteuern, hilft es oft, es in mehrere Pull Requests aufzuteilen, die nacheinander eingereicht, geprüft und akzeptiert werden.
+Sie können sie immer noch mit einem Issue zusammenbinden, auf das Sie sich beziehen.
+  *** Einige Tools haben auch eine Draft / WIP Pull Request Funktion, die Sie benutzen können, um unfertige und nicht ausgefeilte Arbeit zu markieren und trotzdem frühes Feedback von den https://innersourcecommons.org/de/learn/learning-path/trusted-committer/02/[_Trusted Committers_] Ihres Host-Teams zu bekommen.
+  *** Dies ermöglicht es Ihnen, sicherzustellen, dass Ihre Kontribution vom Gastgeberteam gerne und zeitnah gemerged und in ein Release aufgenommen zu werden.
+  *** Die Verantwortung des Gastgeberteams ist es, eine Atmosphäre zu schaffen, in der der Austausch und die Diskussion über nicht ganz ausgefeilte Arbeit möglich und willkommen ist. Wenn man sich nicht sicher fühlen kann, kann man nicht innovativ sein, und die Zusammenarbeit wird sehr schwierig.
+  *** Versuchen Sie, ein Gleichgewicht zwischen der Bitte um eine frühzeitige Überprüfung und der Bereitstellung sinnvoller Änderungen zur Überprüfung zu finden.
+
+=== Zusätzliche Artikel
+
+Einige dieser Ressourcen sind möglicherweise nur durch Bezahlung zu erreichen.
+Manchmal hat Ihr Arbeitgeber ein Abonnement, das den Zugang ermöglicht, ansonsten erlauben öffentliche Universitätsbibliotheken oft auch den Zugang für Gäste.
+
+==== https://doi.org/10.1109/MS.2013.95[Vertrauensbildung durch Zusammenarbeit]
