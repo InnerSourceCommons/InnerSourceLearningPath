@@ -1,33 +1,33 @@
-== Garantis la qualité du produit
-Commençons par la responsabilité le plus souvent associée au rôle du comité de confiance: assurer la qualité du produit.
-Dans une communauté InnerSource, les Trusted Committers _own_ toutes les décisions liées aux technologies, en particulier celles liées à la qualité du produit.
+== Garantir la qualité du produit
+Commençons par la responsabilité la plus souvent associée au rôle de "Trusted Committer": garantir la qualité des produits.
+Dans une communauté InnerSource, les comités de confiance sont propriétaires de toutes les décisions liées à la technologie, en particulier celles liées à la qualité des produits.
 La propriété implique la nécessité de s'assurer que les décisions en place sont suivies.
-Cela comprend la communication et, le cas échéant, la promotion de ces décisions, à l'intérieur et à l'extérieur de la collectivité.
-Mais les comités de confiance ne prennent pas nécessairement toutes les décisions liées aux technologies elles-mêmes ou font tout le travail nécessaire pour les mettre en œuvre.
-C'est le travail du comité de confiance de communiquer et de clarifier les normes de qualité dans leur communauté et de les formuler d'une manière compréhensible et propice à une action par leur https://innersourcecommons.org/learn/learning-path/contributor [ _Contributors_ ].
-Cela comprend la documentation écrite, bien sûr, mais le moyen le plus efficace pour les comités de confiance de communiquer ces normes de qualité est par exemple.
-Nous pensons qu'il peut être utile pour une communauté InnerSource d'essayer de se distinguer des projets de développement de logiciels traditionnels non seulement dans la façon dont ils organisent le développement, mais aussi dans la qualité des logiciels qu'ils produisent.
-Un niveau élevé de qualité des logiciels est essentiel pour établir et maintenir la confiance dans la communauté InnerSource de la part de leurs utilisateurs et de leur gestion.
-Nous savons tous comment une mauvaise édition peut briser cette confiance en un instant.
-Les comités de confiance s'assurent également que la collectivité possède l'infrastructure et les outils dont elle a besoin pour produire des logiciels de qualité.
-L'examen par les pairs, habituellement effectué dans le cadre des demandes d'extraction (RP), est le plus souvent utilisé pour assurer la qualité.
-Alors que tout le monde peut généralement commencer et participer à des demandes d'extraction en signalant les améliorations nécessaires, ce n'est habituellement que le Comité de confiance qui peut finalement accepter et fusionner ou rejeter une contribution.
-C'est ce que nous avons voulu dire plus tôt quand nous avons dit que "les Comités de confiance peuvent pousser le code plus près de la production".
-Les Comités de confiance devraient également aider https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] lors d'un PR à obtenir leurs contributions sur la ligne d'arrivée.
-Cela dit, c'est en fin de compte le rôle du cotisant d'y arriver.
-Le travail d'un comité de confiance n'est pas d'accepter toutes les contributions par défaut, mais d'accepter uniquement ceux qui répondent aux critères définis en termes de qualité et de portée.
-Et les Comités de confiance devraient éviter de réécrire le code d'un contributeur pour le rendre "apte" autant que possible, même si cela signifie passer plus de temps à soutenir https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] dans un PR.
-Les comités de confiance prennent une perspective à long terme et comprennent que ce genre de soutien est un investissement dans la longévité de la collectivité et qu'il augmentera la vitesse de développement de la collectivité à long terme.
-Parfois, les exigences ou les limites du projet ne sont pas connues à l'avance et sont plutôt découvertes au cours du développement.
-Les comités de confiance sont également responsables de s'assurer que ces constatations sont saisies et documentées à la fois pour les https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owners_ ] et
-https://innersourcecommons.org/learn/learning-path/contributor [ _Contributors_ ].
-Mais la compétence du Comité de confiance en matière de qualité va au-delà des demandes d'extraction.
+Cela comprend la communication et, si nécessaire, la défense de ces décisions, à l'intérieur et à l'extérieur de la communauté.
+Mais les valideurs de confiance ne prennent pas nécessairement toutes les décisions liées à la technologie eux-mêmes ou ne font pas tout le travail pour les mettre en œuvre.
+Le travail du comité de confiance consiste à communiquer et à clarifier les normes de qualité dans leur communauté et à les formuler d'une manière compréhensible et exploitable par leurs https://innersourcecommons.org/learn/learning-path/contributor [ _Contributeurs_ ].
+Cela comprend la documentation écrite, bien sûr, mais le moyen le plus efficace pour les comités de confiance de communiquer ces normes de qualité est l'exemple.
+Nous pensons que cela peut être un objectif valable pour une communauté InnerSource d'essayer de se distinguer des projets de développement de logiciels traditionnels non seulement dans la façon dont ils organisent le développement, mais aussi dans la qualité du logiciel qu'ils produisent.
+Un niveau élevé de qualité des logiciels est essentiel pour établir et maintenir la confiance dans la communauté InnerSource de la part de leurs utilisateurs et de leur direction.
+Nous savons tous comment une mauvaise libération peut briser cette confiance en un instant.
+Les valideurs de confiance s'assurent également que la communauté dispose de l'infrastructure et des outils dont elle a besoin pour produire des logiciels de qualité.
+L'examen par les pairs, généralement effectué dans le cadre de demandes d'extraction (PR), est le plus souvent utilisé pour assurer la qualité.
+Alors que tout le monde peut généralement commencer et participer à des demandes d'extraction en soulignant les améliorations nécessaires, ce n'est généralement que le valideur de confiance qui peut finalement accepter et fusionner ou rejeter une contribution.
+C'est ce que nous avons voulu dire plus tôt lorsque nous avons dit: "Les comités de confiance peuvent rapprocher le code de la production".
+Les valideurs de confiance devraient également aider https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] lors d'une RP à obtenir leurs contributions sur la ligne d'arrivée.
+Cela dit, c'est au bout du compte le travail du contributeur de faire en sorte que cela se produise.
+Le travail d'un valideur de confiance n'est pas d'accepter toutes les contributions par défaut, mais d'accepter uniquement celles qui répondent aux critères définis en termes de qualité et de portée.
+Et les valideurs de confiance devraient éviter de réécrire le code d'un contributeur pour le rendre "adapté" autant que possible, même si cela signifie passer plus de temps à soutenir https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] dans une PR.
+Les comités de confiance adoptent une perspective à long terme et comprennent que ce type de soutien est un investissement dans la longévité de la communauté, et qu'il augmentera la vitesse de développement de la communauté à long terme.
+Parfois, les exigences ou les limitations du projet ne sont pas connues à l'avance et sont plutôt découvertes lors du développement.
+Les valideurs de confiance sont également chargés de s'assurer que ces résultats sont saisis et documentés à la fois pour les propriétaires https://innersourcecommons.org/learn/learning-path/product-owner[_Product et pour les
+https://innersourcecommons.org/learn/learning-path/contributor [ _Contributeurs_ ].
+Mais la compétence du comité de confiance en matière de qualité va au-delà des demandes d'extraction.
 Les comités de confiance pensent à la qualité à un niveau stratégique et assurent la longévité du logiciel en cours de construction.
-Cela implique des responsabilités axées sur le code, de la propreté du code au maintien de l'intégrité conceptuelle du logiciel.
-Il comporte également des tâches axées sur la gestion, telles que l'assurance que la communauté dispose de suffisamment de temps pour reprendre en compte son logiciel ou pour obtenir une date de sortie en faveur d'améliorations de la qualité, si nécessaire.
-L'efficacité du Comité de confiance est fortement liée à la santé du code.
-En l'absence de ces derniers, les comités de confiance devront consacrer une grande partie de leur temps précieux à la validation et à la documentation des solutions pour les bogues ou à une architecture fragile et n'auront pas assez de temps pour passer à l'embarquement et au mentorat https://innersourcecommons.org/learn/learning-path/contributor [ _Contributors_ ].
-En conclusion, assurer la qualité des produits est une responsabilité clé des comités de confiance.
-Ils établissent des normes de qualité et mènent par l'exemple.
-Ils participent à des demandes d'extraction et aident https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] à respecter les normes de qualité.
+Cela implique des responsabilités axées sur le code, allant de la garantie de la propreté du code au maintien de l'intégrité conceptuelle du logiciel global.
+Il implique également des tâches axées sur la gestion, telles que s'assurer que la communauté dispose de suffisamment de temps pour restructurer son logiciel ou déplacer une date de sortie en faveur d'améliorations de la qualité, si nécessaire.
+L'efficacité du comité de confiance est fortement liée à la santé du code.
+En l'absence de ce dernier, les Comités de confiance devront consacrer une grande partie de leur temps précieux à la validation et à la documentation des solutions palliatives aux bogues ou à une architecture fragile et n'auront pas assez de temps à consacrer à l'intégration et au mentorat https://innersourcecommons.org/learn/learning-path/contributor [ _Contributeurs_ ].
+En conclusion, la garantie de la qualité des produits est une responsabilité essentielle des comités de confiance.
+Ils établissent des normes de qualité et donnent l'exemple.
+Ils participent aux demandes d'extraction et aident https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] à respecter les normes de qualité.
 Ils assument également la responsabilité de la santé à long terme du logiciel.
