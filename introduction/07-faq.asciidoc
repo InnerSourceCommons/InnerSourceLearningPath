@@ -1,0 +1,59 @@
+== FAQ
+
+To conclude the Introduction segment of the Learning Path, here are some Frequently Asked Questions people have when embarking on their InnerSource journey.
+
+=== What is the cost/overhead of maintaining an InnerSource projects?
+It depends! An InnerSource project that encourages small pull requests and has clear contribution guidelines may require very little overhead, with most of the work being code reviews. To learn more about practices that can reduce the overheard of maintaining InnerSource projects, we suggest you look at the https://patterns.innersourcecommons.org/[InnerSource Patterns], especially:
+
+* https://patterns.innersourcecommons.org/p/30-day-warranty[30 Day Warranty]
+* https://patterns.innersourcecommons.org/p/service-vs-library[Service vs. Library]
+* https://patterns.innersourcecommons.org/p/base-documentation[Standard Base Documentation]
+* https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer]
+
+=== What is the cost/overhead of contributing to an InnerSource projects?
+50% more effort to commit. 100% less effort to maintain.
+
+=== Why not just open source?
+By all means do so if the project makes sense! Some projects are specific to your company or are a competitive advantage, so you'll want to keep those as InnerSource. Some need to iterate more quickly than can be done in the open.
+
+If your organisation isn't familiar with running open source projects, InnerSource can help people learn the skills required with a view to open sourcing in the future.
+
+=== Will this slow us down?
+It depends on how far you're going. You'll probably be going a lot further than you think.
+
+image::https://user-images.githubusercontent.com/9609562/151901209-52b3468b-dedd-4319-9ca3-38b6b2bcfaf5.png[If you want to go fast, go alone. If you want to go far, go together]
+
+=== Will we just be reviewing PRs all day every day?
+If so then your core team is understaffed. A healthy team is staffed so that there is time for assisting contributors and making core contributions yourself.
+
+You can mitigate this by setting expectation, potentialy via SLAs. If contributors expect PR reviews within an hour, maybe you will be stuck reviewing PRs all the time, but if you set an SLA of 1 day or 1 week, this won't be the case.
+
+=== How do we convince management this is a good idea?
+Figure out what they want and get a https://innersourcecommons.org/stories[working example of InnerSource], preferably within your organisation, that shows them getting it. If your organization's OSPO manages innersource projects, reach out to them for support.
+
+=== How do we convince engineers this is a good idea?
+InnerSource gives engineers the opportunity to develop their career, both in terms of skills and https://patterns.innersourcecommons.org/p/praise-participants[recognition] within their organisation:
+
+* Broadens their skillset by contributing to different projects, or even different tech stacks!
+* Scales the value they add to the organisation, by having their software run by more people
+* Opportunity to network and collaborate with others in their organisation that they wouldn't normally
+
+Also, many engineers value open source; InnerSource embraces open source practices, and can be a step towards open source for many projects.
+
+=== What are the expectations on part of both host and contributor?
+Work together! This may be completely async via Pull Requests, or invovle regular community catchups - whatever works for you.
+
+Communication and support must go in both directions and be open and collaborative, fostering a culture of psychological safety. Feedback on contributions, or existing code, must be approached with a growth mindset, and as partnership to make things better.
+
+=== How will we maintain control of the project?
+Through the Trusted Committer and Product Owner roles you can still ensure that the incoming code is a good fit from both a product and engineering perspective. You do not have to merge code that is not a good fit.
+
+You should also set clear contribution guidelines, and be transparent on the direction of the project. Some Patterns that may help:
+
+* https://patterns.innersourcecommons.org/p/issue-tracker[Issue Tracker Use Cases]
+* https://patterns.innersourcecommons.org/p/base-documentation[Standard Base Documentation]
+* https://patterns.innersourcecommons.org/p/transparent-cross-team-decision-making-using-rfcs[Transparent Cross-Team Decision Making using RFCs]
+
+
+=== How do we get people to make contributions?
+Your team and wider organisation's culture must value collaboration. Focus on the business value - teams are able to unblock themselves where software they use have bugs or are missing required features. Where contributors have no immediate business need, you can https://patterns.innersourcecommons.org/p/gig-marketplace[advertise] you are looking for help.
