@@ -1,0 +1,38 @@
+== Garder la communauté en bonne santé
+L'introduction a souligné que les comités de confiance ont des responsabilités à la fois axées sur la technologie et sur la collectivité.
+Il ne suffit pas de se concentrer uniquement sur le code et la santé du code.
+Pour assurer le succès à long terme, les comités de confiance devraient s'efforcer de maintenir la communauté qui construit le logiciel en bonne santé.
+Pour cette raison, ils doivent trouver un bon équilibre entre la garantie de la qualité des produits et la croissance d'une communauté en bonne santé.
+À quoi ressemble une communauté en santé?
+Tout simplement, dans une communauté en bonne santé, https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] a tendance à rester dans le coin, peut passer la plupart de son temps à développer des logiciels et est capable d'améliorer ses capacités.
+Par conséquent, une collectivité en santé ne cesse de croître.
+Pourquoi https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] se joint-t-il et reste-t-il dans une communauté?
+Certains le font parce qu'ils souscrivent à l'objectif ou à la mission de la communauté.
+Le travail du comité de confiance consiste à formuler et à promouvoir clairement cet objectif.
+L'importance de ce fait n'est souvent pas reconnue, mais la commercialisation d'une communauté et de ses produits est vraiment essentielle.
+Une autre raison plus évidente pour que les gens restent dans le coin est qu'ils aiment travailler avec d'autres membres de la communauté, y compris les comités de confiance.
+Une communauté florissante est une communauté où les membres traitent et communiquent les uns avec les autres avec le plus grand respect.
+Les contributions sont traitées comme des cadeaux ou des dons plutôt que des distractions, et les excellentes contributions (surtout les premières) sont louées.
+Le travail de Trusted Committer dans tout cela consiste principalement à définir un exemple pour les autres, similaire à la définition d'un exemple pour le niveau de qualité de logiciel attendu.
+Si nécessaire, les comités de confiance sont ceux qui devraient créer et promulguer un code de conduite pour la communauté.
+S'il y a des membres de la communauté dont le comportement est préjudiciable ou toxique pour la santé de la communauté, il est de la responsabilité du comité de confiance de s'y attaquer.
+Les comités de confiance devraient créer des occasions pour les gens de se réunir régulièrement (en personne ou virtuellement), de se connaître personnellement et de résoudre pacifiquement les conflits au fur et à mesure qu'ils surviennent.
+Les gens ont également tendance à rester dans les environs parce que travailler dans une communauté InnerSource est une excellente occasion d'acquérir de nouvelles compétences et de se développer personnellement.
+C'est là encore que le rôle du comité de confiance est vraiment important.
+Les valideurs de confiance deviennent souvent des mentors pour les développeurs débutants, et passent explicitement du temps pendant les demandes d'extraction, non seulement en soulignant les domaines à améliorer, mais aussi en expliquant en détail pourquoi quelque chose doit être amélioré et comment le faire.
+Ils fournissent la théorie ou l'expérience derrière le changement et offrent des suggestions pour les meilleurs moyens de le mettre en œuvre.
+Ce faisant, les comités de confiance peuvent augmenter la vitesse d'apprentissage dans leurs communautés bien au-delà de celle des projets de développement de logiciels traditionnels.
+Nous croyons que les comités de confiance devraient accorder la priorité à l'intégration et au mentorat lors des demandes d'extraction plutôt qu'à l'atteinte des dates de diffusion communiquées, à moins qu'il n'y ait une très bonne raison de ne pas le faire.
+Un bon mentorat lors des demandes d'extraction conduit à un niveau plus élevé de confiance et d'engagement de la part de https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_],, ce qui entraîne à son tour davantage de contributions.
+Nous en discuterons plus en détail dans https://innersourcecommons.org/learn/learning-path/trusted-committer/04/["Upleveling la Communauté " ].
+Enfin, certaines personnes restent dans les communautés d'InnerSource parce qu'elles se concentrent sur le développement de logiciels au lieu d'activités considérées comme des frais généraux ou des déchets, en particulier dans les grandes entreprises qui mettent l'accent sur les processus.
+Dans ce contexte, le travail du valideur de confiance consiste à s'assurer que https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] peut réellement se concentrer sur ses projets en communiquant et en adoptant des instructions de contribution utiles.
+L'un des aspects importants de ces lignes directrices est d'expliquer ce que nous appelons les demandes de retrait: à quoi devrait ressembler un commentaire?
+Qu'est-ce que cela signifie si je suis un commentaire?
+En quoi @mentioning quelqu'un avec un préfixe /CC diffère-t-il de l'utilisation d'un préfixe /FYI?
+En règle générale, les comités de confiance doivent s'assurer que le processus de contribution ne crée pas plus de problèmes, mais qu'il aide la communauté à identifier et à résoudre les problèmes.
+En fin de compte, les comités de confiance devraient habiliter leur communauté à trouver des problèmes liés aux processus et à les adapter et à les améliorer autant que possible en tant que communauté.
+Pour que les valideurs de confiance puissent s'acquitter de toutes ces responsabilités, il est important qu'ils communiquent régulièrement avec les membres de la communauté et qu'ils soient à l'écoute du terrain.
+Nous allons plus de détails à ce sujet dans la section https://innersourcecommons.org/learn/learning-path/trusted-committer/06/["Advocating de la
+A besoin de " ].
+En résumé, les valideurs de confiance devraient s'efforcer de créer un environnement accueillant et apprécié pour leur https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] qui leur permette de se concentrer sur la rédaction de logiciels et de se développer personnellement en créant des occasions d'apprendre des autres membres de la communauté.
