@@ -14,7 +14,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 
 **Within 24 Hours of Previous Meeting**
 * [ ] Update the shared calendar series with any new invitees from the last call.  
-* [ ] Visit the [learning path folder].
+* [ ] Visit the [learning path folder]. Make sure this folder is shared with any new attendees from the last call.
 * [ ] Right-click on `Meeting - 2022 - MM - DD`.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
