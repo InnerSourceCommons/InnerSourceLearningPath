@@ -31,4 +31,4 @@ Other collaborative projects should be run as open source to increase the contri
 
 ## Summary
 
-If your project is company-specific **and** contributions will come **and** you will support those contributions, then InnerSource is right for your project.
+If contributions will come **and** you will support those contributions **and** your project is company-specific, then InnerSource is right for your project.
