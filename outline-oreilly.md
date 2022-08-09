@@ -27,8 +27,8 @@ Each section has a set of videos (ordering listed at the links above).
 Each video in a section is followed immediately by [assessment questions] for that video.
 Then comes the next video in the section (followed by its [assessment questions]) and so on.
 
-[Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/introduction
-[Trusted Committer]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/trusted-committer
-[Contributor]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/contributor
-[Product Owner]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/product-owner
-[assessment questions]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/master/workbook
+[Introduction]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/introduction
+[Trusted Committer]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/trusted-committer
+[Contributor]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/contributor
+[Product Owner]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/product-owner
+[assessment questions]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/workbook
