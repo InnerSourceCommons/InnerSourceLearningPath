@@ -4,7 +4,7 @@ InnerSource is the application of open source principles to company-internal sof
 
 ## Will Contributions Come?
 
-An InnerSource approach only makes sense if contributions are expected from the project's users. You can expect contributions to come if you see or anticipate noticeable amounts of energy directed at your project space by its users. Some examples:
+An InnerSource approach only makes sense if contributions are expected from the project's users. You can expect contributions to come if you see or anticipate noticeable amounts of energy directed at your project area by its users. Some examples:
 
 -   High amounts of project usage and adoption.
 -   More feature requests than your team has time to fill.
@@ -18,7 +18,7 @@ Even with willing contributors, the code doesn't just flow in. You will need to 
 
 -   Understanding users' scenarios and suggesting what contributions in your project could help them to meet those scenarios.
 -   Inviting users to make the contributions that they need and following up with them to ensure that they do them.
--   Maintaining an CONTRIBUTING.md document that contains everything an engineer needs to know to contribute to the project.
+-   Maintaining an [CONTRIBUTING.md](https://patterns.innersourcecommons.org/p/base-documentation#contributing.md) document that contains everything an engineer needs to know to contribute to the project.
 -   Giving up-front guidance and direction as to how to implement a given contribution.
 -   Being available during regular hours for any ad-hoc questions that contributors have.
 -   Timely review of incoming pull requests.
