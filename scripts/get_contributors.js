@@ -13,7 +13,7 @@ module.exports = async function (filepath) {
   const { repository: { object: { history }}} = await graphqlWithAuth(
     `{
       repository(owner: "InnerSourceCommons", name: "InnerSourceLearningPath") {
-        object(expression: "master") {
+        object(expression: "main") {
           ... on Commit {
             history(first: 100, path: "${filepath}") {
               totalCount
