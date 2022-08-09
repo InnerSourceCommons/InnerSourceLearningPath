@@ -36,7 +36,7 @@ jobs:
         working-directory: innersourcecommons.org
         run: |
             git checkout --track origin/$BRANCH_NAME || git checkout -b $BRANCH_NAME
-            git merge -X theirs origin/main --no-edit
+            git merge -X theirs origin/master --no-edit
       - uses: actions/setup-node@v1
         with:
           node-version: 12
