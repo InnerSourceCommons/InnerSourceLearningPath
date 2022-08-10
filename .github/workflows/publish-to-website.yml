@@ -31,11 +31,11 @@ jobs:
           fetch-depth: 0
       - name: Branch innersourcecommons.org
         working-directory: innersourcecommons.org
+        run: |
+            git checkout
       - uses: actions/setup-node@v1
         with:
           node-version: 12
-        run: |
-            git checkout
       - name: Build
         working-directory: InnerSourceLearningPath/scripts
         run: |
