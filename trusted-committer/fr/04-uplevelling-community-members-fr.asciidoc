@@ -1,25 +1,25 @@
 == Membres de la communauté Upleveling
 Il existe un continuum de participation dans une communauté InnerSource.
 Il y a des gens qui ne sont pas au courant de la communauté.
-_Les nouveaux arrivants _ pourraient être intéressés par la communauté et son produit, mais ne l'ont pas encore utilisé.
-_Consumers_ utilise le logiciel mais n'a peut-être pas apporté de contribution.
-Ensuite, il y a les https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] qui ont apporté au moins une contribution, et enfin les _Trusted Committers_, qui prennent en charge à la fois le logiciel et la communauté.
-En tant que comité de confiance, vous êtes responsable de la mobilité des personnes dans ce continuum et de leur capacité à apporter des contributions.
-En ce sens, les comités de confiance agissent comme des multiplicateurs de force dans leur communauté.
+Les _nouveaux arrivants_ pourraient être intéressés par la communauté et son produit, mais ne l'ont pas encore utilisé.
+Les _consommateurs_ utilise le logiciel mais n'a peut-être pas apporté de contribution.
+Ensuite, il y a les https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] qui ont apporté au moins une contribution, et enfin les _Trusted Committers_, qui prennent en charge à la fois le logiciel et la communauté.
+En tant que _Trusted Committers_, vous êtes responsable de la mobilité des personnes dans ce continuum et de leur capacité à apporter des contributions.
+En ce sens, les _Trusted Committers_ agissent comme des multiplicateurs de force dans leur communauté.
 
-Il est important que les comités de confiance commercialisent leurs produits et leurs communautés afin d'augmenter le nombre de nouveaux arrivants et de consommateurs.
-Ils devraient également communiquer les occasions de faire des contributions aux consommateurs et tenter de susciter et d'harmoniser les intérêts de https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] potentiel avec ceux de la communauté.
-Ce qui fonctionne souvent bien, c'est si https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] est capable de travailler sur quelque chose qui profite à son service ou à son rôle dans l'entreprise.
+Il est important que les _Trusted Committers_ commercialisent leurs produits et leurs communautés afin d'augmenter le nombre de nouveaux arrivants et de consommateurs.
+Ils devraient également communiquer les occasions de faire des contributions aux consommateurs et tenter de susciter et d'harmoniser les intérêts des https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] potentiel avec ceux de la communauté.
+Ce qui fonctionne souvent bien, c'est si les https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] sont capable de travailler sur quelque chose qui profite à son service ou à son rôle dans l'entreprise.
 Les outils de développement et l'automatisation sont de bons exemples.
 
-Enfin, il incombe au Trusted Committer d'identifier et de soutenir https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] qui a le potentiel de croître en l'encourageant à s'attaquer à des tâches difficiles et à les guider vers l'achèvement.
-C'est, à notre avis, la responsabilité la plus noble d'un comité de confiance, et c'est gratifiant à la fois pour le comité de confiance et pour son contributeur.
-Nous avons entendu des comités de confiance dire que le mentorat et le fait de voir les gens augmenter leurs capacités sont plus que le fait qu'ils aient moins de temps à consacrer à l'écriture de logiciels.
+Enfin, il incombe au Trusted Committer d'identifier et de soutenir les https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] qui ont le potentiel de croître en les encourageant à s'attaquer à des tâches difficiles et à les guider vers l'achèvement.
+C'est, à notre avis, la responsabilité la plus noble d'un _Trusted Committer_, et c'est gratifiant à la fois pour le _Trusted Committers_ et pour son contributeur.
+Nous avons entendu des _Trusted Committers_ dire que le parrainage et le fait de voir les gens améliorer leurs capacités sont plus que le fait qu'ils aient moins de temps à consacrer à l'écriture de logiciels.
 
-Comme mentionné dans la section https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[previous, l'apprentissage et la croissance personnelle sont des raisons pour lesquelles les gens se joignent et restent dans une communauté InnerSource.
-Upleveling leur https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] est l'un des outils les plus puissants que les Trusted Committers ont à leur disposition pour augmenter la vitesse, la production et la longévité de leurs communautés.
+Comme mentionné dans la https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[section précédente], l'apprentissage et la croissance personnelle sont des raisons pour lesquelles les gens se joignent et restent dans une communauté InnerSource.
+Upleveling leur https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] est l'un des outils les plus puissants que les Trusted Committers ont à leur disposition pour augmenter la vitesse, la production et la longévité de leurs communautés.
 C'est également l'un des principaux arguments pour convaincre la direction de permettre à ses employés de participer à une communauté InnerSource, car cela rendra leurs employés plus précieux pour l'ensemble de l'entreprise et les aidera à retenir les meilleurs talents.
 
-En résumé, les valideurs de confiance doivent attirer de nouveaux https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] et améliorer leur capacité à apporter des contributions.
+En résumé, les Trusted Committers doivent attirer de nouveaux https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] et améliorer leur capacité à apporter des contributions.
 Cette activité améliore en fin de compte la capacité de la communauté à créer de meilleurs logiciels plus rapidement.
 Ils le font en communiquant les occasions de contribuer et en aidant et en encadrant les contributeurs qui leur permettent de croître.
