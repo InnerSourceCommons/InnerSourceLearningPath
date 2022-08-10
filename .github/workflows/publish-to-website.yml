@@ -1,8 +1,5 @@
 name: Publish to website
 
-env:
-  BRANCH_NAME: master
-
 on:
   push:
     branches:
@@ -34,8 +31,6 @@ jobs:
           fetch-depth: 0
       - name: Branch innersourcecommons.org
         working-directory: innersourcecommons.org
-        run: |
-            git checkout master
       - uses: actions/setup-node@v1
         with:
           node-version: 12
@@ -52,4 +47,4 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Update Learning Path articles"
-          git push origin $BRANCH_NAME
+          git push
