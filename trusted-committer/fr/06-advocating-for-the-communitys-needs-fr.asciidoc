@@ -1,0 +1,17 @@
+== Défendre les besoins de la communauté
+
+Les communautés InnerSource existent dans un contexte d'entreprise et sont donc plus contraintes que les communautés Open Source. Parfois, les intérêts de l'unité commerciale sont en contradiction avec ceux de la communauté. Les valideurs de confiance adoptent une perspective à long terme sur leur projet. Ils comprennent qu'une communauté saine est une condition préalable à un code sain. C'est pourquoi de nombreuses initiatives InnerSource ont été modélisées dans Apache Way avec sa devise http://theapacheway.com/community-over-code/["Community over Code " ]. D'autre part, les unités commerciales sont naturellement plus concernées par les produits fabriqués par une communauté InnerSource. Ils préfèrent voir des résultats à court et à moyen terme qui contribuent au résultat net.
+
+C'est dans ce domaine de conflit potentiel que le comité de confiance joue un rôle essentiel.
+Les comités de confiance font confiance à l'organisation et, en s'appuyant sur cette confiance, agissent en tant que défenseurs des intérêts de la communauté et de la santé à long terme du logiciel dans l'entreprise.
+Ils sont responsables de la communication des risques techniques et communautaires à la direction.
+Dans le même temps, les comités de confiance doivent être stratégiques et travailler dans le respect des degrés de liberté accordés par leurs entreprises.
+
+Les comités de confiance doivent également s'assurer que la communauté et les personnes https://innersourcecommons.org/learn/learning-path/contributor[contributors] obtiennent un crédit public pour leur travail.
+Le crédit public est la monnaie avec laquelle les cotisants sont payés, en particulier ceux qui cotisent volontairement.
+C'est une bonne pratique de féliciter publiquement les contributeurs précieux et de s'assurer que leurs gestionnaires sont au courant de leurs contributions. Négliger de donner du crédit peut être frustrant pour les contributeurs individuels et nuire à la santé de la communauté. Cela peut se produire dans des entreprises qui ne sont pas encore habituées au modèle de travail InnerSource, ou lorsque le logiciel mis au point par la communauté InnerSource fonctionne en coulisses et que les gestionnaires n'étaient tout simplement pas au courant de la contribution de la communauté. Un bon comité de confiance s'engagera auprès de la direction et défendra le crédit public. L'échec à donner du crédit n'est presque jamais fait de mauvaise foi et est facile à réparer.
+
+Un autre cas courant appelant à la défense des intérêts du Trusted Committer est lorsque https://innersourcecommons.org/learn/learning-path/contributor[contributors] ne dispose pas de temps ou d'autorisation pour contribuer. Cela peut se produire lorsque la communauté travaille sur un produit à l'extérieur du service du contributeur et n'est donc pas pertinente pour les objectifs de son gestionnaire. Dans ce cas, le comité de confiance devrait entamer des discussions avec le directeur du contributeur et faire pression pour qu'il prenne une décision de rechange.
+
+En résumé, il existe de nombreuses situations dans lesquelles les comités de confiance doivent défendre les intérêts de https://innersourcecommons.org/learn/learning-path/contributor[contributors] et de la communauté dans son ensemble.
+Les comités de confiance comprennent que la valeur que la communauté peut apporter à l'organisation dépend de la santé et de la longévité de la communauté et, en fin de compte, d'une relation de confiance entre les deux.
