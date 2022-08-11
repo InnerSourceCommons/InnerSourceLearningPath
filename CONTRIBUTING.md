@@ -50,7 +50,9 @@ The author can easily [incorporate your suggestions][incorporate suggestions].
 
 # Issues
 
-* When opening a new issue, be sure to add it to the `Learning Path Segements` project so that appears on the [project board].
+Please [open an issue](https://github.com/InnerSourceCommons/InnerSourceLearningPath/issues/new)!
+If you have write permissions, then:
+* Be sure to add it to the `Learning Path Segements` project so that appears on the [project board].
 * If the issue is specific to the `Introduction`, `Trusted Committer`, `Product Owner`, or `Contributor` section, then add those label(s).
 If the issue applies to the Learning Path in-general but not to any specific section then use the `Meta` label.
 
