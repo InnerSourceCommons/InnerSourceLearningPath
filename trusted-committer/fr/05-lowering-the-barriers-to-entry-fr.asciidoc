@@ -1,0 +1,35 @@
+== Abaissement des barrières à l'entrée
+
+La sollicitation de contributions dans une communauté InnerSource est plus difficile que dans une communauté Open Source pour un certain nombre de raisons:
+
+* Le nombre de https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] potentiels est plus faible dans les communautés InnerSource.
+* Les contributeurs voudront contribuer pendant leur temps de travail, ce qui signifie qu'ils sont plus limités en temps.
+* Le travail dans InnerSource peut ne pas faire partie nécessairement des objectifs de rendement officiels des contributeurs, de sorte que le temps passé à travailler sur InnerSource peut sembler nuire à la réalisation de ces objectifs.
+
+
+C'est pourquoi il est important pour les Trusted Committers de rendre les processus de contribution et l'intégration des https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] aussi facile que possible. Il y a un certain nombre de choses qui peuvent aider:
+
+* Avoir un bon README.md dans chaque référentiel de code.
+Un bon fichier README.md explique ce qui se trouve dans le référentiel et à quoi il peut servir.
+En outre, il doit fournir des instructions détaillées sur l'obtention, la génération, le test et l'utilisation du logiciel dans le référentiel, y compris des informations sur la licence.
+* Avoir un bon CONTRIBUTING.md qui décrit ce qui est attendu du https://innersourcecommons.org/learn/learning-path/contributor [ _Contributeur_ ].
+Il devrait répondre à des questions communes, telles que:
+** Comment soumettre un rapport de bogue ou une demande de fonctionalité?
+** Qui et comment contacter quelqu'un si j'ai des questions?
+** Quelles sont les conventions pour le style de code, le branchement ou les messages de validation?
+** Quelle est la définition de "fait" pour une contribution?
+** Quelles sont les étapes du processus qui régissent les contributions?
+** Ce que l'on attend de moi en termes de prise en charge du code de contribution après l'acceptation de la contribution?
+** Quel est le code de conduite et quelles sont les lignes directrices sur le fonctionnement de la communauté?
+
+Si vous avez une licence interne attachée au logiciel, ce qui dans certaines entreprises, est une condition préalable au partage de logiciels entre les entités juridiques, incluez une copie de cette licence _et_ une explication des droits et obligations dans des termes simples.
+
+En plus de ces tâches documentaires, comme pour le développement de logiciels Open Source, il devrait être facile et simple d'exécuter et de tester le logiciel développé localement par des https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] potentiels afin qu'ils puissent commencer à implémenter et à valider leur contribution avec le moins d'effort possible.
+
+Il existe deux modèles communs pour apporter des contributions:
+_référentiel partagé _ et _fork et join_. Les deux ont des avantages et, en tant que Trusted Committer, vous souhaitez prendre en charge les deux modèles pour répondre à des besoins différents de vos https://innersourcecommons.org/learn/learning-path/contributor[ _Contributeurs_ ] potentiels et actuels. Vos contributeurs auront souvent des questions sur le processus de contribution ou sur la communauté elle-même, et quelqu'un doit être disponible pour répondre à ces questions. Il est donc important pour toute communauté InnerSource d'avoir une ou plusieurs personnes de contact disponibles pour répondre à ces questions. Une personne du groupe des Trusted Committers est généralement cette personne de contact, ou bien elle doit s'assurer qu'il y a un membre de la communauté "en disponibilité".
+
+Il est également important d'aider les https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] potentiels à déterminer quelles contributions sont nécessaires. Il peut s'agir de contributions de code, mais aussi de contributions non codées, telles que l'écriture de documentation, la création de dessins ou l'organisation d'événements. Une façon courante de procéder consiste à étiqueter les "nouvelles tâches" dans le Issue Tracker utilisé par la communauté ou à implémenter une place de marché pour les tâches ouvertes que les contributeurs peuvent utiliser.
+
+En résumé, il est très important pour les collectivités d'InnerSource dans un environnement d'entreprise de maintenir les obstacles à la contribution aussi bas que possible afin de permettre au plus grand nombre de personnes possible de contribuer. Cela signifie qu'il faut fournir à la fois un accès à la documentation utile et aux personnes de la communauté pour répondre à toutes les questions et encourager la collaboration.
+En résumé, les Trusted Committers devraient s'assurer que l'intégration et la contribution sont des expériences positives.
