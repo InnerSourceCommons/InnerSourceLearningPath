@@ -1,0 +1,17 @@
+== Défendre les besoins de la communauté
+
+Les communautés InnerSource existent dans un contexte d'entreprise et sont donc plus contraintes que les communautés Open Source. Parfois, les intérêts de l'entreprise sont en contradiction avec ceux de la communauté. Les _Trusted Committers_ adoptent une perspective à long terme sur leur projet. Ils comprennent qu'une communauté saine est une condition préalable à un code sain. C'est pourquoi de nombreuses initiatives InnerSource s'inspirent du modèle Apache et de sa devise http://theapacheway.com/community-over-code/["Community over Code"]. En revanche, les entreprises commerciales sont naturellement plus concernées par les produits fabriqués par une communauté InnerSource. Elles préfèrent obtenir des résultats à court ou moyen terme qui contribuent aux bénéfices.
+
+C'est dans ce domaine de conflit d'intérêts potentiel que les _Trusted Committers_ jouent un rôle essentiel.
+Ils etablissent une relation de confiance avec l'organisation et, en s'appuyant sur cette confiance, agissent en tant que défenseurs des intérêts de la communauté et de la santé à long terme du logiciel dans l'entreprise.
+Ils sont responsables de la communication des risques techniques et communautaires à la direction.
+Dans le même temps, les _Trusted Committers_ doivent être stratégiques et travailler dans le respect des degrés de liberté accordés par leurs entreprises.
+
+Les _Trusted Committers_ doivent également s'assurer que la communauté et les https://innersourcecommons.org/learn/learning-path/contributor[contributeurs] individuels sont reconnus pour leur travail.
+Le réputation aquise récompense les contributeurs, en particulier les volontaires.
+Il est bon de reconnaitre publiquement les contributeurs et de s'assurer que leur hiérarchie est au courant de leurs contributions. Négliger de donner du crédit peut être frustrant pour les contributeurs et nuire à la santé de la communauté. Cela peut se produire dans des entreprises qui ne sont pas encore habituées au modèle de travail InnerSource, ou lorsque le logiciel mis au point par la communauté InnerSource fonctionne en coulisses sans que les décideurs ne soient au courant de la contribution de la communauté. Un _Trusted Committer_ efficace s'engagera auprès de la direction pour faire reconnaître les contributeurs. Un manque de reconnaissance est rarement intentionel et facile à corriger.
+
+Les _Trusted Committers_ doivent aussi intervenir lorsque les contributeurs ne disposent pas du temps ou des autorisations nécessaires pour contribuer. Cela peut se produire lorsque la communauté travaille sur un produit extérieur au service du contributeur et qui n'est donc pas pertinent pour les objectifs de sa direction. Dans ce cas, les _Trusted Committers_ doivent engager des discussions avec la direction du contributeur et faire pression pour obtenir les aménagements nécessaires.
+
+En résumé, il existe de nombreuses situations dans lesquelles les _Trusted Committers_ doivent défendre les intérêts des https://innersourcecommons.org/learn/learning-path/contributor[contributeurs] et de la communauté dans son ensemble.
+Les _Trusted Committers_ comprennent que la valeur que la communauté peut apporter à l'organisation dépend de la santé et de la longévité de la communauté et, en fin de compte, d'une relation de confiance entre les deux.
