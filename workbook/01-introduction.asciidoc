@@ -184,6 +184,6 @@ Why 2 is incorrect: Writing great code is a wonderful preparation and prerequisi
 
 Why 3 is incorrect: Each trusted committer role is coupled to a specific project and is designed to help individual code contributions to have the support that they need for their contributions to be accepted into the code base.  Most trainings and presentations are designed with a large audience in mind and so have a more generalized topic.  Trusted committer mentorship mostly happens at a one-on-one level.
 
-Why 4 is incorrect:  There’s no guarantee that contributors are located close enough to trusted committers or have time available to get together in person. Trusted committer mentorship happens mostly asynchronously and digitally.
+Why 4 is incorrect:  While pair programming can be done remotely, there’s no guarantee that contributors can coordinate specific times with trusted committers. Trusted committer mentorship happens mostly asynchronously and digitally.
 
 
