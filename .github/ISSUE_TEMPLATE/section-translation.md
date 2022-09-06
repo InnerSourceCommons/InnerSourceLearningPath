@@ -9,7 +9,7 @@ assignees: ''
 
 Follow the instructions in the [contributing translations](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/CONTRIBUTING.md#translations) documentation.
 
-List out all of the English articles in the section.
+List out all of the English articles in the [section](https://github.com/InnerSourceCommons/InnerSourceLearningPath#content-organization).
 
 - [ ] 01-first-article.asciidoc
   - [ ] Machine translation in pull request
