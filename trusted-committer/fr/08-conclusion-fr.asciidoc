@@ -1,10 +1,8 @@
 == Conclusion
-Dans les chapitres précédents, nous avons appris les responsabilités des comités de confiance.
-Certaines de ces responsabilités comprennent l'assurance de la qualité des produits, le maintien de la santé de la collectivité, la réduction des obstacles à la contribution, l'amélioration de la collectivité et la défense de ses besoins au sein de l'organisation.
 
-Nous avons également parlé de la façon de devenir un comité de confiance et de ce qu'il faut pour remplir ce rôle. Travailler en tant que "Trusted Committer" est une tâche exigeante, mais elle amplifiera en fin de compte votre contribution à la valeur ajoutée dans votre entreprise.
+Dans les chapitres précédents, nous avons appris les responsabilités des Trusted Committers. Certaines de ces responsabilités comprennent l'assurance de la qualité des produits, le maintien de la santé de la communauté, la réduction des obstacles à la contribution, l'amélioration de la communauté et la défense de ses besoins au sein de l'organisation. Nous avons également parlé de la façon de devenir un Trusted Committer et de ce qu'il faut pour remplir ce rôle. Travailler en tant que Trusted Committer est une tâche exigeante, mais elle amplifiera en fin de compte votre contribution à la valeur ajoutée dans votre entreprise.
 
-Nous espérons vous avoir incités à vous engager sur la voie de la mise en place d'un comité de confiance et nous espérons également avoir aidé votre organisation à comprendre l'importance d'avoir des comités de confiance compétents pour le succès de toute initiative InnerSource et le niveau d'habilitation requis par ce rôle.
+Nous espérons vous avoir incités à vous engager sur la voie de devenir un Trusted Committer. Nous espérons également avoir aidé votre organisation à comprendre l'importance d'avoir des Trusted Committers compétents pour le succès de toute initiative InnerSource et le niveau d'habilitation requis par ce rôle.
 
 Nous aimerions vous inviter à en apprendre davantage sur InnerSource en explorant les autres articles et vidéos du parcours d'apprentissage InnerSource.
 Et bien sûr, nous serions ravis de vous accueillir dans http://www.innersourcecommons.org/[the InnerSource Commons community ].
