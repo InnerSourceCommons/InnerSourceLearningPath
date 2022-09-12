@@ -18,6 +18,10 @@ InnerSource and Agile
 
 - Issues InnerSource solves
 - Common mis-understandings
+   - Common fears (like losing control) and counter measures
+   - Same phrase - different meaning: How issue trackers and code reviews are used differently in InnerSource projects than is common in the industry.
+   - The impact of transparency: How InnerSource depends on trust, what to avoid to keep trust alive.
+   
 Challenges with InnerSource and agile (these challenges form the basis for the remaining segments in this section).
 
 InnerSource and capacity planning
@@ -27,15 +31,22 @@ InnerSource and capacity planning
 - Contributions as long term investments in your upstream InnerSource project
 Representing in roadmap.
 
-InnerSource and contribution negotiation
+The need for negotiation skills in InnerSource projects
 
 - Small vs. large changes - why smaller changes are easier to integrate ad-hoc than large refactorings
-- Best practices for integrating large refactorings
+- Best practices for integrating large changesets
+   - Coordinate a common understanding of the InnerSource project roadmap
+   - Up-front product and engineering design review
+   - Coordinate the timing of larger contributions
 - Unconventional solutions to priority conflicts
-Up-front product and engineering design review.
+- Communicate the need to think in contributions instead of building workarounds.
+
 
 Options for shared ownership
 
+- Introduce InnerSource governance levels 
+   - Governance levels pattern
+   - Implications of each level on product management
 - Common hurdles (line management, performance review setups)
 - Advantages
 - Commons issues wrt. operations and solutions
