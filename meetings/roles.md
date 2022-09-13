@@ -14,7 +14,7 @@ The _Scheduler_ sends the calendar invite for the meeting.
 
 **Within 24 Hours of Previous Meeting**
 * [ ] Update the shared calendar series with any new invitees from the last call.  
-* [ ] Visit the [learning path folder]. Make sure this folder is shared with any new attendees from the last call.
+* [ ] Visit the [learning path folder].
 * [ ] Right-click on `Meeting - 2022 - MM - DD`.
 * [ ] Select `Make a copy`.
 * [ ] Replace `MM` and `DD` in the document name with the two-digit month and day of the upcoming meeting.
@@ -121,7 +121,7 @@ so that recipients don't need to wade through all of the conversation in order t
 * An easy way to send the notes to everyone on the meeting invite is to "Reply all" to the invite.
  
 [template]: https://docs.google.com/document/d/16pTjdrihudETbt-WSzgRSJgkIL0xm8wLKMKsvRoEGxs/edit?usp=sharing
-[learning path folder]: https://drive.google.com/drive/u/1/folders/11EkhuLJqQDloNU1W6c-f2bbOYVTUorCU
+[learning path folder]: https://drive.google.com/drive/folders/1om7Bu2pn_svjikcVXjFqDpuwXONFof-Q?usp=sharing
 [#learning-path]: https://innersourcecommons.slack.com/messages/CARTU4XV2/
 [#general]: https://app.slack.com/client/T04PXKRM0/C04PXKRN4
 [Scheduler]: #scheduler
