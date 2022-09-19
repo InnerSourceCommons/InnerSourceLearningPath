@@ -1,10 +1,12 @@
 # Is InnerSource Right for My Project?
 
-InnerSource is the application of open source principles to company-internal software development. Done right, it unblocks progress and eases adoption of shared services and modules. This article contains guidance and questions to ask yourself when considering adoption of an InnerSource approach to running your project.
+InnerSource is the application of open source principles to company-internal software development. Done right, it unblocks progress and eases adoption of shared services and modules.
+This article contains guidance and questions to ask yourself when considering adoption of an InnerSource approach to running your project.
 
 ## Will Contributions Come?
 
-An InnerSource approach only makes sense if contributions are expected from the project's users. You can expect contributions to come if you see or anticipate noticeable amounts of energy directed at your project area by its users. Some examples:
+An InnerSource approach only makes sense if contributions are expected from the project's users.
+You can expect contributions to come if you see or anticipate noticeable amounts of energy directed at your project area by its users. Some examples:
 
 -   High amounts of project usage and adoption.
 -   More feature requests than your team has time to fill.
@@ -14,7 +16,8 @@ An InnerSource approach only makes sense if contributions are expected from the 
 
 ## Will I Support Contributions?
 
-Even with willing contributors, the code doesn't just flow in. You will need to encourage and support contributions via activities such as:
+Even with willing contributors, the code doesn't just flow in.
+You will need to encourage and support contributions via activities such as:
 
 -   Understanding users' scenarios and suggesting what contributions in your project could help them to meet those scenarios.
 -   Inviting users to make the contributions that they need and following up with them to ensure that they do them.
