@@ -121,7 +121,7 @@ so that recipients don't need to wade through all of the conversation in order t
 * An easy way to send the notes to everyone on the meeting invite is to "Reply all" to the invite.
  
 [template]: https://docs.google.com/document/d/16pTjdrihudETbt-WSzgRSJgkIL0xm8wLKMKsvRoEGxs/edit?usp=sharing
-[learning path folder]: https://drive.google.com/drive/u/1/folders/11EkhuLJqQDloNU1W6c-f2bbOYVTUorCU
+[learning path folder]: https://drive.google.com/drive/folders/1om7Bu2pn_svjikcVXjFqDpuwXONFof-Q?usp=sharing
 [#learning-path]: https://innersourcecommons.slack.com/messages/CARTU4XV2/
 [#general]: https://app.slack.com/client/T04PXKRM0/C04PXKRN4
 [Scheduler]: #scheduler
