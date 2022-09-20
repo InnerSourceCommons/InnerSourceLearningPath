@@ -29,7 +29,7 @@ You will need to encourage and support contributions via activities such as:
 
 ## Is it Company Specific?
 
-InnerSource projects make sense when the project is specific to the company or gives the company a strategic business advantage.
+InnerSource projects make sense when the project is specific to the company or when its exclusive usage gives the company a strategic business advantage.
 Other collaborative projects should be run as open source to increase the contribution pool and impact.
 
 ## Summary
