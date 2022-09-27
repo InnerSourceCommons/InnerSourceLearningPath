@@ -7,7 +7,10 @@ While the content of this segment can be intersting to engineers in order to hel
 After going through this segment, you will:
 
 * understand how Agile software development relates to InnerSource:
-   * Which problems does InnerSource address that cause issues in typical agile teams? (Think "wait it out", "build workarounds" vs. "help with the solution".)
+   * Which problems does InnerSource address that cause issues in typical agile teams? 
+        * "wait it out", "build workarounds" vs. "help with the solution"
+        * cross-team collaboration
+        * remote first teams
    * In what aspects does InnerSource differ from agile or traditional software development - in particular when the same terminology and technology is used? (Think "Issue tracker for backlog/ board management vs. issue tracker for communication", "code review as quality gate vs. continuous code review as a conversation").
 *  understand how even with InnerSource the host team still has to plan time and capacity when receiving features as pull requests as opposed to features requests.
 *  understand additional negotiation possibilities that InnerSource brings (think "host teams implements tricky feature request of contributing team, in return the contributing team helps with simpler features that the host teams has higher up on their priority list")
