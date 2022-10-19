@@ -27,12 +27,23 @@ You want to improve your product and deliver those improvements faster to custom
    - avoid lengthy roadmap syncronization discussions: "help with solution" instead of "wait it out" or "build workarounds"
    - resolve cross dependencies without compromising autonomy, code ownership and quality
    - better support for remote first by higher focus on written communication
+
+
+- How InnerSource and Agile complement each other
+   - Well factored and well tested code leads to faster on-ramp for agile teams, but also helps InnerSource allowing for faster on-ramp for contributors
+   - A focus on working together and not assigning individual tasks allows for easier on-ramp of contributors.
+   - Existing local pairing can make cross team pairing and sharing of work in progress easier.
+   - Existing test driven development means that confidence in contributions is higher.
+   - XP teams have a "leave the code in better shape than you found it" attitude - mitigates the risk of decline in quality or co-hesion of code when faced with multiple contributions from different sources.
+
+
+Challenges with InnerSource and agile (these challenges form the basis for the remaining segments in this section).
+
 - Common mis-understandings
    - Common fears (like losing control) and counter measures
    - Same phrase - different meaning: How issue trackers and code reviews are used differently in InnerSource projects than is common in the industry.
    - The impact of transparency: How InnerSource depends on trust, what to avoid to keep trust alive.
    
-Challenges with InnerSource and agile (these challenges form the basis for the remaining segments in this section).
 
 InnerSource and capacity planning
 
