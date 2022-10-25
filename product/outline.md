@@ -10,7 +10,7 @@ After going through this segment, you will:
 
 * understand how Agile software development relates to InnerSource:
    * Which problems does InnerSource address that cause issues in typical agile teams? 
-        * "wait it out", "build workarounds" vs. "help with the solution"
+        * "wait it out", "build workarounds", "escalation" vs. "help with the solution"
         * cross-team collaboration
         * remote first teams
    * In what aspects does InnerSource differ from agile or traditional software development - in particular when the same terminology and technology is used? (Think "Issue tracker for backlog/ board management vs. issue tracker for communication", "code review as quality gate vs. continuous code review as a conversation").
