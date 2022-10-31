@@ -14,10 +14,12 @@ const sections = require('./section_data.json')
 const urls = YAML.parse(fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf-8'))
 
 const getYouTubeCode = (section, articleNumber) => {
-  const firstEntryOfGroupIndex = urls.findIndex(entry => entry.section === section.toLowerCase())
-  const currentPageIndexOffset = articleNumber - 1
-  const youtubeUrl = urls[firstEntryOfGroupIndex + currentPageIndexOffset].video.youtube
-  return youtubeUrl.replace('https://www.youtube.com/watch?v=', '')
+  const sectionLinks = urls.filter(entry => entry.section === section.toLowerCase())
+  const videoUrls = sectionLinks[articleNumber - 1]
+  if (videoUrls && videoUrls.video && videoUrls.video.youtube) {
+    return videoUrls.video.youtube.replace('https://www.youtube.com/watch?v=', '')
+  }
+  return ''
 }
 
 (async () => {
