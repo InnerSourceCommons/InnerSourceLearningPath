@@ -16,7 +16,7 @@ Enfin, il incombe au Trusted Committer d'identifier et de soutenir les https://i
 C'est, à notre avis, la responsabilité la plus noble d'un _Trusted Committer_, et c'est gratifiant à la fois pour le _Trusted Committers_ et pour son contributeur.
 Nous avons entendu des _Trusted Committers_ dire que le parrainage et le fait de voir les gens améliorer leurs capacités sont plus que le fait qu'ils aient moins de temps à consacrer à l'écriture de logiciels.
 
-Comme mentionné dans la https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[section précédente], l'apprentissage et la croissance personnelle sont des raisons pour lesquelles les gens se joignent et restent dans une communauté InnerSource.
+Comme mentionné dans la https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/03/[section précédente], l'apprentissage et la croissance personnelle sont des raisons pour lesquelles les gens se joignent et restent dans une communauté InnerSource.
 Upleveling leur https://innersourcecommons.org/learn/learning-path/contributor[_Contributeurs_] est l'un des outils les plus puissants que les Trusted Committers ont à leur disposition pour augmenter la vitesse, la production et la longévité de leurs communautés.
 C'est également l'un des principaux arguments pour convaincre la direction de permettre à ses employés de participer à une communauté InnerSource, car cela rendra leurs employés plus précieux pour l'ensemble de l'entreprise et les aidera à retenir les meilleurs talents.
 

@@ -29,7 +29,7 @@ Geben Sie sich genügend Vorlaufzeit.
 Beginnen Sie früh genug, so dass Ihre Arbeit zu dem Zeitpunkt, an dem Sie sie brauchen, zur Verfügung steht.
 Es ist besser, anfangs mehr Zeit einzuplanen - Sie werden ein Gefühl für die Bearbeitungszeiten bekommen, wenn Sie mit dem Gastteam zusammenarbeiten.
 Häufig werden Sie feststellen, dass sich die Durchlaufzeiten pro Host-Team verringern, nachdem Sie einige erfolgreiche Beiträge für dieses Host-Team geleistet haben.
-Dieser Effekt ist auch bei Open Source zu beobachten, mehr dazu können Sie https://innersourcecommons.org/learn/learning-path/contributor/04/#buildup-of-trust-through-collaboration[_hier_] lesen.
+Dieser Effekt ist auch bei Open Source zu beobachten, mehr dazu können Sie https://innersourcecommons.org/de/learn/learning-path/contributor/04/#buildup-of-trust-through-collaboration[_hier_] lesen.
 
 ==== Erwartungsmanagement
 
