@@ -22,7 +22,7 @@ Une équipe hôte peut faire une meilleure collecte d'exigences sur le travail q
 Même si c'est une seule équipe d'invités qui soumet le changement, cette équipe est probablement représentative de nombreux autres consommateurs.
 
 
-En plus de cet alignement, il y a également une formation générale et une éducation des https://innersourcecommons.org/learn/learning-path/contributor/01[contributeurs] car ils travaillent avec et apprennent du https://innersourcecommons.org/learn/learning-path/trusted-committer/01[committer de confiance].
+En plus de cet alignement, il y a également une formation générale et une éducation des https://innersourcecommons.org/learn/learning-path/contributor/01[contributeurs] car ils travaillent avec et apprennent du https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/01[committer de confiance].
 
 Cette interaction aide les contributeurs à apprendre et à progresser dans leur carrière, ce qui entraîne une *satisfaction professionnelle accrue*.
 La documentation du projet s'améliore pour permettre ces contributions à l'échelle.
