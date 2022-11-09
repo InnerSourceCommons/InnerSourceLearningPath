@@ -29,7 +29,7 @@ If so then your core team is understaffed. A healthy team is staffed so that the
 You can mitigate this by setting expectation, potentialy via SLAs. If contributors expect PR reviews within an hour, maybe you will be stuck reviewing PRs all the time, but if you set an SLA of 1 day or 1 week, this won't be the case.
 
 === How do we convince management this is a good idea?
-Figure out what they want and get a https://innersourcecommons.org/stories[working example of InnerSource], preferably within your organisation, that shows them getting it. If your organization's OSPO manages innersource projects, reach out to them for support.
+Figure out what they want and get a https://innersourcecommons.org/stories[working example of InnerSource], preferably within your organisation, that shows them getting it. If your organization's OSPO manages InnerSource projects, reach out to them for support.
 
 === How do we convince engineers this is a good idea?
 InnerSource gives engineers the opportunity to develop their career, both in terms of skills and https://patterns.innersourcecommons.org/p/praise-participants[recognition] within their organisation:

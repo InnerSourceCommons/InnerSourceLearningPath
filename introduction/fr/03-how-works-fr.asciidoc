@@ -1,4 +1,4 @@
-== Comment fonctionne l'Innersource ?
+== Comment fonctionne l'InnerSource ?
 
 Disons que l'équipe A utilise un logiciel produit par l'équipe B.
 L'équipe A soumet une demande de fonctionnalité à l'équipe B, mais l'équipe B n'est pas en mesure d'implémenter cette fonctionnalité à temps pour l'équipe A.

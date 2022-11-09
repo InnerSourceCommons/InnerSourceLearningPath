@@ -1,4 +1,4 @@
-== InnerSource principles
+== InnerSource Principles
 
 Every company, team, project, and individual is different.
 Because of that fact, the exact way that the concept of InnerSource works will vary from one situation to another.
