@@ -2,17 +2,16 @@ require('dotenv').config()
 const { Octokit } = require("@octokit/core")
 
 module.exports = async function (filepath) {
-  // Translate Windows-style paths to Unix-style paths.
-  filepath = filepath.replace(/\\/g, "/")
+  const unixStyleFilepath = filepath.replace(/\\/g, "/")
   const octokit = new Octokit({
     auth: process.env.TOKEN
   })
   const { repository: { object: { history } } } = await octokit.graphql(
-    `{
+    `query ($filepath: String!) {
       repository(owner: "InnerSourceCommons", name: "InnerSourceLearningPath") {
         object(expression: "main") {
           ... on Commit {
-            history(first: 100, path: "${filepath}") {
+            history(first: 100, path: $filepath) {
               totalCount
               nodes {
                 authors(first: 100) {
@@ -44,7 +43,9 @@ module.exports = async function (filepath) {
           }
         }
       }
-    }`
+    }`, {
+      filepath: unixStyleFilepath
+    }
   )
 
   if (history.totalCount > 100) {
