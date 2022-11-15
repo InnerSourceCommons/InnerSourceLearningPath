@@ -1,16 +1,13 @@
 require('dotenv').config()
-const { graphql } = require("@octokit/graphql")
-
-const graphqlWithAuth = graphql.defaults({
-  headers: {
-    authorization: `token ${process.env.TOKEN}`
-  }
-})
+const { Octokit } = require("@octokit/core")
 
 module.exports = async function (filepath) {
   // Translate Windows-style paths to Unix-style paths.
   filepath = filepath.replace(/\\/g, "/")
-  const { repository: { object: { history } } } = await graphqlWithAuth(
+  const octokit = new Octokit({
+    auth: process.env.TOKEN
+  })
+  const { repository: { object: { history } } } = await octokit.graphql(
     `{
       repository(owner: "InnerSourceCommons", name: "InnerSourceLearningPath") {
         object(expression: "main") {
