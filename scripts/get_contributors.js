@@ -10,7 +10,7 @@ const graphqlWithAuth = graphql.defaults({
 module.exports = async function (filepath) {
   // Translate Windows-style paths to Unix-style paths.
   filepath = filepath.replace(/\\/g, "/")
-  const { repository: { object: { history }}} = await graphqlWithAuth(
+  const { repository: { object: { history } } } = await graphqlWithAuth(
     `{
       repository(owner: "InnerSourceCommons", name: "InnerSourceLearningPath") {
         object(expression: "main") {
