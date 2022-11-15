@@ -5,6 +5,7 @@
   "main": "substitute_article_urls.js",
   "dependencies": {
     "@octokit/core": "^4.1.0",
+    "@octokit/plugin-throttling": "^4.3.2",
     "asciidoctor": "^2.2.1",
     "dotenv": "^8.2.0",
     "yaml": "^1.10.0",
