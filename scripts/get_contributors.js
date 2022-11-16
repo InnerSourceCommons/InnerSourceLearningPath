@@ -17,8 +17,8 @@ module.exports = async function (filepath) {
         return false
       },
       onSecondaryRateLimit: (retryAfter, options, octokit) => {
-        // does not retry, only logs a warning
-        octokit.log.warn(`SecondaryRateLimit hit for request ${options.method} ${options.url}`)
+        octokit.log.warn(`SecondaryRateLimit hit for request ${options.method} ${options.url}, retrying after ${retryAfter} seconds`)
+        return true
       },
     },
   })
