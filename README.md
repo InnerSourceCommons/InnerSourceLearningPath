@@ -77,7 +77,7 @@ If you want to hit the ground running then please:
 
 * Take a **look at the the finished segments** (linked at https://innersourcecommons.org/learningpath/).
 * Take a look at our [Kanban board] to see what's in flight.
-* See [CONTRBUTING.md][contribution] for more detail.
+* See [CONTRIBUTING.md][contribution] for more detail.
 
 See you there!
 
