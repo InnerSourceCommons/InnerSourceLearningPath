@@ -57,7 +57,6 @@ const getYouTubeImage = (youTubeCode) => {
 
       let { indexContent, ...indexFrontMatter } = yamlFront.loadFront(fs.readFileSync(indexReadPath, 'utf-8'), { contentKeyName: 'indexContent' })
       indexFrontMatter.image = section.image
-      indexFrontMatter.contributors = await getContributors(relative('..', readPath))
       indexFrontMatter.weight = sectionDataIndex
 
       if (!indexTranslated) {
