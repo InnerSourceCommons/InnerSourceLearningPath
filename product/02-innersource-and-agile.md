@@ -55,7 +55,7 @@ Only for planning purposes, essentially a replacement for sticky notes on a whit
 In InnerSource for a conversation with the customer, but also for communication between members of a team of trusted committers and contributors working on one common InnerSource component.
 Issues in InnerSource become much more lengthy and wordy than in your average organisation.
 
-  - Code reviews: In traditional organisations those often serve auditing purposes and for quality controle.
+  - Code reviews: In traditional organisations those often serve auditing purposes and for quality control.
 They are done when development is finished.
 In InnerSource code changes are shared very early in the process, sometimes when nothing more than a rough sketch is done.
 The goal is to seek early feedback and mentoring.
