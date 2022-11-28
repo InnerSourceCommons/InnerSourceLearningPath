@@ -39,7 +39,7 @@ jobs:
       - name: Build
         working-directory: InnerSourceLearningPath/scripts
         # The automated steps here need to be kept in sync manually with the written instructions at "/scripts/README.md"
-        # (The "generate_learning_path_markdown.js" and "How to update innersourcecommons.org with new articles" sections).
+        # ("generate_learning_path_markdown.js" and "How to update innersourcecommons.org with new articles" sections).
         run: |
             npm ci
             TOKEN=${{ secrets.GITHUB_TOKEN }} node generate_learning_path_markdown.js
