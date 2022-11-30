@@ -45,10 +45,6 @@ As a result, cross functional teams where testing happens close to development a
 
 ## Common misunderstandings when coming from agile teams
 
-* Impact on performance reviews: InnerSource moves some of the energy you spend developing outside of your own team.
-That means you are losing some level of control.
-You are also losing direct oversight. As a result performance feedback for InnerSource contributors needs to take the perspective of the host team into account.
-
 * Impact of language: InnerSource and Agile uses some of the same tooling - for different purposes.
    - Issue trackers: In agile teams pure conversation with the customer.
 Only for planning purposes, essentially a replacement for sticky notes on a whiteboard.
@@ -79,4 +75,5 @@ That also may mean to post-pone important project decisions until everyone is ba
 
 * Impact on trust: All discussions in InnerSource projects are visible to everyone in the company.
 Blaming people for their errors, ridiculing them for their mistakes, talking behind their backs about what they did wrong is a sure fire way to kill that trust and leads to the failure of that InnerSource project.
+
 

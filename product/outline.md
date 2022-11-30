@@ -43,7 +43,7 @@ Challenges with InnerSource and agile (these challenges form the basis for the r
    - Common fears (like losing control) and counter measures
    - Same phrase - different meaning: How issue trackers and code reviews are used differently in InnerSource projects than is common in the industry.
    - The impact of transparency: How InnerSource depends on trust, what to avoid to keep trust alive.
-   
+   - written first is not to avoid verbal communication or to move everything into DMs or long winded email threads
 
 InnerSource and capacity planning
 
