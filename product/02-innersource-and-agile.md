@@ -46,6 +46,8 @@ As a result, cross functional teams where testing happens close to development a
 ## Common misunderstandings when coming from agile teams
 
 * Impact of language: InnerSource and Agile uses some of the same tooling - for different purposes.
+   - Product Owner needs to support and align on off-team contributions (rather than strictly work with the Host team).
+More to come on this in **InnerSource and Negotiation**.
    - Issue trackers: In agile teams pure conversation with the customer.
 Only for planning purposes, essentially a replacement for sticky notes on a whiteboard.
 In InnerSource for a conversation with the customer, but also for communication between members of a team of trusted committers and contributors working on one common InnerSource component.
