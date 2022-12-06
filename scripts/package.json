@@ -8,6 +8,7 @@
     "@octokit/plugin-throttling": "^4.3.2",
     "asciidoctor": "^2.2.1",
     "dotenv": "^8.2.0",
+    "puppeteer": "^19.3.0",
     "yaml": "^1.10.0",
     "yaml-front-matter": "^4.1.1"
   },
