@@ -7,51 +7,91 @@ InnerSource helps your team deliver value and maintain autonomy especially in a 
 
 ## Autonomous teams in an interconnected world
 
-* organisations try to deliver value to customers quickly
-* to do that lengthy roadmap synchronisation settings are to be avoided
-* often those discussions stem from team dependencies: Releases waiting for the testers, deployment waiting for time in the ops team.
-As a result, cross functional teams where testing happens close to development and those who build software own running the software have proven to be successful.
-* but there is another type of inter-team dependency:
-* however we live in an interconnected world: Software written today relies on many dependencies
-* Each source code dependency, each call to some service, each external dataset used boils down to a dependency between two teams.
-* What if you need changes made to such a dependency?
-   * Traditional options:
-      * submit a feature request and wait it out
-      * build a workaround
-      * if nothing else helps, escalate your issue
-   * added benefit of InnerSource:
-      * help with the solution
+Organisations try to deliver value to customers quickly.
+One common cause for delays are dependencies in the delivery process.
+As a result many organisations have moved to cross functional teams where communication with customers, design, implementation, testing and deployment/ operations are all in one team thus eliminating the need for costly handovers.
+However in order to achieve high performance teams try to also eliminate waste and re-use existing components.
+From a team perspective each re-used component however adds another link, another dependency outside of the control of that team.
+Often the result are lengthy roadmap discussions to get everyone on the same page and globally optimise prioritization so that changes that are needed in central components can be implemented in an orderly fashion.
+What's more often there are so many requests coming from teams that one central component team runs out of capacity to implement all of the requested changes.
 
-* But team members working in each others repositories sounds like chaos?
-   * InnerSource comes with a set of roles and processes, contributions happen in a structured way
-   * each InnerSource project has a clear set of trusted committers with clear accountabilities that go beyond simply reviewing code.
-   * support for more autonomy by being able to fix upstream artifacts without sacrifycing quality due to a clear review process
+While in traditional organizations there are only two ways of making changes to dependencies:
+* Submit a feature request/ bug report and wait for the other team to prioritize that change and implement it.
+* Build a workaround to avoid the bug or locally provide the functionality needed.
+If none of those options is successful typically the issue is being escalated and decided at a higher hierarchical level-
 
-* Todays world moves towards a remote first culture - InnerSource has a focus on written communication and lends itself easily to remote first.
+Neither solution is particularly satisfying.
+Looking at open source though there is an obvious solution: As a contributing team that depends on a certain component provide a helping hand to the host team that is responsible for that component.
+
+Now you may ask yourself: "Doesn't that lead to complete chaos where people randomly write into code repositories of teams they are not a member of?" InnerSource comes with a set of roles and processes that bring clarity to what otherwise would indeed lead to chaos:
+* Each InnerSource project has a set of Trusted Committers with clear accountabilities that go beyond simply reviewing code.
+Trusted Committers are also the people who set the rules for contributions.
+* Contributions happen in a structured way - with a clear focus on sharing contribution intend early to make sure the contribution fits within the Host projects vision and scope.
+With a focus on sharing progess early so the host team has a chance to mentor the contributor and guide them on the path to a desired design and architecture early instead of creating frustration by having to decline a contribution late in the process.
+With a focus on asynchronous communication to be able to work around differing meeting schedules of people in different teams.
+As a result contributing teams gain autonomy to fix upstream artifacts without sacrifycing the quality of the component that is being contributed to.
+
+As a side effect InnerSource provides teams with best practices that make working in a remote first culture easy.
+
+## Advantages of an InnerSource approach
+
+Instead of working in silos InnerSource fosters collaboration between teams.
+Much as in open source that means standing on the shoulders of giants: Instead of building every component locally InnerSource fosters re-use.
+It reduces the cost of reuse by providing a clear path to supporing the upstream team with the work of fixing bugs and implementing features.
+
+Much like in open source InnerSource fosters a thinking of combined forces: Components that all business units and product teams need as a foundation can be built together.
+As a result all the boats are rising together: Innovation created in one part of the organization can create benefits all over the entire corporation.
+With teams that are familiar with InnerSource the load to move this type of innovation forward can be shared by all teams that benefit from and depend on the resulting components and services.
+
+InnerSource gives your team the initiative and tooling to fix issues that block shipping features to customers.
+When done right maintenance of core components and services can be shared in a well structured way by a "virtual InnerSource team" that is larger than any specific product team.
+
+In advanced settings those involved understand the value of contributors working on simpler features that may not directly benefit their customers - under the condition that that frees the host team to work on more complex changes that contributors hava a business need for.
 
 
 ## Does InnerSource replace Agile?
 
-* short answer: No, not at all.
-* Instead they complement each other:
+Short answer: No, not at all. Instead the two complement each other:
 
+Well facored and well tested code is one goal of any agile team. In an InnerSource setting not only does that lead to faster on-ramp times for team members, it helps getting contributors up to speed quickly as well.
 
-- How InnerSource and Agile complement each other
-   - Well factored and well tested code leads to faster on-ramp for agile teams, but also helps InnerSource allowing for faster on-ramp for contributors
-   - A focus on working together and not assigning individual tasks allows for easier on-ramp of contributors.
-   - Existing local pairing can make cross team pairing and sharing of work in progress easier.
-   - Existing test driven development means that confidence in contributions is higher.
-   - XP teams have a "leave the code in better shape than you found it" attitude - mitigates the risk of decline in quality or co-hesion of code when faced with multiple contributions from different sources.
+Teams that are already familiar with collaborative ways of working together and avoid assigning individual tasks are in a good position to also deal with external contributions in a flexible manner.
+They also bring a mindset and communication style that works well for motivating contributors over whose priority they have no direct influence.
+Working with intrinsic motivation instead of directing work means that host teams already have the tools that will help the successfully work with contributors.
+
+If teams are already successfully pairing to work on problems they are already comfortable with sharing progress early for the purpose.
+One challenge moving to InnerSource from a pairing only culture often is two-fold: The host team needs to make time for supporting contributors and schedule that into their planned work.
+In addition when crossing team boundaries it is often hard to find time slots for pairing - in those cases it should be complemented with asynchronous collaboration.
+To avoid frequent disruption time for that should also be set aside.
+Often it is simplest to set aside certain hours in the day or a day a week for that work.
+Making that explicit at the team level takes a lot of pressure off of engineers trying to fullfill their own team goals but also helping out contributors.
+Another challenge with pairing is that it allows pairs to move very quickly together - often at the expense of writing important information down for the rest of the team.
+In an InnerSource setting it does take training to remember to bring all relevant decisions back to shared communication channels that both, host team and contributors can follow.
+From a product perspective that does bring a lot more transparency to the development process.
+It also means that decisions that otherwise may have been taken at the engineering level only are now visible for everyone involved.
+
+Remember last time you insisted that your product be well tested, preferably with automated tests so deployments can happen frequently and without human intervention?
+This goal now helps with InnerSource as well: Contributions are much easier if contributors can check locally if their changes are safe.
+Tests also ensure that the host team remembers to keep the contributed functionality if they are reminded of the reason for it by a failing test.
+
+Remember last time you insisted on your team spending time to follow the goal of "leave code in a better shape than you found it"?
+That mindset will also help you when moving to an InnerSource model: It makes sure that quality and co-hesion of code remains high even when there are multiple contributions from different sources.
+
 
 ## Common misunderstandings when coming from agile teams
 
-* Impact of language: InnerSource and Agile uses some of the same tooling - for different purposes.
-   - Issue trackers: In agile teams pure conversation with the customer.
-Only for planning purposes, essentially a replacement for sticky notes on a whiteboard.
+InnerSource and Agile uses some of the same tooling - for different purposes.
+
+### Impact of overlapping language
+
+Issue trackers: In agile teams user stories are a conversation with the customer.
+Often the are put as sticky notes on a whiteboard.
+But also often they are stored in an issue tracker.
+As a result issue trackers are mainly needed for planning purposes, essentially a replacement for sticky notes on a whiteboard.
 In InnerSource for a conversation with the customer, but also for communication between members of a team of trusted committers and contributors working on one common InnerSource component.
 Issues in InnerSource become much more lengthy and wordy than in your average organisation.
 
-  - Code reviews: In traditional organisations those often serve auditing purposes and for quality control.
+Code Reviews: In traditional organisations code reviews often serve auditing purposes and for quality control.
 They are done when development is finished.
 In InnerSource code changes are shared very early in the process, sometimes when nothing more than a rough sketch is done.
 The goal is to seek early feedback and mentoring.
@@ -59,7 +99,7 @@ This is particularly helpful for teams that are on diverse schedules and cannot 
 Often teams have the aspiration that nobody walks alone - in reality though this often isn't much more than an aspiration never achieved.
 In particular where contributions cross team boundaries.
 
-  - Focus on written communication: The goal with InnerSource is for the project to be transparent enough so that developers who are not part of the team can understand project decisions and follow alogthe process of software creation.
+Focus on written communication: The goal with InnerSource is for the project to be transparent enough so that developers who are not part of the team can understand project decisions and follow alogthe process of software creation.
 As a result all communication needs to be in a place that everyone interested in the conversation can follow along: written, public, searchable and linkable.
 The goal is not to reduce disturbing others - the goal is to make all project conversations transparent.
 As a result direct messages and mails are to be avoided.
@@ -67,13 +107,17 @@ In order to make following conversations easier for everyone, messages related t
 The goal is to find a common shared room for everyone involved with the project where they can have discussions focused on that InnerSource project.
 
 
-* Focus on written communication does not mean verbal communication is disallowed.
+Focus on written communication does not mean verbal communication is disallowed.
 There still needs to be time for a shared cup of coffee.
-Make sure though that all project relevant decisions are kept in channels that everyone has access to.
+Also solving problems together, pairing with others or in person hackathons are valuable to find solutions quickly.
+The team needs to make sure though that all project relevant decisions are kept in channels that everyone has access to.
 That also may mean to post-pone important project decisions until everyone is back from vacation or waiting for another day or two if those working in another country are now on holiday.
+This is not only relevant for coding decisions, but also relates to general project mission, roadmap and direction.
+Without that information contributors will have a hard time understanding which contributions will have a good chance of getting accepted.
 
+### Impact of trust
 
-* Impact on trust: All discussions in InnerSource projects are visible to everyone in the company.
+All discussions in InnerSource projects are visible to everyone in the company.
 Blaming people for their errors, ridiculing them for their mistakes, talking behind their backs about what they did wrong is a sure fire way to kill that trust and leads to the failure of that InnerSource project.
-
+This is in particular important for anyone in a leadership or role model position.
 

@@ -1,43 +1,69 @@
 # InnerSource and negotiation skills
 
-## small vs. large changes
+Coding and negotiation?
+You may ask yourself how these two go together.
+In particular for InnerSource host teams it helps to have a few stumbling blocks in mind when it comes to change negotiation.
 
-* smaller changes tend to be accepted faster
-   * easier to review
-   * less impact - both, positive and negative
-   * faster to integrate
-   * ad-hoc for those often works
-   * sweet spot for drive-by contributions without much coordination
-   * typically don't cause a lot of friction, typically don't cause escalation
+## Small vs. large changes
 
-* but sometimes large changes are needed
-   * learned ad hoc working model breaks
-   * escalation quickly happens
-   * needs coordination:
-     * when does the host team have time for mentoring?
-     * when does the contributor have time for being mentored?
-     * does the change fit into the host team vision of the project?
-     * avoid sending large patches - frustration if they are declined is high on both sides
-   * coordination not at tech and business level separately but preferably with everyone at the same table - think of one async communication platform for the InnerSource project.
+As discussed in the last training segment, smaller code changes tend to get accepted faster.
+For the host team the advantages are clear and should be communicated to contributing teams:
+* They are easier to review.
+* They have less impact - both, positive and negative.
+* They are faster to integrate.
+As a result making small changes in an ad-hoc fashion typically causes little to no friction.
+They are a sweet-spot for drive-by contributions and often can be handled without much coordination support.
+Typically this is how InnerSource contributions start: Engineers in teams start collaborating on smaller changes and find that work very easy and light weight.
+Smaller changes are also changes that tend to go through without any need for escalation.
+
+This may cause teams to adopt a mindset where InnerSource is only for the software engineers.
+However this learned ad hoc working model breaks as soon as the scope of contributions increases.
+If kept purely to software engineers, in the worst case even with push back from other roles in the teams this means that escalations will happen way more often.
+For modifications with a larger scope other roles in the contributing and in the host team need to be aware of the InnerSource work and need to bring their skills to the table:
+* Together, the two teams need to figure out a good time for working on the contribution.
+If the host team has no time for mentoring the contributing team is more likely to get frustrated for lack of support.
+They may also be more likely to develop a solution that is likely to need a lot of rework causing frustration for everyone involved.
+If the contributing team has no time to focus on the contribution refinement cycles for the changes may become too long and interruptions too high.
+* Before any sourcecode is written the contributer and the host team need to figure out if the changes fit into the vision of the InnerSource project.
+Ideally this also means that tech and business level expertise needs to come together, preferably on the same communication channel where everyone can participate.
+Often this results in negotiations around if the changes should be made in the InnerSource project - with maintenance subsequently covered by the host team.
+It can mean that those involved need to clarify what the value for everyone involved is, but also if and how the contributing team can help the host team lower the maintenance burden.
 
 ## Coordination
 
-* in particular larger changes need coordination
-   * make sure host team has time for mentoring
-   * anticipate longer waiting time otherwise
+"Just write the code and send us your patch" - sounds easy enough.
+Except in reality this is only true for the most trivial changes.
+In particular larger changes need coordination so that everyone involved has time to participate.
+Otherwise longer waiting times are expected.
+Crossing team boundaries also often means subtle changes in communication culture.
+People who are strong communicators can help cross these gaps by translating between teams in case of mis-understandings.
 
-* coordinate common understanding of the roadmap and vision of the InnerSource project
-* make sure that design, architecture and performance requirements are clear to everyone
-   * essentially everything that is clear implicitly when working in a local team
-   * make time for automated quality checks
+In contrast to teams working only on local code InnerSource host teams need to make sure their roadmap and vision is communicated with all potential contributors.
+In addition the host team needs to make sure that design, architecture and performance requirements are explicit and clear to everyone working on the code-base - including occasional contributos.
+This transition is particularly hard for teams used to work in very co-hesive local settings.
+Essentially everything that in a very local team is clear implicitly needs to be made transparent and explicit.
+In the short term this does cost time - in the long term it helps contirbutors get up to speed faster requiring less support from the host team.
+One thing that has been proven successful in open source is making it easy for contributors to walk the correct path.
+This include automated quality checks that fail at build time.
+While timeconsuming to write and maintain those take work off of the shoulders of the host team as obvious issues are highlighted automatically.
 
-* When coordinating think out of the box:
-   * contributors can make all of the tedious but smaller and easier fixes, while the host team thus has more time for the more complicated changes that the contributors need
+One difference with InnerSource to regular inter-team negotation are oportunities to think out of the box:
+Imagine a contributor Bob who needs a very complex change in the InnerSource project maintained by Alice.
+Bob is just beginning to understand the code-base and would have trouble understanding it on his own.
+In addition mentoring him through the process would take Alice a lot of time.
+However Alice has several high priority but easy to implement features on her backlog.
+What if Bob took some of those issue off of her backlog and implemented them - in return Alice has time to work on the change that Bob needs?
+For the sake of transperancy those agreements should be explained to both, the host team and the contributing team.
+Otherwise they will have a hard time understanding why Bob and Alice are not working on the changes that each of their customers needs.
 
-* As a host team product owner you need to understand overall business priority in particular at times where more contributions are flowing in than your team can handle
+For another example imagin a host team that is working on a very popular InnerSource project.
+Likely it is central to the business of the company.
+Over time more and more contributors are capable of making the changes they need turning the host team into a review bottleneck.
+To deal with that issue a clear perspective on overall business priority of the projects that contributing teams work on helps understand which patches to prioritize and stops the host team members from shifting focus constantly.
+As a next step the host team needs to think about expanding the number of Trusted Committers working on that InnerSource project.
+As mentioned earlier one option could be inviting people committed to the project who work under the direction of another line of management.
 
-* Needs an understanding where contributions make sense
-   * time invest for contributors worthy?
-   * mentoring invest for host team compared to "simply do it yourself quickly"
-   * is there a chance the contributor stays active long term?
+In particular when faced with a lot of contributions that are fairly complex host teams need to understand where the time invest to mentor contributors is a worthy investment.
+The more time needed for mentoring the more likely it should be that these contributors will have time to stick around for longer.
+
 
