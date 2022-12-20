@@ -14,11 +14,12 @@ However in order to achieve high performance teams try to also eliminate waste a
 From a team perspective each re-used component adds another dependency outside of the control of that team.
 Often the results are lengthy roadmap discussions to get everyone on the same page on how to optimize priorities globally.
 This allows changes that are needed in central components to be implemented in an orderly fashion.
-What's more often there are so many requests coming from teams that one central component team runs out of capacity to implement all of the requested changes.
+Often there are so many requests coming from teams that one central component team runs out of capacity to implement all of the requested changes.
 
 While in traditional organizations there are only two ways of making changes to dependencies:
 * Submit a feature request/ bug report and wait for the other team to prioritize that change and implement it.
 * Build a workaround to avoid the bug or locally provide the functionality needed.
+
 If none of those options is successful typically the issue is being escalated and decided at a higher hierarchical level-
 
 Neither solution is particularly satisfying.
