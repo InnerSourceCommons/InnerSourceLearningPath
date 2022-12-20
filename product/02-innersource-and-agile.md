@@ -11,7 +11,7 @@ Organisations try to deliver value to customers quickly.
 One common cause for delays are dependencies in the delivery process.
 As a result many organisations have moved to cross functional teams where communication with customers, design, implementation, testing and deployment/ operations are all in one team thus eliminating the need for costly handovers.
 However in order to achieve high performance teams try to also eliminate waste and re-use existing components.
-From a team perspective each re-used component however adds another link, another dependency outside of the control of that team.
+From a team perspective each re-used component adds another dependency outside of the control of that team.
 Often the result are lengthy roadmap discussions to get everyone on the same page and globally optimise prioritization so that changes that are needed in central components can be implemented in an orderly fashion.
 What's more often there are so many requests coming from teams that one central component team runs out of capacity to implement all of the requested changes.
 
