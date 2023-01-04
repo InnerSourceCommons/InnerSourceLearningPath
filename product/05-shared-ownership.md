@@ -82,7 +82,7 @@ To summarize each governance level needs a different approach to collaboration a
 * Increased shared accountabilities can slow down decision making.
 
 
-## Over communication
+## Explicit pointers for contribution
 
 What is implicitly clear for team members is best made explicit and documented if the project would like to encourage contributions.
 Topics like
