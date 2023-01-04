@@ -24,7 +24,7 @@ For modifications with a larger scope other roles in the contributing and in the
 If the host team has no time for mentoring the contributing team is more likely to get frustrated for lack of support.
 They may also be more likely to develop a solution that is likely to need a lot of rework causing frustration for everyone involved.
 If the contributing team has no time to focus on the contribution refinement cycles for the changes may become too long and interruptions too high.
-* Before any sourcecode is written the contributer and the host team need to figure out if the changes fit into the vision of the InnerSource project.
+* Before any sourcecode is written the contributor and the host team need to figure out if the changes fit into the vision of the InnerSource project.
 Ideally this also means that tech and business level expertise needs to come together, preferably on the same communication channel where everyone can participate.
 Often this results in negotiations around if the changes should be made in the InnerSource project - with maintenance subsequently covered by the host team.
 It can mean that those involved need to clarify what the value for everyone involved is, but also if and how the contributing team can help the host team lower the maintenance burden.
