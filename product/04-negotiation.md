@@ -56,7 +56,7 @@ What if Bob took some of those issue off of her backlog and implemented them - i
 For the sake of transperancy those agreements should be explained to both, the host team and the contributing team.
 Otherwise they will have a hard time understanding why Bob and Alice are not working on the changes that each of their customers needs.
 
-For another example imagin a host team that is working on a very popular InnerSource project.
+For another example, imagine a host team that is working on a very popular InnerSource project.
 Likely it is central to the business of the company.
 Over time more and more contributors are capable of making the changes they need turning the host team into a review bottleneck.
 To deal with that issue a clear perspective on overall business priority of the projects that contributing teams work on helps understand which patches to prioritize and stops the host team members from shifting focus constantly.
