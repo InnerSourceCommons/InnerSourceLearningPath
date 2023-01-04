@@ -9,6 +9,7 @@ const mkdirSync = require('./mkdir_sync')
 const getArticleFiles = require('./get_article_files')
 const writeMarkdownFile = require('./write_markdown_file')
 const sections = require('./section_data.json')
+const workbook = require('./workbook_generators.js')
 
 const urls = YAML.parse(fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf-8'))
 
@@ -30,9 +31,10 @@ const getYouTubeImage = (youTubeCode) => {
 
 (async () => {
   const writeDir = 'newsite'
-  mkdirSync(join('.', writeDir))
+  const writePath = join('.', writeDir)
+  mkdirSync(writePath)
 
-  sections.forEach((section, sectionDataIndex) => {
+  sections.forEach(async (section, sectionDataIndex) => {
     const { dirName } = section
     const baseReadPath = join('..', dirName)
     const baseWritePath = join('.', writeDir, dirName)
@@ -91,21 +93,15 @@ const getYouTubeImage = (youTubeCode) => {
 
       // Workbooks not translated.
       if (!isTranslation) {
-        const workbookFileName = join(baseWritePath, 'workbook.md')
         const contributors = await getContributors(`workbook/${section.workbook}`)
-        const workbookPosition = articles.length + 1
+        const wbImageName = await workbook.image.generate(writePath, "Learning Path", `${section.learning_path_group} Workbook`)
 
-        const workbookFrontMatter = {
-          title: 'Workbook',
+        workbook.content.generate(
+          join('..', 'workbook', section.workbook),
+          baseWritePath,
           contributors,
-          image: section.image,
-          weight: workbookPosition
-        }
-
-        const workbookReadPath = join('..', 'workbook', section.workbook)
-        const body = asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
-
-        writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
+          wbImageName,
+          articles.length + 1)
       }
     })
   })
