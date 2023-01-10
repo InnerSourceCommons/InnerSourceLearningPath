@@ -44,6 +44,7 @@ jobs:
             npm ci
             TOKEN=${{ secrets.GITHUB_TOKEN }} node generate_learning_path_markdown.js
             cp -r newsite/. ../../innersourcecommons.org/content/en/learn/learning-path/
+            cp -r workbooks ../../innersourcecommons.org/static/images/learn/
       - name : Commit
         working-directory: innersourcecommons.org
         run: |

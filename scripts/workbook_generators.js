@@ -135,7 +135,7 @@ const generateWorkbookImage = async (baseWritePath, moduleName, workbookTitle) =
 
 /**
  * contentFilePath
- *  file that contains the workbook body (asciidoc)
+ *  file that contains the source workbook body (asciidoc)
  * baseWritePath
  *  folder to write the generated workbook file to
  * contributors
@@ -147,7 +147,7 @@ const generateWorkbookImage = async (baseWritePath, moduleName, workbookTitle) =
  *
  * Reads the given file and converts contents from asciidoc to markdown.
  * Writes markdown file to the given path.
- * Appends workbook metadata (contributors, image, etc) to the generated file.
+ * Inserts workbook metadata (contributors, image name, etc) in the generated file.
  * **/
 const generateWorkbookContent = (contentFilePath, baseWritePath, contributors, imageFileName, weight) => {
   const generatedFileName = 'workbook.md';
@@ -157,6 +157,10 @@ const generateWorkbookContent = (contentFilePath, baseWritePath, contributors, i
     image: join(siteImagePath, imageFileName),
     weight
   };
+
+  if (!existsSync(baseWritePath)) {
+    mkdirSync(baseWritePath)
+  }
 
   try {
     const body = asciidoctor.convert(readFileSync(contentFilePath, 'utf-8'));

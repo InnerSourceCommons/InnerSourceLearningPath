@@ -3,4 +3,5 @@
 scripts/node_modules
 scripts/learningpath
 scripts/newsite
+scripts/workbooks
 scripts/.env

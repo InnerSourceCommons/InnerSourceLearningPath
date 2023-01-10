@@ -94,7 +94,7 @@ const getYouTubeImage = (youTubeCode) => {
       // Workbooks not translated.
       if (!isTranslation) {
         const contributors = await getContributors(`workbook/${section.workbook}`)
-        const wbImageName = await workbook.image.generate(writePath, "Learning Path", `${section.learning_path_group} Workbook`)
+        const wbImageName = await workbook.image.generate('.', "Learning Path", `${section.learning_path_group} Workbook`)
 
         workbook.content.generate(
           join('..', 'workbook', section.workbook),
