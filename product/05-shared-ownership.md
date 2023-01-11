@@ -10,7 +10,7 @@ Opening a project up for contibutions though doesn't mean that Trusted Committer
 It is the team of Trusted Committers that sets the mission and goals for the project.
 They are then in a postition to set direction and decide on change acceptance accordingly.
 
-## Ownership mis-conceptions
+## Ownership misconceptions
 
 "Trusted committers are responsible for an InnerSource project.
 They review submissions and mentor contributors."
@@ -28,7 +28,7 @@ This does have impact on general capacity planning and should not happen "under 
 On the other hand for contributors it is important that code review is not a last stage quality gate.
 Instead it is a way for continiously guiding contributors through the code development process ideally leading to better results faster.
 For that to work out in practice there needs to be time and space for team building - but across traditional team boundaries.
-Having at least a vague understanding of the differing cultures in teams makes misunderstandings much less likely and the contribution process much more smooth.
+Having at least a vague understanding of the different cultures in teams makes misunderstandings much less likely and the contribution process much more smooth.
 
 In particular when host teams are flooded with contributions product managers that otherwise focus only on their local team need to take a more global perspective:
 * Help the team understand different priorities for incoming contributions depending on overall company strategy.
@@ -41,7 +41,7 @@ In particular first time contributors may need some hand holding - in particular
 Coordinating the timing around that mentoring can be a big help for your team.
 
 
-"But I could simply fork" ... a misconception where potential guest teams believe that simply copying the code would be faster.
+"But we could simply fork permanently" ... a misconception where potential guest teams believe that simply copying the code would be faster.
 In the short term that is true.
 In the long run it means added maintenance.
 As a product person you can help your team understand why contributing changes to the project you depend on is in the best interest of the business: Less work overall.
@@ -54,7 +54,7 @@ While using pull requests and reviews is a crucial component, it is just the bas
 Just because two projects you depend on use pull requests on a daily basis does not mean that their openess to team-external contributions is the same.
 
 InnerSource comes with different best practices.
-In order to avoid confusion and frusttration for contributors it is important for host teams to define for their InnerSource project which governance model they want to adopt.
+In order to avoid confusion and frustration for contributors it is important for host teams to define for their InnerSource project which governance model they want to adopt.
 Much like in Open Source these governance levels can differ substantially.
 
 In the InnerSource Commons we provide an InnerSource pattern that defines at least three governance levels:
@@ -100,7 +100,7 @@ InnerSource contributors however are starting to have an impact outside of their
 InnerSource Trusted Committers have an impact on teams that can be outside of the scope of their own team.
 That means direct line managers are losing a certain level of control.
 They are also losing direct oversight.
-As a result for performance reviews insights from potentially remote teams have to be taken into account.
+As a result, performance feedback from potentially remote teams should to be taken into account.
 
 ## "You build it, you run it" in settings with high sharing levels
 

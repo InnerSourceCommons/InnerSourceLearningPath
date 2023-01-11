@@ -59,5 +59,5 @@ When faced with a lot of interest in contributions one additional factor to cons
 The more time is needed for mentoring, the more likely it should be for contributors to stick around longer.
 
 In practice sharing ownership of the component with very active contributors has proven to keep the newly minted Trusted Committers engaged with the project over a longer period of time.
-Typically they help keep the component up to date and mentor new contributors long after the initial trigger for the contribution has been fixed.
+Typically they help keep the component up to date and mentor new contributors long after the initial motivation for the contribution has been addressed.
 
