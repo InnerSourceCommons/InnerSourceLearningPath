@@ -1,0 +1,72 @@
+# --------------------------
+# Extra words for the Learning Path
+# --------------------------
+
+# From chapter: Introduction
+scalable
+PRs
+SLAs
+OSPO
+upleveled
+async
+catchups
+InnerSource
+skillset
+mentorship
+codebase
+SLA
+roadmap
+roadmaps
+repo
+README
+discoverable
+md
+hoc
+
+# From chapter: Trusted Committer
+onboarding
+uplevel
+Committer's
+Committer’s
+frictionless
+noncode
+
+# From chapter: Contributor
+repos
+Jira
+UX
+WIP
+OSS
+reimplementing
+reimplement
+upleveling
+hacky
+reviewability
+searchability
+CEST
+amongst
+linkable
+UI
+
+# From chapter: Product Owner
+integrations
+O'Reilly
+UPE
+findability
+refactorization
+ALM
+FDI
+LinkedIn
+Bonewald
+Silona
+Code-a-Thon
+modularization
+Lifecycle
+TCs
+
+# British - should be replaced by American equivalents
+organises
+organisation
+organisational
+organisation's
+learnt

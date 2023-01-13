@@ -1,0 +1,41 @@
+# The exceptions below related to asciidocs where adapted from here:
+# https://github.com/devonfw/hangar/blob/master/.spellcheck.yml
+matrix:
+- name: Markdown
+  aspell:
+    lang: en
+    d: en_US
+  dictionary:
+    wordlists:
+    - wordlist.txt
+    output: wordlist.dic
+    encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+  - pyspelling.filters.html:
+      comments: true
+      attributes:
+      - title
+      - alt
+      ignores:
+      - ':matches(code, pre)'
+      - 'code'
+      - 'pre'
+  # Ignore for URL starting with http or https
+  - pyspelling.filters.context: 
+      context_visible_first: true
+      delimiters:
+      - open: 'https?:\S+?'
+        close: '\s'
+  # Ignore Image tags
+  - pyspelling.filters.context: 
+      context_visible_first: true
+      delimiters:
+      - open: 'image:[^[]+'
+        close: '\['
+  sources:
+  - 'introduction/[0-9][0-9]*.asciidoc'
+  - 'trusted-committer/[0-9][0-9]*.asciidoc'
+  - 'contributor/[0-9][0-9]*-article.asciidoc'
+  - 'product-owner/[0-9][0-9]*.asciidoc'
+  default_encoding: utf-8
