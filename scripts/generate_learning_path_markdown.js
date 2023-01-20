@@ -98,7 +98,7 @@ const getYouTubeImage = (youTubeCode) => {
         const workbookFrontMatter = {
           title: 'Workbook',
           contributors,
-          image: section.image,
+          image: section.workbookImage,
           weight: workbookPosition
         }
 
