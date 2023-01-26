@@ -1,0 +1,220 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:04.280 --> 00:00:07.740
+This video describes the benefits you can expect to see
+
+00:00:07.740 --> 00:00:10.820
+from InnerSource collaboration described in this Learning Path.
+
+00:00:11.680 --> 00:00:13.612
+Remember that InnerSource applies
+
+00:00:13.612 --> 00:00:16.548
+when a Guest team needs functionality from a Host
+
+00:00:16.560 --> 00:00:17.900
+that they aren't able to deliver.
+
+00:00:18.500 --> 00:00:21.853 line:0%
+The immediate benefit of InnerSource is that there's a scalable way
+
+00:00:21.853 --> 00:00:25.022 line:0%
+for the Guest to get the functionality they need,
+
+00:00:25.022 --> 00:00:29.459 line:0%
+when they need it, without the long-term burden of maintaining it.
+
+00:00:30.293 --> 00:00:34.280 line:100%
+That result is the shining benefit of InnerSource, and its very exciting.
+
+00:00:35.020 --> 00:00:37.580
+There are benefits to the Host team as well.
+
+00:00:38.000 --> 00:00:41.740
+Remember that as part of the process of InnerSource,
+
+00:00:41.740 --> 00:00:44.539
+the Host team has agreed that the submitted functionality
+
+00:00:44.539 --> 00:00:47.141
+is good and useful and desirable.
+
+00:00:47.640 --> 00:00:49.577 line:0%
+That means that the Host is getting
+
+00:00:49.577 --> 00:00:52.212 line:0%
+engineering help in making their product better.
+
+00:00:52.613 --> 00:00:54.481 line:0%
+Better for the submitting guest,
+
+00:00:54.481 --> 00:00:58.018 line:0%
+and also all the other consumers in the Host ecosystem.
+
+00:00:59.160 --> 00:01:00.286 line:100%
+This effect
+
+00:01:00.286 --> 00:01:04.890
+gives the Host team a strategy for scaling the engineering time
+
+00:01:04.920 --> 00:01:06.658
+being put into its products.
+
+00:01:07.659 --> 00:01:11.162
+During times of high demand for change 
+
+00:01:11.162 --> 00:01:13.031
+in the Host team's products,
+
+00:01:13.040 --> 00:01:16.200
+the engineering capacity to make those changes
+
+00:01:16.200 --> 00:01:18.268
+will organically appear
+
+00:01:18.300 --> 00:01:22.660
+in the form of guest contributors submitting via InnerSource.
+
+00:01:23.320 --> 00:01:26.442
+I've personally seen this effect on a team I was on.
+
+00:01:26.442 --> 00:01:27.977
+There was a period of a few months
+
+00:01:27.977 --> 00:01:31.380
+where we experienced very high demand for changes in our systems.
+
+00:01:32.180 --> 00:01:36.480
+During that time, we were able to nearly double our engineering throughput
+
+00:01:36.480 --> 00:01:41.000
+by focusing our time on facilitating the many InnerSource contributions
+
+00:01:41.000 --> 00:01:43.380
+that came in from all around the company.
+
+00:01:44.458 --> 00:01:47.994
+InnerSource became our force multiplier,
+
+00:01:47.994 --> 00:01:51.831
+allowing us to temporarily act larger than we were,
+
+00:01:51.860 --> 00:01:54.000
+to fill the demand of the organization.
+
+00:01:54.900 --> 00:01:59.280
+All of this change happened without formal management involvement.
+
+00:01:59.638 --> 00:02:03.540
+There were no additional planning, alignment, or strategy meetings.
+
+00:02:03.960 --> 00:02:07.600
+No reallocation of resource. No stretch goals.
+
+00:02:08.240 --> 00:02:10.814
+InnerSource allowed engineering time
+
+00:02:10.814 --> 00:02:14.350
+to organically flow where the organization needed it.
+
+00:02:14.984 --> 00:02:16.519
+When the time was over,
+
+00:02:16.519 --> 00:02:20.155
+we scaled back to our normal engineering throughput and capacity.
+
+00:02:21.400 --> 00:02:25.520
+Now Host teams that regularly receive InnerSource contributions
+
+00:02:25.520 --> 00:02:30.200
+also have fantastic requirements and prioritization alignment.
+
+00:02:30.920 --> 00:02:32.933
+Every Host will do its best
+
+00:02:32.933 --> 00:02:36.403
+to ensure that it's working on what its consumers need
+
+00:02:36.420 --> 00:02:38.020
+in a way that's useful for 'em.
+
+00:02:38.500 --> 00:02:40.306
+But there's no substitute when
+
+00:02:40.306 --> 00:02:43.709
+a Guest team is the one submitting the actual code.
+
+00:02:44.240 --> 00:02:48.800
+There's certainty that what is submitted will be useful for them.
+
+00:02:48.800 --> 00:02:50.560
+And it's something that they need right now.
+
+00:02:51.480 --> 00:02:53.460
+Sure, it's only one team.
+
+00:02:53.460 --> 00:02:56.220
+But that Guest team is likely representative
+
+00:02:56.220 --> 00:02:58.689
+of many others in the Host team's ecosystem.
+
+00:03:00.090 --> 00:03:02.940
+Regular participation in InnerSource
+
+00:03:02.940 --> 00:03:06.500
+also breaks down traditional company engineering silos.
+
+00:03:07.360 --> 00:03:10.366
+In the individual projects that are collaborated on,
+
+00:03:10.366 --> 00:03:12.935
+as more and more contributors submit,
+
+00:03:12.960 --> 00:03:16.300
+the project becomes more and more useful to more parts of the company.
+
+00:03:17.260 --> 00:03:22.080
+Also, there's a change in the hearts and minds of the participating engineers,
+
+00:03:22.076 --> 00:03:25.100
+to break down that engineering silo mindset.
+
+00:03:25.579 --> 00:03:26.680
+I've seen that happen.
+
+00:03:26.680 --> 00:03:30.583
+Engineers that are introduced to InnerSource through a successful project
+
+00:03:30.583 --> 00:03:35.320
+carry the cross-team collaboration mindset to other parts of their daily work.
+
+00:03:36.488 --> 00:03:38.800
+There's so many benefits to be had from InnerSource.
+
+00:03:39.160 --> 00:03:42.340
+Guest teams can get what they want, when they want it,
+
+00:03:42.340 --> 00:03:44.620
+without having to maintain it long term.
+
+00:03:45.440 --> 00:03:48.680
+Host teams have help in building their products.
+
+00:03:48.680 --> 00:03:52.060
+They can scale organically for the needs of the organization.
+
+00:03:52.960 --> 00:03:56.620
+They get fantastic requirements and prioritization alignment.
+
+00:03:56.920 --> 00:03:59.580
+And engineering silos within the company break down.
+
+00:04:00.176 --> 00:04:02.010
+All these benefits are to be had through
+
+00:04:02.010 --> 00:04:04.579
+effective application of the principles of InnerSource.
+
