@@ -28,10 +28,77 @@ Here is [an example](https://github.com/InnerSourceCommons/InnerSourceLearningPa
 * Here is the [status of translation efforts](https://github.com/InnerSourceCommons/InnerSourceLearningPath/wiki/Translations).
 * Other mechanics of working on translations follow the guidelines below that apply to any file in the `InnerSourceLearningPath`.
 
-# Subtitles
+# Video Subtitles
 
-* All videos may have subtitles in any language.
-* See [this video](https://drive.google.com/file/d/1IaAH8Zmp2ggBtelexhaZUqia5yS8mUjE/view?usp=sharing) for how to add them.
+All videos may have subtitles in any language. See [this video](https://drive.google.com/file/d/1IaAH8Zmp2ggBtelexhaZUqia5yS8mUjE/view?usp=sharing) for a short intro on how to access them.
+
+## Adding Subtitles For the First Time
+
+YouTube will automatically generate subtitles to most videos in English.
+It is easiest to use that as a starting point to then manually clean up timings and correct misspellings.
+  1. In Creator Studio, select DUPLICATE AND EDIT on the automatic subtitles.
+  2. When you are satisfied with your changes in the subtitle editor, choose PUBLISH.
+
+## Changing Existing Subtitles
+
+Be aware that, at this time, Creator Studio does not support subtitle positioning natively.
+The subtitle editor only addresses content and timings.
+If your video needs positioning changes, the tags must be added or adjusted manually.
+
+Subtitle positioning will NOT be reflected in the video in the editor.
+All subtitles will appear at the bottom of the viewport while using the editor.
+It is also NOT currently possible to download a VTT file of a DRAFT subtitle set.
+Finally, making changes in the editor and publishing them will erase all pre-existing positioning tags.
+
+Therefore, the overall process for editing subtitles with positioning goes like this:
+  1. In Creator Studio, download a copy of the current VTT file (or look in source control for it).
+  This gives you a back up of the existing set in case you want to completely revert your changes.
+  2. Make your content and timing changes using the subtitle editor and PUBLISH them.
+    _This erases pre-existing positioning tags._
+  3. Download a copy of the new VTT file.
+  4. Using your favorite text editor, add positioning tags and save the file.
+  5. Go back to the subtitle editor, upload the new VTT file with positioning tags, and PUBLISH it to close the editor.
+  6. Add the updated VTT file with positioning tags to source control.
+
+If your video does not require positioning adjustments, you only need to do step #2.
+
+## Subtitle Style Guide
+
+  * Keep subtitle height to a single line. **Never display more than two lines in height**, to prevent content blocking.
+  * Keep subtitle width to the central 60% of the viewport. **Do not to let them extend to the full width of the viewport.**
+    Drawing eyeballs to the extreme edges of the screen distracts from the content.
+  * **Subtitles should be centered horizontally and shown at the bottom of the viewport**, unless this would obscure important visual information.
+    In these cases, use positioning tags to put the subtitle at the top of the viewport.
+    Revert to the bottom position when the scene allows.
+    No matter where the subtitle ends up being placed, try to avoid obscuring the mouths of speakers in shot.
+  * Try to display subtitles for at least 1.5 seconds before changing or disappearing them, to aid reading comprehension.
+    This isn't always possible, however,
+    **never display a subtitle for less than one second**.
+  * **Subtitles should be timed to the speaker's voice.**
+    They should appear when the speaker starts, and disappear when the speaker is finished and before a camera change, unless that causes the subtitle to be on screen for less than one second.
+  * **Display words as spoken**, not as you think the speaker intended to say them.
+    Do not censor or simplify the dialogue.
+    Strive for accuracy.
+    There are two exceptions:
+    - Omit stuttering
+    - Omit filler words like ("um")
+    - _This runs counter to most captioning guidelines.
+      However, we have had complaints in the past for subtitling these.
+      Given these exceptions, don't automatically omit words like "but" or "so".
+      These are filler words, but they are often essential for expressing meaning.
+      Similarly, conversational phrases like "you know", and "right" often add flavour and should be included when time allows._
+  * It is only necessary to identify a speaker when it is not obvious to the viewer.
+    This is rare, even in cases where there are two speakers in a scene, since they speak one-at-a-time.
+    But, it can happen, for example, when a diagram is being displayed and there are multiple speakers off screen.
+    **If we do need identification, use a label in all caps.**
+    Here are some examples:
+    - _(single speaker)_ DANESE: This diagram will help us understand how InnerSource works.
+    - _(two speakers)_ BOTH: Hope to see you there!
+    - _(three or more)_ ALL: Fa la la la la!
+
+
+
+
 
 # Files
 
