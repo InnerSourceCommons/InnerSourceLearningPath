@@ -1,0 +1,268 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:05.120 --> 00:00:08.208
+OK so now you have heard a couple of explanations
+
+00:00:08.208 --> 00:00:09.842
+of how InnerSource works.
+
+00:00:10.160 --> 00:00:12.111
+Let's talk about the underlying principles.
+
+00:00:12.480 --> 00:00:14.079
+First of all where does it come from?
+
+00:00:14.547 --> 00:00:17.860
+Well, most of this stuff is taken straight from The Apache Way.
+
+00:00:18.450 --> 00:00:19.951
+The Apache Software Foundation
+
+00:00:19.951 --> 00:00:22.754
+has been producing high quality
+
+00:00:22.760 --> 00:00:25.120
+open source projects for more than 20 years.
+
+00:00:25.560 --> 00:00:28.759
+And they've done a good job of learning how to explain to people
+
+00:00:28.759 --> 00:00:31.028
+that have never done open source before
+
+00:00:31.028 --> 00:00:32.360
+how to get that effect.
+
+00:00:32.740 --> 00:00:36.380
+So we've borrowed liberally from what they've learned in the last 20 years,
+
+00:00:36.380 --> 00:00:39.360
+and, grafted that into this InnerSource idea.
+
+00:00:39.920 --> 00:00:42.104
+So let's start with the concept of mentorship.
+
+00:00:42.700 --> 00:00:46.280 line:0%
+Mentorship is key to making InnerSource work.
+
+00:00:46.920 --> 00:00:49.611 line:0%
+The idea that all boats are going to rise
+
+00:00:49.611 --> 00:00:51.746 line:0%
+if the code gets better,
+
+00:00:51.746 --> 00:00:53.514 line:0%
+if everybody does a little bit better.
+
+00:00:53.520 --> 00:00:55.800 line:0%
+The generosity of sharing what you know,
+
+00:00:55.800 --> 00:01:00.020 line:100%
+instead of holding what you know as a way to keep your job.
+
+00:01:00.020 --> 00:01:02.160
+What if you're known for being a great teacher?
+
+00:01:02.160 --> 00:01:04.800
+What if you're known for helping people get the best out of themselves?
+
+00:01:05.240 --> 00:01:06.800
+That's what mentorship is.
+
+00:01:08.594 --> 00:01:13.040
+Trusted Committer-ship in Apache is actually an honor.
+
+00:01:13.460 --> 00:01:15.133
+If you get to be a Trusted Committer,
+
+00:01:15.133 --> 00:01:18.169
+it means that you're not just good enough to contribute code,
+
+00:01:18.180 --> 00:01:19.870
+you're good enough to watch
+
+00:01:19.870 --> 00:01:21.739
+and make sure that the contributions of others
+
+00:01:21.740 --> 00:01:23.740
+are good enough and maintainable.
+
+00:01:23.740 --> 00:01:27.300
+But, also you're good at explaining to other contributors
+
+00:01:27.300 --> 00:01:29.712
+how to get the most out of their contributions.
+
+00:01:30.380 --> 00:01:35.200
+And, sometimes in a traditional company this idea can be difficult.
+
+00:01:35.620 --> 00:01:39.580
+Especially if people are used to being reviewed based on how well they code,
+
+00:01:39.580 --> 00:01:41.990
+rather than how well they teach others to code.
+
+00:01:42.490 --> 00:01:45.659
+But we find that after people get the swing of this
+
+00:01:45.659 --> 00:01:47.761
+it really helps, both with,
+
+00:01:47.780 --> 00:01:51.598
+sort of, collegial camaraderie and collaboration across the company.
+
+00:01:51.598 --> 00:01:54.467
+But also, the Trusted Committers start feeling better
+
+00:01:54.467 --> 00:01:56.302
+about the work that they're doing.
+
+00:01:56.702 --> 00:01:59.872
+We recommend that people not be Trusted Committers
+
+00:01:59.872 --> 00:02:01.440
+all the time every day.
+
+00:02:01.840 --> 00:02:04.543
+Because it's important to continue to learn how to code
+
+00:02:04.543 --> 00:02:06.511
+and stay connected to coding
+
+00:02:06.540 --> 00:02:09.640
+so that you are an effective Trusted Committer.
+
+00:02:09.640 --> 00:02:12.283
+And actually, in open source those things are always interleaved.
+
+00:02:12.683 --> 00:02:15.385
+But in InnerSource we really recommend
+
+00:02:15.385 --> 00:02:17.854
+as an implementation that
+
+00:02:17.880 --> 00:02:22.060
+you go ahead and put 10% of your resource into Trusted Committer-ship
+
+00:02:22.060 --> 00:02:23.320
+in any given sprint.
+
+00:02:23.740 --> 00:02:25.661
+And, if they have time left over
+
+00:02:25.661 --> 00:02:28.764
+after they've looked at the InnerSource contributions that have come in,
+
+00:02:28.780 --> 00:02:30.940
+they should be reviewing all the contributions.
+
+00:02:30.940 --> 00:02:32.780
+That means the ones from your own team.
+
+00:02:32.780 --> 00:02:35.003
+Because that automatically boots the quality.
+
+00:02:35.003 --> 00:02:38.881
+Anytime a second pair of eyes looks at code it's going to get better.
+
+00:02:39.660 --> 00:02:41.708
+And then,
+
+00:02:41.708 --> 00:02:45.178 line:0%
+it's important for you to know that mentorship has to be
+
+00:02:45.200 --> 00:02:47.640 line:0%
+prioritized or it isn't going to happen.
+
+00:02:48.181 --> 00:02:51.260 line:0%
+Most companies think that code review is happening.
+
+00:02:51.540 --> 00:02:54.653 line:0%
+But in reality, because of the pressures of time,
+
+00:02:54.653 --> 00:02:57.856 line:0%
+there's a tendency to rubber-stamp within a team.
+
+00:02:58.040 --> 00:03:00.625 line:100%
+Because, people say, "Oh, you know I'm good at this."
+
+00:03:00.625 --> 00:03:02.493
+"Can you just rubber-stamp this, right?"
+
+00:03:02.520 --> 00:03:04.920
+"We have to hurry. We have to get done quickly."
+
+00:03:04.920 --> 00:03:07.264
+But if the code is coming from the outside
+
+00:03:07.264 --> 00:03:11.001
+and the team is going to have to accept it and actually maintain it,
+
+00:03:11.001 --> 00:03:13.680
+they're much more careful about that quality.
+
+00:03:13.680 --> 00:03:16.005
+And open source shows this.
+
+00:03:16.005 --> 00:03:18.507
+The amount of
+
+00:03:18.540 --> 00:03:22.300
+quality that's found and improved continuously,
+
+00:03:22.540 --> 00:03:25.814
+the speed with which any problem that's found is remediated
+
+00:03:25.814 --> 00:03:28.560
+is, you know, pretty obvious in open source.
+
+00:03:29.180 --> 00:03:31.152 line:0%
+And then, it's important to think
+
+00:03:31.152 --> 00:03:33.987 line:0%
+about all of this participation as voluntary.
+
+00:03:34.600 --> 00:03:36.620 line:0%
+So, nobody's being conscripted here.
+
+00:03:37.080 --> 00:03:40.660 line:0%
+It should never feel like you're being told you have to do this.
+
+00:03:41.220 --> 00:03:43.362 line:100%
+It's more about greasing the wheels,
+
+00:03:43.362 --> 00:03:47.499
+so that the original engineer can get what they need done
+
+00:03:47.520 --> 00:03:49.601
+in a way that is least interruptive
+
+00:03:49.601 --> 00:03:52.070
+to the engineers working on that silo.
+
+00:03:52.500 --> 00:03:56.640
+And, that actually comes out with a great, high quality
+
+00:03:56.640 --> 00:04:00.800
+opportunity for that original engineer to get his work done.
+
+00:04:00.900 --> 00:04:05.360
+So, it's good all around when it's done right.
+
+00:04:05.360 --> 00:04:07.960
+And it's not hard to get to that place.
+
+00:04:08.380 --> 00:04:10.453
+You just have to prioritize mentorship
+
+00:04:10.453 --> 00:04:12.021
+and make sure those Trusted Committers
+
+00:04:12.040 --> 00:04:13.155
+understand the importance
+
+00:04:13.155 --> 00:04:15.290
+and the gravity of the work that they're doing.
+
