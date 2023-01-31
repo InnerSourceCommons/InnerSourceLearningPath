@@ -1,4 +1,4 @@
-Garantire la qualità del prodotto
+=== Garantire la qualità del prodotto
 
 Iniziamo con la responsabilità più spesso associata al ruolo di Trusted Committer: garantire la qualità del prodotto.
 
