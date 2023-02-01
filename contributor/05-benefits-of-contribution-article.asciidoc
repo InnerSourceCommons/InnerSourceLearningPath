@@ -17,7 +17,7 @@ The most obvious motivation is what typically draws early contributors into open
 source as well.
 
 Remember that annoying bug you've been working around for so long? The time
-and energy that maintainting those workarounds costs? What if instead of waiting for
+and energy that maintaining those workarounds costs? What if instead of waiting for
 the upstream team to fix that issue sometime in the future, you could go ahead
 and fix it yourself? In this "scratch your own itch" situation first-time contributors
 often start with fixing issues in projects they depend on for their
