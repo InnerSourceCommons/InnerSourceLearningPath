@@ -21,11 +21,11 @@ const getYouTubeCode = (section, articleNumber) => {
   return ''
 }
 
-const getYouTubeImage = (youTubeCode) => {
+const getArticleImage = (youTubeCode) => {
   if (youTubeCode) {
     return `https://img.youtube.com/vi/${youTubeCode}/mqdefault.jpg`
   }
-  return ''
+  return 'images/learn/LP-article-default.png'
 }
 
 (async () => {
@@ -77,7 +77,7 @@ const getYouTubeImage = (youTubeCode) => {
         const frontMatter = {
           title: articleTitle,
           contributors,
-          image: getYouTubeImage(youtubeCode),
+          image: getArticleImage(youtubeCode),
           featured: weight === 1,
           weight,
           youtubeCode
