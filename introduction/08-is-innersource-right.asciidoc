@@ -23,7 +23,7 @@ You will need to encourage and support contributions via activities such as:
 * Inviting users to make the contributions that they need and following up with them to ensure that they do them.
 * Maintaining an https://patterns.innersourcecommons.org/p/base-documentation#contributing.md[CONTRIBUTING.md] document that contains everything an engineer needs to know to contribute to the project.
 * Giving up-front guidance and direction as to how to implement a given contribution.
-* Being available during regular hours for any ad-hoc questions that contributors have.
+* Being available during regular hours for any ad hoc questions that contributors have.
 * Timely review of incoming pull requests.
 * Ongoing maintenance of submitted code (after the https://patterns.innersourcecommons.org/p/30-day-warranty[warranty window]).
 
