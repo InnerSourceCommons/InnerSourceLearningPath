@@ -7,7 +7,7 @@ This makes understanding two aspects of Open Source easier for teams through par
 
 Much like in InnerSource, Open Source projects have different governance levels.
 Not all Open Source projects are created equal: While some groups only publish the source code, expecting no interaction, others want downstream users to become active and submit patches.
-Other projects have processes setup to allow for sharing impact on the open source project.
+Other projects have processes setup to allow for sharing impact on the Open Source project.
 Understanding these governance levels means that deciding which open source project to use in house will take Open Source governance into consideration as well.
 A downstream user of an InnerSource project will have learnt to correctly evaluate the balance between moving fast but being unable to influence a project vs. moving at a slower pace but being able to influence a project together.
 
