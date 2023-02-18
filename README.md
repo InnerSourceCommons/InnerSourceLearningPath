@@ -36,6 +36,8 @@ Special thanks to:
 * Johannes Tigges ([@lenucksi])
 * Tom Sadler ([@tsadler1988])
 * Igor Zubiaurre ([@fioddor])
+* Senthil Nathan ([@nysenthil])
+* Laura Little ([@marshmallowrobot])
 
 ## Repository Setup
 
@@ -94,4 +96,6 @@ Please see LICENSE.txt in this repository for the full text of the license.
 [@lenucksi]: https://github.com/lenucksi
 [@tsadler1988]: https://github.com/tsadler1988
 [@fioddor]: https://github.com/fioddor
+[@nysenthil]: https://github.com/nysenthil
+[@marshmallowrobot]: https://github.com/marshmallowrobot
 [contribution]: ./CONTRIBUTING.md
