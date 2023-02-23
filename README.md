@@ -36,6 +36,8 @@ Special thanks to:
 * Johannes Tigges ([@lenucksi])
 * Tom Sadler ([@tsadler1988])
 * Igor Zubiaurre ([@fioddor])
+* Senthil Nathan ([@nysenthil])
+* Laura Little ([@marshmallowrobot])
 
 ## Repository Setup
 
@@ -77,7 +79,7 @@ If you want to hit the ground running then please:
 
 * Take a **look at the the finished segments** (linked at https://innersourcecommons.org/learningpath/).
 * Take a look at our [Kanban board] to see what's in flight.
-* See [CONTRBUTING.md][contribution] for more detail.
+* See [CONTRIBUTING.md][contribution] for more detail.
 
 See you there!
 
@@ -94,4 +96,6 @@ Please see LICENSE.txt in this repository for the full text of the license.
 [@lenucksi]: https://github.com/lenucksi
 [@tsadler1988]: https://github.com/tsadler1988
 [@fioddor]: https://github.com/fioddor
+[@nysenthil]: https://github.com/nysenthil
+[@marshmallowrobot]: https://github.com/marshmallowrobot
 [contribution]: ./CONTRIBUTING.md

@@ -42,6 +42,7 @@ Coordinating the timing around that mentoring can be a big help for your team.
 
 
 "But we could simply fork permanently" ... a misconception where potential guest teams believe that simply copying the code would be faster.
+
 In the short term that is true.
 In the long run it means added maintenance.
 As a product person you can help your team understand why contributing changes to the project you depend on is in the best interest of the business: Less work overall.
@@ -110,5 +111,3 @@ There are several ways to use InnerSource in that context as well:
 * Option number one is to move to greater modularization and collaborate only on the parts that are the same across teams and keep operations local.
 * Alternatively work with contract tests to avoid API breakages.
 * Work with internal service level agreements, make contributors sign up to warranty periods to remove the fear of the host team that contributions break production systems.
-
-

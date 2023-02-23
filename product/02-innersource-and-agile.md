@@ -102,21 +102,23 @@ Issues in InnerSource become much more lengthy and wordy than in your average or
 They also track the implementation history and detailed design decisions for a change.
 
 Code Reviews: In traditional organisations code reviews often serve auditing purposes.
+
 They are done when development is finished.
 In InnerSource code changes are shared very early in the process, sometimes when nothing more than a rough sketch is done.
 The goal is to seek early feedback and mentoring.
 This is particularly helpful for teams that are on diverse schedules and cannot find any time for pair programming.
 Often teams have the aspiration that nobody walks alone - in reality though this often isn't much more than an aspiration never achieved.
 In particular where contributions cross team boundaries.
+
 Tools used in InnerSource can formalize this ask for more than one human to be involved with any change.
 
 Focus on written communication: The goal with InnerSource is for the project to be transparent enough so that developers who are not part of the team can understand project decisions and follow alogthe process of software creation.
 As a result all communication needs to be in a place that everyone interested in the conversation can follow along: written, public, searchable and linkable.
 The goal is not to reduce distractions to others - the goal is to make all project conversations transparent.
+
 As a result direct messages and mails are to be avoided.
 In order to make following conversations easier for everyone, messages related to one InnerSource project should be tracked in one separate communication channel: The goal is not to reach every person in the team of the InnerSource project.
 The goal is to find a common shared room for everyone involved with the project where they can have discussions focused on that InnerSource project.
-
 
 Focus on written communication does not mean verbal communication is disallowed.
 There still needs to be time for a shared cup of coffee.

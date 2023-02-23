@@ -72,6 +72,18 @@
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/introduction/06-conclusion.asciidoc
     isc: https://innersourcecommons.org/learn/learning-path/introduction/06/
     oreilly: ''
+- section: introduction
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/introduction/07-faq.asciidoc
+    isc: https://innersourcecommons.org/learn/learning-path/introduction/07/
+    oreilly: ''
+- section: introduction
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/introduction/08-is-innersource-right.md
+    isc: https://innersourcecommons.org/learn/learning-path/introduction/08/
+    oreilly: ''
 - section: trusted committer
   video:
     isc: https://innersourcecommons.org/learn/learning-path/trusted-committer/01

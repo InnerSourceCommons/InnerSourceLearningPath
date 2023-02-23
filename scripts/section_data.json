@@ -3,6 +3,7 @@
     "learning_path_group": "Introduction",
     "dirName": "introduction",
     "workbook": "01-introduction.asciidoc",
+    "workbookImage": "images/learn/workbooks/Learning Path-Introduction Workbook-image.png",
     "image": "images/learn/LP_thumbnail_introduction.jpg",
     "renderArticles": true
   },
@@ -10,6 +11,7 @@
     "learning_path_group": "Trusted Committer",
     "dirName": "trusted-committer",
     "workbook": "02-trusted-committer.asciidoc",
+    "workbookImage": "images/learn/workbooks/Learning Path-Trusted Committer Workbook-image.png",
     "image": "images/learn/LP_thumbnail_trustedcommitter.jpg",
     "renderArticles": true
   },
@@ -17,6 +19,7 @@
     "learning_path_group": "Contributor",
     "dirName": "contributor",
     "workbook": "04-contributor.asciidoc",
+    "workbookImage": "images/learn/workbooks/Learning Path-Contributor Workbook-image.png",
     "image": "images/learn/LP_thumbnail_contributor.jpg",
     "renderArticles": true
   },
@@ -24,6 +27,7 @@
     "learning_path_group": "Product Owner",
     "dirName": "product-owner",
     "workbook": "03-product-owner.asciidoc",
+    "workbookImage": "images/learn/workbooks/Learning Path-Product Owner Workbook-image.png",
     "image": "images/learn/LP_thumbnail_productowner.jpg",
     "renderArticles": false
   }

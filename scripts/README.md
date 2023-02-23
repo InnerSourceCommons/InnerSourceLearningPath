@@ -15,14 +15,14 @@ For example, to point all links to innersourcecommons.org:
 node substitute_article_urls.js isc
 ```
 
-## updates_links_in_translations.js
+## update_links_in_translations.js
 
 A node script to ensure article links point at the relevant translation if it exists, or default (English) if not.
 
 ### Usage:
 ```
 npm ci
-node updates_links_in_translations.js
+node update_links_in_translations.js
 ```
 
 ## generate_learning_path_markdown.js
@@ -50,7 +50,7 @@ Anytime there are _any changes_, you need to run the script that generates the u
 3. Is there a whole new Learning Path section? If so:
   * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/scripts/section_data.json) with the new section and open a pull request for the change
 4. Run **generate_learning_path_markdown.js** as described above.
-4. `cp -r newsite/ <path-to-innersourcecommons.org-repo>/content/learn/learning-path/`.
+4. `cp -r newsite/ <path-to-innersourcecommons.org-repo>/content/en/learn/learning-path/`.
 4. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
 
 [innersourcecommons.org]: https://innersourcecommons.org/

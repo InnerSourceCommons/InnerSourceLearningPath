@@ -8,16 +8,24 @@ const getContributors = require('./get_contributors')
 const mkdirSync = require('./mkdir_sync')
 const getArticleFiles = require('./get_article_files')
 const writeMarkdownFile = require('./write_markdown_file')
-
 const sections = require('./section_data.json')
 
 const urls = YAML.parse(fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf-8'))
 
 const getYouTubeCode = (section, articleNumber) => {
-  const firstEntryOfGroupIndex = urls.findIndex(entry => entry.section === section.toLowerCase())
-  const currentPageIndexOffset = articleNumber - 1
-  const youtubeUrl = urls[firstEntryOfGroupIndex + currentPageIndexOffset].video.youtube
-  return youtubeUrl.replace('https://www.youtube.com/watch?v=', '')
+  const sectionLinks = urls.filter(entry => entry.section === section.toLowerCase())
+  const videoUrls = sectionLinks[articleNumber - 1]
+  if (videoUrls && videoUrls.video && videoUrls.video.youtube) {
+    return videoUrls.video.youtube.replace('https://www.youtube.com/watch?v=', '')
+  }
+  return ''
+}
+
+const getArticleImage = (youTubeCode) => {
+  if (youTubeCode) {
+    return `https://img.youtube.com/vi/${youTubeCode}/mqdefault.jpg`
+  }
+  return 'images/learn/LP-article-default.png'
 }
 
 (async () => {
@@ -49,7 +57,6 @@ const getYouTubeCode = (section, articleNumber) => {
 
       let { indexContent, ...indexFrontMatter } = yamlFront.loadFront(fs.readFileSync(indexReadPath, 'utf-8'), { contentKeyName: 'indexContent' })
       indexFrontMatter.image = section.image
-      indexFrontMatter.contributors = await getContributors(relative('..', readPath))
       indexFrontMatter.weight = sectionDataIndex
 
       if (!indexTranslated) {
@@ -70,7 +77,7 @@ const getYouTubeCode = (section, articleNumber) => {
         const frontMatter = {
           title: articleTitle,
           contributors,
-          image: `https://img.youtube.com/vi/${youtubeCode}/mqdefault.jpg`,
+          image: getArticleImage(youtubeCode),
           featured: weight === 1,
           weight,
           youtubeCode
@@ -91,7 +98,7 @@ const getYouTubeCode = (section, articleNumber) => {
         const workbookFrontMatter = {
           title: 'Workbook',
           contributors,
-          image: section.image,
+          image: section.workbookImage,
           weight: workbookPosition
         }
 

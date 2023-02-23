@@ -54,4 +54,3 @@ Taking another step back even the decision of which Open Source project to adopt
 * InnerSource trains teams to understand what to look out for in terms of ways of collaborating and communicating - from personal experience they will understand why it's important for project to have clear, archived, searchable communication channels.
 They will also understand why it's important that every major project decision is taken on these communication channels.
 * Understanding the different governance levels in InnerSource teams are well prepared to understand the implications of Open Source projects operating according to different levels of openness.
-

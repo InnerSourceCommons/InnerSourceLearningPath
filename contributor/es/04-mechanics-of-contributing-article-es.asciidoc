@@ -103,7 +103,7 @@ Los equipos de proyecto suelen estar encantados de recibir adiciones, actualizac
 
 Todos tenemos nuestras preferencias y opiniones sobre el estilo del código, la indentación, etc.
 El proyecto del equipo anfitrión también las tiene.
-Trata de adaptarte y de coincidir con esas preferencias, incluso si no es lo que harías normalmente, e incluso si no está especificado en el proyecto https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_].
+Trata de adaptarte y de coincidir con esas preferencias, incluso si no es lo que harías normalmente, e incluso si no está especificado en el proyecto https://innersourcecommons.org/es/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_].
 Si no estás seguro, siempre puedes preguntar amablemente. No obstante, una contribución de invitado para una característica o una corrección de errores no es el momento de introducir una nueva forma de estructurar o formatear el código del proyecto.
 
 === Enviar el pull request
@@ -145,7 +145,7 @@ Para que la revisión del código sea lo más fácil posible para el https://inn
 * Hacer pull requests demasiado amplios y grandes los hace más difíciles de revisar, por lo que tardarán mucho más en ser aceptados.
  ** Si estás contribuyendo una característica grande, a menudo ayuda dividirla en múltiples pull requests que se envían, revisan y aceptan secuencialmente.
 Puedes unificarlas refiriendo al mismo ticket.
-  *** Algunas herramientas también tienen la funcionalidad de marcar el pull request como borrador / WIP que puedes utilizar para explícitar el trabajo inacabado y no pulido y aún así obtener retroalimentación temprana del https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[_Trusted Committer_] de tu equipo anfitrión.
+  *** Algunas herramientas también tienen la funcionalidad de marcar el pull request como borrador / WIP que puedes utilizar para explícitar el trabajo inacabado y no pulido y aún así obtener retroalimentación temprana del https://innersourcecommons.org/es/learn/learning-path/trusted-committer/02/[_Trusted Committer_] de tu equipo anfitrión.
   *** Esto te permite asegurarte de que vas por un camino que tu equipo anfitrión estará feliz de fusionar una vez que esté hecho, adhiriéndote en cierto modo a la idea de "liberar temprano, liberar a menudo".
   *** La responsabilidad del equipo anfitrión es crear una atmósfera en la que compartir y discutir el trabajo no totalmente pulido sea posible y bienvenido. Si no se puede fallar, no se puede innovar, y la colaboración se hace muy difícil.
   *** Intenta equilibrar entre pedir una revisión antes de tiempo y proporcionar cambios significativos para la revisión.

@@ -69,13 +69,13 @@ regardons rapidement les responsabilités d’un Trusted Committer.
 
 Les Trusted Committers ont diverses responsabilités, notamment :
 
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[Assurer la qualité du produit]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[Maintenir la communauté en bonne santé]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Réduire les obstacles à l'apport de contributions]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[Améliorer la communauté]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[Défendre les besoins de la communauté].
+* https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/02/[Assurer la qualité du produit]
+* https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/03/[Maintenir la communauté en bonne santé]
+* https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/05/[Réduire les obstacles à l'apport de contributions]
+* https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/04/[Améliorer la communauté]
+* https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/06/[Défendre les besoins de la communauté].
 
 Nous examinerons ces responsabilités plus en profondeur dans les pages suivantes et
 nous explorerons également la voie à suivre pour
-https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[devenir un Trusted Committer]
+https://innersourcecommons.org/fr/learn/learning-path/trusted-committer/07/[devenir un Trusted Committer]
 à la fin de cet article.

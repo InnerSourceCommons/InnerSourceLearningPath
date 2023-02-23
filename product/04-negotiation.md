@@ -65,5 +65,3 @@ As mentioned earlier one option could be inviting people committed to the projec
 
 In particular when faced with a lot of contributions that are fairly complex, host teams need to understand where the time invest to mentor contributors is a worthy investment.
 The more time needed for mentoring the more likely it should be that these contributors will have time to stick around for longer.
-
-
