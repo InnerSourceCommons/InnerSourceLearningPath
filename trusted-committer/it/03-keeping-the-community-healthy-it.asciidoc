@@ -1,38 +1,38 @@
-== Mantenere la comunità sana
-L'introduzione ha sottolineato che i Trusted Committers hanno responsabilità sia orientate alla tecnologia che alla comunità.
+== Mantenere la community sana
+L'introduzione ha sottolineato che i Trusted Committers hanno responsabilità sia per la tecnologia che per la community.
 Non è sufficiente concentrarsi solo sul codice e sull'integrità del codice.
-Per garantire il successo a lungo termine, Trusted Committers dovrebbe sforzarsi di mantenere sana anche la comunità che costruisce il software.
-Per questo motivo, devono trovare un buon equilibrio tra garantire la qualità del prodotto e far crescere una comunità sana.
+Per garantire il successo a lungo termine, i Trusted Committers dovrebbero sforzarsi di mantenere sana anche la community che implementa il software.
+Per questo motivo, devono trovare un buon equilibrio tra garantire la qualità del prodotto e far crescere una community sana.
 
-Che aspetto ha una comunità sana?
-Molto semplicemente, in una comunità sana, https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] tende a rimanere in giro, può trascorrere la maggior parte del loro tempo a sviluppare software, e sono in grado di migliorare le loro capacità. Di conseguenza, una comunità sana sarà in continua crescita.
+Che aspetto ha una community sana?
+Molto semplicemente, in una community sana, i https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] tendono ad essere comunicativi, a trascorrere la maggior parte del loro tempo a sviluppare software, e sono in grado di migliorare la loro tecnica. Di conseguenza, una community sana sarà in continua crescita.
 
-Perché https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] si unisce e resta in una comunità?
-Alcuni lo fanno perché si iscrivono allo scopo o alla missione della comunità.
-È compito del Trusted Committer articolare e promuovere chiaramente questo scopo.
-L'importanza di questo non è spesso riconosciuta, ma la commercializzazione di una comunità e dei suoi prodotti è davvero essenziale.
+Perché i https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] aderiscono e rimangono in una community?
+Alcuni lo fanno perché sostengono lo scopo o alla missione della community.
+È compito del Trusted Committer di articolare e promuovere chiaramente la missione.
+L'importanza non ne è spesso riconosciuta, ma il marketing di una community e dei suoi prodotti è davvero essenziale.
 
-Un'altra ragione, più ovvia, per cui le persone possono rimanere in giro è che si divertono a lavorare con altri membri della comunità, tra cui i Trusted Committers.
-Una comunità fiorente è quella in cui i membri trattano e comunicano tra loro con il massimo rispetto.
-I contributi sono trattati come doni o donazioni piuttosto che come distrazioni, e gli eccellenti (soprattutto i primi) contributi sono lodati.
-Il lavoro di Trusted Committer in tutto questo è principalmente quello di dare un esempio per gli altri, simile a quello di impostare un esempio per il livello di qualità del software previsto.
-Se necessario, i Trusted Committers sono quelli che dovrebbero creare e mettere in atto un codice di condotta per la comunità.
-Se ci sono membri della comunità il cui comportamento è dannoso o tossico per la salute della comunità, è responsabilità del Trusted Committer affrontare questo problema.
-I Trusted Committers dovrebbero creare opportunità per le persone di riunirsi regolarmente (di persona o virtualmente), conoscersi personalmente e risolvere pacificamente i conflitti man mano che si presentano.
+Un'altra ragione, più ovvia, per cui le persone aderiscono è che si divertono a lavorare con altri membri della comunità, tra cui i Trusted Committers.
+Una community fiorente è quella in cui i membri si trattano e comunicano tra loro con il massimo rispetto.
+I contributi sono trattati come omaggi o donazioni piuttosto che come diversivi, e i contributi eccellenti (soprattutto i primi) sono lodati.
+Il lavoro di Trusted Committer in tutto questo è principalmente quello di essere un esempio per gli altri, o quello di stabilire un esempio del livello di qualità software prevista.
+Se necessario, i Trusted Committers sono coloro che devono creare e mettere in atto un codice di condotta per la community.
+Se ci sono membri il cui comportamento è dannoso o tossico per la salute della community, è responsabilità del Trusted Committer di affrontare questo problema.
+I Trusted Committers dovrebbero creare opportunità per le persone di riunirsi regolarmente (di persona o virtualmente), conoscersi e risolvere pacificamente i conflitti man mano che si presentano.
 
-Le persone tendono anche a rimanere in giro perché lavorare in una comunità InnerSource è un'opportunità eccellente per acquisire nuove competenze e crescere personalmente.
+Le persone tendono anche a rimanere (nella community) perché lavorare in una community InnerSource è un'opportunità eccellente per acquisire nuove competenze e crescere personalmente.
 Anche in questo caso il ruolo del Trusted Committer è molto importante.
-I Trusted Committers spesso diventano mentori per gli sviluppatori junior, e trascorrono esplicitamente del tempo durante le richieste di pull non solo indicando aree di miglioramento, ma anche spiegando in dettaglio perché qualcosa deve essere migliorato e come farlo.
-Forniscono la teoria o l'esperienza dietro il cambiamento e offrono suggerimenti per i modi migliori per implementarlo.
-In questo modo, i Trusted Committers possono aumentare la velocità di apprendimento nelle loro comunità ben oltre quella dei progetti di sviluppo software tradizionali.
+I Trusted Committers spesso diventano guide per junior developers, e spendono attivamente del tempo nelle pull requests non solo indicando aree di miglioramento, ma anche spiegando in dettaglio perché un qualcosa deve essere migliorato e come procedere.
+Forniscono la teoria o l'esperienza che giustificano le modifica e suggeriscono i modi migliori per implementarla.
+In questo modo, i Trusted Committers possono velocizzare l'apprendimento nelle loro community molto di più che nei prgetti di sviluppo software tradizionali.
 
-Crediamo che i Trusted Committers debbano dare la priorità all'onboarding e al mentoring durante le richieste di pull rispetto al raggiungimento delle date di rilascio comunicate, a meno che non ci sia una buona ragione per non farlo. Un buon mentoring durante le richieste di pull porta a un più alto livello di fiducia e impegno da parte di https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_], che a sua volta porta a più contributi. Ne parleremo di più in https://innersourcecommons.org/learn/learning-path/trusted-committer/04/["Upleveling la Comunità "].
+Crediamo che i Trusted Committers debbano dare la priorità all'onboarding e al mentoring durante le pull requests invece che al raggiungimento delle date di rilascio previste, a meno che non ci sia una buona ragione per non farlo. Un buon mentoring durante le pull requests porta a un più alto livello di fiducia e impegno da parte dei https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_], che a sua volta porta a più contributi. Ne parleremo ulteriormente in https://innersourcecommons.org/learn/learning-path/trusted-committer/04/["Upleveling la Comunità "].
 
-Infine, alcune persone si concentrano nelle comunità di InnerSource perché si concentrano sullo sviluppo di software invece che su attività considerate overhead o spreco, soprattutto nelle grandi aziende con una forte attenzione ai processi. Il lavoro di Trusted Committer in questo contesto è garantire che https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] possa effettivamente concentrarsi sui propri progetti comunicando e attuando utili linee guida di contributo.
+Infine, alcune persone si concentrano nelle community di InnerSource perché si focalizzano sullo sviluppo di software invece che su attività considerate overhead o uno spreco di tempo, comune soprattutto nelle grandi aziende con una forte attenzione ai processi. Il lavoro del Trusted Committer in questo contesto è garantire che i https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] possano effettivamente concentrarsi sui propri progetti comunicando e promulgando linee guida utili per contibuire.
 
-Un aspetto importante di queste linee guida è spiegare quello che chiamiamo _signaling_ nelle richieste di pull: come dovrebbe essere un commento? Cosa vuol dire se io _like_ o _ + 1_ un commento? In che modo @mentioning qualcuno con un prefisso /CC è diverso dall'utilizzo di un prefisso /FYI? In generale, i Trusted Committers devono fare in modo che il processo di contributo non crei più problemi, ma invece sostenga la comunità nell'identificare e risolvere i problemi. In ultima analisi, i Trusted Committers dovrebbero dare alla loro comunità il potere di individuare i problemi legati ai processi e di adattarli e migliorarli il più possibile come comunità.
+Un aspetto importante di queste linee guida è spiegare quello che chiamiamo _signaling_ nelle pull requests: come deve essere fatto un commento? Cosa vuol dire se metto _like_ o _ + 1_ a un commento? In che modo @mentioning qualcuno con il prefisso /CC è diverso dall'utilizzo del prefisso /FYI? In generale, i Trusted Committers devono fare in modo che il processo di contribuzione non crei più problemi, ma che invece sostenga la community nell'identificare e risolvere i problemi. In ultima analisi, i Trusted Committers dovrebbero dare alla loro community la capacità di individuare i problemi legati alle procedure, di adattarli e migliorarli il più possibile agendo come comunità.
 
-Perché i Trusted Committer siano in grado di adempiere a tutte queste responsabilità, è importante che comunichino regolarmente con i membri della comunità e tengano un orecchio a terra.
+Per far sì che i Trusted Committer siano in grado di adempiere a tutte queste responsabilità, è importante che comunichino regolarmente con i membri della community e che si tengano informati degli eventi.
 Approfondiamo questo aspetto nella sezione https://innersourcecommons.org/learn/learning-path/trusted-committer/06/["Advocating the Community's Needs "].
 
-In sintesi, Trusted Committers dovrebbe sforzarsi di creare un ambiente accogliente e apprezzativo per il loro https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] che consenta loro di concentrarsi sulla scrittura di software e sulla crescita personale, creando opportunità di imparare da altri membri della comunità.
+In sintesi, i Trusted Committers devono sforzarsi di creare un ambiente accogliente e apprezzativo per i loro https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] che consenta loro di concentrarsi sull'implementazione di software e sulla crescita personale, creando opportunità per imparare da altri membri della community.
