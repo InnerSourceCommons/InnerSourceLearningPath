@@ -1,0 +1,12 @@
+# See https://github.com/InnerSourceCommons/working-group-roles for an explanation of this file.
+
+title: "InnerSource Learning Path"
+description: "We shepherd the creation of short articles and videos for InnerSource training content"
+baseurl: "InnerSourceLearningPath" 
+url: "https://innersourcecommons.github.io/"
+
+links:
+  chat: https://app.slack.com/client/T04PXKRM0/CARTU4XV2
+  folder: https://docs.google.com/document/d/1V2IOmmTB1udbcDl2iT3jGd3uGGCfk_8TFxrlUDAV3Lg/edit?usp=sharing
+
+remote_theme: InnerSourceCommons/working-group-roles
