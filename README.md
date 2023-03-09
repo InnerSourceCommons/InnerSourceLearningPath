@@ -90,7 +90,7 @@ See you there!
 
 ## Licensing
 The InnerSource Learning Path by [InnerSourceCommons.org](http://innersourcecommons.org) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) License.
-Please see LICENSE.txt in this repository for the full text of the license.
+Please see [LICENSE.txt] in this repository for the full text of the license.
 
 [@rrrutledge]: https://github.com/rrrutledge
 [@lenucksi]: https://github.com/lenucksi
@@ -99,3 +99,4 @@ Please see LICENSE.txt in this repository for the full text of the license.
 [@nysenthil]: https://github.com/nysenthil
 [@marshmallowrobot]: https://github.com/marshmallowrobot
 [contribution]: ./CONTRIBUTING.md
+[LICENSE.txt]: ./LICENSE.txt
