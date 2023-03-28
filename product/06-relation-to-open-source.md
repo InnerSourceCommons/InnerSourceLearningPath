@@ -7,7 +7,7 @@ This makes understanding two aspects of Open Source easier for teams through par
 
 Much like in InnerSource, Open Source projects have different governance levels.
 Not all Open Source projects are created equal: While some groups only publish the source code, expecting no interaction, others want downstream users to become active and submit patches.
-Other projects have processes setup to allow for sharing impact on the Open Source project.
+Other projects have processes set up to allow for sharing impact on the Open Source project.
 Understanding these governance levels means that deciding which open source project to use in house will take Open Source governance into consideration as well.
 A downstream user of an InnerSource project will have learnt to correctly evaluate the balance between moving fast but being unable to influence a project vs. moving at a slower pace but being able to influence a project together.
 
@@ -48,7 +48,7 @@ When experienced with InnerSource it becomes clear that publishing entire projec
 
 Instead it is much more natural to adopt an enlightened self interest point of view:
 * Where teams use certain Open Source dependencies in vital parts of their components it is important to ensure being involved upstream - even if the only goal is to understand the future roadmap of the project.
-* Where teams have a need for changes in open source projects they depend on, experience with InnerSource makes the advantages of participating upstream obvious: Clearly it is not only about a "sharing is caring" mindset - but it does have clear economic benefits where contributing teams have a highly reduced maintenance overhead of their changes are integrated upstream.
+* Where teams have a need for changes in open source projects they depend on, experience with InnerSource makes the advantages of participating upstream obvious: Clearly it is not only about a "sharing is caring" mindset - but it does have clear economic benefits where contributing teams have a highly reduced maintenance overhead if their changes are integrated upstream.
 
 Taking another step back even the decision of which Open Source project to adopt and use internally will be influenced by the InnerSource experience of a team:
 * InnerSource trains teams to understand what to look out for in terms of ways of collaborating and communicating - from personal experience they will understand why it's important for project to have clear, archived, searchable communication channels.
