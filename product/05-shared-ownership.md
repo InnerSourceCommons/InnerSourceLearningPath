@@ -2,7 +2,7 @@
 
 "If everyone owns it, nobody is accountable."
 Traditional organisations perfer to have a single point of contact in case of issues.
-On the other hand allowing simply everyone to make changes surely will reuslt in a mess that can no longer be maintained.
+On the other hand allowing simply everyone to make changes surely will result in a mess that can no longer be maintained.
 
 Based on that observation each InnerSource project has a dedicated team of Trusted Committers.
 Interest in maintaining an InnerSource project often is motivated by enlightened self interest: A team understanding that they themselves need the InnerSource project to fullfill their customers' needs and understanding that opening the project up for contributions can spread the workload to move the project forward.
@@ -26,7 +26,7 @@ Another aspect that becomes more important as the InnerSource project becomes mo
 This does have impact on general capacity planning and should not happen "under the radar".
 
 On the other hand for contributors it is important that code review is not a last stage quality gate.
-Instead it is a way for continiously guiding contributors through the code development process ideally leading to better results faster.
+Instead it is a way for continuously guiding contributors through the code development process ideally leading to better results faster.
 For that to work out in practice there needs to be time and space for team building - but across traditional team boundaries.
 Having at least a vague understanding of the different cultures in teams makes misunderstandings much less likely and the contribution process much more smooth.
 
