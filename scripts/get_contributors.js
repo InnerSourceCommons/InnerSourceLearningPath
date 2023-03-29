@@ -92,7 +92,10 @@ module.exports = async function (filepath) {
   return Object.values(
     [...authors, ...reviewers].reduce((accumulator, user) => {
       // Dedupe users
-      accumulator[user.name] = user
+      const newUser = accumulator[user.name] || user
+      newUser.url = newUser.url || user.url
+      accumulator[user.name] = newUser
+
       return accumulator
     }, {})
   )
