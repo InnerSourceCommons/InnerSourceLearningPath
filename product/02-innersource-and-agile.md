@@ -17,7 +17,7 @@ To be able to implement those often lengthy roadmap discussions are scheduled, s
 In complex situations as much as in large organisations this leads to an increase in time needed to adjust to changing business needs.
 For very popular central components often there are so many requests coming in that one central component team runs out of capacity to implement all of the requested changes.
 
-In traditional organizations there are only two ways of making changes to dependencies:
+In traditional organizations there are only [two ways of making changes to dependencies](https://innersourcecommons.org/learn/learning-path/introduction/02/):
 * Submit a feature request/ bug report and wait for the other team to prioritize that change and implement it.
 * Build a workaround to avoid the bug or locally provide the functionality needed.
 
@@ -31,11 +31,11 @@ InnerSource comes with a set of roles and processes that bring clarity to what o
 * Each InnerSource project has a set of Trusted Committers with clear accountabilities that go beyond simply reviewing code.
 Trusted Committers set the rules for contributions.
 * Contributions happen in a structured way:
-   * Contribution intend is shared early to make sure the contribution fits within the Host projects' vision and scope.
+   * Contribution intent is shared early to make sure the contribution fits within the Host projects' vision and scope.
    * Progess is shared early so the host team has a chance to mentor the contributor and guide them on the path to a desired design and architecture.
    That way frustration due to having to decline a contribution late in the process is avoided.
    * Decisions and vital communication happens asynchronously to be able to work around differing meeting schedules of people in different teams.
-As a result contributing teams gain autonomy to fix upstream artifacts without sacrifycing the quality of the component that is being contributed to.
+As a result contributing teams gain autonomy to fix upstream artifacts without sacrificing the quality of the component that is being contributed to.
 
 As a side effect InnerSource provides teams with best practices that make working in a remote first culture easy.
 
@@ -52,7 +52,7 @@ With teams that are familiar with InnerSource the load to move this type of inno
 InnerSource gives your team the initiative and tooling to fix issues that block shipping features to customers.
 When done right maintenance of core components and services can be shared in a well structured way by a "virtual InnerSource team" that is larger than any specific product team.
 
-In advanced settings those involved understand the value of contributors working on simpler features that may not directly benefit their customers - under the condition that that frees the host team to work on more complex changes that contributors hava a business need for.
+In advanced settings those involved understand the value of contributors working on simpler features that may not directly benefit their customers - under the condition that it frees the host team to work on more complex changes that contributors have a business need for.
 
 
 ## Does InnerSource replace Agile?
@@ -84,7 +84,7 @@ This goal now helps with InnerSource as well: Contributions are much easier if c
 Tests also ensure that the host team remembers to keep the contributed functionality if they are reminded of the reason for it by a failing test.
 
 Remember last time you insisted on your team spending time to follow the goal of "leave code in a better shape than you found it"?
-That mindset helps in the InnerSource model: It makes sure that quality and co-hesion of code remains high even when there are multiple contributions from different sources.
+That mindset helps in the InnerSource model: It makes sure that quality and cohesion of code remains high even when there are multiple contributions from different sources.
 
 
 ## Common misunderstandings when coming from agile teams
@@ -112,7 +112,7 @@ In particular where contributions cross team boundaries.
 
 Tools used in InnerSource can formalize this ask for more than one human to be involved with any change.
 
-Focus on written communication: The goal with InnerSource is for the project to be transparent enough so that developers who are not part of the team can understand project decisions and follow alogthe process of software creation.
+Focus on written communication: The goal with InnerSource is for the project to be transparent enough so that developers who are not part of the team can understand project decisions and follow along the process of software creation.
 As a result all communication needs to be in a place that everyone interested in the conversation can follow along: written, public, searchable and linkable.
 The goal is not to reduce distractions to others - the goal is to make all project conversations transparent.
 
@@ -132,5 +132,5 @@ Without that information contributors will have a hard time understanding which 
 
 All discussions in InnerSource projects are visible to everyone in the company.
 Blaming people for their errors, ridiculing them for their mistakes, talking behind their backs about what they did wrong is a sure fire way to kill that trust and leads to the failure of that InnerSource project.
-This is in particular important for anyone in a leadership or role model position.
+This is particularly important for anyone in a leadership or role model position.
 
