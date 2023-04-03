@@ -1,13 +1,14 @@
-Thanks for contributing.
-Here's the overall contribution process for a segment in the InnerSource Learning Path.
-The output of each step should be reviewed in the [#learning-path] working group before it is considered "done"
+Thanks for contributing!
+Check out our [README](./README.md) for an overall explanation of the InnerSource Learning Path.
+Here is the process for creating a new learning segment.
+You can view finished segments online at https://innersourcecommons.org/learningpath/.
+You should review each step with the folks in the [#learning-path] working group when finished.
 
-1. Create an [outline](./outline-template.md).
-1. Create a written article.
-1. Film the video.
-1. Create assessment questions.
-
-The [#learning-path] community has professional-grade filming equipment that you may borrow for the video portion of your segment.
+1.  Decide which section your segement should be a part of.
+1.  Create an [outline](./outline-template.md) for your segment in the section folder.
+1.  Create the written article for your segment in the section folder.
+1.  Film the video content for your segement.
+1.  Create assessment questions.
 
 Here's a few tips as you go along:
 
