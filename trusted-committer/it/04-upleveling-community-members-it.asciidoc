@@ -1,5 +1,6 @@
-[ [ upleveling]]
+[[upleveling]]
 == Aggiornamento dei membri della comunità
+
 VI è un continua partecipazione della comunità InnerSource. Vi sono persone che non sono a conoscenza della comunità. _Newcomers_ le quali potrebbero essere interessate alla comunità ed al prodotto, ma non lo hanno ancora utilizzato. _Consumers_ utilizzano il software ma potrebbero non aver apportato un contributo. Poi vi sono i https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] che hanno dato almeno un contributo, ed infine i _Trusted Committers_, che si prendono la responsabilità sia del software che della comunità. In qualità di Trusted Committer, si è responsabile di educare le persone lungo questo percorso e migliorare la loro capacità di dare  ontribute. In tal senso, i Trusted Committers agiscono come moltiplicatori di forza nella loro comunità.
 
 È importante che i Trusted Committers sponsorizzano i propri prodotti e le proprie comunità per aumentare il numero di newcomers e consumatori. Inoltre, dovrebbero comunicare le opportunità di dare  ontribute ai consumatori e cercare di suscitare ed allineare gli interessi di potenziali https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] con quelli della comunità. Si è visto che funziona bene si quandp i https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] sono in grado di lavorare su qualcosa che beneficia il propio reparto o ruolo in azienda. Buoni esempi sono gli strumenti di sviluppo e l'automazione..
