@@ -146,7 +146,7 @@ Per rendere la revisione del codice attuale quanto più semplice possibile per i
 * Fare pull request troppo ampie e grandi le rende più difficile da revisionare, quindi sarà necessario molto più tempo prima che vengano accettate.
  ** Se hai una funzionalità più grande che stai per contribuire, spesso aiuta dividerla in più pull request che sono da inviare, revisionare e accettare sequenzialmente.
 Puoi ancora raccoglierle insieme in una issue a cui fai riferimento.
-  *** Alcuni tool hanno anche la funzionalità di pull request per Draft / WIP che puoi usare per marchiare esplicitamente un lavoro non finito e non finalizzato e ricevi ancora un feedback immediato dal https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[_Trusted Committers_] dell'host team.
+  *** Alcuni tool hanno anche la funzionalità di pull request per Draft / WIP che puoi usare per marchiare esplicitamente un lavoro non finito e non finalizzato e ricevi ancora un feedback immediato dal https://innersourcecommons.org/it/learn/learning-path/trusted-committer/02/[_Trusted Committers_] dell'host team.
   *** Questo ti permette di assicurare che stai procedendo verso un percorso che il tuo host team è felice di accogliere una volta fatto, aderendo all'approccio "rilascia presto, rilascia spesso".
   *** La responsabilità dell'host team è quella di creare un'atmosfera dove la condivisione e la discussione sul lavoro non del tutto finalizzato è possibile e benvenuta. Se non puoi fallire al sicuro, non puoi innovare, e la collaborazione diventa molto difficile.
   *** Cerca di trovare un equilibrio tra il chiedere per una revisione in anticipo e fornire modifiche significative alla revisione.

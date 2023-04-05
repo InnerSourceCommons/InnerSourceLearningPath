@@ -34,9 +34,9 @@ In modo simile al modo in cui la denominazione è importante nella scrittura del
 Ora che si ha una comprensione di base del ruolo, perché utilizzare il termine Trusted Committer è appropriato e sapere come un Trusted Committer potrebbe interagire con altri ruoli comuni in un progetto software, diamo un'occhiata alle responsabilità di un Trusted Committer.
 == = Responsabilità
 I Trusted Committers hanno diverse responsabilità, tra cui:
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[Assicurare la qualità del prodotto]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/[Mantenere la comunità sana]
+* https://innersourcecommons.org/it/learn/learning-path/trusted-committer/02/[Assicurare la qualità del prodotto]
+* https://innersourcecommons.org/it/learn/learning-path/trusted-committer/03/[Mantenere la comunità sana]
 * https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Ridurre gli ostacoli alla contribuzione]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[Elevare il livello della comunità]
+* https://innersourcecommons.org/it/learn/learning-path/trusted-committer/04/[Elevare il livello della comunità]
 * https://innersourcecommons.org/learn/learning-path/trusted-committer/06/[Sostenere le esigenze della comunità]
 Analizzeremo queste responsabilità in modo più approfondito nelle pagine seguenti e esploreremo anche il percorso di https://innersourcecommons.org/learn/learning-path/trusted-committer/07/[becoming a Trusted Committer] alla fine di questo articolo.
