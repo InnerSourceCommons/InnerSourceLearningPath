@@ -19,8 +19,8 @@ Infine, alcuni di loro possono diventare https://innersourcecommons.org/learn/le
 Come Contributore all'interno di una comunità InnerSource andrai ad interagire con persone che ricoprono altri ruoli InnerSource, come il https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] o il https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] e possibilmente con altri contributori.
 A volte, questi ruoli possono essere ricoperti dalla stessa persona, come ad esempio il Trusted Committer ed il Product Owner in piccole basi di progetti.
 
-Questa sezione illustra una panoramica molto breve degli altri due ruoli, ma vorremmo incoraggiarti a leggere l'https://innersourcecommons.org/it/learn/learning-path/trusted-committer/01/[articolo di introduzione del ruolo del Trusted Committer], e raccomandiamo anche di leggere l'articolo su come https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Abbassare le barriere di ingresso], prima che tu approfondisca i dettagli del ruolo del Contributore in questa sezione.
-Puoi anche guardare i video (https://innersourcecommons.org/it/learn/learning-path/trusted-committer/01/[introduzione], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[abbassare le barriere di ingresso]) invece di leggere gli articoli.
+Questa sezione illustra una panoramica molto breve degli altri due ruoli, ma vorremmo incoraggiarti a leggere l'https://innersourcecommons.org/learn/learning-path/trusted-committer/01/[articolo di introduzione del ruolo del Trusted Committer], e raccomandiamo anche di leggere l'articolo su come https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Abbassare le barriere di ingresso], prima che tu approfondisca i dettagli del ruolo del Contributore in questa sezione.
+Puoi anche guardare i video (https://innersourcecommons.org/learn/learning-path/trusted-committer/01/[introduzione], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[abbassare le barriere di ingresso]) invece di leggere gli articoli.
 
 ==== Trusted Committer
 
