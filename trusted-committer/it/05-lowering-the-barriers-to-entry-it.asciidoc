@@ -1,0 +1,27 @@
+== Ridurre le barriere all'ingresso
+Sollecitare contributi in una comunità InnerSource è più impegnativo che in una comunità Open Source per una serie di ragioni:
+* Il numero di potenziali https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] è più basso nelle comunità InnerSource.
+* I contributori vorranno contribuire durante il loro tempo di lavoro, il che significa che sono più limitati di tempo.
+* Il lavoro in InnerSource potrebbe non essere necessariamente parte degli obiettivi di prestazioni ufficiali dei Contributors, quindi il tempo trascorso a lavorare su InnerSource può sembrare detrarne il raggiungimento.
+
+Ecco perché è importante per Trusted Committers rendere i processi per rendere i contributi e l'onboarding di https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] il più possibile senza attriti. Ci sono un certo numero di cose che possono aiutare:
+* Avere un buon README.md in ogni repository di codice. Un buon README.md spiega cosa c'è nel repository e a che cosa può essere utilizzato. Inoltre, dovrebbe fornire istruzioni dettagliate su come ottenere, creare, testare e utilizzare il software nel repository, incluse le informazioni sulla licenza.
+* Avere un buon CONTRIBUTING.md che delinea ciò che è previsto di https://innersourcecommons.org/learn/learning-path/contributor[_Contributor_]. Dovrebbe rispondere a domande comuni, quali:
+** Come posso inviare un report di bug o una richiesta di funzionalità?
+** Chi e come posso contattare se ho domande?
+** Quali sono le convenzioni per lo stile del codice, la diramazione o i messaggi di commit?
+** Qual è la definizione di "fatto" per un contributo?
+** Quali sono le fasi del processo che regolano i contributi?
+** Cosa ci si aspetta da me in termini di supporto del codice contribuito dopo l'accettazione del contributo?
+** Qual è il codice di condotta e quali sono le linee guida per come funziona la comunità?
+
+Se si dispone di una licenza interna allegata al software, che in alcune aziende è un prerequisito per la condivisione del software tra persone giuridiche, includere una copia di tale licenza _e_ una spiegazione dei diritti e degli obblighi in termini di laici.
+
+Oltre a queste attività documentarie, simili allo sviluppo del software Open Source, dovrebbe essere facile e semplice eseguire e testare il software sviluppato localmente dal potenziale https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_], in modo che possano iniziare a implementare e convalidare il proprio contributo con il minor sforzo possibile.
+
+Esistono due modelli comuni per dare contributi:
+_shared repository _ e _fork e join_. Entrambi hanno dei vantaggi e, in qualità di Trusted Committer, si desidera supportare entrambi i modelli per soddisfare le diverse esigenze del potenziale e dell'attuale https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_]. I contributori avranno spesso domande sul processo di contribuzione o sulla comunità stessa, e qualcuno deve essere disponibile a rispondere a queste domande. È quindi importante per qualsiasi comunità InnerSource avere una o più persone di contatto disponibili per rispondere a tali domande. Qualcuno del gruppo dei Trusted Committers è di solito quella persona di contatto, oppure ha bisogno di assicurarsi che ci sia un membro della comunità "su chiamata".
+
+È inoltre importante aiutare il potenziale https://innersourcecommons.org/learn/learning-path/contributor[_Contributors_] a stabilire quali contributi sono necessari. Possono essere contributi di codice ma anche contributi non di codice, come la scrittura di documentazione, la creazione di opere d'arte o l'organizzazione di eventi. Un modo comune per farlo è quello di taggare le "attività del nuovo arrivato" nel tracker dei problemi utilizzato dalla community o di implementare un marketplace per le attività aperte che i contributori possono utilizzare.
+
+In sintesi, è super importante per le comunità InnerSource in un ambiente aziendale mantenere le barriere per contribuire il più basso possibile per consentire al maggior numero possibile di persone di contribuire. Ciò significa fornire sia l'accesso alla documentazione utile che alle persone nella comunità per rispondere a qualsiasi domanda e incoraggiare la collaborazione. In sintesi, i Trusted Committers dovrebbero assicurarsi che l'onboarding e il contributo siano esperienze positive.
