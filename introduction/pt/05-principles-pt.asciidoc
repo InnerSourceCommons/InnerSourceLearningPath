@@ -1,0 +1,69 @@
+﻿== Princípios do InnerSource
+
+Cada empresa, equipe, projeto e indivíduo é diferente.
+Devido a esse fato, a maneira exata como o conceito de InnerSource funciona varia de uma situação para outra.
+Em seu núcleo, no entanto, estão quatro princípios que formam a base de qualquer instância bem-sucedida do InnerSource.
+Esses princípios são inspirados em projetos de código aberto bem-sucedidos e são necessários para que o InnerSource alcance os benefícios descritos anteriormente.
+
+Os princípios são:
+
+* *Abertura*
+* *Transparência*
+* *Mentoria Priorizada*
+* *Contribuição voluntária do código*
+
+Vamos dar uma olhada em cada um desses princípios com mais detalhes.
+
+=== Abertura
+
+A configuração de um projeto aberto permite uma contribuição sem atrito.
+Os projetos devem ser descobertos e bem documentados por meio dos arquivos README.md e CONTRIBUTING.md na raiz do repositório.
+Qualquer pessoa dentro de uma organização deve ser capaz de encontrar um projeto desejado e aumentá-lo sem uma quantidade excessiva de orientação direta dos membros da equipe anfitriã.
+As informações de contato da equipe anfitriã devem prevalecer em todos os canais que fizerem sentido para o projeto.
+As intenções da equipe anfitriã de aceitar as contribuições da InnerSource para seu projeto devem ser compartilhadas por meio de canais relevantes da organização para aumentar a conscientização.
+Particularmente em configurações menores, você pode querer estabelecer uma "transmissão" regular sobre o trabalho do InnerSource que sua equipe está fazendo.
+Em configurações maiores, no entanto, tal transmissão pode criar muito ruído e pode ser mais apropriado garantir que o projeto seja detectável em uma ferramenta fácil de usar.
+Lembre-se, o objetivo é a conscientização, use os canais adequados que funcionam na SUA empresa.
+
+De forma alguma a lista acima é exaustiva.
+A abertura do projeto normalmente estará diretamente relacionada ao sucesso de um projeto em termos de InnerSource.
+Quanto mais aberto for, menos barreiras serão colocadas para potenciais contribuidores.
+Quanto menos aberto, mais difícil se torna para qualquer um contribuir.
+
+=== Transparência
+
+Para que as equipes convidadas possam contribuir significativamente para um projeto, a equipe anfitriã deve ser _transparente_.
+Isso significa que as equipes convidadas devem entender:
+
+* O projeto/repo e sua direção
+* Requisitos de recursos pendentes
+* Progresso nos requisitos de recursos
+* Tomada de decisão da equipe anfitriã
+
+Quando possível, o acima deve ser comunicado de forma clara e detalhada, desde as definições internas dos itens das equipes até cenários de casos especiais específicos do projeto.
+Essa comunicação deve ser feita de forma que possa ser facilmente consultada e compreendida por quem não faz parte da equipe principal.
+
+=== Mentoria Priorizada
+
+_Mentoria_ da equipe anfitriã para a equipe convidada via https://innersourcecommons.org/learn/learning-path/trusted-committer[trusted committers] é um aspecto fundamental do InnerSource.
+https://innersourcecommons.org/learn/learning-path/contributor[Contribuidores] em equipes convidadas são aprimorados para que entendam o suficiente sobre o projeto/repo da equipe host para alterá-lo com sucesso.
+No processo de fazer isso, eles entendem melhor o sistema de software da equipe anfitriã como um consumidor geral e embaixador do projeto/software.
+Esse colaborador individual pode, com o tempo e com experiência, assumir um papel mais amplo no projeto como um trusted committer.
+
+É fundamental que essa orientação para colaboradores seja _Priorizada_ pela equipe anfitriã.
+A equipe anfitriã deve se esforçar para arranjar tempo para orientar os colaboradores da equipe convidada _no momento em que o colaborador precisar_ em vez de quando for conveniente para a equipe anfitriã.
+Às vezes, pode ser uma mudança de cultura para os engenheiros da equipe anfitriã gastar tempo ajudando outras pessoas a codificar, em vez de apenas codificar a si mesmos.
+Essa orientação é valiosa tanto para o colaborador individual quanto para o anfitrião, e vale a pena fazer bem.
+Isso prova ser mutuamente benéfico a longo prazo. Ao melhorar o código, o colaborador forja ou melhora os relacionamentos dentro de uma organização que podem não ter existido de outra forma.
+O código aberto reconhece prontamente esse ponto e considera uma honra alcançar o status de trusted committer em um projeto.
+
+=== Contribuição voluntária do código
+
+A primeira palavra _Voluntário_ significa que o engajamento no InnerSource tanto das equipes convidadas quanto das anfitriãs ocorre por sua própria vontade.
+A equipe convidada doa voluntariamente o código para a equipe anfitriã e a equipe anfitriã o aceita voluntariamente.
+Essa natureza optativa significa que cada equipe precisa ter certeza de que seu envolvimento agrega valor aos objetivos das outras.
+Nunca uma equipe anfitriã é obrigada a aceitar uma contribuição que não esteja alinhada com sua missão geral.
+Nunca uma equipe convidada é obrigada a enviar uma contribuição que não promova sua própria missão e prioridades.
+
+A palavra _Código_ enfatiza que a colaboração entre o convidado e o anfitrião vai até o código.
+O envolvimento do convidado na abertura de problemas, atualização de requisitos, correção de documentos etc. é bom, mas a colaboração precisa chegar até o envio de código para obter todos os benefícios que temos.
