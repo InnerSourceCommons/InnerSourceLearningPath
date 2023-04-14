@@ -1,0 +1,295 @@
+﻿1
+00:00:05,005 --> 00:00:06,339
+Ok. Então agora
+
+2
+00:00:06,339 --> 00:00:09,843
+você viu algumas explicações sobre como inner source funciona.
+
+3
+00:00:10,110 --> 00:00:12,412
+Vamos falar sobre os princípios.
+
+4
+00:00:12,412 --> 00:00:14,481
+Primeiro de tudo, de onde ele vem?
+
+5
+00:00:14,481 --> 00:00:17,817
+Bem, muitas coisas vieram direto do Apache Way.
+
+6
+00:00:18,418 --> 00:00:22,489
+A Fundação Apache Software tem produzido alta qualidade
+
+7
+00:00:22,722 --> 00:00:25,191
+em softwares open source por mais de 20 anos,
+
+8
+00:00:25,458 --> 00:00:28,895
+e eles tem feito um bom trabalho em como explicar às pessoas
+
+9
+00:00:28,895 --> 00:00:32,332
+que nunca trabalharam com open souce, como ter esse efeito.
+
+10
+00:00:32,665 --> 00:00:36,302
+Então nós pegamos o que eles aprenderam nos últimos 20 anos.
+
+11
+00:00:36,302 --> 00:00:39,272
+E juntamos tudo como a ideia de inner source.
+
+12
+00:00:39,839 --> 00:00:41,941
+Então, vamos começar com a ideia de mentoria.
+
+13
+00:00:42,575 --> 00:00:46,246
+Mentoria é a chave para o inner source funcionar.
+
+14
+00:00:46,813 --> 00:00:51,484
+A ideia de que todos os barcos irão emergir se o código melhorar,
+
+15
+00:00:51,484 --> 00:00:55,722
+Se todo mundo melhorar um pouco, a generosidade de compartilhar o que sabe,
+
+16
+00:00:55,922 --> 00:00:59,559
+em vez de segurar o que sabe como uma forma de manter seu emprego.
+
+17
+00:00:59,959 --> 00:01:02,062
+E se você ficar conhecido por ser um ótimo professor?
+
+18
+00:01:02,095 --> 00:01:04,764
+E se você for conhecido por ajudar as pessoas a alcançarem o melhor nelas mesmas?
+
+19
+00:01:05,165 --> 00:01:08,234
+Mentoria é isso.
+
+20
+00:01:08,535 --> 00:01:13,039
+Ser um committer confiável no Apache é, na verdade, uma honra.
+
+21
+00:01:13,406 --> 00:01:17,043
+Se você virar um committer confiável, significa não somente que você é bom o bastante
+
+22
+00:01:17,043 --> 00:01:18,311
+para contribuir com o código.
+
+23
+00:01:18,311 --> 00:01:19,813
+Você é bom o bastante para assistir
+
+24
+00:01:19,813 --> 00:01:23,450
+e tenha certeza de que as contribuições de outros são boas o bastante e sustentáveis.
+
+25
+00:01:23,616 --> 00:01:27,020
+Mas você também é bom o bastante para explicar a outros contribuidores
+
+26
+00:01:27,253 --> 00:01:29,722
+como aproveitar ao máximo suas contribuições.
+
+27
+00:01:30,256 --> 00:01:35,261
+E às vezes, numa empresa tradicional, a ideia pode ser difícil,
+
+28
+00:01:35,562 --> 00:01:38,531
+principalmente se as pessoas estão acostumadas a serem avaliadase com base em quão
+
+29
+00:01:38,531 --> 00:01:42,001
+bem elas programam, em vez de quão bem elas ensinam outras a programar.
+
+30
+00:01:42,435 --> 00:01:45,605
+Mas descobrimos que, após as pessoas pegarem o jeito,
+
+31
+00:01:45,605 --> 00:01:49,709
+isso ajudará ambas com esse coleguismo colegial
+
+32
+00:01:49,709 --> 00:01:53,613
+e colaboração na empresa, mas também a confiança para commitar, para começar
+
+33
+00:01:53,613 --> 00:01:56,149
+a se sentir melhor sobre o trabalho que estão fazendo.
+
+34
+00:01:56,583 --> 00:02:01,354
+Nós recomendamos que as pessoas não committem toda hora, todos os dias, 
+
+35
+00:02:01,788 --> 00:02:04,657
+porque é importante continuar aprendendo a programar
+
+36
+00:02:04,657 --> 00:02:06,526
+e ficar conectado com o código.
+
+37
+00:02:06,526 --> 00:02:10,797
+Então você é efetivamente um committer confiável e um verdadeiro open source.
+
+38
+00:02:10,797 --> 00:02:12,632
+Essas coisas estão sempre intercaladas.
+
+39
+00:02:12,632 --> 00:02:18,571
+Mas em nossa source, nós realmente recomendamos, como uma implantação, que você vá em frente
+
+40
+00:02:18,571 --> 00:02:23,276
+e coloque 10% dos seus recursos em committs confiáveis em qualquer sprint. 
+
+41
+00:02:23,643 --> 00:02:27,180
+E se eles tiverem tempo sobrando após terem olhado os inner sources
+
+42
+00:02:27,180 --> 00:02:29,616
+contribuídos que chegaram, eles deveriam estar revisando
+
+43
+00:02:29,616 --> 00:02:30,917
+todas as contribuições.
+
+44
+00:02:30,917 --> 00:02:32,952
+Isso significa as do seu próprio time,
+
+45
+00:02:32,952 --> 00:02:34,954
+porque isso automaticamente aumenta a qualidade.
+
+46
+00:02:35,188 --> 00:02:38,825
+A qualquer momento, quando um segundo par de olhos verifica o código, ele ficará melhor.
+
+47
+00:02:39,592 --> 00:02:40,193
+E então
+
+48
+00:02:41,661 --> 00:02:43,630
+É importante que você saiba
+
+49
+00:02:43,630 --> 00:02:47,667
+que a mentoria precisa ser priorizada, ou isso irá acontecer.
+
+50
+00:02:48,101 --> 00:02:51,104
+A maioria das empresas pensam que a revisão de código está acontecendo,
+
+51
+00:02:51,437 --> 00:02:52,505
+mas, na realidade,
+
+52
+00:02:52,505 --> 00:02:56,809
+por conta da pressão do tempo, há uma tendência de carimbar
+
+53
+00:02:56,809 --> 00:03:00,713
+com um time, porque as pessoas dizem: “Oh, sabe, eu sou bom nisso.”
+
+54
+00:03:00,713 --> 00:03:02,448
+Você poderia carimbar isso. Certo?
+
+55
+00:03:02,448 --> 00:03:04,617
+Nós precisamos nos apressar. Precisamos terminar logo.
+
+56
+00:03:05,084 --> 00:03:07,520
+Mas se o código está vindo de fora
+
+57
+00:03:07,520 --> 00:03:10,690
+e o time precisar aceitá-lo e mantê-lo,
+
+58
+00:03:11,024 --> 00:03:13,593
+eles são muito mais cuidadosos com a qualidade.
+
+59
+00:03:13,860 --> 00:03:16,095
+E o open source mostra isso.
+
+60
+00:03:16,095 --> 00:03:19,265
+A quantia de qualidade
+
+61
+00:03:19,265 --> 00:03:24,437
+que é encontrada e melhorada continuamente, a velocidade com que cada problema
+
+62
+00:03:24,437 --> 00:03:28,508
+essa descoberta é remediada e, você sabe, muito óbvia e open source.
+
+63
+00:03:29,075 --> 00:03:32,312
+E então, é importante pensar sobre tudo isso.
+
+64
+00:03:32,312 --> 00:03:36,616
+A participação é voluntária, por isso ninguém está sendo recrutado aqui.
+
+65
+00:03:37,050 --> 00:03:40,720
+Nunca deverá parecer que você está sendo obrigado a fazer isso.
+
+66
+00:03:41,187 --> 00:03:45,592
+É muito mais sobre lubrificar as rodas, então o engenheiro original
+
+67
+00:03:45,592 --> 00:03:48,995
+pode ter o que ele precisa, e fazer isso de uma forma que é, pelo menos,
+
+68
+00:03:48,995 --> 00:03:51,931
+interruptiva para os engenheiros trabalhando naquele silo.
+
+69
+00:03:52,365 --> 00:03:56,369
+E isso vem com uma oportunidade
+
+70
+00:03:56,703 --> 00:04:01,374
+de grande qualidade para aquele egnheiro original fazer seu trabalho. 
+
+71
+00:04:02,942 --> 00:04:04,244
+Então tudo fica bom.
+
+72
+00:04:04,244 --> 00:04:08,014
+Quando é feito do jeito certo, e não é difícil chegar àquele lugar,
+
+73
+00:04:08,281 --> 00:04:12,085
+você só precisa priorizar a mentoria e se certificar que aqueles committees confiáveis
+
+74
+00:04:12,085 --> 00:04:16,289
+entendam a importância e a gravidade do trabalho que estão fazendo.
