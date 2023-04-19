@@ -14,8 +14,8 @@ Here's a few tips as you go along:
 # Translations
 
 * All articles may be translated into any language of interest.
-* Instead of translating from scratch, consider starting with [machine-translated text](https://www.deepl.com/translator) and revising from there.
-Remove "Translated by DeepL" in the final text.
+* Instead of translating from scratch, contact [@nysenthil] to get an IBM Watson machine translation as a starting point and revising from there.
+* All translations (manual or machine-generated) be reviewed and approved by a native speaker.
 * Translated articles should be stored next to the English articles in a subfolder named as the [two-character language code](https://www.loc.gov/standards/iso639-2/php/code_list.php) of the translation (e.g. the `de` subfolder for German).
 * The filename of the article should be changed to include two-character language code prefix.
 * The special `index.md` files for each section should also be translated, as they are used in the Learning Path section of the [new website](https://innersourcecommons.net/learn/learning-path/)
@@ -148,3 +148,4 @@ then those comments/suggestions should be made against the source text _GitHub_.
 The new video will have a version number in the title.
 
 [#learning-path]: https://app.slack.com/client/T04PXKRM0/CARTU4XV2
+[@nysenthil]: https://github.com/nysenthil
