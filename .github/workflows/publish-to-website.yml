@@ -44,7 +44,7 @@ jobs:
             git checkout
       - uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 18
       - name: Build
         working-directory: InnerSourceLearningPath/scripts
         # The automated steps here need to be kept in sync manually with the written instructions at "/scripts/README.md"
