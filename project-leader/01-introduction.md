@@ -1,4 +1,4 @@
-Welcome to the learning path section for product managers.
+Welcome to the learning path section for project leaders.
 
 After completing this segment, you will have a better understanding of how InnerSource speeds up product development.
 We will also cover how it relates to Agile development best practices.

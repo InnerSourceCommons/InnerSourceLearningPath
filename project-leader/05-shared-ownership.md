@@ -30,7 +30,7 @@ Instead it is a way for continuously guiding contributors through the code devel
 For that to work out in practice there needs to be time and space for team building - but across traditional team boundaries.
 Having at least a vague understanding of the different cultures in teams makes misunderstandings much less likely and the contribution process much more smooth.
 
-In particular when host teams are flooded with contributions product managers that otherwise focus only on their local team need to take a more global perspective:
+In particular when host teams are flooded with contributions project leaders that otherwise focus only on their local team need to take a more global perspective:
 * Help the team understand different priorities for incoming contributions depending on overall company strategy.
 Often not all contributions are equally urgent.
 * Another way to help the team is to take over tasks like issue triage, handling initial responses to contributors and guiding larger contributions through the process.
@@ -45,7 +45,7 @@ Coordinating the timing around that mentoring can be a big help for your team.
 
 In the short term that is true.
 In the long run it means added maintenance.
-As a product person you can help your team understand why contributing changes to the project you depend on is in the best interest of the business: Less work overall.
+As a project leader you can help your team understand why contributing changes to the project you depend on is in the best interest of the business: Less work overall.
 Maintenance for the long term is taken on by the host team.
 
 ## InnerSource governance levels
