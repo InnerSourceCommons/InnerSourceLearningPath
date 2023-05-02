@@ -1,10 +1,11 @@
 Thanks for contributing!
-Check out our [README](./README.md) for an overall explanation of the InnerSource Learning Path.
+Check out our [README] for an overall explanation of the InnerSource Learning Path.
 Here is the process for creating a new learning segment.
 You can view finished segments online at https://innersourcecommons.org/learningpath/.
 You should review each step with the folks in the [#learning-path] working group when finished.
 
 1.  Decide which section your segement should be a part of.
+You can find the list of sections in the [README].
 1.  Create an [outline](./outline-template.md) for your segment in the section folder.
 1.  Create the written article for your segment in the section folder.
 1.  Film the video content for your segement.
@@ -149,3 +150,4 @@ then those comments/suggestions should be made against the source text _GitHub_.
 The new video will have a version number in the title.
 
 [#learning-path]: https://app.slack.com/client/T04PXKRM0/CARTU4XV2
+[README]: ./README.md
