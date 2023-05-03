@@ -46,7 +46,7 @@ Anytime there are _any changes_, you need to run the script that generates the u
 
 1. Clone the [InnerSourceCommons/InnerSourceLearningPath] and [InnerSourceCommons/innersourcecommons.org] repos.
 1. Is this the first time that articles have been written for this language? If so:
-  * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there are the relevant [index pages](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/content/learn/_index.ru.md)
+  * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there is an [index page](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/content/en/learn/learning-path).
 3. Is there a whole new Learning Path section? If so:
   * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/scripts/section_data.json) with the new section and open a pull request for the change
 4. Run **generate_learning_path_markdown.js** as described above.
