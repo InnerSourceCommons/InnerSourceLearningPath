@@ -49,8 +49,8 @@ Anytime there are _any changes_, you need to run the script that generates the u
   * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there is an [index page](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/content/en/learn/learning-path).
 3. Is there a whole new Learning Path section? If so:
   * Create a [new thumbnail](../assets/thumbnails) and put it with the [other thumbnails](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/static/images/learn).
-  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/scripts/section_data.json) with the new section and open a pull request for the change
-  * Create 
+  * Create an `index.md` in the section folder.****
+  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/scripts/section_data.json) with the new section and open a pull request for the change.
 4. Run **generate_learning_path_markdown.js** as described above.
 4. `cp -r newsite/* <path-to-innersourcecommons.org-repo>/content/en/learn/learning-path/`.
 4. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
