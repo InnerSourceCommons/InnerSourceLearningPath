@@ -40,6 +40,8 @@ npm ci
 node generate_learning_path_markdown.js
 ```
 
+The `-e` param generates only English-language articles, which can speed things up quite a bit if you just need one language to test out some changes.
+
 ## How to update innersourcecommons.org with new articles
 
 Anytime there are _any changes_, you need to run the script that generates the updated pages on the [innersourcecommons.org] site.
