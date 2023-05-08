@@ -30,5 +30,13 @@
     "workbookImage": "images/learn/workbooks/Learning Path-Product Owner Workbook-image.png",
     "image": "images/learn/LP_thumbnail_productowner.jpg",
     "renderArticles": false
+  },
+  {
+    "learning_path_group": "Project Leader",
+    "dirName": "project-leader",
+    "workbook": "",
+    "workbookImage": "",
+    "image": "images/learn/LP_thumbnail_projectleader.jpg",
+    "renderArticles": true
   }
 ]
