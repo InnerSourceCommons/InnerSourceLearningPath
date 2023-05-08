@@ -1,0 +1,18 @@
+== The InnerSource Mentality
+
+InnerSource helps when there are multiple teams at our company that have a shared need - business or technical.
+We want one shared project that all can leverage.
+This sharing allows each team to spend as much time as possible in their unique business area instead of reinventing what someone has done before.
+
+We manage shared projects via InnerSource, meaning that we apply open source practices and principles to the way that they are run.
+These projects are open for reuse and contribution across the company.
+In theory, any project can be an InnerSource project, but you can find popular InnerSource projects listed in the company InnerSource portal.
+
+InnerSource needs to be a part of the way we work.
+When delivering on your software roadmap, when you come across a need that is likely shared with other teams, stop and think.
+Has anyone else at the company already build something that (almost) solves this need?
+If so, on-board to that project, even if that means contributing to it first to extend it to meet your use case.
+If there is not an existing project, then build it in a sharable way with yourself as its first consumer, and then list it in the InnerSource portal.
+
+Working in this way helps us to get the most as a company out of the engineering time that we all put in and enables us to spend more time on our unique mission as a company.
+Adopt The InnerSource Mentality.
