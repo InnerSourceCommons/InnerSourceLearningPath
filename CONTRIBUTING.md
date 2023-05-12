@@ -105,6 +105,7 @@ If your video does not require positioning adjustments, you only need to do step
 # Files
 
 * When submitting new files, follow the folder structure listed under **Repository Setup** in [the README](./README.md).
+* Use the ASCIIDOC format.
 * Write each new sentence on a new line.
 GitHub allows leaving comments on a line-by-line basis.
 Review and comment on the content of submitted text is much easier if there are multiple lines on-which to leave comments.
