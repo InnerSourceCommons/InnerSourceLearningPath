@@ -11,6 +11,7 @@ const writeMarkdownFile = require('./write_markdown_file')
 const sections = require('./section_data.json')
 
 const urls = YAML.parse(fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf-8'))
+const args = require('args-parser')(process.argv);
 
 const getYouTubeCode = (section, articleNumber) => {
   const sectionLinks = urls.filter(entry => entry.section === section.toLowerCase())
@@ -38,9 +39,12 @@ const getArticleImage = (youTubeCode) => {
     const baseWritePath = join('.', writeDir, dirName)
     mkdirSync(baseWritePath)
 
-    const translations = fs.readdirSync(baseReadPath, { withFileTypes: true })
-      .filter(dirent => dirent.isDirectory())
-      .map(dirent => dirent.name)
+    var translations = []
+    if (!args.e) {
+      translations = fs.readdirSync(baseReadPath, { withFileTypes: true })
+        .filter(dirent => dirent.isDirectory())
+        .map(dirent => dirent.name)
+    }
 
     translations.concat('' /* The English original */).forEach(async (translation) => {
       const isTranslation = translation !== ''
