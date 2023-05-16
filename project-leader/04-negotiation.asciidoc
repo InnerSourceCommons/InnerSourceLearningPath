@@ -1,16 +1,18 @@
-# InnerSource and negotiation skills
+== InnerSource and Negotiation Skills
 
 Coding and negotiation?
 You may ask yourself how these two go together.
 In particular for InnerSource host teams it helps to have a few stumbling blocks in mind when it comes to change negotiation.
 
-## Small vs. large changes
+=== Small vs. large changes
 
 As discussed in the last training segment, smaller code changes tend to get accepted faster.
 For the host team the advantages are clear and should be communicated to contributing teams:
+
 * They are easier to review.
 * They have less impact - both, positive and negative.
 * They are faster to integrate.
+
 As a result making small changes in an ad-hoc fashion typically causes little to no friction.
 They are a sweet-spot for drive-by contributions and often can be handled without much coordination support.
 Typically this is how InnerSource contributions start: Engineers in teams start collaborating on smaller changes and find that work very easy and light weight.
@@ -20,6 +22,7 @@ This may cause teams to adopt a mindset where InnerSource is only for the softwa
 However this learned ad hoc working model breaks as soon as the scope of contributions increases.
 If kept purely to software engineers, in the worst case even with push back from other roles in the teams this means that escalations will happen way more often.
 For modifications with a larger scope other roles in the contributing and in the host team need to be aware of the InnerSource work and need to bring their skills to the table:
+
 * Together, the two teams need to figure out a good time for working on the contribution.
 If the host team has no time for mentoring the contributing team is more likely to get frustrated for lack of support.
 They may also be more likely to develop a solution that is likely to need a lot of rework causing frustration for everyone involved.
@@ -29,7 +32,7 @@ Ideally this also means that tech and business level expertise needs to come tog
 Often this results in negotiations around if the changes should be made in the InnerSource project - with maintenance subsequently covered by the host team.
 It can mean that those involved need to clarify what the value for everyone involved is, but also if and how the contributing team can help the host team lower the maintenance burden.
 
-## Coordination
+=== Coordination
 
 "Just write the code and send us your patch" - sounds easy enough.
 Except in reality this is only true for the most trivial changes.

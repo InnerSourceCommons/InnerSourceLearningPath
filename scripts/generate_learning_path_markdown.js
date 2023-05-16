@@ -93,23 +93,22 @@ const getArticleImage = (youTubeCode) => {
         writeMarkdownFile(fileName, frontMatter, body)
       })
 
-      // Workbooks not translated.
-      if (!isTranslation) {
-        const workbookFileName = join(baseWritePath, 'workbook.md')
-        const contributors = await getContributors(`workbook/${section.workbook}`)
-        const workbookPosition = articles.length + 1
+      const workbookFileName = join(baseWritePath, 'workbook.md')
+      const contributors = await getContributors(`workbook/${section.workbook}`)
+      const workbookPosition = articles.length + 1
 
-        const workbookFrontMatter = {
+      const workbookFrontMatter = {
           title: 'Workbook',
           contributors,
           image: section.workbookImage,
           weight: workbookPosition
-        }
+      }
 
-        const workbookReadPath = join('..', 'workbook', section.workbook)
-        const body = asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
+      const workbookReadPath = join('..', 'workbook', section.workbook)
 
-        writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
+      if (section.workbook && fs.existsSync(workbookReadPath)) {
+          const body = asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
+          writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
       }
     })
   })
