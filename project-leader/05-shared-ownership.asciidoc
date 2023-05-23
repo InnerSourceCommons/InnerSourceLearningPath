@@ -14,7 +14,7 @@ contributions can spread the workload to move the project forward.
 Opening a project up for contibutions though doesn't mean that Trusted
 Committers have to accept all submissions. It is the team of Trusted
 Committers that sets the mission and goals for the project. They are
-then in a postition to set direction and decide on change acceptance
+then in a position to set direction and decide on change acceptance
 accordingly.
 
 === Ownership misconceptions
