@@ -20,4 +20,4 @@ jobs:
     - name: Vale Linting
       uses: errata-ai/vale-action@reviewdog
       with:
-        files: '["product/*.asciidoc"]'
+        files: '["project-leader/*.asciidoc"]'
