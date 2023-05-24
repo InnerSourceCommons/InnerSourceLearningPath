@@ -22,3 +22,5 @@ jobs:
       with:
         files: '["project-leader/*.asciidoc"]'
         filter_mode: file
+        debug: true
+        level: error
