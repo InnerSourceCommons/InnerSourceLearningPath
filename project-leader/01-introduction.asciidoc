@@ -45,7 +45,7 @@ In an ideal InnerSource organisation you can scale that up even further:
 Remember the last time you had to make cross cutting concern
 modifications across your entire platform? When going the "put it into
 the backlog of each team" this often feels like it's dragging on
-forever. On the other hand, it speeds things up substantialy to provide
+forever. On the other hand, it speeds things up substantially to provide
 those teams with a patch that implements the modification. The
 complexity of modifications in that approach depends on the maturity of
 the organisation and the maintainability/modularity of the code

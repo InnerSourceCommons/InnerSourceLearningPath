@@ -54,7 +54,7 @@ Committers set the rules for contributions.
 structured way:
 ** Contribution intent is shared early to make sure the
 contribution fits within the Host projects' vision and scope.
-** Progess
+** Progress
 is shared early so the host team has a chance to mentor the contributor
 and guide them on the path to a desired design and architecture. That
 way frustration due to having to decline a contribution late in the
@@ -120,7 +120,7 @@ contributors and schedule that into their planned work. In addition when
 crossing team boundaries it is often hard to find time slots for pairing
 - in those cases it should be complemented with asynchronous
 collaboration. To avoid frequent disruption, host team members often
-need to intentially plan their day more rigorously in InnerSource
+need to intentionally plan their day more rigorously in InnerSource
 settings. Often it is simplest to set aside certain hours in the day or
 a day a week for mentoring contributions. Making that explicit at the
 team level takes a lot of pressure off the engineers trying to fulfil

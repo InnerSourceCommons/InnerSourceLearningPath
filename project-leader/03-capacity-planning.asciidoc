@@ -59,7 +59,7 @@ teams is to make time for splitting changes into smaller chunks. Make
 sure to communicate the wider context these changes belong to though.
 
 Often making larger changes requires communicating intent and purpose
-early. It can also be benefitial to make sure contributing team and host
+early. It can also be beneficial to make sure contributing team and host
 team have enough time set aside for working on the change together. This
 means that people setting team priorities need to think beyond their own
 team when prioritizing changes. However coordination can still happen

@@ -55,7 +55,7 @@ be very uncomfortable in particular for employees not used to that way
 of working. In addition all actions being public means they are also
 available for public scrutiny - no longer can every move be vetted by
 corporate communication experts. Similarly produced artifacts are
-available for public scrutiny wrt. license compliance, security and the
+available for public scrutiny with regard to license compliance, security and the
 like - e.g. for competitors, for potential future new hires, for
 customers.
 
