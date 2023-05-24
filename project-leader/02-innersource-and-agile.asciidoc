@@ -6,18 +6,18 @@ value and maintain autonomy in a highly interconnected world.
 
 === Autonomous teams in an interconnected world
 
-Organisations try to deliver value to customers quickly. One common
+Organizations try to deliver value to customers quickly. One common
 cause for delays are dependencies in the delivery process. As a result
-organisations prefer cross functional teams covering customer
+organizations prefer cross functional teams covering customer
 communication, design, implementation, testing and operations thus
 eliminating costly handovers. To achieve high performance, teams
 eliminate waste and re-use existing components. From a team perspective
 each reused component adds another dependency outside of the control of
-that team. The negative side of this optimisation is clear: The team
+that team. The negative side of this optimization is clear: The team
 depends on another team if they need changes in the component used. To
 be able to implement those often lengthy roadmap discussions are
 scheduled, sometimes leading to the need to optimize detailed priorities
-globally. In complex situations as much as in large organisations this
+globally. In complex situations as much as in large organizations this
 leads to an increase in time needed to adjust to changing business
 needs. For very popular central components often there are so many
 requests coming in that one central component team runs out of capacity
@@ -123,7 +123,7 @@ collaboration. To avoid frequent disruption, host team members often
 need to intentionally plan their day more rigorously in InnerSource
 settings. Often it is simplest to set aside certain hours in the day or
 a day a week for mentoring contributions. Making that explicit at the
-team level takes a lot of pressure off the engineers trying to fulfil
+team level takes a lot of pressure off the engineers trying to fulfill
 their own team goals but also helping out contributors. Another
 challenge with pairing is that it allows pairs to move very quickly
 together - often at the expense of writing important information down
@@ -164,10 +164,10 @@ sticky notes on a whiteboard. In InnerSource, issue trackers serve for a
 conversation with the customer, but also for communication between
 members of a team of trusted committers and contributors working on one
 common InnerSource component. Issues in InnerSource become much more
-lengthy and wordy than in your average organisation. They also track the
+lengthy and wordy than in your average organization. They also track the
 implementation history and detailed design decisions for a change.
 
-Code Reviews: In traditional organisations code reviews often serve
+Code Reviews: In traditional organizations code reviews often serve
 auditing purposes.
 
 They are done when development is finished. In InnerSource code changes

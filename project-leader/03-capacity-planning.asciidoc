@@ -75,7 +75,7 @@ simply help with reviews, new Trusted Committers can help with issue
 triage, mentoring new contributors and the like.
 
 When faced with a lot of interest in contributions one additional factor
-to consider when prioritising mentoring help for contributors can be
+to consider when prioritizing mentoring help for contributors can be
 interest of the contributors in a long term relationship with the host
 team. The more time is needed for mentoring, the more likely it should
 be for contributors to stick around longer.

@@ -1,7 +1,7 @@
 == Options for Shared Ownership
 
 "If everyone owns it, nobody is accountable." Traditional
-organisations prefer to have a single point of contact in case of
+organizations prefer to have a single point of contact in case of
 issues. On the other hand allowing simply everyone to make changes
 surely will result in a mess that can no longer be maintained.
 
