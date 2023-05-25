@@ -58,4 +58,4 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add . && git commit -m "Update Learning Path articles" && git push)
+          git add . && git commit -m "Update Learning Path articles" && git push
