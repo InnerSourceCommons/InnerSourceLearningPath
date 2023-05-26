@@ -20,7 +20,9 @@ jobs:
     - name: Vale Linting
       uses: errata-ai/vale-action@reviewdog
       with:
-        files: '["introduction/*.asciidoc", "project-leader/*.asciidoc"]'
+        # files: '["introduction/*.asciidoc", "project-leader/*.asciidoc"]'
+        files: 'introduction/*.asciidoc,project-leader/*.asciidoc'
+        separator: ","
         # vale_flags: "--glob=*.asciidoc"
         filter_mode: file
         debug: true
