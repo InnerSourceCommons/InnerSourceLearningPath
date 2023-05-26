@@ -21,9 +21,6 @@ jobs:
       uses: errata-ai/vale-action@reviewdog
       with:
         files: '["introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/"]'
-        # files: 'introduction/*.asciidoc,project-leader/*.asciidoc'
-        # separator: ","
         vale_flags: '--glob=!*/*/*'
         filter_mode: file
         debug: true
-        level: error
