@@ -23,7 +23,7 @@ jobs:
         files: '["introduction/", "project-leader/"]'
         # files: 'introduction/*.asciidoc,project-leader/*.asciidoc'
         # separator: ","
-        vale_flags: "--glob=\!*/*/*.asciidoc"
+        vale_flags: '--glob=!*/*/*.asciidoc'
         filter_mode: file
         debug: true
         level: error
