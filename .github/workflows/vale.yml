@@ -22,5 +22,5 @@ jobs:
       with:
         files: '["introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/"]'
         vale_flags: '--glob=!*/*/*'
-        filter_mode: file
+        filter_mode: added # one of: added, diff_context, file, nofilter
         debug: true
