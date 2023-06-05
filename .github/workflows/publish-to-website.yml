@@ -44,7 +44,7 @@ jobs:
             git checkout
       - uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 18
       - name: Build
         working-directory: InnerSourceLearningPath/scripts
         # The automated steps here need to be kept in sync manually with the written instructions at "/scripts/README.md"
@@ -58,4 +58,5 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add . && git commit -m "Update Learning Path articles" && git push)
+          git add .
+          git diff --staged --quiet || (git commit -m "Update Learning Path articles" && git push)
