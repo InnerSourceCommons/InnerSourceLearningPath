@@ -84,6 +84,16 @@
     github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/introduction/08-is-innersource-right.md
     isc: https://innersourcecommons.org/learn/learning-path/introduction/08/
     oreilly: ''
+- section: introduction
+  video:
+    isc: https://innersourcecommons.org/learn/learning-path/introduction/09/
+    oreilly: ''
+    youtube: https://www.youtube.com/watch?v=d79Qw1YmP-E
+  article:
+    anchor: ''
+    github: https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/introduction/09-innersource-mentality.asciidoc
+    isc: https://innersourcecommons.org/learn/learning-path/introduction/09/
+    oreilly: ''
 - section: trusted committer
   video:
     isc: https://innersourcecommons.org/learn/learning-path/trusted-committer/01
