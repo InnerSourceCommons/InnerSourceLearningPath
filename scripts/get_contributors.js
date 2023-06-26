@@ -89,14 +89,18 @@ module.exports = async function (filepath) {
     })
   })
 
+  // Dedupe users
   return Object.values(
     [...authors, ...reviewers].reduce((accumulator, user) => {
-      // Dedupe users
-      // Some user objects do not have a URL (can't figure out why).
-      // In that case, copy over a good URL instead.
-      const newUser = accumulator[user.name] || user
-      newUser.url = newUser.url || user.url
-      accumulator[user.name] = newUser
+      // Skip bot users
+      if (!user.name.includes('[bot]')) {
+        // Some user objects do not have a URL (can't figure out why).
+        // In that case, copy over a good URL instead.
+        const newUser = accumulator[user.name] || user
+        newUser.url = newUser.url || user.url
+
+        accumulator[user.name] = newUser
+      }
 
       return accumulator
     }, {})
