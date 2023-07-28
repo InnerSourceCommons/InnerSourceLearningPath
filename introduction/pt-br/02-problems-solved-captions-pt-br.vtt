@@ -12,11 +12,11 @@ discutir os tipos de problemas que o Inner Source pode resolver.
 
 3
 00:00:09.809 --> 00:00:13.446
-Nós faremos isso ao apresentar um hipotético, mas confiável
+Nós faremos isso ao apresentar um cenário de colaboração hipotético, 
 
 4
 00:00:13.446 --> 00:00:15.248
-cenário de colaboração.
+mas confiável.
 
 5
 00:00:15.248 --> 00:00:19.886
@@ -44,23 +44,23 @@ que é consumido por outro para fazer isso funcionar.
 
 11
 00:00:37.203 --> 00:00:41.641
-Imagine um time produzindo uma API que outro time
+Imagine um time produzindo uma API que é consumida 
 
 12
 00:00:41.641 --> 00:00:44.010
-produzindo a experiência do usuário consume
+pelo time de Experiência do Usuário. 
 
 13
 00:00:45.445 --> 00:00:48.448
-de tempos em tempos para entregar funcionalidades desejadas.
+De tempos em tempos, 
 
 14
 00:00:48.481 --> 00:00:51.251
-A experiência talvez precise fazer uma solicitação
+o time de Experiência do Usuário precisa pedir 
 
 15
 00:00:51.251 --> 00:00:53.753
-para a nova funcionalidade da API.
+novas funcionalidades para a API.
 
 16
 00:00:54.454 --> 00:00:58.558
