@@ -1,32 +1,42 @@
-== assegurando a qualidade do produto
-Comecemos com a responsabilidade mais frequentemente associada ao papel do Trusted Committer: garantir a qualidade do produto.
-Em uma comunidade InnerSource, os Trusted Committers _own_ todas as decisões relacionadas à tecnologia, especialmente aquelas relacionadas à qualidade do produto.
+== Assegurando a qualidade do produto
+
+Vamos começar com a responsabilidade mais frequentemente associada ao Trusted Committer: garantir a qualidade do produto.
+
+Em uma comunidade InnerSource, os Trusted Committers _possuem_ todas as decisões relacionadas à tecnologia, especialmente aquelas relacionadas à qualidade do produto.
 A propriedade implica a necessidade de assegurar que as decisões em vigor sejam seguidas.
 Isso inclui comunicar e-se necessário-defender essas decisões, dentro e fora da comunidade.
 Mas os Trusted Committers não necessariamente tomam todas as decisões relacionadas à tecnologia ou fazem todo o trabalho para implementá-las.
+
 É tarefa do Trusted Committer comunicar e esclarecer padrões de qualidade em sua comunidade e formulá-los de uma maneira que seja compreensível e acionável por seus https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_].
-Isso inclui documentação escrita, é claro, mas a maneira mais eficaz para os Comités Confiáveis comunicarem esses padrões de qualidade é por exemplo.
+Isso inclui documentação escrita, é claro, mas a maneira mais eficaz para os Trusted Committers comunicarem esses padrões de qualidade é através do exemplo.
 Achamos que pode ser um objetivo útil para uma comunidade InnerSource tentar se distinguir dos projetos tradicionais de desenvolvimento de software não apenas na forma como eles organizam o desenvolvimento, mas também na qualidade do software que eles produzem.
-Um alto nível de qualidade de software é essencial para estabelecer e manter a confiança na comunidade InnerSource em parte de seus usuários e seu gerenciamento.
-Todos nós sabemos como uma liberação ruim pode quebrar essa confiança em um instante.
+Um alto nível de qualidade de software é essencial para estabelecer e manter a confiança na comunidade InnerSource por parte de seus usuários e sua administração.
+Todos nós sabemos como uma release ruim pode quebrar essa confiança em um instante.
+
 Os Trusted Committers também garantem que a comunidade tenha a infraestrutura e as ferramentas necessárias para produzir software de qualidade.
-A revisão por pares, geralmente executada como parte de solicitações pull (PRs), é usada com mais frequência para assegurar a qualidade.
-Embora todos possam geralmente começar e participar em pedidos de pull apontando as melhorias necessárias, geralmente é apenas o Trusted Committer que pode finalmente aceitar e fundir ou rejeitar uma contribuição.
-Isto é o que nós significamos antes quando nós dissemos "Trusted Committers pode empurrar o código mais perto da produção."
-Os responsáveis confiáveis também devem ajudar o https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] durante uma RP para obter suas contribuições sobre a linha de chegada.
-Dito isto é, em última análise, o trabalho do contribuinte para fazer isso acontecer.
-O trabalho de um Comitê Confiável não é aceitar todas as contribuições por padrão, mas apenas aquelas que atendem aos critérios definidos em termos de qualidade e escopo.
+A revisão por pares, geralmente executada como parte de pull requests (PRs), é frequentemente usada para assegurar a qualidade.
+Embora geralmente todos podem começar e participar de pull requests apontando melhorias necessárias, geralmente é apenas o Trusted Committer que pode aceitar e mesclar ou rejeitar
+uma contribuição.
+Isto é o que nós dissemos antes quando nós falamos que "Trusted Committers podem levar o código mais perto da produção."
+Os Trusted Committers também devem ajudar os https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] durante um PR para finalizar suas contribuições.
+
+Dito isso, é trabalho do contributor fazer isso acontecer.
+O trabalho de um Trusted Committer não é aceitar todas as contribuições por padrão, mas apenas aquelas que atendem aos critérios definidos em termos de qualidade e escopo.
 E os Trusted Committers devem evitar reescrever o código de um contribuidor para torná-lo "adequado" o máximo possível, mesmo que isso signifique gastar mais tempo apoiando https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] em um PR.
 Os Trusted Committers têm uma perspectiva de longo prazo e entendem que esse tipo de apoio é um investimento na longevidade da comunidade, e aumentará a velocidade de desenvolvimento da comunidade a longo prazo.
+
 Às vezes, os requisitos ou limitações do projeto não são conhecidos antecipadamente e são descobertos durante o desenvolvimento.
-Os Trusted Committers também são responsáveis por assegurar que essas descobertas sejam capturadas e documentadas para o https://innersourcecommons.org/learn/learning-path/product-owner [_Product Owners_] e o https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_].
-Mas o alcance do Comitê Confiável em relação à qualidade vai além dos pedidos de pull.
-Os Committers de Confiança pensam sobre a qualidade em um nível estratégico e garantem a longevidade do software que está sendo construído.
-Isso implica em responsabilidades orientadas por código, desde assegurar a limpeza do código até manter a integridade conceitual do software geral.
-Ele também envolve tarefas orientadas ao gerenciamento, como garantir que a comunidade tenha tempo suficiente para refatorar seu software ou mover uma data de lançamento em favor de melhorias de qualidade, se necessário,.
-A eficácia do Comité de Confiança está fortemente relacionada com a saúde do código.
-Na ausência deste último, os Responsáveis Confiáveis terão que gastar muito de seu valioso tempo validando e documentando soluções alternativas para erros ou uma arquitetura frágil e não terão tempo suficiente para migrar e mentorizar https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_].
+Os Trusted Committers também são responsáveis por assegurar que essas descobertas sejam capturadas e documentadas para os https://innersourcecommons.org/learn/learning-path/product-owner [_Product Owners_] e os https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_].
+
+Mas o alcance do Trusted Committer em relação à qualidade vai além dos pull requets.
+Os Trusted Committers pensam sobre a qualidade em um nível estratégico e garantem a longevidade do software que está sendo construído.
+Isso implica em responsabilidades orientadas ao código, desde assegurar a limpeza do código até manter a integridade conceitual do software geral.
+Ele também envolve tarefas orientadas ao gerenciamento, como garantir que a comunidade tenha tempo suficiente para refatorar seu software ou mover uma data de release em favor de melhorias de qualidade, se necessário.
+A eficácia do Trusted Committer está fortemente relacionada com a saúde do código.
+
+Na ausência deste último, os Trusted Committers terão que gastar muito de seu valioso tempo validando e documentando soluções alternativas para erros ou uma arquitetura frágil e não terão tempo suficiente para migrar e orientar https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_].
+
 Em conclusão, garantir a qualidade do produto é uma responsabilidade fundamental dos Trusted Committers.
 Eles estabelecem padrões de qualidade e dão o exemplo.
-Eles participam de solicitações pull e ajudam https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] a atender padrões de qualidade.
-Eles também assumem a responsabilidade pela saúde a longo prazo do software.
+Eles participam de pull requests e ajudam https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] a atender os padrões de qualidade.
+Eles também assumem a responsabilidade pela saúde do software a longo prazo.
