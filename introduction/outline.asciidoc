@@ -1,6 +1,6 @@
 :doctype: book
 
-The purpose of this document is the hold the supplementary and planning material related to the content of the introductory segments of this learning path.
+The purpose of this document is to hold the supplementary and planning material related to the content of the introductory segments of this learning path.
 
 == Goals
 
@@ -27,26 +27,27 @@ The audience for this learning path is anyone that has heard of InnerSource.
 
 === Introduction
 
-Introduce the topic, why it's important, and what the viewer will learn in this learning path.
+Introduce the topic, why it's important, and what the viewer will learn in this learning path. Including the problem of silos and the metaphor of hammers and spanners as tools.
 
 === Justification
 
 Share a hypothetical (yet believable) example situation that illustrates the difficulties today in the off-the-shelf process of collaborating across organizational silos.
-This given situation will be the basis to-which we refer throughout the learning path, most notably when introducing the 5 key terms and heading off misconceptions about InnerSource.
+This given situation will be the basis to-which we refer throughout the learning path, most notably when introducing the 5 key terms and heading off misconceptions about InnerSource. Expanding on the example with the challenges of silos and the need for a customer-focused approach.
 
 === Solution
 
 Show how the players in the example situation can collaborate via InnerSource to overcome their difficulty.
-Explain the benefits of this approach.
+Explain the benefits of this approach, including centralizing tools and resources, sharing digital artifacts, and distributing responsibility across departments.
 While giving this explanation, naturally include clear definitions of the 5 key terms and also wording specifically designed to dispel misconceptions about InnerSource.
 
 === Further Explanation
 
 Delve into some "`gotchas`" and more nuanced points about the InnerSource process.
 Consider strategic use of short and compelling anecdotes to cement key parts of the message further.
+Discuss resource allocation, collaboration, and the role of InnerSource in breaking down silos.
 Trend towards including material in this section that further dispels InnerSource misconceptions and also sets the stage for the upcoming segments in the learning path.
 
 === Conclusion
 
-Review the key points of this learning path and tee up viewers to look for the next segments.
-Invite interested viewers to participate in the InnerSource Commons.
+Review the key points of this learning path, including the importance of breaking down silos and the role of InnerSource in fostering collaboration.
+Tee up viewers to look for the next segments and invite interested viewers to participate in the InnerSource Commons.
