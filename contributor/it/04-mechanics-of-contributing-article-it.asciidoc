@@ -105,7 +105,7 @@ I team di progetto sono spesso felici di ricevere aggiunte, aggiornamenti o corr
 
 Tutti noi abbiamo le nostre preferenze e opinioni sullo stile del codice, l'identazione, ecc.
 Anche il progetto dell'host team ne ha.
-Cerca di adattare ed abbinare queste preferenze anche se non sono quello che tu avresti normalmente fatto, e anche se non è specificato nel file https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_].
+Cerca di adattare ed abbinare queste preferenze anche se non sono quello che tu avresti normalmente fatto, e anche se non è specificato nel file https://innersourcecommons.org/it/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_].
 Se non siete sicuri, potete sempre chiedere educatamente. Tuttavia, per un contributo di una funzionalità o per un bug fix non è il momento di introdurre un nuovo modo di struttrare o formattare il codice del progetto.
 
 === Invio della pull request
