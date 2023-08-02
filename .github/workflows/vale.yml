@@ -21,6 +21,6 @@ jobs:
       uses: errata-ai/vale-action@reviewdog
       with:
         files: '["docs/","introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/"]'
-        vale_flags: '--glob=!*/*/*'
+        vale_flags: '--glob=!{*/*/*,*/*-script.asciidoc}' # we want to check all files in the folders listed above, while excluding the subfolders (which contain the translations) and any '-script.asciidoc' files
         filter_mode: added # one of: added, diff_context, file, nofilter
         debug: true
