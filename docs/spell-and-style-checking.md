@@ -43,7 +43,7 @@ This happens automatically, using GitHub Actions and this workflow [vale.yml](.g
 
 Output looks like this:
 
-TBD
+![Screenshot 2023-08-02 at 22 41 08](https://github.com/InnerSourceCommons/InnerSourceLearningPath/assets/163029/8dda3c81-634c-48db-9a2f-3f216b717e97)
 
 You should only have to adapt that workflow when adding entirely new sections to the Learning Path.
 
