@@ -6,6 +6,7 @@ on:
     - main
     paths:
     - '**.asciidoc'
+    - '**.md'
   pull_request:
     branches:
     - main
@@ -20,7 +21,13 @@ jobs:
     - name: Vale Linting
       uses: errata-ai/vale-action@reviewdog
       with:
+        # the folders to run the checks for
         files: '["docs/","introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/"]'
-        vale_flags: '--glob=!{*/*/*,*/*-script.asciidoc}' # we want to check all files in the folders listed above, while excluding the subfolders (which contain the translations) and any '-script.asciidoc' files
-        filter_mode: added # one of: added, diff_context, file, nofilter
+        # we want to check all files in the folders listed above, but exclude
+        # a) any files in subfolders (these are translationss)
+        # b) any '-script.asciidoc' files
+        # c) any '*.vtt' files
+        vale_flags: '--glob=!{*/*/*,*/*-script.asciidoc,*/*.vtt}' 
+        # one of: added, diff_context, file, nofilter
+        filter_mode: added 
         debug: true
