@@ -24,7 +24,7 @@ jobs:
         # the folders to run the checks for
         files: '["docs/","introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/"]'
         # we want to check all files in the folders listed above, but exclude
-        # a) any files in subfolders (these are translationss)
+        # a) any files in subfolders (these are translations)
         # b) any '-script.asciidoc' files
         # c) any '*.vtt' files
         vale_flags: '--glob=!{*/*/*,*/*-script.asciidoc,*/*.vtt}' 
