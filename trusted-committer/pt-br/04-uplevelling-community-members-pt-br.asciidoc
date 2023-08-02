@@ -1,0 +1,22 @@
+[[upleveling]]
+== Upleveling Membros da Comunidade
+Há um contínuo de participação em uma comunidade InnerSource.
+Há pessoas que não estão cientes da comunidade.
+_Newcomers_ pode estar interessado na comunidade e seu produto, mas ainda não o usou.
+_Consumers_ usam o software, mas podem não ter feito uma contribuição
+Em seguida, há o https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] que fez pelo menos uma contribuição e, finalmente, o _Trusted Committers_, que está assumindo a responsabilidade pelo software e pela comunidade.
+Como um Comitê Confiável, você é responsável por mover os indivíduos ao longo deste contínuo e uplevel sua capacidade de fazer contribuições.
+Nesse sentido, os Comitentes Confiáveis atuam como multiplicadores de força em sua comunidade.
+É importante que os Trusted Committers comercializem seus produtos e comunidades para aumentar o número de recém-chegados e consumidores.
+Eles também devem comunicar oportunidades para fazer contribuições aos consumidores e tentar obter e alinhar os interesses de potenciais https://innersourcecommons.org/learn/learning-path/contributor [_Contribuintes _] com os da comunidade.
+O que geralmente funciona bem é se o https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] é capaz de trabalhar em algo que beneficia seu departamento ou função na empresa.
+Ferramentas de desenvolvimento e automação são bons exemplos.
+Por fim, é responsabilidade do Comitê Confiável identificar e apoiar https://innersourcecommons.org/learn/learning-path/contributor [_Contribuintes] com o potencial de crescer, incentivando-os a enfrentar tarefas desafiadoras e orientá-los para a conclusão.
+Esta é, em nossa opinião, a mais nobre responsabilidade de um Comité de Confiança, e é gratificante tanto para o Comité de Confiança como para o seu contribuinte.
+Ouvimos Trusted Committers dizer que mentorear e ver as pessoas elevarem suas habilidades mais do que compensa o fato de que elas têm menos tempo para realmente gastar escrevendo software.
+Conforme mencionado na https://innersourcecommons.org/learn/learning-path/trusted-committer/03 / [seção anterior], aprendizado e crescimento pessoal são razões pelas quais as pessoas se juntam e ficam em uma comunidade InnerSource.
+Upleveling seu https://innersourcecommons.org/learn/learning-path/contributor [_Contributores_] é uma das ferramentas mais poderosas que os Comités Confiáveis têm à sua disposição para aumentar a velocidade, a produção e a longevidade de suas comunidades..
+Também é um dos principais argumentos para convencer a gerência a permitir que seus funcionários participem de uma comunidade InnerSource, pois isso tornará seus funcionários mais valiosos para a empresa em geral e os ajudará a reter os principais talentos.
+Em resumo, os Comités Confiáveis precisam atrair novos https://innersourcecommons.org/learn/learning-path/contributor [_Contributores_] e aumentar sua capacidade de fazer contribuições.
+Esta atividade acaba por aumentar a capacidade da comunidade de criar software melhor mais rapidamente.
+Eles fazem isso comunicando oportunidades para fazer contribuições e ajudando e orientando os Contribuidores, permitindo que eles cresçam.
