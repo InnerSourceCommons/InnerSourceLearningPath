@@ -5,5 +5,4 @@ scripts/learningpath
 scripts/newsite
 scripts/.env
 .vs
-.github/vale/*
-!.github/vale/Vocab/Base
+.github/vale
