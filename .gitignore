@@ -6,3 +6,4 @@ scripts/newsite
 scripts/.env
 .vs
 .github/vale/*
+!.github/vale/Vocab/Base

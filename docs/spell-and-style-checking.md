@@ -37,7 +37,7 @@ Any issues found will be shown in the terminal and would look like this:
                'consollidating'?
 ```
 
-## How to check new Learnign Path content coming in via Pull Requests
+## How to check new Learning Path content coming in via Pull Requests
 
 This happens automatically, using GitHub Actions and this workflow [vale.yml](.github/workflows/vale.yml).
 
