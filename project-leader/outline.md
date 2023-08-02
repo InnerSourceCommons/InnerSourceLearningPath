@@ -1,8 +1,8 @@
 # Audience
 
-While the content of this segment can be intersting to engineers in order to help their teams better navigate business decisions related to InnerSource the core audience are people in your team and across your organisation that deal with product development. The goal of this segment is to help you understand how InnerSource can help interdependent teams resolve requirements without syncing work to the point where both teams operate in lock-step.
+While the content of this segment can be interesting to engineers in order to help their teams better navigate business decisions related to InnerSource the core audience are people in your team and across your organization that deal with product development. The goal of this segment is to help you understand how InnerSource can help interdependent teams resolve requirements without syncing work to the point where both teams operate in lock-step.
 
-Based learnings and best practices of successful, global Open Source projects this training shows you ways to increase collaboration and reduce waste by consollidating work on the shared technological basis. 
+Based learnings and best practices of successful, global Open Source projects this training shows you ways to increase collaboration and reduce waste by consolidating work on the shared technological basis. 
 
 # Takeaways
 
@@ -24,7 +24,7 @@ InnerSource and Agile
 You want to improve your product and deliver those improvements faster to customers. You want to make stakeholders happy. InnerSource helps your team deliver value and maintain autonomy especially in a highly interconnected world.
 
 - Issues InnerSource solves
-   - avoid lengthy roadmap syncronization discussions: "help with solution" instead of "wait it out" or "build workarounds"
+   - avoid lengthy roadmap synchronization discussions: "help with solution" instead of "wait it out" or "build workarounds"
    - resolve cross dependencies without compromising autonomy, code ownership and quality
    - better support for remote first by higher focus on written communication
 

@@ -82,19 +82,19 @@ drain of energy that central dependencies bring to the table? Many open source
 projects are being used by a huge number of players - some of who participate
 in their design and development. Encouraging cross team collaboration in InnerSource
 projects at the corporate level means that you can drive central
-innovation from the edges of your organisation.
+innovation from the edges of your organization.
 
 In general it is well understood that projects with a https://en.wikipedia.org/wiki/Bus_factor[bus
 factor] of one or two people pose a
-risk to the organisation - all the more, when that project turns out to be
+risk to the organization - all the more, when that project turns out to be
 central to the purpose of the business. InnerSource helps not only with making such
 projects transparent, but also provides tools to improve that situation by
 putting focus on mentoring and expanding the contributor base.
 
 While cross team collaboration makes assessing individual contributions hard,
-it also enables learning and knowledge sharing within the organisation. As a
+it also enables learning and knowledge sharing within the organization. As a
 result, the impact of individuals will improve. Best practices and positive
-innovation will spread more easily across the entire organisation. As a side
+innovation will spread more easily across the entire organization. As a side
 effect, improvements to the work environment will more easily spread across the
 organization - helping retain employees.
 
