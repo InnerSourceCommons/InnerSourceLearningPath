@@ -1,0 +1,25 @@
+[[defendendo]]
+== Advogar pelas necessidades da Comunidade
+As comunidades do InnerSource existem em um contexto corporativo e, portanto, são mais restritas do que as comunidades do Open Source.
+Às vezes os interesses da unidade de negócios estão em desacordo com os da comunidade.
+Os Trusted Committers têm uma perspectiva de longo prazo sobre seu projeto.
+Eles entendem que uma comunidade saudável é uma condição prévia para um código saudável
+É por isso que muitas iniciativas InnerSource foram modeladas no Apache Way com seu lema http://theapacheway.com/community-over-code/[ "Community over Code"].
+Por outro lado, as unidades de negócios estão naturalmente mais preocupadas com os produtos produzidos por uma comunidade InnerSource.
+Eles preferem ver resultados de curto a médio prazo que ajudam o resultado final.
+É nesta área potencial de conflito que o Comité de Confiança desempenha um papel vital.
+Os Trusted Committers constroem confiança com a organização e, com base nessa confiança, atuam como defensores dos interesses da comunidade e da saúde a longo prazo do software na empresa.
+Eles são responsáveis por comunicar riscos técnicos, bem como relacionados à comunidade, à gestão.
+Ao mesmo tempo, os Trusted Committers precisam ser estratégicos e trabalhar dentro dos graus de liberdade proporcionados por suas empresas.
+Os Comitês de Confiança também precisam ter certeza de que a comunidade e os colaboradores individuais do https://innersourcecommons.org/learn/learning-path/contributor obtenham crédito público por seu trabalho.
+O crédito público é a moeda com a qual os contribuintes são pagos, especialmente aqueles que contribuem voluntariamente.
+É uma boa prática elogiar publicamente colaboradores valiosos e garantir que seus gerentes estejam cientes de suas contribuições.
+Negligenciar dar crédito pode ser frustrante para os contribuintes individuais e prejudicial para a saúde da comunidade.
+Isso pode acontecer em empresas ainda não acostumadas ao modelo de trabalho do InnerSource, ou quando o software que está sendo desenvolvido pela comunidade do InnerSource funciona _nos bastidores _ e os gerentes simplesmente não estavam cientes da contribuição da comunidade.
+Um bom Comitê Confiável se envolverá com a administração e advogará pelo crédito público.
+A falha em dar crédito quase nunca é feita de má fé e é fácil de corrigir.
+Outro caso comum que pede a defesa do Trusted Committer é quando https://innersourcecommons.org/learn/learning-path/contributor [contribuidores] não recebem tempo ou permissão para contribuir.
+Isso pode acontecer quando a comunidade está trabalhando em um produto fora do departamento do contribuidor e, portanto, não é relevante para os objetivos do seu gerente.
+Neste caso, o Comité de Confiança deve iniciar uma discussão com o gestor do contribuinte e pressionar por uma decisão alternativa.
+Em resumo, há muitas situações em que os Comitês Confiáveis precisam defender os interesses individuais dos https://innersourcecommons.org/learn/learning-path/contributor [contribuidores] e da comunidade como um todo.
+Os Comités de Confiança entendem que o valor que a comunidade pode fornecer à organização depende da saúde e da longevidade da comunidade e, finalmente, de uma relação confiável entre ambos.
