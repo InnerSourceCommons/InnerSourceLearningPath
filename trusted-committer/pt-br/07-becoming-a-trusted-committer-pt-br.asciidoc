@@ -1,0 +1,31 @@
+== Tornar-se um Comitê Confiável
+A função Trusted Committer é uma função exigente, mas satisfatória.
+Se este caminho de aprendizagem lhe interessa, você pode estar se perguntando como realmente se tornar um Trusted Committer e se você é a pessoa certa para o trabalho.
+As comunidades InnerSource seguem os mesmos princípios que as comunidades Open Source, uma das quais é a meritocracia.
+Em uma meritocracia, o poder é investido em indivíduos com base em talento, esforço e conquistas.
+Isso significa que o poder e os privilégios que vêm com o papel de Comitê Confiável precisam ser conquistado.
+A transparência, outro valor de código aberto, também desempenha um papel vital na medida em que torna o talento, o esforço e as conquistas visíveis para toda a comunidade.
+O processo de se tornar oficialmente um Comitê Confiável difere de comunidade para comunidade, depende de onde você está em sua jornada InnerSource e pode evoluir ao longo do tempo.
+Nas comunidades de base, os fundadores geralmente assumem o papel do Comitê Confiável. À medida que uma comunidade cresce, ou em comunidades maiores, os Comitês Confiáveis geralmente são nomeados ou votados da comunidade https://innersourcecommons.org/learn/learning-path/contributor [contribuidores].
+Mas o papel do Comitê Confiável deve ser assumido voluntariamente, pois requer uma imensa quantidade de tempo e dedicação para ser bem sucedido.
+Quais são os critérios a serem aplicados na nomeação de https://innersourcecommons.org/learn/learning-path/contributor [contribuidores] para uma função de Comitê Confiável?
+O que é necessário para preencher com êxito o papel de um comité de confiança?
+Em primeiro lugar, os potenciais Comités Confiáveis devem ter demonstrado uma profunda competência técnica durante o seu trabalho na comunidade.
+Além disso, eles devem ter comprovado sua capacidade de se comunicar efetivamente com os colegas da comunidade e, idealmente, também com os proprietários de produtos e com a gerência.
+Na mesma linha, eles devem ter mostrado a vontade e a paciência para usar suas habilidades e passar tempo intencional uplevelando contribuidores.
+Por fim, o cumprimento do papel de Comité Confiável requer uma certa maturidade emocional para lidar com situações sociais estressantes, que são obrigadas a surgir de tempos em tempos.
+Os contribuintes que satisfazem esses critérios serão, em nossa opinião, bons potenciais Trusted Committers.
+A função Trusted Committer pode não parecer tão atraente para alguns contribuidores, pois significa gastar menos tempo codificando.
+Ser nomeado para o papel de Trusted Committer pode até ser percebido por alguns como um rebaixamento ou como feedback negativo sobre suas habilidades de codificação.
+Mas o oposto é verdadeiro.
+Ser nomeado para o papel de Trusted Committer geralmente significa que alguém reconheceu suas contribuições valiosas e vê em você o potencial de crescer e liderar.
+A função Trusted Committer lhe dará mais influência sobre a evolução da base de código e, em última análise, fará de você um desenvolvedor mais completo.
+Explicar aos contribuidores como o software funciona mais frequentemente do que não leva a novos insights por parte do Trusted Committe e ajudará a identificar oportunidades para melhorar o software.
+Se você tem um ou vários Trusted Committers depende do tamanho e do risco associado ao software desenvolvido pela comunidade InnerSource.
+A função Trusted Committer é demorada e nem todos estão dispostos ou aptos a fazer esse tipo de compromisso.
+Devido a este facto, algumas empresas utilizam um sistema de rotação do Comité Confiável, em que vários Comités Confiáveis partilham a carga de trabalho do papel do Comité Confiável, e os Comités Confiáveis que não estão em serviço podem se concentrar exclusivamente no trabalho orientado para a tecnologia.
+Ter mais de um Trusted Committer também facilita quando alguém sai da empresa ou sai da função para fazer outra coisa.
+Nesse caso, é importante que já existam outros Comités Confiáveis, que possam assumir e assegurar a continuidade na comunidade.
+Em resumo, o papel do Comité de Confiança tem de ser obtido através de contribuições valiosas-tanto técnicas como sociais-em benefício da comunidade.
+Em uma comunidade saudável, você terá companheiros Trusted Committers ao seu lado.
+Como um Trusted Committer, você terá menos tempo para codificar, mas ao agir como um multiplicador de força, você será capaz de aumentar sua contribuição de valor para a comunidade e acelerar seu próprio crescimento.
