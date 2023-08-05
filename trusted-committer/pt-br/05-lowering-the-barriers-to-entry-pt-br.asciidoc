@@ -1,27 +1,27 @@
-== Rebaixando as barreiras à entrada
+== Reduzindo as Barreiras para a Entrada
 Solicitar contribuições em uma comunidade InnerSource é mais desafiador do que em uma comunidade Open Source por uma série de razões:
 * O grande número de potenciais https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] é menor nas comunidades InnerSource
 * Os colaboradores vão querer contribuir durante o seu tempo de trabalho, o que significa que têm mais tempo limitado.
-* O trabalho no InnerSource pode não ser necessariamente parte das metas oficiais de desempenho dos Contribuidores, portanto, o tempo gasto trabalhando no InnerSource pode parecer desviar o alcance dessas metas.
-É por isso que é importante que os Trusted Committers tornem os processos para fazer contribuições e onboarding https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] o mais frictionless possível.
+* O trabalho no InnerSource pode não ser necessariamente parte das metas oficiais de desempenho dos _Contributors_, portanto, o tempo gasto trabalhando no InnerSource pode parecer que prejudica em alcançar essas metas.
+É por isso que é importante que os Trusted Committers tornem os processos para fazer contribuições e integração de https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] o mais simples possível.
 Há uma série de coisas que podem ajudar:
 * Ter um bom README.md em cada repositório de código.
 Um bom README.md explica o que está no repositório e para que ele pode ser usado.
 Além disso, ele deve fornecer instruções detalhadas sobre como obter, construir, testar e usar o software no repositório, incluindo informações sobre a licença.
 * Tenha um bom CONTRIBUTING.md que descreve o que se espera do https://innersourcecommons.org/learn/learning-path/contributor [_Contributor_].
 Deve responder a perguntas comuns, tais como:
-** Como enviar um relatório de bug ou solicitação de recurso? ** Quem e como entrar em contato se tiver dúvidas? ** Quais são as convenções para estilo de código, ramificação ou mensagens de confirmação? ** Qual é a definição de "feito" para uma contribuição? ** Quais são as etapas do processo que regem as contribuições? ** O que é esperado de mim em termos de suporte de código contribuído após a contribuição ser aceita? ** Qual é o código de conduta e quais são as diretrizes para como a comunidade opera?
-Se você tiver uma licença interna anexada ao software, que em algumas empresas é um pré-requisito para compartilhar software entre pessoas jurídicas, inclua uma cópia dessa licença _and_ uma explicação dos direitos e obrigações nos termos do leigo.
-Além dessas tarefas documentais, semelhante ao desenvolvimento de software Open Source, deve ser fácil e direto executar e testar o software que está sendo desenvolvido localmente pelo potencial https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_], para que eles possam começar a implementar e validar sua contribuição com o menor esforço possível.
+** Como enviar um bug report ou feature request? ** Quem e como entrar em contato se tiver dúvidas? ** Quais são as convenções para estilo de código, branching ou mensagens de commits? ** Qual é a definição de "feito" para uma contribuição? ** Quais são as etapas do processo que regem as contribuições? ** O que é esperado de mim em termos de suporte de código contribuído após a contribuição ser aceita? ** Qual é o código de conduta e quais são as diretrizes para como a comunidade funciona?
+Se você tiver uma licença interna anexada ao software, que em algumas empresas é um pré-requisito para compartilhar software entre pessoas jurídicas, inclua uma cópia dessa licença _e_ uma explicação dos direitos e obrigações em termos leigos.
+Além dessas tarefas documentais, semelhante ao desenvolvimento de software Open Source, deve ser fácil e rápido executar e testar o software que está sendo desenvolvido localmente pelos potenciais https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_], para que eles possam começar a implementar e validar sua contribuição com o menor esforço possível.
 Há dois modelos comuns para fazer contribuições:
-_repositório compartilhado _ e _fork e join_.
-Ambos têm vantagens e, como um Trusted Committer, você deseja suportar ambos os modelos para acomodar diferentes necessidades de seu potencial e atual https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_]..
-Seus Contribuidores geralmente terão perguntas sobre o processo de contribuição ou sobre a própria comunidade e alguém precisa estar disponível para responder a essas perguntas.
+_repositório compartilhado_ e _fork e join_.
+Ambos têm vantagens e, como um Trusted Committer, você deseja suportar ambos os modelos para acomodar diferentes necessidades de seus potenciais e atuais https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_].
+Seus _Contributors_ geralmente terão perguntas sobre o processo de contribuição ou sobre a própria comunidade e alguém precisa estar disponível para responder a essas perguntas.
 Portanto, é importante que qualquer comunidade InnerSource tenha uma ou mais pessoas de contato disponíveis para responder a essas perguntas.
 Alguém do grupo de Trusted Committers é geralmente essa pessoa de contato, ou então eles precisam ter certeza de que há um membro da comunidade "de plantão".
 Também é importante ajudar potenciais https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] a determinar quais contribuições são necessárias.
-Essas podem ser contribuições de código, mas também contribuições não de código, como escrever documentação, criar arte ou organizar eventos.
-Uma maneira comum de fazer isso é marcar "tarefas recém-chegadas" no rastreador de problemas usado pela comunidade ou implementar um mercado para tarefas abertas que os Contribuidores podem usar.
-Em resumo, é super importante para as comunidades do InnerSource em um ambiente corporativo manter as barreiras para contribuir o mais baixo possível para permitir que o maior número possível de pessoas contribua.
+Essas podem ser contribuições de código, mas também contribuições que não sejam de código, como escrever documentação, criar arte ou organizar eventos.
+Uma maneira comum de fazer isso é marcar "newcomer tasks" no rastreador de issues usado pela comunidade ou implementar um marketplace para tarefas abertas que os contribuidores poderão usar.
+Em resumo, é super importante para as comunidades InnerSource em um ambiente corporativo manter as barreiras para contribuir o menor possível para permitir que o maior número possível de pessoas venham a contribuir.
 Isso significa fornecer acesso à documentação útil e às pessoas da comunidade para responder a quaisquer perguntas e incentivar a colaboração.
-Em suma, os Comitentes Confiáveis devem garantir que a integração e a contribuição sejam experiências positivas..
+Em suma, os Trusted Committers devem garantir que a integração e a contribuição sejam experiências positivas.
