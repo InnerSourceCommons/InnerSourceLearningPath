@@ -47,7 +47,7 @@ Agora que você tem uma compreensão básica da função, do motivo que usar o t
 Os Trusted Committers têm várias responsabilidades, incluindo:
 
 * https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/02/ [Garantindo a qualidade do produto]
-* https://innersourcecommons.org/learn/learning-path/trusted-committer/03/ [Mantendo a comunidade saudável]
+* https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/03/ [Mantendo a comunidade saudável]
 * https://innersourcecommons.org/learn/learning-path/trusted-committer/05/ [Reduzindo as barreiras para fazer contribuições]
 * https://innersourcecommons.org/learn/learning-path/trusted-committer/04/ [Melhorando a comunidade]
 * https://innersourcecommons.org/learn/learning-path/trusted-committer/06/ [Promovendo as necessidades da comunidade]
