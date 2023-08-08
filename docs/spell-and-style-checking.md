@@ -55,6 +55,6 @@ There may be times where the Learning Path wants to use spelling differently fro
 
 To do so, add the exceptions that you want to make to [accept.txt](.github/vale/Vocab/Base/accept.txt) or [reject.txt](.github/vale/Vocab/Base/reject.txt)
 
-TBD - I think this needs to be described in more detail. Especially when to add exceptions locally, and when to add them to the isc-styles repo.
+Note: We need to add a more specific description here about when to add exceptions to `Vocab/Base` in this repo, or when to rather add them to the isc-styles repo. However we have to get more hands-on experience with vale before we can write a more helpful description of this approach.
 
 [isc-styles]: https://github.com/InnerSourceCommons/isc-styles
