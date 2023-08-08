@@ -43,9 +43,15 @@ This happens automatically, using GitHub Actions and this workflow [vale.yml](.g
 
 Output looks like this:
 
-![Screenshot 2023-08-02 at 22 41 08](https://github.com/InnerSourceCommons/InnerSourceLearningPath/assets/163029/8dda3c81-634c-48db-9a2f-3f216b717e97)
+![Example of inline annotation](https://github.com/InnerSourceCommons/InnerSourceLearningPath/assets/163029/8dda3c81-634c-48db-9a2f-3f216b717e97)
 
 Note that this highlighting will only be done for any issues found in lines that were changed in the given Pull Request. The idea here is that a contributor should only have to review style issues in the content that they have added themselves.
+
+If you (e.g. as a maintainer) want to see all potential issues that vale has found in any file that it checked, you should check the "Filtered Findings" in the **reviewdog [vale] report** that is generated automatically for any PR as well.
+
+That report looks like this:
+
+![Example of reviewdog \[vale\] report](https://github.com/InnerSourceCommons/InnerSourceLearningPath/assets/163029/c0a478ea-4f01-4d2b-87a4-9340761221b8)
 
 You should only have to adapt the GitHub Actions workflow in [vale.yml](.github/workflows/vale.yml) when adding entirely new sections to the Learning Path.
 
