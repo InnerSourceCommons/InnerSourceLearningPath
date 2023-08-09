@@ -10,3 +10,4 @@ asciidoctor
 asciidoc
 Yonik
 reviewdog
+duplicative
