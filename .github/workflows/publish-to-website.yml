@@ -14,6 +14,11 @@ on:
       - trusted-committer/**
       - workbook/**
 
+# Checks if this workflow is already running, and if so cancels it
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
