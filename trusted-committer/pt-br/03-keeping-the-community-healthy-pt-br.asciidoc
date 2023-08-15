@@ -24,7 +24,7 @@ Eles fornecem a teoria ou a experiência por trás da mudança e oferecem sugest
 Ao fazer isso, os Trusted Committers podem aumentar a velocidade de aprendizado em suas comunidades muito além do que em projetos tradicionais de desenvolvimento de software.
 Acreditamos que os Trusted Committers devem priorizar a integração e a orientação durante pull requests ao invés de atingir datas de lançamento comunicadas, a menos que haja uma razão muito boa para não fazê-lo.
 Uma boa orientação durante pull requests leva a um nível mais alto de confiança e engajamento dos https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_], que por sua vez leva a mais contribuições.
-Vamos discutir mais sobre isso em https://innersourcecommons.org/learn/learning-path/trusted-committer/04/[ "Melhorando a Comunidade"].
+Vamos discutir mais sobre isso em https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/04/[ "Melhorando a Comunidade"].
 Finalmente, algumas pessoas permanecem em comunidades InnerSource porque elas se concentram no desenvolvimento de software em vez de atividades consideradas gerais ou desperdícios, especialmente comuns em grandes empresas com um forte foco em processos.
 A tarefa do Trusted Committer nesse contexto é assegurar que os https://innersourcecommons.org/learn/learning-path/contributor [_Contributors_] possam realmente focar em seus projetos comunicando e publicando diretrizes de contribuição úteis.
 Um aspecto importante dessas diretrizes é explicar o que chamamos de _signaling_ em pull requests: como deve ser um comentário?
