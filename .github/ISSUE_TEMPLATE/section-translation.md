@@ -23,8 +23,3 @@ List out all of the English articles in the [section](https://github.com/InnerSo
 - [ ] 0n-nth-article.asciidoc
   - [ ] Machine translation in pull request
   - [ ] Native speaker review and update
-
-- - -
-
-- [ ] Run [update_links_in_translations.js
-](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/scripts#update_links_in_translationsjs)
