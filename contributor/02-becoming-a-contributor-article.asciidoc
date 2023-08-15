@@ -1,10 +1,10 @@
 == Becoming an InnerSource Contributor
 
-InnerSource contributors operate outside of regular team boundaries, they are the links crossing organisational silos. As such, they need to be aware of a few common practices that make this work more effective.
+InnerSource contributors operate outside of regular team boundaries, they are the links crossing organizational silos. As such, they need to be aware of a few common practices that make this work more effective.
 
 === Sharing Mindset
 
-So - you're implementing a new feature for your team's product. You need some functionality to get this feature working. Instead of jumping right into the implementation, slow down for a bit: does this functionality reflect a general issue? Is it something that other teams in your organisation face as well due to the shared business domain? Is this functionality orthogonal to the domain of your project? If any of that applies, then start looking beyond your own team: is there a shared solution that you can use or improve to fit your needs? Should there be one?
+So - you're implementing a new feature for your team's product. You need some functionality to get this feature working. Instead of jumping right into the implementation, slow down for a bit: does this functionality reflect a general issue? Is it something that other teams in your organization face as well due to the shared business domain? Is this functionality orthogonal to the domain of your project? If any of that applies, then start looking beyond your own team: is there a shared solution that you can use or improve to fit your needs? Should there be one?
 
 === Benefits to sharing solutions
 

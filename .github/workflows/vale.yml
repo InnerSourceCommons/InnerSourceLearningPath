@@ -1,0 +1,33 @@
+name: Spelling & Styles
+
+on:
+  push:
+    branches:
+    - main
+    paths:
+    - '**.asciidoc'
+    - '**.md'
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  vale:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Vale Linting
+      uses: errata-ai/vale-action@reviewdog
+      with:
+        # the folders to run the checks for
+        files: '["docs/","introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/", "workbook/"]'
+        # we want to check all files in the folders listed above, but exclude
+        # a) any files in subfolders (these are translations)
+        # b) any '-script.asciidoc' files
+        # c) any '*.vtt' files
+        vale_flags: '--glob=!{*/*/*,*/*-script.asciidoc,*/*.vtt}' 
+        # one of: added, diff_context, file, nofilter
+        filter_mode: added 
+        debug: true

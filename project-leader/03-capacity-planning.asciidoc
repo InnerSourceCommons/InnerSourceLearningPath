@@ -59,7 +59,7 @@ teams is to make time for splitting changes into smaller chunks. Make
 sure to communicate the wider context these changes belong to though.
 
 Often making larger changes requires communicating intent and purpose
-early. It can also be benefitial to make sure contributing team and host
+early. It can also be beneficial to make sure contributing team and host
 team have enough time set aside for working on the change together. This
 means that people setting team priorities need to think beyond their own
 team when prioritizing changes. However coordination can still happen
@@ -75,7 +75,7 @@ simply help with reviews, new Trusted Committers can help with issue
 triage, mentoring new contributors and the like.
 
 When faced with a lot of interest in contributions one additional factor
-to consider when prioritising mentoring help for contributors can be
+to consider when prioritizing mentoring help for contributors can be
 interest of the contributors in a long term relationship with the host
 team. The more time is needed for mentoring, the more likely it should
 be for contributors to stick around longer.

@@ -120,7 +120,7 @@ the software project to which they are contributing.
 As a result, the final call on what the contribution must look like is with the
 host team. It helps to approach the host team with a humble
 mindset, with the assumption that all are collaborating towards the purpose of
-the shared organisation. It helps to be open and transparent - not only about
+the shared organization. It helps to be open and transparent - not only about
 what was implemented and how, but also why the change was needed.
 
 Treat any feedback as a gift: others are trying to improve your solution, saving

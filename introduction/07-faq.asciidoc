@@ -16,7 +16,7 @@ It depends! An InnerSource project that encourages small pull requests and has c
 === Why not just open source?
 By all means do so if the project makes sense! Some projects are specific to your company or are a competitive advantage, so you'll want to keep those as InnerSource. Some need to iterate more quickly than can be done in the open.
 
-If your organisation isn't familiar with running open source projects, InnerSource can help people learn the skills required with a view to open sourcing in the future.
+If your organization isn't familiar with running open source projects, InnerSource can help people learn the skills required with a view to open sourcing in the future.
 
 === Will this slow us down?
 It depends on how far you're going. You'll probably be going a lot further than you think.
@@ -29,19 +29,19 @@ If so then your core team is understaffed. A healthy team is staffed so that the
 You can mitigate this by setting expectation, potentially via SLAs. If contributors expect PR reviews within an hour, maybe you will be stuck reviewing PRs all the time, but if you set an SLA of 1 day or 1 week, this won't be the case.
 
 === How do we convince management this is a good idea?
-Figure out what they want and get a https://innersourcecommons.org/stories[working example of InnerSource], preferably within your organisation, that shows them getting it. If your organization's OSPO manages InnerSource projects, reach out to them for support.
+Figure out what they want and get a https://innersourcecommons.org/stories[working example of InnerSource], preferably within your organization, that shows them getting it. If your organization's OSPO manages InnerSource projects, reach out to them for support.
 
 === How do we convince engineers this is a good idea?
-InnerSource gives engineers the opportunity to develop their career, both in terms of skills and https://patterns.innersourcecommons.org/p/praise-participants[recognition] within their organisation:
+InnerSource gives engineers the opportunity to develop their career, both in terms of skills and https://patterns.innersourcecommons.org/p/praise-participants[recognition] within their organization:
 
 * Broadens their skillset by contributing to different projects, or even different tech stacks!
-* Scales the value they add to the organisation, by having their software run by more people
-* Opportunity to network and collaborate with others in their organisation that they wouldn't normally
+* Scales the value they add to the organization, by having their software run by more people
+* Opportunity to network and collaborate with others in their organization that they wouldn't normally
 
 Also, many engineers value open source; InnerSource embraces open source practices, and can be a step towards open source for many projects.
 
 === What are the expectations on part of both host and contributor?
-Work together! This may be completely async via Pull Requests, or involve regular community catchups - whatever works for you.
+Work together! This may be completely async via Pull Requests, or involve regular community catch-ups - whatever works for you.
 
 Communication and support must go in both directions and be open and collaborative, fostering a culture of psychological safety. Feedback on contributions, or existing code, must be approached with a growth mindset, and as partnership to make things better.
 
@@ -56,4 +56,4 @@ You should also set clear contribution guidelines, and be transparent on the dir
 
 
 === How do we get people to make contributions?
-Your team and wider organisation's culture must value collaboration. Focus on the business value - teams are able to unblock themselves where software they use have bugs or are missing required features. Where contributors have no immediate business need, you can https://patterns.innersourcecommons.org/p/gig-marketplace[advertise] you are looking for help.
+Your team and wider organization's culture must value collaboration. Focus on the business value - teams are able to unblock themselves where software they use have bugs or are missing required features. Where contributors have no immediate business need, you can https://patterns.innersourcecommons.org/p/gig-marketplace[advertise] you are looking for help.

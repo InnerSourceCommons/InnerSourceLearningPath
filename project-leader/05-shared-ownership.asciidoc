@@ -1,20 +1,20 @@
 == Options for Shared Ownership
 
 "If everyone owns it, nobody is accountable." Traditional
-organisations perfer to have a single point of contact in case of
+organizations prefer to have a single point of contact in case of
 issues. On the other hand allowing simply everyone to make changes
 surely will result in a mess that can no longer be maintained.
 
 Based on that observation each InnerSource project has a dedicated team
 of Trusted Committers. Interest in maintaining an InnerSource project
 often is motivated by enlightened self interest: A team understanding
-that they themselves need the InnerSource project to fullfill their
+that they themselves need the InnerSource project to fulfill their
 customers' needs and understanding that opening the project up for
 contributions can spread the workload to move the project forward.
-Opening a project up for contibutions though doesn't mean that Trusted
+Opening a project up for contributions though doesn't mean that Trusted
 Committers have to accept all submissions. It is the team of Trusted
 Committers that sets the mission and goals for the project. They are
-then in a postition to set direction and decide on change acceptance
+then in a position to set direction and decide on change acceptance
 accordingly.
 
 === Ownership misconceptions
@@ -85,7 +85,7 @@ term is taken on by the host team.
 InnerSource on a daily basis". While using pull requests and reviews is
 a crucial component, it is just the baseline for InnerSource projects.
 Just because two projects you depend on use pull requests on a daily
-basis does not mean that their openess to team-external contributions is
+basis does not mean that their openness to team-external contributions is
 the same.
 
 InnerSource comes with different best practices. In order to avoid
@@ -124,7 +124,7 @@ can remove the review bottle neck.
 * In the final stage the team of
 Trusted Committers is also ready to share control over who gets write
 access next as well as project vision and mission. While this will often
-result in the highest level of committment from contributors it also
+result in the highest level of commitment from contributors it also
 requires a high level of coordination crossing team boundaries. It also
 requires the highest level of transparency when making decisions about
 the project.

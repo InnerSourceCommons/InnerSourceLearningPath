@@ -14,6 +14,6 @@ We hope you've enjoyed watching the videos, and/or and reading the articles, and
 
 If you haven't done so already, we would like to invite you to learn more about the other aspects of InnerSource in our InnerSource learning path: http://innersourcecommons.org/learningpath/
 
-We invite you to check out the InnerSource group http://innersourcecommons.org[InnerSource Commons] online - feel free to join the discussion and share your experiences and lessons learnt in your organization.
+We invite you to check out the InnerSource group http://innersourcecommons.org[InnerSource Commons] online - feel free to join the discussion and share your experiences and lessons learned in your organization.
 
 Live long and have prosperous projects!

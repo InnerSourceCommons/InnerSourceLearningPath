@@ -15,7 +15,7 @@ projects have processes set up to allow for sharing impact on the Open
 Source project. Understanding these governance levels means that
 deciding which open source project to use in house will take Open Source
 governance into consideration as well. A downstream user of an
-InnerSource project will have learnt to correctly evaluate the balance
+InnerSource project will have learned to correctly evaluate the balance
 between moving fast but being unable to influence a project vs. moving
 at a slower pace but being able to influence a project together.
 
@@ -55,7 +55,7 @@ be very uncomfortable in particular for employees not used to that way
 of working. In addition all actions being public means they are also
 available for public scrutiny - no longer can every move be vetted by
 corporate communication experts. Similarly produced artifacts are
-available for public scrutiny wrt. license compliance, security and the
+available for public scrutiny with regard to license compliance, security and the
 like - e.g. for competitors, for potential future new hires, for
 customers.
 

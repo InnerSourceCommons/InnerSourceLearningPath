@@ -5,3 +5,4 @@ scripts/learningpath
 scripts/newsite
 scripts/.env
 .vs
+.github/vale
