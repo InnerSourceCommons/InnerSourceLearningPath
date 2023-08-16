@@ -52,4 +52,4 @@ Os Trusted Committers têm várias responsabilidades, incluindo:
 * https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/04/ [Melhorando a comunidade]
 * https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/06/ [Promovendo as necessidades da comunidade]
 
-Analisaremos essas responsabilidades mais detalhadamente nas páginas a seguir e também exploraremos o caminho de https://innersourcecommons.org/learn/learning-path/trusted-committer/07 / [tornar-se um Trusted Committer] no final deste artigo.
+Analisaremos essas responsabilidades mais detalhadamente nas páginas a seguir e também exploraremos o caminho de https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/07 / [tornar-se um Trusted Committer] no final deste artigo.
