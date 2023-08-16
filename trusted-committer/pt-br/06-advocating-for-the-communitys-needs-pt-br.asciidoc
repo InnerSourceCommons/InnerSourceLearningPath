@@ -1,0 +1,25 @@
+[[defendendo]]
+== Defendendo as necessidades da Comunidade
+As comunidades InnerSource existem em um contexto corporativo e, portanto, são mais restritas do que as comunidades Open Source.
+Às vezes os interesses da unidade de negócios estão em desacordo com os da comunidade.
+Os Trusted Committers têm uma perspectiva de longo prazo sobre seu projeto.
+Eles entendem que uma comunidade saudável é um pré-requisito para um código saudável
+É por isso que muitas iniciativas InnerSource foram modeladas no Apache Way com seu lema http://theapacheway.com/community-over-code/["Community over Code"] (ou "Comunidade sobre Código").
+As unidades de negócios, por outro lado, estão naturalmente mais preocupadas com os produtos produzidos por uma comunidade InnerSource.
+Eles preferem ver resultados de curto a médio prazo que ajudem no resultado final.
+É nesta área potencial de conflito que o Trusted Committer desempenha um papel vital.
+Os Trusted Committers constroem confiança com a organização e, com base nessa confiança, atuam como defensores dos interesses da comunidade e da saúde a longo prazo do software na empresa.
+Eles são responsáveis por comunicar riscos técnicos, assim como os relacionados à comunidade, à gestão.
+Ao mesmo tempo, os Trusted Committers precisam ser estratégicos e trabalhar dentro dos graus de liberdade concedidos por suas empresas.
+Os Trusted Committers também precisam ter certeza de que a comunidade e os colaboradores individuais do https://innersourcecommons.org/learn/learning-path/contributor[contributors] obtenham crédito público por seu trabalho.
+O crédito público é a moeda com a qual os contribuintes são pagos, especialmente aqueles que contribuem voluntariamente.
+É uma boa prática elogiar publicamente colaboradores valiosos e garantir que seus gestores estejam cientes de suas contribuições.
+Negligenciar dar crédito pode ser frustrante para os colaboradores individuais e prejudicial para a saúde da comunidade.
+Isso pode acontecer em empresas ainda não acostumadas ao modelo de trabalho InnerSource, ou quando o software que está sendo desenvolvido pela comunidade InnerSource é executado _nos bastidores_ e os gerentes simplesmente não estavam cientes da contribuição da comunidade.
+Um bom Trusted Committer se envolverá com a gestão e defenderá o crédito público.
+A falha em dar crédito quase nunca é feita de má fé e é fácil de corrigir.
+Outro caso comum que pede a defesa do Trusted Committer é quando https://innersourcecommons.org/learn/learning-path/contributor[contributors] não recebem tempo ou permissão para contribuir.
+Isso pode acontecer quando a comunidade está trabalhando em um produto fora do departamento do contributor e, portanto, não é relevante para os objetivos do seu gerente.
+Neste caso, o Trusted Committer deve iniciar uma discussão com o gestor do contributor e pressionar por uma decisão alternativa.
+Em resumo, há muitas situações em que os Trusted Committers precisam defender os interesses individuais dos https://innersourcecommons.org/learn/learning-path/contributor[contributors] e da comunidade como um todo.
+Os Trusted Committers entendem que o valor que a comunidade pode fornecer à organização depende da saúde e da longevidade da comunidade e, finalmente, de uma relação confiável entre ambos.
