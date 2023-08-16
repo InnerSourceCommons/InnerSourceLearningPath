@@ -1,0 +1,11 @@
+﻿== Introdução
+
+Esta Trilha de Aprendizado fornece uma introdução ao InnerSource.
+InnerSource é a aplicação de práticas e princípios de código aberto ao desenvolvimento de software dentro da empresa.
+O software InnerSource permanece proprietário da empresa, mas dentro dela está aberto para qualquer pessoa usá-lo e contribuir com ele.
+Essa estratégia permite uma colaboração ampla e eficaz, produzindo software responsivo e ágil para as necessidades em constante mudança de seus muitos interessados internos.
+
+Esta Trilha de Aprendizado ensina como reconhecer situações que são boas candidatas para o InnerSource.
+Descreveremos em alto nível como o InnerSource pode ajudar nessas situações.
+Você se familiarizará com os termos compartilhados usados ao discutir o InnerSource.
+Também enumeraremos os princípios-chave nos quais o InnerSource se baseia e os benefícios vistos quando ele é aplicado de forma eficaz.
