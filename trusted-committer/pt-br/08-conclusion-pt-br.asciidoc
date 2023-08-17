@@ -1,0 +1,9 @@
+== Conclusão
+Nos capítulos anteriores, aprendemos sobre as responsabilidades dos Trusted Commiters.
+Algumas dessas responsabilidades incluem garantir a qualidade do produto, manter sua comunidade saudável, reduzir as barreiras para fazer contribuições, elevar o nível da comunidade e defender suas necessidades dentro da organização.
+Também falamos sobre como se tornar um Trusted Commiter e o que é necessário para cumprir esse papel.
+Trabalhar como um Trusted Committer é exigente, mas acabará por ampliar sua contribuição de valor em sua empresa.
+Esperamos ter te inspirado a trilhar o caminho para se tornar um Trusted Committer. Também esperamos ter ajudado sua organização a entender a importância de ter Trusted Committers capacitados para o sucesso de qualquer iniciativa InnerSource e o nível de capacitação que essa função exige.
+Gostaríamos de convidá-lo a saber mais sobre InnerSource explorando os outros artigos e vídeos no Caminho de Aprendizagem de InnerSource.
+E, claro, gostaríamos de recebê-lo na comunidade http://www.innersourcecommons.org/[the InnerSource Commons].
+May the source be with you.
