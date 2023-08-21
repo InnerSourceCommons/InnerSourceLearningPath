@@ -1,4 +1,4 @@
-== How to make a new thumbnail.
+== How To Make A New Thumbnail
 
 . Open `thumbnail_template.odg` (in this folder).
 . Save as new file.
