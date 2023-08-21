@@ -46,7 +46,7 @@ Anytime there are _any changes_, you need to run the script that generates the u
 
 1. Clone the [InnerSourceCommons/InnerSourceLearningPath] and [InnerSourceCommons/innersourcecommons.org] repos.
 2. Is this the first time that articles have been written for this language? If so:
-  * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there is an [index page](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/content/en/learn/learning-path).
+   * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there is an [index page](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/content/en/learn/learning-path).
 3. Is there a whole new Learning Path section? If so:
   * Create a [new thumbnail](../assets/thumbnails) and put it with the [other thumbnails](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/static/images/learn).
   * Create an `index.md` in the section folder.****
