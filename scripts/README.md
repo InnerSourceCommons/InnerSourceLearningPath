@@ -47,13 +47,15 @@ The `-e` param generates only English-language articles, which can speed things 
 Anytime there are _any changes_, you need to run the script that generates the updated pages on the [innersourcecommons.org] site.
 
 1. Clone the [InnerSourceCommons/InnerSourceLearningPath] and [InnerSourceCommons/innersourcecommons.org] repos.
-1. Is this the first time that articles have been written for this language? If so:
-  * make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there is an [index page](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/content/en/learn/learning-path).
+2. Is this the first time that articles have been written for this language? If so:
+   * Make sure this language appears in the [website config](https://github.com/InnerSourceCommons/innersourcecommons.net/blob/master/config.yaml) and there is an [index page](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/content/en/learn/learning-path).
 3. Is there a whole new Learning Path section? If so:
-  * update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/scripts/section_data.json) with the new section and open a pull request for the change
+   * Create a [new thumbnail](../assets/thumbnails) and put it with the [other thumbnails](https://github.com/InnerSourceCommons/innersourcecommons.org/tree/master/static/images/learn).
+   * Create an `index.md` in the section folder.
+   * Update the ["sections" config](https://github.com/InnerSourceCommons/InnerSourceLearningPath/blob/main/scripts/section_data.json) with the new section and open a pull request for the change.
 4. Run **generate_learning_path_markdown.js** as described above.
-4. `cp -r newsite/* <path-to-innersourcecommons.org-repo>/content/en/learn/learning-path/`.
-4. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
+5. `cp -r newsite/* <path-to-innersourcecommons.org-repo>/content/en/learn/learning-path/`.
+6. Open a pull request with the modified files in the [InnerSourceCommons/innersourcecommons.org] repo.
 
 [innersourcecommons.org]: https://innersourcecommons.org/
 [InnerSourceCommons/InnerSourceLearningPath]: https://github.com/InnerSourceCommons/InnerSourceLearningPath/

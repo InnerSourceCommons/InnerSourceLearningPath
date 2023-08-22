@@ -1,3 +1,11 @@
+== How To Make A New Thumbnail
+
+. Open `thumbnail_template.odg` (in this folder).
+. Save as new file.
+. Adjust text and image.
+. Export as JPG.
+
+
 == #214 About Thumbnails
 
 Within issue _#214 YouTube video post-processing_ one item of the checkboxset is: 
