@@ -1,43 +1,43 @@
 == Introdução
 == = O Contribuidor no InnerSource
-Você já foi bloqueado em sua próxima tarefa de codificação porque outra equipe não teve tempo de adicionar um recurso em seu sistema do qual você depende?
+Você já foi bloqueado em sua próxima tarefa de codificação porque outra equipe não teve tempo de adicionar em seu sistema um recurso do qual você depende?
 Talvez depois de um tempo você até teve que fazer algum trabalho extra em seu projeto para contornar o recurso que falta.
-Como seria bom nunca ser bloqueado desta maneira?
+Quão bom seria nunca ser bloqueado dessa forma?
 Com projetos que incorporam os princípios do InnerSource, você nunca será bloqueado esperando que outra equipe entregue algum recurso necessário.
-Se você não estiver obtendo o que você precisa, você pode fazer a mudança que você precisa diretamente no repositório de código da outra equipe, agindo como um colaborador InnerSource.
+Se você não estiver obtendo o que você precisa, você pode fazer a mudança que precisa diretamente no repositório de código da outra equipe, agindo como um colaborador InnerSource.
 A função Contribuidor descreve uma pessoa que faz contribuições para os repositórios de um projeto da comunidade InnerSource..
 Esta pessoa pode ou não fazer parte ou se ver como parte da comunidade.
-No entanto, para algumas pessoas, há uma espécie de jornada que os contribuintes podem fazer de apenas saber sobre a comunidade para usar o produto da comunidade para interagir com os membros da comunidade e, finalmente, começar a contribuir.
-Finalmente, alguns deles podem se tornar https://innersourcecommons.org/learn/learning-path/trusted-committer [Trusted Committers].
-== = Relacionamento com outras funções
-Como um Contribuidor em uma comunidade InnerSource, você interagirá com pessoas que desempenham outras funções de InnerSource, como https://innersourcecommons.org/learn/learning-path/trusted-committer [_Trusted Committer_] ou https://innersourcecommons.org/learn/learning-path/product-owner [_Product Owner_] e possivelmente com outros contribuidores.
-Às vezes, essas funções podem ser desempenhadas pela mesma pessoa, como Trusted Committer e Product Owner em pequenos projetos de estilo de base.
-Esta seção fornece uma visão geral muito curta das outras duas funções, mas gostaríamos de encorajá-lo a ler o https://innersourcecommons.org/learn/learning-path/trusted-committer/01 / [artigo introdutório da função de Comitê Confiável] e recomendamos que você leia o artigo https://innersourcecommons.org/learn/learning-path/trusted-committer/05/ [Rebaixando as barreiras para entrada] também, antes de se aprofundar nos detalhes da função de Contribuidor nesta seção.
-Você também pode assistir aos vídeos (https: //innersourcecommons.org/learn/learning-path/trusted-committer/01 / [introdução], https://innersourcecommons.org/learn/learning-path/trusted-committer/05 / [redução das barreiras à entrada]) em vez de ler os artigos.
-== == Trusted Committer
-Um Trusted Committer será seu anfitrião para sua estadia na comunidade de hospedagem.
-Eles são os gatekeepers para o repositório de código do projeto, e vai mover sua contribuição mais perto da produção, uma vez que eles aceitaram.
-É seu papel orientá-lo em seu caminho para contribuir para a comunidade deles.
-Eles podem ajudá-lo diretamente ou fornecer informações para que você possa se ajudar.
-Essas informações poderiam ser estabelecidas regras internas para revisões, modelos de propostas para mudanças maiores, ponteiros para a documentação ou seções de código relevantes para sua contribuição.
-Eles também precisam se preocupar com a qualidade do produto, a sustentabilidade e a evolução do projeto do ponto de vista técnico e geral, sobre a redução da barreira para fazer contribuições para todos, bem como sobre cuidar de sua comunidade em geral.
-Cuidar da comunidade envolve mantê-la saudável, uplevelá-la e seus participantes, e defender suas necessidades em sua organização.
-== == Product Owner
-A função do https://innersourcecommons.org/learn/learning-path/product-owner [_Product Owner_] tem alguma semelhança com a função de proprietário do produto de seu projeto médio.
-No entanto, existem diferenças-dependendo do tamanho do projeto, essa função é muitas vezes preenchida pela mesma pessoa que age como responsável confiável.
-Em projetos maiores ou em equipes que usam apenas parcialmente o InnerSource como uma abordagem para preencher suas necessidades aceitando contribuições, essa função é provavelmente preenchida por uma pessoa separada de um responsável confiável.
-Sua interação com a função de proprietário do produto provavelmente se concentrará no ajuste de sua contribuição no produto geral e em seu roteiro.
-Você pode trabalhar com a função de proprietário do produto para assegurar que os aspectos gerais da documentação ou a consistência de UI/UX sejam mantidos na mesclagem de sua contribuição.
-Por último, mas não menos importante, alguém agindo como product owner pode ter estado envolvido em trazer o projeto, seus benefícios e comunidade para sua atenção.
-Se você quiser aprender mais detalhes sobre o que essas outras funções são, e nós o encorajamos a fazer isso, nós preparamos seções separadas sobre o https://innersourcecommons.org/learn/learning-path/trusted-committer [_Trusted Committer_] e o https://innersourcecommons.org/learn/learning-path/product-owner [_Product Owner_].
-== = Visão geral da seção
+No entanto, para algumas pessoas, há uma espécie de jornada que os contribuidores podem fazer de apenas saber sobre a comunidade para usar o produto da comunidade para interagir com os membros da comunidade e, finalmente, começar a contribuir.
+Finalmente, alguns deles podem se tornar https://innersourcecommons.org/learn/learning-path/trusted-committer[Trusted Committers].
+=== Relacionamento com outras funções
+Como um Contribuidor em uma comunidade InnerSource, você irá interagir com pessoas que desempenham outras funções InnerSource, como https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] ou https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] e possivelmente com outros contribuidores.
+Às vezes, essas funções podem ser desempenhadas pela mesma pessoa, como Trusted Committer e Product Owner em pequenos projetos populares.
+Esta seção fornece uma visão geral muito curta das outras duas funções, mas gostaríamos de encorajá-lo a ler o https://innersourcecommons.org/learn/learning-path/trusted-committer/01 / [artigo introdutório da função de Trusted Commiter] e recomendamos que você leia o artigo https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[Rebaixando as barreiras para entrada] também, antes de se aprofundar nos detalhes da função de Contribuidor nesta seção.
+Você também pode assistir aos vídeos (https: //innersourcecommons.org/learn/learning-path/trusted-committer/01 /[introdução], https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[reduzindo as barreiras de entrada]) em vez de ler os artigos.
+==== Trusted Committer
+Um Trusted Committer será seu anfitrião para sua estadia na comunidade que te recebe.
+Eles são responsáveis ​​pelo repositório de código do projeto e moverão sua contribuição para produção assim que for aceita.
+É sua função orientá-lo em seu caminho para contribuir para a comunidade deles.
+Eles podem ajudá-lo diretamente ou fornecer informações para que você possa seguir sozinho.
+Essas informações poderiam ser regras internas estabelecidas para revisões, modelos de propostas para mudanças maiores, ndicadores para documentação ou seções de código relevantes para sua contribuição.
+Eles também precisam se preocupar com a qualidade do produto, a sustentabilidade e a evolução do projeto tanto do ponto de vista técnico e quanto geral, com a redução da barreira para fazer contribuições para todos, bem como com o cuidado com a sua comunidade em geral.
+Cuidar da comunidade envolve mantê-la saudável, desenvolvê-la e a seus participantes, e defender suas necessidades em sua organização.
+==== Product Owner
+A função do https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_] tem alguma semelhança com a função usual de Product Owner do seu projeto.
+No entanto, existem diferenças: dependendo do tamanho do projeto, esta função é muitas vezes preenchida pela mesma pessoa que atua como Trusted Commiter.
+Em projetos maiores ou em equipes que usam o InnerSource apenas parcialmente para atender às suas necessidades ao aceitar contribuições, essa função provavelmente será preenchida por alguém que não seja um Trusted Commiter.
+Sua interação com a função de Product Owner provavelmente se concentrará em determinar o alinhamento com sua contribuição para o produto geral e seu roteiro.
+Você pode trabalhar com a função de Product Owner para garantir que os aspectos gerais da documentação, ou a consistência UI/UX, sejam mantidos ao integrar sua contribuição.
+Por último, mas não menos importante, alguém agindo como product owner pode ter se envolvido em trazer o projeto, seus benefícios e comunidade para sua atenção.
+Se você quiser aprender mais detalhes sobre o que essas outras funções são, e nós o encorajamos a fazer isso, nós preparamos seções separadas sobre https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] e https://innersourcecommons.org/learn/learning-path/product-owner[_Product Owner_].
+=== Visão geral da seção
 Nos 5 segmentos a seguir, você aprenderá mais detalhadamente sobre os vários aspectos apresentados aqui.
-O próximo segmento detalhará _mindset e hábito _ que criam oportunidades para _tornar-se um Contribuidor InnerSource _.
-No terceiro segmento, analisaremos o _ethos do Contribuidor-ou seja, os aspectos do _behavior_ que levarão a um tempo agradável e produtivo para você e para a equipe de acolhimento, e podem gerar mais colaboração.
-A analogia guest-in-home apresentada nos vídeos introdutórios servirá como um exemplo vívido.
-O quarto segmento descreve as coisas práticas a fazer para tornar sua contribuição um sucesso-a _mecânica de Contribuição_.
+O próximo segmento detalhará _mentalidade e hábito_ que criam oportunidades para _se tornar um Colaborador InnerSource_.
+No terceiro segmento, examinaremos o _ethos do Colaborador_ - ou seja, aspectos do _comportamento_ que levarão a um momento agradável e produtivo para você e a equipe anfitriã, e podem gerar mais colaboração.
+A analogia guest-in-home apresentada nos vídeos introdutórios servirá como um ótimo exemplo.
+O quarto segmento descreve as práticas a fazer para tornar sua contribuição um sucesso - a _mecânica da Contribuição_.
 Vamos dar dicas práticas para alavancar quando se preparar para trabalhar em uma contribuição, durante o desenvolvimento, e também no pull request.
 Depois de lidarmos com o pessoal, o foco na interação e os aspectos técnicos do papel de contribuidor, o quinto segmento apresenta os benefícios de fazer o esforço para contribuir.
-Mostraremos os benefícios de várias perspectivas: a sua, a sua equipe e a perspectiva da empresa em geral.
-O último segmento irá recapitular o que aprendemos sobre ser um contribuidor do InnerSource.
-Nós compartilharemos como você pode continuar seu aprendizado do InnerSource tanto com outros vídeos e artigos online quanto com o envolvimento com a comunidade online do InnerSource.
+Mostraremos os benefícios de várias perspectivas: a sua, a da sua equipe e a perspectiva da empresa como um todo.
+O último segmento irá recapitular o que aprendemos sobre ser um contribuidor InnerSource.
+Nós compartilharemos como você pode continuar seu aprendizado de InnerSource tanto com outros vídeos e artigos online quanto com o envolvimento com a comunidade online de InnerSource.
