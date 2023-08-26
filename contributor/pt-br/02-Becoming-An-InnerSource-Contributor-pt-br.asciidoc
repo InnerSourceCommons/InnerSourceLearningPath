@@ -1,55 +1,55 @@
 == Tornando-se um Contribuidor InnerSource
-Os contribuidores do InnerSource operam fora dos limites regulares da equipe, eles são os links que cruzam os silos organizacionais
+Os contribuidores de InnerSource operam fora dos limites regulares da equipe, eles são os elos que cruzam os silos organizacionais
 Como tal, eles precisam estar cientes de algumas práticas comuns que tornam este trabalho mais eficaz.
-== = Mindset de Compartilhamento
-Então, você está implementando um novo recurso para o produto da sua equipe..
-Você precisa de alguma funcionalidade para que esse recurso funcione..
-Em vez de entrar na implementação, desacelere um pouco: essa funcionalidade reflete um problema geral?
+=== Mindset de Compartilhamento
+Então, você está implementando um novo recurso para o produto da sua equipe.
+Você precisa de alguma funcionalidade para que esse recurso funcione.
+Em vez de iniciar a implementação, desacelere um pouco: essa funcionalidade reflete um problema geral?
 É algo que outras equipes em sua organização enfrentam também devido ao domínio de negócios compartilhado?
 Esta funcionalidade é ortogonal ao domínio do seu projeto?
 Se isso se aplicar, comece a olhar além da sua própria equipe: existe uma solução compartilhada que você pode usar ou melhorar para atender às suas necessidades?
-Deveria haver um?
-== = Benefícios para compartilhar soluções
-Há um provérbio africano afirmando que " Se você quer ir rápido, vá sozinho.
-Se você quer ir longe, vá junto. ` " O mesmo é verdade para as equipes de desenvolvimento de software:
+Deveria haver?
+=== Benefícios de compartilhar soluções
+Há um provérbio africano afirmando que "Se você quer ir rápido, vá sozinho.
+Se você quer ir longe, vá junto." O mesmo é verdade para as equipes de desenvolvimento de software:
 Se você quiser se mover rapidamente, é uma ótima ideia quebrar dependências.
 A desvantagem para isso pode ser esforço duplicado.
 Em particular, ao reimplementar a lógica central, existe um risco muito real de que o custo da duplicação seja superior ao benefício da independência.
 Colaborar com outras equipes permite compartilhar o custo de desenvolvimento.
-Assim como em projetos de código aberto, ele pode permitir que sua equipe construa algo maior do que você sozinho poderia ter realizado.
+Assim como em projetos Open Source, pode permitir que sua equipe construa algo maior do que você poderia ter realizado sozinho.
 Mas cada equipe tem um roteiro diferente!
-Eu tentei usar componentes compartilhados antes-eles sempre levaram mais tempo para se integrar do que eu teria levado para reimplementá-los.
-Esses componentes sempre faltaram em algum aspecto ou outro-e minhas solicitações de recursos nunca tiveram prioridade no roteiro da outra equipe!
+Eu tentei usar componentes compartilhados antes - eles sempre levaram mais tempo para se integrar do que eu teria levado para reimplementá-los.
+Sempre faltavam um aspecto ou outro nesses componentes - e minhas solicitações de recursos nunca tiveram prioridade no roteiro da outra equipe!
 Em contraste com um projeto tradicional, os projetos InnerSource vêm com o papel de um Contribuidor.
 Sim, haverá momentos em que você deseja que a solução compartilhada tenha um novo recurso.
 Como um Contribuidor, você tem a liberdade de verificar o código-fonte do componente, fazer modificações nele e usar a versão melhorada resultante.
-Sim, haverá momentos em que você precisará urgentemente de uma correção de bug em sua linha do tempo que não tenha a mesma prioridade na equipe anfitriã..
-Tornar-se um Contribuidor permite que você aja e suporte a equipe de host com a correção desse bug.
+Sim, haverá momentos em que você precisará urgentemente de uma correção de bug em sua linha do tempo que não tenha a mesma prioridade na equipe anfitriã.
+Tornar-se um Contribuidor permite que você aja e suporte a equipe anfitriã com a correção desse bug.
 Essa maneira de trabalhar requer uma mudança de mentalidade para muitos: em vez de esperar que recursos sejam implementados ou bugs corrigidos, em vez de trabalhar em torno de problemas, agora há uma terceira solução.
-Gaste seu tempo e energia para verificar novamente com o projeto InnerSource quais são suas necessidades-e, em seguida, faça a mudança diretamente no projeto compartilhado.
-Portanto, além de suas habilidades de codificação, você precisa de habilidades de comunicação para ter sucesso em um projeto InnerSource-para articular claramente suas necessidades e chegar a uma solução que funcione tanto para sua equipe quanto para a equipe anfitriã.
-"Mas eu poderia simplesmente ir e bifurcar o projeto, fazer minhas mudanças lá e me salvar de toda essa coordenação!".
+Gaste seu tempo e energia para verificar novamente com o projeto InnerSource quais são suas necessidades - e então faça a alteração diretamente no projeto compartilhado.
+Portanto, além de suas habilidades de codificação, você precisa de habilidades de comunicação para ter sucesso em um projeto InnerSource - para articular claramente suas necessidades e chegar a uma solução que funcione tanto para sua equipe quanto para a equipe anfitriã.
+"Mas eu poderia simplesmente ir e fazer um fork (bifurcar) do projeto, fazer minhas mudanças lá e me salvar de toda essa coordenação!".
 Com certeza, bifurcar o projeto é uma maneira de fazer seu trabalho.
-Exceto no longo prazo, isso significa que você deve manter essa versão bifurcada para sua equipe-e levar suas mudanças adiante para qualquer nova versão que a equipe do host fizer.
+Exceto no longo prazo, isso significa que você deve manter essa versão bifurcada para sua equipe - e levar suas mudanças adiante para qualquer nova versão que a equipe anfitriã fizer.
 Contribuir com suas mudanças para a equipe anfitriã também significa que você se beneficiará de seu conhecimento mais profundo do componente.
 Eles podem detectar problemas em seu patch que de outra forma só teriam se tornado óbvios na produção.
-Um bom Contribuidor pode confortavelmente fazer uma chamada para quando faz sentido técnico e de negócios introduzir uma dependência e reutilizar um componente em vez de duplicar o trabalho.
-Eles podem conversar com a gerência para explicar os benefícios das contribuições do InnerSource.
-== = Escopo das contribuições InnerSource
-Então é Inner__Source__ apenas sobre __Source__Code?
+Um bom Contribuidor pode decidir confortavelmente quando faz sentido técnico e comercial introduzir uma dependência e reutilizar um componente em vez de duplicar o trabalho.
+Eles podem conversar com a gerência para explicar os benefícios das contribuições de InnerSource.
+=== Escopo das contribuições InnerSource
+Então __InnerSource__ é apenas sobre __Código Fonte__?
 Claro que não.
-Se o negócio da sua equipe depende de um componente externo, você quer ter certeza de que ele está bem mantido e bem executado..
-Como um Contribuidor do InnerSource, você pode ajudar a equipe do host de várias maneiras:
-Relatar problemas que você vê ao usar o componente é uma contribuição valiosa.
+Se o negócio da sua equipe depende de um componente externo, você quer ter certeza de que ele está bem mantido e bem executado.
+Como um Contribuidor de InnerSource, você pode ajudar a equipe anfitriã de várias maneiras:
+Relatar problemas que você encontra ao usar o componente é uma contribuição valiosa.
 Criar ou corrigir casos de teste que mostram que o código não está funcionando conforme o esperado é valioso.
 Assim como melhorar a documentação, outros gastam menos tempo usando-a e contribuindo para ela.
-Apoiando outros usuários, ajudar com a triagem de bugs pode ser contribuições valiosas.
-Melhorar as construções é outro exemplo de uma contribuição valiosa.
+Apoiando outros usuários, ajudar com a triagem de bugs podem ser contribuições valiosas.
+Melhorar os builds é outro exemplo de contribuição valiosa.
 Resumindo, nenhuma contribuição é muito pequena para contribuir.
-Aqui está um que eu fiz para https://github.com/tensorflow/models/pull/4784 [tensorflow/models].
+Aqui está uma que eu fiz para https://github.com/tensorflow/models/pull/4784[tensorflow/models].
 Uma mudança de rótulo simples em um gráfico
-== = Resumo deste artigo
+=== Resumo deste artigo
 Neste artigo você aprendeu sobre o que é preciso para se tornar um Contribuidor.
-Nós olhamos para a mentalidade de partilha.
-Nós mergulhamos profundamente nos benefícios das soluções de compartilhamento.
-Finalmente, tivemos uma olhada em como o escopo para contribuições do InnerSource normalmente se parece.
+Vimos a mentalidade de compartilhamento.
+Mergulhamos profundamente nos benefícios do compartilhamento de soluções.
+Finalmente, demos uma olhada em como normalmente é o escopo das contribuições do InnerSource.
