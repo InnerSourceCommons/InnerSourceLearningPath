@@ -33,7 +33,7 @@ Once you start working with those other teams, and when you onboard new develope
 If your tool is one of those bottlenecks and is really important to them, they may even offer to help you do a lot of the heavy lifting in regards to the standards, because they want to integrate in with your product.
 
 Lastly, internal marketing.
-There're some projects that everyone wants to contribute code to.
+There are some projects that everyone wants to contribute code to.
 Oftentimes, these projects are the bottlenecks.
 I find that people start working on InnerSource projects at first because they must get something into one of those bottleneck projects.
 So they can progress their own projects forward. But what if you aren't one of those projects?
