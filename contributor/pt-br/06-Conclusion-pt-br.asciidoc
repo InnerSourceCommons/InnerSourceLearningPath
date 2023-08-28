@@ -1,13 +1,13 @@
 == Conclusão
-Obrigado por revisar o segmento de Contribuidor do Caminho de Aprendizagem do InnerSource Commons.
-Com esta seção você aprendeu sobre o papel de Contribuidor-o sangue da vida dos projetos InnerSource.
+Obrigado por revisar o segmento de Contribuidor do Caminho de Aprendizagem da InnerSource Commons.
+Nsta seção você aprendeu sobre o papel do Contribuidor - a força vital dos projetos InnerSource.
 Os contribuidores são externos à equipe de proprietários do componente e trazem informações valiosas adicionais ao projeto.
 Nesta seção, você aprendeu sobre como se tornar um contribuidor, encontrando oportunidades para contribuir.
 Revisamos a mentalidade e os hábitos necessários para encontrar ou criar essas oportunidades.
-Também discutimos o ethos do papel e uma abordagem sugerida que provavelmente levará a contribuições bem-sucedidas.
-Dada a mentalidade, os hábitos e o ethos certos, ainda há alguns detalhes que podem impedir que você contribua com sucesso-por isso, discutimos essas porcas e parafusos com mais detalhes.
+Também discutimos o espírito do papel e uma abordagem sugerida que provavelmente levará a contribuições bem-sucedidas.
+Dada a mentalidade, os hábitos e o espírito certos, ainda há alguns detalhes que podem impedir que você contribua com sucesso - por isso, discutimos essas partes em mais detalhes.
 Por último, mas não menos importante, convencer seus colegas de equipe e sua organização em vários níveis pode ser difícil, então discutimos os benefícios da contribuição de várias perspectivas para tornar esse processo mais fácil para você.
-Esperamos que você tenha gostado de assistir aos vídeos, e / ou ler os artigos, e será capaz de tirar alguns novos insights interessantes para sua jornada em direção ao InnerSource e ser um bom colaborador.
+Esperamos que você tenha gostado de assistir aos vídeos, e / ou ler os artigos, e que possa obter alguns novos insights interessantes para sua jornada em direção ao InnerSource e ser um bom contribuidor.
 Se você ainda não fez isso, gostaríamos de convidá-lo a saber mais sobre os outros aspectos do InnerSource em nosso caminho de aprendizado do InnerSource: http://innersourcecommons.org/learningpath/
-Convidamos você a conferir o grupo InnerSource http://innersourcecommons.org [InnerSource Commons] online-sinta-se à vontade para participar da discussão e compartilhar suas experiências e lições aprendidas em sua organização.
+Convidamos você a conferir o grupo InnerSource http://innersourcecommons.org[InnerSource Commons] online - sinta-se à vontade para participar da discussão e compartilhar suas experiências e lições aprendidas em sua organização.
 Viva por muito tempo e tenha projetos prósperos!
