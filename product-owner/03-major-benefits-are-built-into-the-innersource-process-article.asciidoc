@@ -12,7 +12,7 @@ You can start to implement and plan more effectively.
 Often, your team's problem (or feature) may not be the highest priority for that other team.
 You no longer have to lean on escalations to upper management and politics to get access to that team.
  Instead, you have more power to determine priorities with your team and reduce your dependencies on others.
-Sometimes it may take longer because of the learning curves. But if it is a team that is a constant bottleneck, you can get those stories out of their backlog that've been sitting there for years.
+Sometimes it may take longer because of the learning curves. But if it is a team that is a constant bottleneck, you can get those stories out of their backlog that have been sitting there for years.
 
 _Open planning_ - this is where everyone publishes their planning process in an open and standardized fashion.
 At PayPal, we have the UPE standard. It stands for Unified Product Experience.
@@ -25,7 +25,7 @@ Open planning allows for more effective negotiations between teams.
 
 One of the things we work a lot on in InnerSource is _open documentation_.
 This includes the planning process, the standards, things of that nature.
-A key element of this is the findability and the fact that there's a certain amount of centralization, so that everybody knows where to go to find the documentation to figure out how to collaborate with you better.
+A key element of this is the discoverability and the fact that there's a certain amount of centralization, so that everybody knows where to go to find the documentation to figure out how to collaborate with you better.
 
 It has a lot of benefits in regards to your success.
 Some of that is the open planning and the open standards, so that you can collaborate better.
