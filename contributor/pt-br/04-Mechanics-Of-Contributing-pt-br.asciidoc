@@ -1,0 +1,127 @@
+== Mecânica de contribuição
+Você está pronto para começar a contribuir com projetos / repositórios de outras equipes?
+Quer reduzir seus bloqueios colaborando em vez de gerenciar?
+Esta seção fornece conselhos práticos e destaca pontos a serem lembrados ao fazer uma contribuição InnerSource.
+Ele permite que você e a equipe anfitriã tenham a experiência mais agradável possível, estabelecendo a base para mais contribuições e grande colaboração.
+Este artigo é separado nas três etapas que você provavelmente experimentará
+* <<preparação para o trabalho, Solicitando sua oportunidade de contribuição e preparando-se para trabalhar nela>>
+* <<criar-o-pull-request, Na verdade, criando a contribuição>>
+* <<enviar-o-pull-request, Polir e embrulhar bem o presente e apresentá-lo para a equipe anfitriã>>.
+Se a sua contribuição for maior, você possivelmente percorrerá (alguns) desses passos repetidamente à medida que você iterar em direção ao objetivo comum.
+É muito provável que, à medida que você fizer isso, tudo se torne cada vez mais natural para você - você pode até se perguntar por que estava fazendo outra coisa antes.
+=== Preparando para trabalhar
+==== Tempos de entrega
+Uma diferença fundamental é o tempo de entrega.
+Com cada nova contribuição, você está chegando a uma nova equipe (anfitriã).
+Como resultado, você precisará conhecer sua base de código, as tecnologias usadas e também seu ambiente de desenvolvimento preferido (pense em uma estrutura de teste, sistema de build).
+Mesmo nos casos em que estes tipos de ferramentas estão padronizados, cada equipe terá desenvolvido algumas peculiaridades individuais.
+Além do lado técnico, você pode se deparar com diferenças na comunicação (pense nas renisões de código).
+Mesmo se você estiver voltando depois de um tempo, as práticas e os membros das equipes podem ter mudado.
+Não tenha pressa, como faria para conversar com um amigo que você não vê há algum tempo e que você está visitando agora.
+Dê tempo suficiente a si mesmo.
+Comece com antecedência suficiente, para que seu trabalho esteja disponível para você aproveitar no momento que precisar.
+É melhor adicionar mais tempo de folga inicialmente - você terá uma melhor ideia sobre os tempos de resposta depois de trabalhar com a equipe anfitriã.
+Muitas vezes, você notará uma redução no tempo de resposta por parte da equipe anfitriã depois de fazer algumas contribuições bem-sucedidas para essa equipe anfitriã.
+Esse efeito pode ser observado com Open Source também, você pode ler mais sobre ele <<buildup-of-trust-through-collaboration, aqui>>.
+==== Gestão de expectativas
+Em suas equipes tradicionais, todos tinham uma ideia dos tempos de resposta.
+Dentro de um contexto InnerSource, isso pode não ser o caso, seja devido a grandes diferenças de fuso horário (por exemplo, Seattle, EUA com PDT vs Berlim, Alemanha com CEST) ou você não estar disponível em tempo integral como com sua equipe original, mesmo se eles estiverem no mesmo local físico que você.
+Assim, para evitar a frustração de ambos os lados, impaciência e outros efeitos que geram desconfiança, você precisará explicitamente fazer o gerenciamento de expectativas com relação aos tempos de resposta esperados.
+Uma abordagem é apenas reagir rapidamente com um "Vou dar uma olhada, embora não o faça nos próximos dias" a um comentário de um https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committeter_] se você souber que só poderá respondê-lo em alguns dias.
+O ideal é que você possa fornecer a eles uma estimativa aproximada de quando provavelmente terá tempo para dar uma olhada em suas opiniões.
+Fazer isso constrói confiança através da confiabilidade, mesmo por meio de contato não físico, maior distância ou mídia assíncrona.
+A confiança estabelecida permitirá que você supere os obstáculos da incerteza na jornada colaborativa à sua frente.
+==== Construindo confiança
+InnerSource valoriza muito a comunicação escrita - em particular quando se trata de decisões de projeto.
+Isso implica que a comunicação presencial é proibida?
+Calor que não: enquanto a comunicação escrita brilha quando se trata de arquivamento e capacidade de pesquisa, a comunicação presencial brilha quando se trata de largura de banda de comunicação.
+Tente reservar um tempo para se encontrar com as pessoas por trás dos nomes.
+Se possível, tente encontrá-los para uma bebida ou para comer algumas coisa.
+Quando você é capaz de ouvir as pessoas falando, quando você sabe suas idiossincrasias, a colaboração remota se tornará mais fácil.
+==== Evitando rejeição
+Você tem uma funcionalidade grande que deseja contribuir?
+Excelente!
+Não seria horrível se todo o seu trabalho fosse desperdiçado?
+Isso pode acontecer quando a equipe anfitriã já está construindo algo muito semelhante, está planejando descontinuar o software, ou não vê o que você está propondo para ser um ajuste para seu projeto.
+Esse desafio é frequente, e muitas relações de equipe sofreram por não concordarem antecipadamente que uma contribuição é um bom ajuste.
+Deixe você e a equipe anfitriã felizes (e possivelmente economize algum trabalho) obtendo o acordo da equipe anfitriã sobre o design técnico/do usuário da contribuição antes de trabalhar nas alterações e enviar um pull request.
+Você precisará entender como a equipe anfitriã gostaria que você abordasse isso.
+É melhor perguntar a um https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] sobre a melhor forma de discutir sua proposta.
+No âmbito do Open Source tem sido repetidamente demonstrado  que se você pode escolher como discutir sua proposta, você deve tentar escolher uma forma escrita.
+Idealmente, escolha a forma em que os artefatos sejam públicos, pesquisáveis ​​e permanentemente linkáveis ​​para permitir a referência à sua proposta em discussões posteriores sobre esta contribuição futura ou outras contribuições futuras - por você ou por outros.
+Esse tipo de acordo inicial de alto nível economizará tempo no retrabalho ou na rejeição de seu pull request no futuro.
+=== Criando o pull request
+==== Comunicação e desbloqueio
+Ótimo, você se familiarizou com a abordagem da equipe anfitriã e eles estão ansiosos para receber seu pull request.
+Quais dicas estão esperando por você agora?
+Primeiro, você terá menos contato direto com eles.
+Em segundo lugar, não é esperado que você tenha tanto conhecimento e proficiência quanto seria nos projetos de tempo integral de sua equipe.
+Como você pode lidar com isso agora da melhor forma possível?
+Tente examinar a documentação, os arquivos de conversa e os artefatos de código da equipe para se desbloquear.
+Isso é semelhante à situação em que você e a maioria das pessoas provavelmente se encontram ao usar um dos projetos OSS populares.
+Assim como em projetos Open Source, pergunte à equipe anfitriã se as coisas não avançam mesmo depois de tentar se desbloquear.
+As perguntas que você faz e as respostas que você recebe ajudarão a outros que vêm depois de você a resolver os mesmos problemas.
+Certifique-se de que sua comunicação termine em um arquivo pesquisável que esteja intimamente ligado ao próprio projeto.
+Caso você veja oportunidades fáceis de melhoria para atingir essa meta, caso ela ainda não tenha sido alcançada, você pode tentar - muito educadamente - sugerir uma melhoria à sua equipe anfitriã.
+Às vezes, o status quo surge por pura casualidade e permanece assim porque ninguém teve uma ideia diferente ou se importou o suficiente.
+Sugestões de melhoria podem ser bem-vindas nesses casos.
+Não faz bem algum a nenhum dos lados ficar girando para sempre em torno de um problema que poderia ser resolvido em uma conversa de alguns minutos com alguém com mais conhecimento do projeto.
+Tudo bem pedir ajuda.
+Porém, há uma diferença fundamental que trará vantagens para você e outras pessoas no futuro: em quase todos os casos você deve preferir os canais de comunicação oficiais dos projetos - isso pode ser uma lista de discussão, uma sala de bate-papo, um ferramenta de gestão de incidentes ou algo semelhante, dependendo do propósito de ter uma maneira mais síncrona ou assíncrona de interagir, ou as diferentes necessidades de estrutura na comunicação.
+Todos eles geralmente têm em comum o fato de serem baseados em texto, arquivados, pesquisáveis ​​e vêm com links estáveis - isso significa que sua pergunta e a resposta serão anotadas, e as referências que você vincular nessas respostas também serão mantidas acessíveis.
+Desta forma, você poderá se beneficiar da busca por conhecimento documentado passivamente. E ajudar futuros colaboradores a ter a mesma vantagem.
+Essa documentação passiva poderia até servir para enriquecer a documentação 'oficial', caso ela contenha jóias especialmente valiosas - como definições importantes que foram criadas ad hoc.
+Conforme você trabalha, se você identificar ausência de documentação (ou documentação desatualizada), faça um favor ao próximo Contribuidor e atualize com o que você descobriu.
+As equipes do projeto geralmente ficarão felizes em receber adições, atualizações ou correções para a documentação existente - você acabou de encontrar outra oportunidade para contribuir! (ou apenas educadamente fornecer-lhes um feedback sobre sua experiência e o que teria lhe ajudado.)
+==== Elaborando o código
+Todos nós temos nossas preferências e opiniões sobre estilo de código, indentação, etc.
+O projeto da equipe anfitriã também tem.
+Tente adaptar e combinar essas preferências mesmo que não seja o que você faria normalmente, e mesmo que não esteja especificado no https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_] do projeto.
+Se você não tem certeza, você sempre pode pedir educadamente.
+No entanto, uma contribuição para um recurso ou uma correção de bug não é o momento certo de introduzir uma nova maneira de estruturar ou formatar o código do projeto.
+=== Enviando o pull request
+Você concluiu todo o trabalho essencial, descobriu todas as peculiaridades do problema e do projeto para o qual está contribuindo, o tempo planejado para o novo recurso ser usado está mais próximo e você quer ter certeza de que sua contribuição será mesclada o mais rápido e tranquilamente possível.
+Aqui está o que você pode fazer para tornar a revisão e mesclagem o mais fácil possível para o https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] e a equipe anfittriã.
+Isso pode ser bastante semelhante ao que você já está fazendo em seu próprio projeto para que suas mudanças sejam aceitas.
+Se esse é o caso - ótimo, isso vai ser natural para você!
+==== Teste e automação
+O ponto básico aqui é permitir que o https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committer_] valide a contribuição sem sua presença e assegure fácil manutenção.
+Imagine que você construiu um recurso ou tratou de uma peculiaridade insolúvel, ou um importante ajuste de desempenho, e seu código não é totalmente óbvio (ou pode até parecer hackeado/errado à primeira vista).
+Se você tiver coberto isso com um teste - e, idealmente, adicionou algumas palavras sobre a lógica por trás disso em um comentário - um futuro editor será lembrado sobre o propósito do código, e o(s) teste(s) garantirão que o valor do seu código os resultados serão mantidos, mesmo nas novas implementações.
+Para conseguir isso, faça o seguinte:
+* Adicione testes para sua contribuição de código, para que a validação da função de sua contribuição por outras pessoas funcione bem, mesmo depois de algum tempo, quando você estiver trabalhando em outros projetos ou tiver parado de contribuir para este projeto.
+** Muitas vezes, os projetos terão verificações automatizadas contra pull requests usando esses testes e o nível de cobertura de código.
+Tente atender aos critérios que esses testes impõem.
+* Muitos projetos fornecerão scripts de construção e validação de projeto que permitem testar localmente suas mudanças.
+** Use-os para garantir que sua contribuição funcione o melhor possível antes de abrir um pull request.
+** Ter que revisar pull requests defeituosas com erros fáceis de corrigir muitas vezes incomoda os trusted committers.
+Eles não corrigirão seu código, mas solicitarão que você o faça.
+Isso pode criar mais idas e voltas e retardar a mesclagem.
+** Ninguém é perfeito.
+Faça o seu melhor, use scripts de validação preparados se houver, e dê o seu melhor com um pull request!
+** Se seu pull request continua quebrando os testes e você não consegue descobrir o porquê depois de dar o seu melhor: tente destacar esses testes no comentário do pull request, ilustre seu entendimento atual do problema e peça ajuda sobre.
+* Não se esqueça do seu próprio projeto que desencadeou a sua contribuição em primeiro lugar.
+Crie uma versão modificada do projeto compartilhado com suas alterações e teste em seu próprio projeto que a consome.
+==== Documentação e capacidade de revisão
+Você deseja assegurar que seu pull request inclua quaisquer atualizações de documentação relevantes para suas alterações.
+Se a documentação estiver em um local diferente, certifique-se de incluí-la e vinculá-la em seu pull request.
+Para tornar a revisão do código o mais fácil possível para o trusted committer ou outras pessoas que o revisam, tente seguir estas dicas:
+* Certifique-se de que seu pull request inclua apenas as mudanças relevantes para o problema que você está concluindo.
+* Tente evitar commits muito grandes, commits com mensagens de commit pouco claras, zilhões de arquivos, alterações incoerentes (por exemplo, tocar em vários tópicos).
+* Forneça uma descrição clara do que esse pull request muda, por que faz isso e quais documentos de emissão e design (se houver) a que ele se refere.
+* Se houver algo incomum ou inesperado no pull request, destaque e forneça a explicação.
+Isso tornará mais fácil raciocinar e resolver possíveis questões de bloqueio que um revisor possa ter durante a revisão.
+** O mesmo vale para o cenário em que você não tinha certeza da implementação ou da sua abordagem - destaque-a e peça um insight.
+** Seja civilizado e espere civilidade da revisão do https://innersourcecommons.org/learn/learning-path/trusted-committer[_Trusted Committe_].
+* Fazer pull requests muito amplos e grandes os tornam mais difíceis de revisar, então levará muito mais tempo até que eles sejam aceitos.
+** Se você tiver um recurso maior que você está contribuindo, geralmente ajuda se você dividi-lo em vários pull requests que são enviados, revisados e aceitos sequencialmente.
+Ainda é possível conectá-los a um problema ao qual você está se referindo.
+*** Algumas ferramentas também têm a funcionalidade de pull request de Rascunho / WIP que você pode usar para marcar explicitamente o trabalho inacabado e não polido e ainda obter feedback antecipado dos https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[ _Trusted Committers_].
+*** Isso permite que você assegure que você está seguindo um caminho que sua equipe anfitriã ficará feliz em mesclar assim que terminar, aderindo de certa forma à ideia de "lançar antecipadamente, liberar frequentemente".
+*** A responsabilidade da equipe anfitriã é criar uma atmosfera onde compartilhar e discutir trabalho não totalmente polido é possível e bem-vindo.
+Se você não pode falhar, você não pode inovar, e a colaboração torna-se muito difícil.
+*** Tente equilibrar entre pedir uma revisão antecipada e fornecer mudanças significativas para revisão.
+=== Artigos adicionais
+Alguns desses recursos podem estar escondidos atrás de acessos pagos.
+Às vezes, seu empregador tem uma assinatura que permite o acesso, caso contrário, as bibliotecas universitárias públicas também permitem o acesso aos convidados.
+==== https://doi.org/10.1109/MS.2013.95[Construção de confiança através da colaboração]
