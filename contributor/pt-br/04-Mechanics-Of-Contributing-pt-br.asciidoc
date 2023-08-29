@@ -76,7 +76,7 @@ As equipes do projeto geralmente ficarão felizes em receber adições, atualiza
 ==== Elaborando o código
 Todos nós temos nossas preferências e opiniões sobre estilo de código, indentação, etc.
 O projeto da equipe anfitriã também tem.
-Tente adaptar e combinar essas preferências mesmo que não seja o que você faria normalmente, e mesmo que não esteja especificado no https://innersourcecommons.org/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_] do projeto.
+Tente adaptar e combinar essas preferências mesmo que não seja o que você faria normalmente, e mesmo que não esteja especificado no https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/05/[_`CONTRIBUTING.md`_] do projeto.
 Se você não tem certeza, você sempre pode pedir educadamente.
 No entanto, uma contribuição para um recurso ou uma correção de bug não é o momento certo de introduzir uma nova maneira de estruturar ou formatar o código do projeto.
 === Enviando o pull request
@@ -116,7 +116,7 @@ Isso tornará mais fácil raciocinar e resolver possíveis questões de bloqueio
 * Fazer pull requests muito amplos e grandes os tornam mais difíceis de revisar, então levará muito mais tempo até que eles sejam aceitos.
 ** Se você tiver um recurso maior que você está contribuindo, geralmente ajuda se você dividi-lo em vários pull requests que são enviados, revisados e aceitos sequencialmente.
 Ainda é possível conectá-los a um problema ao qual você está se referindo.
-*** Algumas ferramentas também têm a funcionalidade de pull request de Rascunho / WIP que você pode usar para marcar explicitamente o trabalho inacabado e não polido e ainda obter feedback antecipado dos https://innersourcecommons.org/learn/learning-path/trusted-committer/02/[ _Trusted Committers_].
+*** Algumas ferramentas também têm a funcionalidade de pull request de Rascunho / WIP que você pode usar para marcar explicitamente o trabalho inacabado e não polido e ainda obter feedback antecipado dos https://innersourcecommons.org/pt-br/learn/learning-path/trusted-committer/02/[ _Trusted Committers_].
 *** Isso permite que você assegure que você está seguindo um caminho que sua equipe anfitriã ficará feliz em mesclar assim que terminar, aderindo de certa forma à ideia de "lançar antecipadamente, liberar frequentemente".
 *** A responsabilidade da equipe anfitriã é criar uma atmosfera onde compartilhar e discutir trabalho não totalmente polido é possível e bem-vindo.
 Se você não pode falhar, você não pode inovar, e a colaboração torna-se muito difícil.
