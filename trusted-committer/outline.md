@@ -7,7 +7,7 @@
 - Different ways to become TC
 - TC lifecycle (bringing on successors, sunsetting)
 - Useful skills/attitude/emotional maturity
-- TC antipatterns
+- TC anti-patterns
 - Why is the TC role important for IS success
 
 ## Target Audience
@@ -26,7 +26,7 @@
     - Contributor/Guest
         - Responsible for "fitting in"/conforming to the host team and it's
           expectations/processes.
-    - Product Owner (distinction btw. Guest and Host PO)
+    - Product Owner (distinction between Guest and Host PO)
     - TC
         - TC has rights to push code closer to production than a contributor
         - also known as _Host_

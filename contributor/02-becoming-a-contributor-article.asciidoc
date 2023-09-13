@@ -28,7 +28,11 @@ A good Contributor can comfortably make a call for when it makes both technical 
 
 === Scope of InnerSource contributions
 
+pass:[<!-- vale ISC.InnerSource = NO -->]
+
 So is Inner__Source__ only about __Source__Code? Of course not. If your team's business depends on an outside component, you want to make sure it's well maintained and well run. As an InnerSource Contributor, you can help the host team in multiple ways. Reporting issues you see when using the component is a valuable contribution. Creating or fixing test cases that show that the code isn't working as expected is valuable. So is improving documentation, so others spend less time using it and contributing to it. Supporting other users, helping with bug triage can be valuable contributions. Improving builds is another example of a valuable contribution.
+
+pass:[<!-- vale ISC.InnerSource = YES -->]
 
 To summarize no contribution is too small to contribute. Here is one that I made
 to https://github.com/tensorflow/models/pull/4784[tensorflow/models]. A simple label change in a graph.

@@ -105,7 +105,7 @@ More than one answer may be correct in some questions.
 
 ====== Correct answer: 1
 
-Why 1 is correct: The host teams open their code base to others and put effort into vetting contributions precisely because their code end up better and more featureful than if they did all the coding themselves.
+Why 1 is correct: The host teams open their code base to others and put effort into vetting contributions precisely because their code end up better and with more features than if they did all the coding themselves.
 
 Why 2 is incorrect: InnerSource has no impact on the definition of requirements and priorities. As with any professional software development, developers have to understand their users.
 
