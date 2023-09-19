@@ -1,4 +1,4 @@
-# How to upload a video for a new segment
+# How to Upload a Video for a New Segment
 
 1.  Create the video file.
 2.  Create the [thumbnail].
