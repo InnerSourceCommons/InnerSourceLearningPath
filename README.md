@@ -13,6 +13,7 @@ Currently, the four sections to the learning path are:
   1. [Trusted Committer](http://innersourcecommons.org/learn/learning-path/trusted-committer/)
   1. [Contributor](http://innersourcecommons.org/learn/learning-path/contributor/)
   1. [Product Owner](http://innersourcecommons.org/learn/learning-path/product-owner/)
+  1. [Project Leader](https://innersourcecommons.org/learn/learning-path/project-leader/)
  
 There is also the [workbook](workbook/), a collection of questions and answers on based on the videos and articles for people to check their knowledge against after consuming the material.
 
