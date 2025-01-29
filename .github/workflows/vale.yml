@@ -10,16 +10,20 @@ on:
   pull_request:
     branches:
     - main
+  workflow_dispatch:
 
 jobs:
   vale:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Install Asciidoctor
+      run: sudo apt-get install -y asciidoctor
+
+    - uses: actions/checkout@v4
 
     - name: Vale Linting
-      uses: errata-ai/vale-action@reviewdog
+      uses: errata-ai/vale-action@v2
       with:
         # the folders to run the checks for
         files: '["docs/","introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/", "workbook/"]'
