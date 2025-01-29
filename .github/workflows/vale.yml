@@ -17,6 +17,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Install Asciidoctor
+      run: sudo apt-get install -y asciidoctor
+
     - uses: actions/checkout@v4
 
     - name: Vale Linting
