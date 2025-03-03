@@ -14,7 +14,7 @@ Currently, the four sections to the learning path are:
   1. [Contributor](http://innersourcecommons.org/learn/learning-path/contributor/)
   1. [Product Owner](http://innersourcecommons.org/learn/learning-path/product-owner/)
   1. [Project Leader](https://innersourcecommons.org/learn/learning-path/project-leader/)
- 
+
 There is also the [workbook](workbook/), a collection of questions and answers on based on the videos and articles for people to check their knowledge against after consuming the material.
 
 New sections and segments may be added at any time via the [contribution] process.
@@ -25,7 +25,7 @@ The InnerSource Learning Path is produced via the [InnerSource Commons] communit
 We coordinate our work in the [#learning-path] _Slack_ channel.
 We track our tasks and discuss their status openly using our GitHub project [Kanban board].
 
-Typically, a card bundles tasks about one artifact (e.g. written articles accompanying one learning path section) or small milestones (e.g. finishing the post production of one section). 
+Typically, a card bundles tasks about one artifact (e.g. written articles accompanying one learning path section) or small milestones (e.g. finishing the post production of one section).
 You can infer whether a task is currently actively developed or under review based on the card's column in the [Kanban board].
 
 ## Trusted Committers
@@ -67,7 +67,7 @@ workbook/0n-section-name.asciidoc // Contains the part of the workbook matching 
 After material is finished the scripts will be used to film videos.
 Each video should be about 5min in length.
 Each article should be about a page long.
-The idea is that a person could receive a link to an article or video and watch or read it without having to set aside time in advance to do so. 
+The idea is that a person could receive a link to an article or video and watch or read it without having to set aside time in advance to do so.
 Videos, articles, and workbooks will be published at _learning.oreilly.com_ and also at _innersourcecommons.org_.
 
 ## How to Get Involved
