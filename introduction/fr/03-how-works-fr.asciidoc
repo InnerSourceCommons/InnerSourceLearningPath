@@ -43,4 +43,5 @@ Plus de temps d'ingénierie est consacré à la production de code qui résout l
 
 === Ressources supplémentaires
 
+* A equipe anfitriã geralmente é representada pelo padrão https://patterns.innersourcecommons.org/p/core-team[Core Team].
 * Le modèle du https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer (en)].
