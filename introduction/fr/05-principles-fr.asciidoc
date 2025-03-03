@@ -41,7 +41,7 @@ Cela signifie que les équipes invitées doivent être en mesure de comprendre :
 * La prise de décision de l'équipe hôte
 
 Dans la mesure du possible, les éléments ci-dessus doivent être communiqués clairement et en détail, depuis les définitions internes des équipes jusqu'aux scénarios de cas particuliers propres au projet.
-Cette communication doit être faite d'une manière qui peut être facilement interrogée et comprise par ceux qui ne font pas partie de l'équipe principale.
+Cette communication doit être effectuée de manière à ce qu'elle puisse être facilement consultée et comprise par ceux qui ne font pas partie de l'équipe hôte.
 
 === Mentorat hiérarchisé
 

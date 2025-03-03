@@ -15,11 +15,11 @@ Andiamo a dare un'occhiata ad ognuno di questi principi con maggiore dettaglio.
 
 === Apertura
 La configurazione di un progetto open abilita una contribuzione senza attriti.
-I progetti dovrebbero essere ispezionabili e ben documentati attraverso i file il README.md e CONTRIBUTING.md. 
+I progetti dovrebbero essere ispezionabili e ben documentati attraverso i file il README.md e CONTRIBUTING.md.
 Chiunque all'interno dell'organizzazione dovrebbe poter trovare un determinato progetto e proseguire senza una quantità eccessiva di guida diretta da parte dei membri dell'host team.
-Le informazioni per contattare l'host team dovrebbero essere diffuse su tutti i canali che hanno senso per il progetto. 
+Le informazioni per contattare l'host team dovrebbero essere diffuse su tutti i canali che hanno senso per il progetto.
 Le intenzioni dell'host team di accettare contribuzioni InnerSource al loro progetto dovrebbero essere condivise attraverso i canali aziendali opportuni per sensibilizzare.
-In particolare in contesti più piccoli potresti voler impostare un "broadcast" regolare riguardo il lavoro InnerSource che il tuo team sta facendo. 
+In particolare in contesti più piccoli potresti voler impostare un "broadcast" regolare riguardo il lavoro InnerSource che il tuo team sta facendo.
 In contesti più larghi, comunque, tale broadcast potrebbe creare molto rumore, e potrebbe essere più appropriato essere sicuri che il progetto sia accessibile attraverso uno strumento di facile da usare.
 Ricorda, l'obiettivo è la consapevolezza all'utilizzo di canali appropriati che funzionano nella TUA azienda.
 
@@ -39,7 +39,7 @@ Questo significa che il guest team dovrebbe essere in grado di comprendere:
 * Il processo decizionale dell'host team
 
 Quanto possibile, quanto descritto sopra dovrebbe essere comunicato chiaramente ed in dettaglio, dalle definizioni interne degli elementi dei team a specifici scenari di casi speciali del progetto.
-Questa comunicazione dovrebbe essere fatta in maniera tale che possa essere facilmente ricercata e compresa a tutti quelli che non fanno parte del core team.
+Questa comunicazione dovrebbe essere effettuata in modo da poter essere facilmente interrogata e compresa da coloro che non fanno parte del team ospitante.
 
 === Tutoraggio prioritizzato
 

@@ -28,13 +28,13 @@ Bei kleinen, einfacheren Projekten füllt oft eine einzelne Person _sowohl_ die 
 Basierend auf diesen Rollen können wir nun den InnerSource-Prozesses grob skizzieren.
 
 * Das Gastteam, beziehungsweise konkret ein Mitglied des Gastteams, fragt eine Funktion vom Host-Team an.
-* Der Product Owner stellt sicher, dass User Stories entsprechend dem Feature Request erstellt werden: Entweder vom Guest Team oder vom Host Team. 
+* Der Product Owner stellt sicher, dass User Stories entsprechend dem Feature Request erstellt werden: Entweder vom Guest Team oder vom Host Team.
 Diese Userstories beschreiben das gewünschte Feature so wie es sich das Gastteam vorstellt.
 Die User Stories enthalten auch all jene Details, auf die das Host Team vor Annahme der Änderung Wert legt.
 Beispiele für solche Details sind Besonderheiten in der Architektur, Coding Conventions, die Verwendung spezifischer Bibliotheken, Contracts hinsichtlich Daten usw.
 * Unterstützt vom Trusted Committer, sendet der Contributor den Pull-Request, um das angefragte Feature zu implementieren.
 
-Zu beachten ist, dass bei diesen Schritten kein bestimmter Prozess für Koordination oder Priorisierung der Teams vorrausgesetzt wird. 
+Zu beachten ist, dass bei diesen Schritten kein bestimmter Prozess für Koordination oder Priorisierung der Teams vorrausgesetzt wird.
 InnerSource geht davon aus, dass Teams bereits über vorhandene Organisationsmethoden verfügen, und bietet einen Rahmen für die Zusammenarbeit, wenn ein Gastteam Code zu einem Project beitragen möchte.
 
 Dieser Weg der Zusammenarbeit birgt Vorteile für das Gastteam. Es erhält die Funktionalität, die es benötigt zum rechten Zeitpunkt und ohne die Verpflichtung, die langfristige Wartung der Lösung zu übernehmen.
@@ -44,4 +44,5 @@ In letzter Konsequenz fließt mehr Zeit in Code, der die eigentlichen Unternehme
 
 === Zusätzliche Ressourcen
 
+* Das Hostteam wird normalerweise durch das Muster https://patterns.innersourcecommons.org/p/core-team[Core Team] dargestellt.
 * Die Mustervorlage https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer].

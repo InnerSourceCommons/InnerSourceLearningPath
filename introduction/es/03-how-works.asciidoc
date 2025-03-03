@@ -38,4 +38,5 @@ Finalmente, se invierte más tiempo de ingeniería en producir código que resue
 
 === Recursos adicionales
 
+* El equipo anfitrión generalmente está representado por el patrón https://patterns.innersourcecommons.org/p/core-team[Core Team].
 * El patrón del https://github.com/InnerSourceCommons/InnerSourcePatterns/blob/master/patterns/2-structured/trusted-committer.md[Trusted Committer].
