@@ -43,4 +43,5 @@ Mais tempo de engenharia permanece focado na produção de código que resolve o
 
 === Recursos Adicionais
 
+* A equipe anfitriã geralmente é representada pelo padrão https://patterns.innersourcecommons.org/p/core-team[Core Team].
 * O padrão https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer].
