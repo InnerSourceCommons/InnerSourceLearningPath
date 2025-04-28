@@ -24,7 +24,8 @@ Depende de quão longe você está indo. Você provavelmente irá muito mais lon
 image::https://user-images.githubusercontent.com/9609562/151901209-52b3468b-dedd-4319-9ca3-38b6b2bcfaf5.png[Se você quer ir rápido, vá sozinho. Se quer ir longe, vá acompanhado]
 
 === Estaremos apenas revisando PRs o dia todo, todos os dias?
-Nesse caso, sua https://patterns.innersourcecommons.org/p/core-team[equipe principal] está com falta de pessoal. Uma equipe saudável é composta de forma que haja tempo para ajudar os colaboradores e fazer contribuições essenciais.
+Nesse caso, sua https://patterns.innersourcecommons.org/p/core-team[equipe central] está com falta de pessoal. Uma equipe saudável é composta de forma que haja tempo para ajudar os colaboradores e fazer contribuições essenciais.
+
 
 Você pode mitigar isso definindo a expectativa, possivelmente por meio de SLAs. Se os contribuidores esperam revisões de PR em uma hora, talvez você fique parado revisando PRs o tempo todo, mas se você definir um SLA de 1 dia ou 1 semana, esse não será o caso.
 
