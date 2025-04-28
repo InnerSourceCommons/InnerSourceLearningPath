@@ -41,7 +41,8 @@ Isso significa que as equipes convidadas devem entender:
 * Tomada de decisão da equipe anfitriã
 
 Quando possível, o acima deve ser comunicado de forma clara e detalhada, desde as definições internas dos itens das equipes até cenários de casos especiais específicos do projeto.
-Esta comunicação deve ser feita de forma que possa ser facilmente consultada e compreendida por aqueles que não fazem parte da equipe anfitriã.
+Esta comunicação deve ser feita de forma que possa ser facilmente consultada e compreendida por quem não faz parte da equipe anfitriã.
+
 
 === Mentoria Priorizada
 
