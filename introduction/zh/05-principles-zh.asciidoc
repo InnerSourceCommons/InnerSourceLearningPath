@@ -31,7 +31,7 @@
 * 主导团队的决策
 
 在可能的情况下，从团队对项目的内部定义到特定于项目的特殊情况场景，都应该清晰而详细地传达上述内容。
- 此沟通应以一种易于查询和理解的方式进行，以便那些不属于主办团队的人员能够理解。
+此沟通应以一种易于查询和理解的方式进行，以便那些不属于主导团队的人员能够理解。
 
 === 优先辅导
 通过 https://innersourcecommons.org/zh/learn/learning-path/trusted-committer[_Trusted Committers_] ，从维护团队到调用团队的 _辅导（Mentorship）_ 是InnerSource的一个关键方面。

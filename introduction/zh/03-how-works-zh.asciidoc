@@ -18,5 +18,5 @@
 
 === 额外的资源
 
-* 主办团队通常以 https://patterns.innersourcecommons.org/p/core-team[核心团队] 模式表示。
+* 主办团队通常以 https://patterns.innersourcecommons.org/p/core-team[主导团队] 模式表示。
 * https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer] 的模式。
