@@ -43,4 +43,5 @@ More engineering time stays focused on producing code that solves company proble
 
 === Additional Resources
 
+* The host team can be represented by the https://patterns.innersourcecommons.org/p/core-team[Core Team] pattern.
 * The https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer] pattern.

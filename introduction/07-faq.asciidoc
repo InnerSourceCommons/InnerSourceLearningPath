@@ -24,7 +24,7 @@ It depends on how far you're going. You'll probably be going a lot further than 
 image::https://user-images.githubusercontent.com/9609562/151901209-52b3468b-dedd-4319-9ca3-38b6b2bcfaf5.png[If you want to go fast, go alone. If you want to go far, go together]
 
 === Will we just be reviewing PRs all day every day?
-If so then your core team is understaffed. A healthy team is staffed so that there is time for assisting contributors and making core contributions yourself.
+If so then your https://patterns.innersourcecommons.org/p/core-team[core team] is understaffed. A healthy team is staffed so that there is time for assisting contributors and making core contributions yourself.
 
 You can mitigate this by setting expectation, potentially via SLAs. If contributors expect PR reviews within an hour, maybe you will be stuck reviewing PRs all the time, but if you set an SLA of 1 day or 1 week, this won't be the case.
 

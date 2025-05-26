@@ -43,4 +43,5 @@ Plus de temps d'ingénierie est consacré à la production de code qui résout l
 
 === Ressources supplémentaires
 
+* L'équipe hôte est généralement représentée selon le modèle d'une https://patterns.innersourcecommons.org/p/core-team[Core Team]
 * Le modèle du https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer (en)].

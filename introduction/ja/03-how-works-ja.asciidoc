@@ -44,4 +44,5 @@ https://innersourcecommons.org/ja/learn/learning-path/trusted-committer[_Trusted
 
 === その他のリソース
 
+* ホストチームは通常、https://patterns.innersourcecommons.org/p/core-team[_コアチーム_] パターンで表されます。
 * https://patterns.innersourcecommons.org/p/trusted-committer[Trusted Committer] パターン

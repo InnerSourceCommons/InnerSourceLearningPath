@@ -42,8 +42,7 @@ Esto significa que el equipo contribuidor debe entender:
 * Proceso de decisión del equipo anfitrión
 
 Cuando sea posible, todo lo anterior debe ser comunicado de forma clara y detallada, desde las definiciones internas a escenario con casos especiales específicos del proyecto.
-Esta comunicación debe ser hecha de una forma que pueda ser fácilmente transmitida y comprendida por aquellos que no son parte del núcleo central del equipo.
-
+Esta comunicación debe realizarse de manera que pueda ser consultada y entendida fácilmente por aquellos que no forman parte del equipo anfitrión.
 
 === Mentorización priorizada
 

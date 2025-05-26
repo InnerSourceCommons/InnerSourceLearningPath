@@ -41,7 +41,7 @@ Dies bedeutet, dass Gastteams in der Lage sein sollten, folgendes zu verstehen:
 * Entscheidungsfindungsprozess des Hostteams
 
 Wenn möglich, sollte das obige klar und detailliert kommuniziert werden, von den internen Definitionen der verbleibenden Arbeit bis hin zu projektspezifischen Spezialszenarien.
-Diese Kommunikation sollte auf eine Weise erfolgen, sodass die Information für diejenigen, die nicht Teil des Kernteams sind, leicht gefunden and nachvollzogen werden kann.
+Diese Kommunikation sollte so erfolgen, dass sie für Personen, die nicht zum Gastgeberteam gehören, leicht abgefragt und verstanden werden kann.
 
 === Priorisierte Betreuung
 
@@ -54,7 +54,7 @@ Es ist wichtig, dass Mentoring für potentielle Contributoren vom Hostteam prior
 Das Hostteam sollte sich bemühen, sich ausreichend Zeit für die Betreuung der Contributor des Gastteams zu nehmen - ganz speziell zu dem Zeitpunkt zu dem der Contributor es benötigt - und nicht, wenn es für das Hostteam bequem ist.
 Manchmal kann es für Entwickler im Hostteam ein Kulturwandel sein, Zeit zu investieren um anderen beim Schreiben von Quellecode zu helfen, anstatt selbst zu entwickeln.
 Diese Art des Mentorings ist sowohl für den einzelnen Mitarbeiter des Gastteams als auch für den Gastgeber wertvoll, und es lohnt sich den Aufwand zu betreiben.
-Es erweist sich auf lange Sicht als vorteilhaft für beide Seiten. 
+Es erweist sich auf lange Sicht als vorteilhaft für beide Seiten.
 Durch die Verbesserung des Quellcodes bildet oder verbessert der Mitarbeiter die Beziehungen innerhalb einer Organisation, die sonst möglicherweise nicht existiert hätten.
 Open Source erkennt diesen Punkt sofort und betrachtet es als eine Ehre, den Status eines Trusted Committers für ein Projekt zu erreichen.
 
