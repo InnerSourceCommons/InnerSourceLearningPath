@@ -1,5 +1,5 @@
-const fs = require('fs')
-const { join } = require('path')
+import fs from 'fs'
+import { join } from 'path'
 
 const getArticleFiles = (path, translation) => {
   return fs.readdirSync(path, { withFileTypes: true }).map((dirent) => {

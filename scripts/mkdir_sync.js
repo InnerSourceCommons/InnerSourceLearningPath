@@ -1,6 +1,6 @@
-const fs = require('fs')
+import fs  from 'fs'
 
-module.exports = mkdirSync = (dir) => {
+export default function (dir) {
   try {
     fs.mkdirSync(dir)
   } catch (e) {

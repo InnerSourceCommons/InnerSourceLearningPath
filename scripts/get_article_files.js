@@ -1,7 +1,7 @@
-const fs = require('fs')
-const { join } = require('path')
+import fs from 'fs'
+import { join } from 'path'
 
-module.exports = getArticleFiles = (path) => {
+export default function (path) {
   return fs.readdirSync(path).reduce((articles, filename) => {
     const filePath = join(path, filename)
     if (filePath.match(/\d\d[-\w]+(?<!script)\.asciidoc/)) {

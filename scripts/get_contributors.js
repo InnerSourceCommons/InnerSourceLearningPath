@@ -1,8 +1,8 @@
-require('dotenv').config()
-import { Octokit } from "@octokit/core";
-import { throttling } from "@octokit/plugin-throttling"
+import 'dotenv/config.js' 
+import { Octokit } from '@octokit/core'
+import { throttling } from '@octokit/plugin-throttling'
 
-module.exports = async function (filepath) {
+export default async function (filepath) {
   const unixStyleFilepath = filepath.replace(/\\/g, "/")
   const EnhancedOctokit = Octokit.plugin(throttling)
   const octokit = new EnhancedOctokit({

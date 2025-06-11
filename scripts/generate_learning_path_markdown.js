@@ -1,17 +1,19 @@
-const { join, basename, relative } = require('path')
-const fs = require('fs')
-const yamlFront = require('yaml-front-matter')
-const asciidoctor = require('asciidoctor')()
-const YAML = require('yaml')
+import { join, basename, relative } from 'path'
+import fs from 'fs'
+import yamlFront  from 'yaml-front-matter'
+import asciidoctor  from 'asciidoctor'
+const Asciidoctor = asciidoctor()
+import YAML from 'yaml'
 
-const getContributors = require('./get_contributors')
-const mkdirSync = require('./mkdir_sync')
-const getArticleFiles = require('./get_article_files')
-const writeMarkdownFile = require('./write_markdown_file')
-const sections = require('./section_data.json')
+import getContributors from './get_contributors.js'
+import mkdirSync from './mkdir_sync.js'
+import getArticleFiles from './get_article_files.js'
+import writeMarkdownFile from './write_markdown_file.js'
+import sections from './section_data.json' with { type: "json" }
 
 const urls = YAML.parse(fs.readFileSync(join('..', 'config', 'urls.yaml'), 'utf-8'))
-const args = require('args-parser')(process.argv);
+import argsParser from 'args-parser'
+const args = argsParser(process.argv)
 
 const getYouTubeCode = (section, articleNumber) => {
   const sectionLinks = urls.filter(entry => entry.section === section.toLowerCase())
@@ -88,7 +90,7 @@ const getArticleImage = (youTubeCode) => {
         }
 
         const titleStripped = article.asciiDoc.replace(/== (.*)/, '')
-        const body = section.renderArticles || isTranslation ? asciidoctor.convert(titleStripped) : ''
+        const body = section.renderArticles || isTranslation ? Asciidoctor.convert(titleStripped) : ''
 
         writeMarkdownFile(fileName, frontMatter, body)
       })
@@ -107,7 +109,7 @@ const getArticleImage = (youTubeCode) => {
       const workbookReadPath = join('..', 'workbook', section.workbook)
 
       if (section.workbook && fs.existsSync(workbookReadPath)) {
-          const body = asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
+          const body = Asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
           writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
       }
     })
