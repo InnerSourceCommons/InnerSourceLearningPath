@@ -1,6 +1,6 @@
 require('dotenv').config()
-const { Octokit } = require("@octokit/core")
-const { throttling } = require("@octokit/plugin-throttling")
+import { Octokit } from "@octokit/core";
+import { throttling } from "@octokit/plugin-throttling"
 
 module.exports = async function (filepath) {
   const unixStyleFilepath = filepath.replace(/\\/g, "/")
