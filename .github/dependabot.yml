@@ -9,3 +9,6 @@ updates:
     directory: "/scripts" # Location of package manifests
     schedule:
       interval: "weekly"
+  - package-ecosystem: "github-actions" # See documentation for possible values
+    schedule:
+      interval: "weekly"
