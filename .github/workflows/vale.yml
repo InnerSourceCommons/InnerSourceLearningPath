@@ -22,10 +22,10 @@ jobs:
     - name: Install Asciidoctor
       run: sudo apt-get install -y asciidoctor
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v7
 
     - name: Vale Linting
-      uses: errata-ai/vale-action@v2
+      uses: vale-cli/vale-action@v2
       with:
         # the folders to run the checks for
         files: '["docs/","introduction/", "trusted-committer/", "contributor/", "product-owner/", "project-leader/", "workbook/"]'
