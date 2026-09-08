@@ -1,8 +1,7 @@
 import { join, basename, relative } from 'path'
 import fs from 'fs'
 import yamlFront  from 'yaml-front-matter'
-import asciidoctor  from 'asciidoctor'
-const Asciidoctor = asciidoctor()
+import { convert } from 'asciidoctor'
 import YAML from 'yaml'
 
 import getContributors from './get_contributors.js'
@@ -90,7 +89,7 @@ const getArticleImage = (youTubeCode) => {
         }
 
         const titleStripped = article.asciiDoc.replace(/== (.*)/, '')
-        const body = section.renderArticles || isTranslation ? Asciidoctor.convert(titleStripped) : ''
+        const body = section.renderArticles || isTranslation ? await convert(titleStripped) : ''
 
         writeMarkdownFile(fileName, frontMatter, body)
       })
@@ -109,7 +108,7 @@ const getArticleImage = (youTubeCode) => {
       const workbookReadPath = join('..', 'workbook', section.workbook)
 
       if (section.workbook && fs.existsSync(workbookReadPath)) {
-          const body = Asciidoctor.convert(fs.readFileSync(workbookReadPath, 'utf-8'))
+          const body = await convert(fs.readFileSync(workbookReadPath, 'utf-8'))
           writeMarkdownFile(workbookFileName, workbookFrontMatter, body)
       }
     })
