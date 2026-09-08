@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Learning Path
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
         with:
           path: ./InnerSourceLearningPath
           ssh-key: ${{ secrets.LEARNING_PATH_DEPLOY_KEY }}
@@ -39,7 +39,7 @@ jobs:
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git diff --quiet || (git commit -am "Update Links in Translations" && git push)
       - name: Checkout innersourcecommons.org
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
         with:
           ssh-key: ${{ secrets.WEBSITE_DEPLOY_KEY }}
           path: ./innersourcecommons.org
@@ -49,7 +49,7 @@ jobs:
         working-directory: innersourcecommons.org
         run: |
             git checkout
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v7
         with:
           node-version: 18
       - name: Build
