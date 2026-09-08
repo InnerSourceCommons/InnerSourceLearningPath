@@ -1,0 +1,33 @@
+name: Dependabot auto-merge
+
+# Auto-approve and enable auto-merge for Dependabot dependency updates, so GitHub
+# merges them on its own once branch protection is satisfied. GitHub merges only
+# after every required status check on `main` passes, so this is safe ONLY once the
+# repo requires its CI checks on the branch (see the PR that adds this file). Scoped
+# to patch and minor updates; major updates still open a normal PR for human review.
+
+on: pull_request
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  dependabot-auto-merge:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    steps:
+      - name: Fetch Dependabot metadata
+        id: metadata
+        uses: dependabot/fetch-metadata@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Approve and enable auto-merge for patch and minor updates
+        if: steps.metadata.outputs.update-type == 'version-update:semver-patch' || steps.metadata.outputs.update-type == 'version-update:semver-minor'
+        run: |
+          gh pr review --approve "$PR_URL"
+          gh pr merge --auto --squash "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
