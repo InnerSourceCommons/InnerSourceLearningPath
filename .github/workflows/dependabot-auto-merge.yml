@@ -1,0 +1,38 @@
+name: Dependabot auto-merge
+
+# Auto-approves and enables auto-merge for Dependabot dependency bumps, scoped to
+# patch and minor updates. Major bumps (e.g. asciidoctor 3 -> 4) are held for a
+# human, because those are the ones that have broken the "Publish to website"
+# deploy in the past. The companion "Revert bump on failed deploy" workflow is the
+# safety net for a patch/minor bump that still breaks the deploy after it merges.
+#
+# Requires the repo setting "Allow auto-merge" to be enabled, and "Allow GitHub
+# Actions to create and approve pull requests" (already on for this repo).
+
+on: pull_request_target
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    if: github.actor == 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch Dependabot metadata
+        id: meta
+        uses: dependabot/fetch-metadata@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Approve and enable auto-merge (patch/minor only)
+        if: >
+          steps.meta.outputs.update-type == 'version-update:semver-patch' ||
+          steps.meta.outputs.update-type == 'version-update:semver-minor'
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr review --approve "$PR_URL"
+          gh pr merge --auto --squash "$PR_URL"

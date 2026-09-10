@@ -1,0 +1,60 @@
+name: Revert bump on failed deploy
+
+# Safety net for the Dependabot auto-merge flow. When "Publish to website" fails on
+# a push to main whose commit is a Dependabot bump ("Bump ..."), this opens a PR
+# that reverts that commit and @-mentions the maintainers. The revert PR is set to
+# auto-merge, but branch protection still requires one approving review, so a
+# maintainer clicks approve to complete the revert. That review is also the backstop
+# against a false revert: a deploy can fail for a reason unrelated to the bump that
+# happened to trigger the run, and the maintainer sees the failing run before
+# approving.
+#
+# To make the revert fully hands-off (no human approval), a GitHub App token acting
+# as a second identity could approve the revert PR; today the default token cannot
+# approve a PR it opened itself.
+
+on:
+  workflow_run:
+    workflows: ["Publish to website"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  revert:
+    if: >
+      github.event.workflow_run.event == 'push' &&
+      github.event.workflow_run.head_branch == 'main' &&
+      github.event.workflow_run.conclusion == 'failure' &&
+      startsWith(github.event.workflow_run.head_commit.message, 'Bump ')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Revert the breaking bump and open a PR
+        env:
+          SHA: ${{ github.event.workflow_run.head_sha }}
+          TITLE: ${{ github.event.workflow_run.head_commit.message }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          BRANCH="revert-deploy-${SHA:0:8}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          if ! git revert --no-edit "$SHA"; then
+            echo "::error::Revert of $SHA did not apply cleanly; a maintainer must revert by hand."
+            git revert --abort || true
+            exit 1
+          fi
+          git push origin "$BRANCH"
+          BODY=$(printf '@InnerSourceCommons/learning-path the **Publish to website** deploy failed after this dependency bump merged to `main`, so it was reverted automatically.\n\nFailed run: %s\nReverted commit: %s\n\nThis revert PR has auto-merge enabled and needs one approving review to complete. Before approving, confirm the failing run was actually caused by this bump (a deploy can fail for an unrelated reason). Once the deploy is healthy again, Dependabot will re-open the bump on its next run.' "$RUN_URL" "$SHA")
+          gh pr create --base main --head "$BRANCH" \
+            --title "Revert bump that broke the deploy: $TITLE" \
+            --body "$BODY"
+          gh pr merge --auto --squash "$BRANCH" || true
