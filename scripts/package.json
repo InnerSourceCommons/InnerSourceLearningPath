@@ -8,7 +8,7 @@
     "@octokit/plugin-throttling": "^11.0.0",
     "args-parser": "^1.3.0",
     "asciidoctor": "^4.0.2",
-    "dotenv": "^17.2.3",
+    "dotenv": "^18.0.0",
     "yaml": "^2.2.2",
     "yaml-front-matter": "^4.1.1"
   },
